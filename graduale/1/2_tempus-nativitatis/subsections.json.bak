@@ -1,0 +1,13 @@
+[
+  {"page": 1,  "y": 96.2,  "level": 0, "text": "IN NATIVITATE DOMINI"},
+  {"page": 1,  "y": 131.5, "level": 1, "text": "AD MISSAM IN VIGILIA"},
+  {"page": 4,  "y": 178.7, "level": 1, "text": "AD MISSAM IN NOCTE"},
+  {"page": 7,  "y": 359.2, "level": 1, "text": "AD MISSAM IN AURORA"},
+  {"page": 10, "y": 347.2, "level": 1, "text": "AD MISSAM IN DIE"},
+  {"page": 14, "y": 35.9,  "level": 0, "text": "INFRA OCTAVAM"},
+  {"page": 14, "y": 35.9,  "level": 1, "text": "SANCTAE FAMILIAE IESU MARIAE ET IOSEPH"},
+  {"page": 15, "y": 200.4, "level": 1, "text": "INFRA OCTAVAM NATIVITATIS DOMINI"},
+  {"page": 16, "y": 200.4, "level": 0, "text": "SOLLEMNITAS SANCTAE DEI GENITRICIS MARIAE"},
+  {"page": 16, "y": 312.1, "level": 0, "text": "DOMINICA SECUNDA POST NATIVITATEM"},
+  {"page": 18, "y": 370.1, "level": 0, "text": "IN FERIIS TEMPORIS NATIVITATIS"}
+]

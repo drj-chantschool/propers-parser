@@ -1,0 +1,14 @@
+[
+  {"page": 2,  "y": 59.9,  "level": 0, "text": "HEBDOMADA PRIMA ADVENTUS"},
+  {"page": 5,  "y": 142.8, "level": 0, "text": "HEBDOMADA SECUNDA ADVENTUS"},
+  {"page": 8,  "y": 203.1, "level": 0, "text": "HEBDOMADA TERTIA ADVENTUS"},
+  {"page": 11, "y": 270.5, "level": 0, "text": "IN ULTIMIS FERIIS"},
+  {"page": 11, "y": 270.5, "level": 1, "text": "FERIA SECUNDA"},
+  {"page": 14, "y": 35.6,  "level": 1, "text": "FERIA TERTIA"},
+  {"page": 16, "y": 165.6, "level": 1, "text": "FERIA QUARTA"},
+  {"page": 18, "y": 286.8, "level": 1, "text": "FERIA QUINTA"},
+  {"page": 19, "y": 243.4, "level": 1, "text": "FERIA SEXTA"},
+  {"page": 20, "y": 166.3, "level": 1, "text": "SABBATO"},
+  {"page": 21, "y": 311.5, "level": 1, "text": "DOMINICA QUARTA ADVENTUS"},
+  {"page": 24, "y": 384.6, "level": 1, "text": "DIE 24 DECEMBRIS AD MISSAM MATUTINAM"}
+]

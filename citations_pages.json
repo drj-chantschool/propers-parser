@@ -1,0 +1,4579 @@
+{
+  "pages": [
+    {
+      "graduale_page": 15,
+      "img_file": "1_tempus-adventus__1_hebdomada-prima-adventus__p00.png",
+      "pdf_path": "1_tempus-adventus\\1_hebdomada-prima-adventus.pdf",
+      "subsections": {
+        "HEBDOMADA PRIMA ADVENTUS": [
+          "Feria 6 : Dóminus illuminátio mea, 288."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          95,
+          1406,
+          632,
+          1435
+        ]
+      ],
+      "status": "reviewed",
+      "reviewed": {
+        "HEBDOMADA PRIMA ADVENTUS": [
+          "Feria 6 : Dóminus illuminátio mea, 288."
+        ]
+      }
+    },
+    {
+      "graduale_page": 16,
+      "img_file": "1_tempus-adventus__1_hebdomada-prima-adventus__p01.png",
+      "pdf_path": "1_tempus-adventus\\1_hebdomada-prima-adventus.pdf",
+      "subsections": {
+        "HEBDOMADA PRIMA ADVENTUS": [
+          "Feria 5 : Bonum est confídere, 324."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          1002,
+          571,
+          1033
+        ]
+      ],
+      "status": "reviewed",
+      "reviewed": {
+        "HEBDOMADA PRIMA ADVENTUS": [
+          "Feria 5 : Bonum est confídere, 324."
+        ]
+      }
+    },
+    {
+      "graduale_page": 17,
+      "img_file": "1_tempus-adventus__1_hebdomada-prima-adventus__p02.png",
+      "pdf_path": "1_tempus-adventus\\1_hebdomada-prima-adventus.pdf",
+      "subsections": {
+        "HEBDOMADA PRIMA ADVENTUS": []
+      },
+      "citation_bboxes": [],
+      "status": "reviewed",
+      "reviewed": {
+        "HEBDOMADA PRIMA ADVENTUS": []
+      }
+    },
+    {
+      "graduale_page": 18,
+      "img_file": "1_tempus-adventus__1_hebdomada-prima-adventus__p03.png",
+      "pdf_path": "1_tempus-adventus\\1_hebdomada-prima-adventus.pdf",
+      "subsections": {
+        "HEBDOMADA PRIMA ADVENTUS": [
+          "Feria 4 : Manducavérunt, 278."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          95,
+          373,
+          505,
+          404
+        ]
+      ],
+      "status": "reviewed",
+      "reviewed": {
+        "HEBDOMADA PRIMA ADVENTUS": [
+          "Feria 4 : Manducavérunt, 278."
+        ]
+      }
+    },
+    {
+      "graduale_page": 19,
+      "img_file": "1_tempus-adventus__2_hebdomada-secunda-adventus__p01.png",
+      "pdf_path": "1_tempus-adventus\\2_hebdomada-secunda-adventus.pdf",
+      "subsections": {
+        "HEBDOMADA SECUNDA ADVENTUS": []
+      },
+      "citation_bboxes": [],
+      "status": "reviewed",
+      "reviewed": {
+        "HEBDOMADA SECUNDA ADVENTUS": []
+      }
+    },
+    {
+      "graduale_page": 20,
+      "img_file": "1_tempus-adventus__2_hebdomada-secunda-adventus__p02.png",
+      "pdf_path": "1_tempus-adventus\\2_hebdomada-secunda-adventus.pdf",
+      "subsections": {
+        "HEBDOMADA SECUNDA ADVENTUS": [
+          "Feria 4 : Veníte ad me, 619.",
+          "— séquitur me, 480.",
+          "Feria 2 : Confortámini, 26."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          431,
+          474,
+          461
+        ],
+        [
+          124,
+          468,
+          514,
+          498
+        ],
+        [
+          96,
+          1283,
+          458,
+          1311
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 21,
+      "img_file": "1_tempus-adventus__2_hebdomada-secunda-adventus__p03.png",
+      "pdf_path": "1_tempus-adventus\\2_hebdomada-secunda-adventus.pdf",
+      "subsections": {
+        "HEBDOMADA SECUNDA ADVENTUS": [
+          "Feria 2 : Dícite : Pusillánimes, 23.",
+          "— 3: Revelábitur, 40."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          487,
+          556,
+          517
+        ],
+        [
+          125,
+          523,
+          435,
+          554
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 22,
+      "img_file": "1_tempus-adventus__3_hebdomada-tertia-adventus__p01.png",
+      "pdf_path": "1_tempus-adventus\\3_hebdomada-tertia-adventus.pdf",
+      "subsections": {
+        "HEBDOMADA TERTIA ADVENTUS": [
+          "IN. Roráte, 34.",
+          "Dom. anno B : Fuit homo, 569."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          231,
+          460,
+          429,
+          491
+        ],
+        [
+          99,
+          1461,
+          535,
+          1497
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 23,
+      "img_file": "1_tempus-adventus__3_hebdomada-tertia-adventus__p02.png",
+      "pdf_path": "1_tempus-adventus\\3_hebdomada-tertia-adventus.pdf",
+      "subsections": {
+        "HEBDOMADA TERTIA ADVENTUS": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 24,
+      "img_file": "1_tempus-adventus__4_in-ultimis-feriis__1_feria-secunda__p00.png",
+      "pdf_path": "1_tempus-adventus\\4_in-ultimis-feriis\\1_feria-secunda.pdf",
+      "subsections": {
+        "HEBDOMADA TERTIA ADVENTUS": [
+          "CO. Domus mea, 402."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          230,
+          506,
+          521,
+          537
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 25,
+      "img_file": "1_tempus-adventus__4_in-ultimis-feriis__1_feria-secunda__p01.png",
+      "pdf_path": "1_tempus-adventus\\4_in-ultimis-feriis\\1_feria-secunda.pdf",
+      "subsections": {
+        "FERIA SECUNDA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 26,
+      "img_file": "1_tempus-adventus__4_in-ultimis-feriis__1_feria-secunda__p02.png",
+      "pdf_path": "1_tempus-adventus\\4_in-ultimis-feriis\\1_feria-secunda.pdf",
+      "subsections": {
+        "FERIA SECUNDA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 27,
+      "img_file": "1_tempus-adventus__4_in-ultimis-feriis__2_feria-tertia__p00.png",
+      "pdf_path": "1_tempus-adventus\\4_in-ultimis-feriis\\2_feria-tertia.pdf",
+      "subsections": {
+        "FERIA TERTIA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 28,
+      "img_file": "1_tempus-adventus__4_in-ultimis-feriis__2_feria-tertia__p01.png",
+      "pdf_path": "1_tempus-adventus\\4_in-ultimis-feriis\\2_feria-tertia.pdf",
+      "subsections": {
+        "FERIA TERTIA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 29,
+      "img_file": "1_tempus-adventus__4_in-ultimis-feriis__2_feria-tertia__p02.png",
+      "pdf_path": "1_tempus-adventus\\4_in-ultimis-feriis\\2_feria-tertia.pdf",
+      "subsections": {
+        "FERIA TERTIA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 30,
+      "img_file": "1_tempus-adventus__4_in-ultimis-feriis__3_feria-quarta__p01.png",
+      "pdf_path": "1_tempus-adventus\\4_in-ultimis-feriis\\3_feria-quarta.pdf",
+      "subsections": {
+        "FERIA QUARTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 31,
+      "img_file": "1_tempus-adventus__4_in-ultimis-feriis__3_feria-quarta__p02.png",
+      "pdf_path": "1_tempus-adventus\\4_in-ultimis-feriis\\3_feria-quarta.pdf",
+      "subsections": {
+        "FERIA QUARTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 32,
+      "img_file": "1_tempus-adventus__4_in-ultimis-feriis__4_feria-quinta__p01.png",
+      "pdf_path": "1_tempus-adventus\\4_in-ultimis-feriis\\4_feria-quinta.pdf",
+      "subsections": {
+        "FERIA QUINTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 33,
+      "img_file": "1_tempus-adventus__4_in-ultimis-feriis__5_feria-sexta__p01.png",
+      "pdf_path": "1_tempus-adventus\\4_in-ultimis-feriis\\5_feria-sexta.pdf",
+      "subsections": {
+        "FERIA SEXTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 34,
+      "img_file": "1_tempus-adventus__4_in-ultimis-feriis__6_sabbato__p01.png",
+      "pdf_path": "1_tempus-adventus\\4_in-ultimis-feriis\\6_sabbato.pdf",
+      "subsections": {
+        "SABBATO": [
+          "IN. Ne tímeas, Zachária, 568.",
+          "OF. et CO. e dom. IV Adventus, 36."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          740,
+          503,
+          770
+        ],
+        [
+          97,
+          853,
+          571,
+          883
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 35,
+      "img_file": "1_tempus-adventus__4_in-ultimis-feriis__7_dominica-quarta-adventus__p01.png",
+      "pdf_path": "1_tempus-adventus\\4_in-ultimis-feriis\\7_dominica-quarta-adventus.pdf",
+      "subsections": {
+        "DOMINICA QUARTA ADVENTUS": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 36,
+      "img_file": "1_tempus-adventus__4_in-ultimis-feriis__7_dominica-quarta-adventus__p02.png",
+      "pdf_path": "1_tempus-adventus\\4_in-ultimis-feriis\\7_dominica-quarta-adventus.pdf",
+      "subsections": {
+        "DOMINICA QUARTA ADVENTUS": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 37,
+      "img_file": "1_tempus-adventus__4_in-ultimis-feriis__7_dominica-quarta-adventus__p03.png",
+      "pdf_path": "1_tempus-adventus\\4_in-ultimis-feriis\\7_dominica-quarta-adventus.pdf",
+      "subsections": {
+        "DIE 24 DECEMBRIS AD MISSAM MATUTINAM": [
+          "In dominica vero, Missa de dom. IV Adventus, 34."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          1303,
+          741,
+          1333
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 38,
+      "img_file": "2_tempus-nativitatis__1_in-nativitate-domini__1_ad-missam-in-vigilia__p00.png",
+      "pdf_path": "2_tempus-nativitatis\\1_in-nativitate-domini\\1_ad-missam-in-vigilia.pdf",
+      "subsections": {
+        "DIE 24 DECEMBRIS AD MISSAM MATUTINAM": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 39,
+      "img_file": "2_tempus-nativitatis__1_in-nativitate-domini__1_ad-missam-in-vigilia__p01.png",
+      "pdf_path": "2_tempus-nativitatis\\1_in-nativitate-domini\\1_ad-missam-in-vigilia.pdf",
+      "subsections": {
+        "AD MISSAM IN VIGILIA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 40,
+      "img_file": "2_tempus-nativitatis__1_in-nativitate-domini__1_ad-missam-in-vigilia__p02.png",
+      "pdf_path": "2_tempus-nativitatis\\1_in-nativitate-domini\\1_ad-missam-in-vigilia.pdf",
+      "subsections": {
+        "AD MISSAM IN VIGILIA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 41,
+      "img_file": "2_tempus-nativitatis__1_in-nativitate-domini__1_ad-missam-in-vigilia__p03.png",
+      "pdf_path": "2_tempus-nativitatis\\1_in-nativitate-domini\\1_ad-missam-in-vigilia.pdf",
+      "subsections": {
+        "AD MISSAM IN NOCTE": [
+          "Ps.2,7."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          761,
+          666,
+          856,
+          689
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 42,
+      "img_file": "2_tempus-nativitatis__1_in-nativitate-domini__2_ad-missam-in-nocte__p01.png",
+      "pdf_path": "2_tempus-nativitatis\\1_in-nativitate-domini\\2_ad-missam-in-nocte.pdf",
+      "subsections": {
+        "AD MISSAM IN NOCTE": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 43,
+      "img_file": "2_tempus-nativitatis__1_in-nativitate-domini__2_ad-missam-in-nocte__p02.png",
+      "pdf_path": "2_tempus-nativitatis\\1_in-nativitate-domini\\2_ad-missam-in-nocte.pdf",
+      "subsections": {
+        "AD MISSAM IN NOCTE": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 44,
+      "img_file": "2_tempus-nativitatis__1_in-nativitate-domini__2_ad-missam-in-nocte__p03.png",
+      "pdf_path": "2_tempus-nativitatis\\1_in-nativitate-domini\\2_ad-missam-in-nocte.pdf",
+      "subsections": {
+        "AD MISSAM IN NOCTE": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 45,
+      "img_file": "2_tempus-nativitatis__1_in-nativitate-domini__3_ad-missam-in-aurora__p01.png",
+      "pdf_path": "2_tempus-nativitatis\\1_in-nativitate-domini\\3_ad-missam-in-aurora.pdf",
+      "subsections": {
+        "AD MISSAM IN AURORA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 46,
+      "img_file": "2_tempus-nativitatis__1_in-nativitate-domini__3_ad-missam-in-aurora__p02.png",
+      "pdf_path": "2_tempus-nativitatis\\1_in-nativitate-domini\\3_ad-missam-in-aurora.pdf",
+      "subsections": {
+        "AD MISSAM IN AURORA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 47,
+      "img_file": "2_tempus-nativitatis__1_in-nativitate-domini__3_ad-missam-in-aurora__p03.png",
+      "pdf_path": "2_tempus-nativitatis\\1_in-nativitate-domini\\3_ad-missam-in-aurora.pdf",
+      "subsections": {
+        "AD MISSAM IN AURORA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 48,
+      "img_file": "2_tempus-nativitatis__1_in-nativitate-domini__4_ad-missam-in-die__p01.png",
+      "pdf_path": "2_tempus-nativitatis\\1_in-nativitate-domini\\4_ad-missam-in-die.pdf",
+      "subsections": {
+        "AD MISSAM IN DIE": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 49,
+      "img_file": "2_tempus-nativitatis__1_in-nativitate-domini__4_ad-missam-in-die__p02.png",
+      "pdf_path": "2_tempus-nativitatis\\1_in-nativitate-domini\\4_ad-missam-in-die.pdf",
+      "subsections": {
+        "AD MISSAM IN DIE": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 50,
+      "img_file": "2_tempus-nativitatis__1_in-nativitate-domini__4_ad-missam-in-die__p03.png",
+      "pdf_path": "2_tempus-nativitatis\\1_in-nativitate-domini\\4_ad-missam-in-die.pdf",
+      "subsections": {
+        "AD MISSAM IN DIE": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 51,
+      "img_file": "2_tempus-nativitatis__2_infra-octavam__1_sanctae-familiae-iesu-mariae-et-ioseph__p00.png",
+      "pdf_path": "2_tempus-nativitatis\\2_infra-octavam\\1_sanctae-familiae-iesu-mariae-et-ioseph.pdf",
+      "subsections": {
+        "SANCTAE FAMILIAE IESU MARIAE ET IOSEPH": [
+          "IN. Deus in loco sancto suo, 310.",
+          "GR. Unam pétii, 358.",
+          "AL. Gaudéte, iusti, 430.",
+          "OF. In te sperávi, Dómine, 322."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          356,
+          554,
+          386
+        ],
+        [
+          96,
+          398,
+          390,
+          428
+        ],
+        [
+          94,
+          440,
+          426,
+          470
+        ],
+        [
+          95,
+          482,
+          532,
+          513
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 52,
+      "img_file": "2_tempus-nativitatis__2_infra-octavam__1_sanctae-familiae-iesu-mariae-et-ioseph__p01.png",
+      "pdf_path": "2_tempus-nativitatis\\2_infra-octavam\\1_sanctae-familiae-iesu-mariae-et-ioseph.pdf",
+      "subsections": {
+        "SANCTAE FAMILIAE IESU MARIAE ET IOSEPH": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 53,
+      "img_file": "2_tempus-nativitatis__2_infra-octavam__2_infra-octavam-nativitatis-domini__p01.png",
+      "pdf_path": "2_tempus-nativitatis\\2_infra-octavam\\2_infra-octavam-nativitatis-domini.pdf",
+      "subsections": {
+        "INFRA OCTAVAM NATIVITATIS DOMINI": [
+          "CO. Respónsum, 544.",
+          "IN. Salve, sancta Parens, 403."
+        ],
+        "SOLLEMNITAS SANCTAE DEI GENITRICIS MARIAE": [
+          "— Lux fulgébit, 44.",
+          "GR. Diffüsa est grátia, 408.",
+          "AL. Post partum, 414.",
+          "— Multifárie, 52.",
+          "OF. Felix namque es, 422."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          94,
+          348,
+          392,
+          378
+        ],
+        [
+          96,
+          593,
+          505,
+          623
+        ],
+        [
+          94,
+          630,
+          389,
+          660
+        ],
+        [
+          95,
+          665,
+          465,
+          696
+        ],
+        [
+          95,
+          702,
+          402,
+          732
+        ],
+        [
+          94,
+          738,
+          358,
+          768
+        ],
+        [
+          96,
+          774,
+          456,
+          804
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 54,
+      "img_file": "2_tempus-nativitatis__1_in-nativitate-domini__p16.png",
+      "pdf_path": "2_tempus-nativitatis\\1_in-nativitate-domini.pdf",
+      "subsections": {
+        "DOMINICA SECUNDA POST NATIVITATEM": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 55,
+      "img_file": "2_tempus-nativitatis__1_in-nativitate-domini__p17.png",
+      "pdf_path": "2_tempus-nativitatis\\1_in-nativitate-domini.pdf",
+      "subsections": {
+        "DOMINICA SECUNDA POST NATIVITATEM": [
+          "AL. Dóminus regnávit, decórem, 46.",
+          "OF. Bénedic, ánima mea, 362.",
+          "CO. Dómine, Dóminus noster, 357."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          817,
+          591,
+          848
+        ],
+        [
+          98,
+          853,
+          504,
+          884
+        ],
+        [
+          98,
+          890,
+          576,
+          920
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 62,
+      "img_file": "4_tempus-quadragesimae__1_dies-post-cineres__1_feria-quarta-cinerum__p00.png",
+      "pdf_path": "4_tempus-quadragesimae\\1_dies-post-cineres\\1_feria-quarta-cinerum.pdf",
+      "subsections": {
+        "DIES POST CINERES": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 63,
+      "img_file": "4_tempus-quadragesimae__1_dies-post-cineres__1_feria-quarta-cinerum__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\1_dies-post-cineres\\1_feria-quarta-cinerum.pdf",
+      "subsections": {
+        "FERIA QUARTA CINERUM": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 64,
+      "img_file": "4_tempus-quadragesimae__1_dies-post-cineres__1_feria-quarta-cinerum__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\1_dies-post-cineres\\1_feria-quarta-cinerum.pdf",
+      "subsections": {
+        "FERIA QUARTA CINERUM": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 65,
+      "img_file": "4_tempus-quadragesimae__1_dies-post-cineres__1_feria-quarta-cinerum__p03.png",
+      "pdf_path": "4_tempus-quadragesimae\\1_dies-post-cineres\\1_feria-quarta-cinerum.pdf",
+      "subsections": {
+        "FERIA QUARTA CINERUM": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 66,
+      "img_file": "4_tempus-quadragesimae__1_dies-post-cineres__1_feria-quarta-cinerum__p04.png",
+      "pdf_path": "4_tempus-quadragesimae\\1_dies-post-cineres\\1_feria-quarta-cinerum.pdf",
+      "subsections": {
+        "FERIA QUARTA CINERUM": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 67,
+      "img_file": "4_tempus-quadragesimae__1_dies-post-cineres__1_feria-quarta-cinerum__p05.png",
+      "pdf_path": "4_tempus-quadragesimae\\1_dies-post-cineres\\1_feria-quarta-cinerum.pdf",
+      "subsections": {
+        "FERIA QUARTA CINERUM": [
+          "OF. Exaltábo te, 313."
+        ],
+        "FERIA QUINTA POST CINERES": [
+          "IN. Dum clamárem, 303.",
+          "GR. Convértere, 295.",
+          "OF. Ad te, Dómine, levávi, 17."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          539,
+          386,
+          569
+        ],
+        [
+          99,
+          1305,
+          446,
+          1335
+        ],
+        [
+          99,
+          1347,
+          386,
+          1377
+        ],
+        [
+          98,
+          1388,
+          517,
+          1419
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 68,
+      "img_file": "4_tempus-quadragesimae__1_dies-post-cineres__3_feria-sexta__p00.png",
+      "pdf_path": "4_tempus-quadragesimae\\1_dies-post-cineres\\3_feria-sexta.pdf",
+      "subsections": {
+        "FERIA SEXTA": [
+          "GR. Unam pétii, 358.",
+          "OF. Dómine, vivífica me, 359."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          853,
+          399,
+          883
+        ],
+        [
+          96,
+          890,
+          514,
+          920
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 69,
+      "img_file": "4_tempus-quadragesimae__1_dies-post-cineres__4_sabbato__p00.png",
+      "pdf_path": "4_tempus-quadragesimae\\1_dies-post-cineres\\4_sabbato.pdf",
+      "subsections": {
+        "SABBATO": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 70,
+      "img_file": "4_tempus-quadragesimae__1_dies-post-cineres__4_sabbato__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\1_dies-post-cineres\\4_sabbato.pdf",
+      "subsections": {
+        "SABBATO": [
+          "OF. Dómine, convértere, 283."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          1468,
+          502,
+          1497
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 71,
+      "img_file": "4_tempus-quadragesimae__1_dies-post-cineres__4_sabbato__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\1_dies-post-cineres\\4_sabbato.pdf",
+      "subsections": {
+        "SABBATO": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 72,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__1_dominica__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 73,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__1_dominica__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 74,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__1_dominica__p03.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 75,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__1_dominica__p04.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 76,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__1_dominica__p05.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 77,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__1_dominica__p06.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 78,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__2_feria-secunda__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\2_feria-secunda.pdf",
+      "subsections": {
+        "FERIA SECUNDA": [
+          "GR. Protéctor noster, 292."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          768,
+          452,
+          797
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 79,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__2_feria-secunda__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\2_feria-secunda.pdf",
+      "subsections": {
+        "FERIA SECUNDA": [
+          "T. P. Allelüia, VIII toni, 826."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          277,
+          491,
+          305
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 80,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__3_feria-tertia__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\3_feria-tertia.pdf",
+      "subsections": {
+        "FERIA TERTIA": [
+          "GR. Dirigátur, 340.",
+          "OF. In te sperávi, 322."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          622,
+          364,
+          652
+        ],
+        [
+          97,
+          659,
+          408,
+          689
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 81,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__4_feria-quarta__p00.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\4_feria-quarta.pdf",
+      "subsections": {
+        "FERIA  QUARTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 82,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__4_feria-quarta__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\4_feria-quarta.pdf",
+      "subsections": {
+        "FERIA  QUARTA": [
+          "OF. Meditábor, 356."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          95,
+          1120,
+          367,
+          1151
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 83,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__4_feria-quarta__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\4_feria-quarta.pdf",
+      "subsections": {
+        "FERIA QUINTA": [
+          "GR. Custódi me, 304.",
+          "OF. Recordáre mei, 352."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          1096,
+          392,
+          1126
+        ],
+        [
+          97,
+          1132,
+          432,
+          1162
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 84,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__5_feria-quinta__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\5_feria-quinta.pdf",
+      "subsections": {
+        "FERIA QUINTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 85,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__6_feria-sexta__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\6_feria-sexta.pdf",
+      "subsections": {
+        "FERIA SEXTA": [
+          "OF. Bénedic, ánima mea, 362."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          910,
+          500,
+          941
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 86,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__6_feria-sexta__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\6_feria-sexta.pdf",
+      "subsections": {
+        "FERIA SEXTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 87,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__6_feria-sexta__p03.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\6_feria-sexta.pdf",
+      "subsections": {
+        "FERIA SEXTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 88,
+      "img_file": "4_tempus-quadragesimae__2_hebdomada-prima-quadragesimae__6_feria-sexta__p04.png",
+      "pdf_path": "4_tempus-quadragesimae\\2_hebdomada-prima-quadragesimae\\6_feria-sexta.pdf",
+      "subsections": {
+        "DOMINICA": [
+          "Vel : Reminíscere, 81."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          1142,
+          383,
+          1170
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 89,
+      "img_file": "4_tempus-quadragesimae__3_hebdomada-secunda-quadragesimae__1_dominica__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\3_hebdomada-secunda-quadragesimae\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 90,
+      "img_file": "4_tempus-quadragesimae__3_hebdomada-secunda-quadragesimae__1_dominica__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\3_hebdomada-secunda-quadragesimae\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": [
+          "OF. Meditábor, 356."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          100,
+          1044,
+          379,
+          1074
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 91,
+      "img_file": "4_tempus-quadragesimae__3_hebdomada-secunda-quadragesimae__2_feria-secunda__p00.png",
+      "pdf_path": "4_tempus-quadragesimae\\3_hebdomada-secunda-quadragesimae\\2_feria-secunda.pdf",
+      "subsections": {
+        "FERIA SECUNDA": [
+          "GR. Propítius esto, 288.",
+          "OF. Benedícam Dóminum, 293.",
+          "CO. Dómine Dóminus noster, 357."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          1088,
+          420,
+          1118
+        ],
+        [
+          96,
+          1124,
+          528,
+          1154
+        ],
+        [
+          96,
+          1160,
+          566,
+          1190
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 92,
+      "img_file": "4_tempus-quadragesimae__3_hebdomada-secunda-quadragesimae__3_feria-tertia__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\3_hebdomada-secunda-quadragesimae\\3_feria-tertia.pdf",
+      "subsections": {
+        "FERIA TERTIA": [
+          "GR. Iacta cogitátum tuum, 285."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          1275,
+          524,
+          1306
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 93,
+      "img_file": "4_tempus-quadragesimae__3_hebdomada-secunda-quadragesimae__3_feria-tertia__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\3_hebdomada-secunda-quadragesimae\\3_feria-tertia.pdf",
+      "subsections": {
+        "FERIA QUARTA": [
+          "IN. Ne derelínquas me, 360.",
+          "GR. Salvum fac pópulum tuum, 354.",
+          "OF. Ad te, Dómine, levávi, 17."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          716,
+          487,
+          746
+        ],
+        [
+          95,
+          758,
+          594,
+          790
+        ],
+        [
+          96,
+          800,
+          515,
+          831
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 94,
+      "img_file": "4_tempus-quadragesimae__3_hebdomada-secunda-quadragesimae__5_feria-quinta__p00.png",
+      "pdf_path": "4_tempus-quadragesimae\\3_hebdomada-secunda-quadragesimae\\5_feria-quinta.pdf",
+      "subsections": {
+        "FERIA QUINTA": [
+          "IN. Deus, in adiutórium, 315.",
+          "GR. Beátus vir, 475."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          207,
+          510,
+          237
+        ],
+        [
+          98,
+          242,
+          376,
+          273
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 95,
+      "img_file": "4_tempus-quadragesimae__3_hebdomada-secunda-quadragesimae__6_feria-sexta__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\3_hebdomada-secunda-quadragesimae\\6_feria-sexta.pdf",
+      "subsections": {
+        "FERIA  SEXTA": [
+          "GR. Ad Dóminum, 282.",
+          "OF. Dómine, in auxílium, 331."
+        ],
+        "SABBATO": [
+          "IN. Intret orátio mea, 363.",
+          "GR. Bonum est confitéri, 327.",
+          "OF. Illámina óculos meos, 290."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          436,
+          426,
+          464
+        ],
+        [
+          97,
+          472,
+          516,
+          502
+        ],
+        [
+          100,
+          995,
+          469,
+          1025
+        ],
+        [
+          99,
+          1031,
+          502,
+          1061
+        ],
+        [
+          100,
+          1067,
+          525,
+          1095
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 96,
+      "img_file": "4_tempus-quadragesimae__4_hebdomada-tertia-quadragesimj__1_dominica__p00.png",
+      "pdf_path": "4_tempus-quadragesimae\\4_hebdomada-tertia-quadragesimj\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": [
+          "Vel : Dum sanctificátus füero, 249."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          1264,
+          553,
+          1293
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 97,
+      "img_file": "4_tempus-quadragesimae__4_hebdomada-tertia-quadragesimj__1_dominica__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\4_hebdomada-tertia-quadragesimj\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 98,
+      "img_file": "4_tempus-quadragesimae__4_hebdomada-tertia-quadragesimj__1_dominica__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\4_hebdomada-tertia-quadragesimj\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 99,
+      "img_file": "4_tempus-quadragesimae__4_hebdomada-tertia-quadragesimj__1_dominica__p03.png",
+      "pdf_path": "4_tempus-quadragesimae\\4_hebdomada-tertia-quadragesimj\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": [
+          "OF. Iustítiz Dómini, 309.",
+          "CO. Passer invénit, 306."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          264,
+          449,
+          294
+        ],
+        [
+          100,
+          1463,
+          424,
+          1492
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 100,
+      "img_file": "4_tempus-quadragesimae__4_hebdomada-tertia-quadragesimj__2_feria-secunda__p00.png",
+      "pdf_path": "4_tempus-quadragesimae\\4_hebdomada-tertia-quadragesimj\\2_feria-secunda.pdf",
+      "subsections": {
+        "FERIA SECUNDA": [
+          "GR. In Deo sperávit, 311."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          1105,
+          448,
+          1136
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 101,
+      "img_file": "4_tempus-quadragesimae__4_hebdomada-tertia-quadragesimj__2_feria-secunda__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\4_hebdomada-tertia-quadragesimj\\2_feria-secunda.pdf",
+      "subsections": {
+        "FERIA TERTIA": [
+          "IN. Ego clamávi, 354."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          1278,
+          393,
+          1308
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 102,
+      "img_file": "4_tempus-quadragesimae__4_hebdomada-tertia-quadragesimj__3_feria-tertia__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\4_hebdomada-tertia-quadragesimj\\3_feria-tertia.pdf",
+      "subsections": {
+        "FERIA TERTIA": [
+          "OF. Sicut in holocáusto, 299."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          1137,
+          489,
+          1166
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 103,
+      "img_file": "4_tempus-quadragesimae__4_hebdomada-tertia-quadragesimj__3_feria-tertia__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\4_hebdomada-tertia-quadragesimj\\3_feria-tertia.pdf",
+      "subsections": {
+        "FERIA TERTIA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 104,
+      "img_file": "4_tempus-quadragesimae__4_hebdomada-tertia-quadragesimj__4_feria-quarta__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\4_hebdomada-tertia-quadragesimj\\4_feria-quarta.pdf",
+      "subsections": {
+        "FERIA QUARTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 105,
+      "img_file": "4_tempus-quadragesimae__4_hebdomada-tertia-quadragesimj__4_feria-quarta__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\4_hebdomada-tertia-quadragesimj\\4_feria-quarta.pdf",
+      "subsections": {
+        "FERIA QUARTA": [
+          "CO. Notas mihi fecísti, 362."
+        ],
+        "FERIA QUINTA": [
+          "IN. Salus pópuli, 339.",
+          "GR. Beáta gens, 333.",
+          "OF. Si ambulávero, 341."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          256,
+          474,
+          286
+        ],
+        [
+          98,
+          369,
+          403,
+          399
+        ],
+        [
+          97,
+          404,
+          379,
+          435
+        ],
+        [
+          97,
+          441,
+          428,
+          471
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 106,
+      "img_file": "4_tempus-quadragesimae__4_hebdomada-tertia-quadragesimj__6_feria-sexta__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\4_hebdomada-tertia-quadragesimj\\6_feria-sexta.pdf",
+      "subsections": {
+        "FERIA SEXTA": [
+          "GR. Bonum est confídere, 324.",
+          "OF. Inténde voci oratiónis mez, 280."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          118,
+          512,
+          148
+        ],
+        [
+          98,
+          153,
+          595,
+          180
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 107,
+      "img_file": "4_tempus-quadragesimae__4_hebdomada-tertia-quadragesimj__7_sabbato__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\4_hebdomada-tertia-quadragesimj\\7_sabbato.pdf",
+      "subsections": {
+        "SABBATO": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 108,
+      "img_file": "4_tempus-quadragesimae__4_hebdomada-tertia-quadragesimj__7_sabbato__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\4_hebdomada-tertia-quadragesimj\\7_sabbato.pdf",
+      "subsections": {
+        "SABBATO": [
+          "OF. Dómine, convértere, 283."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          274,
+          497,
+          304
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 109,
+      "img_file": "4_tempus-quadragesimae__5_hebdomada-quarta-quadragesimje__1_dominica__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\5_hebdomada-quarta-quadragesimje\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": [
+          "GR. Lztátus sum, 336."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          614,
+          410,
+          645
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 110,
+      "img_file": "4_tempus-quadragesimae__5_hebdomada-quarta-quadragesimje__1_dominica__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\5_hebdomada-quarta-quadragesimje\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": [
+          "CO. Ierüsalem quz zdificátur, 370."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          1464,
+          574,
+          1494
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 111,
+      "img_file": "4_tempus-quadragesimae__5_hebdomada-quarta-quadragesimje__1_dominica__p03.png",
+      "pdf_path": "4_tempus-quadragesimae\\5_hebdomada-quarta-quadragesimje\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": [
+          "OF. Illüámina óculos meos, 290.",
+          "CO. Opsertet te, 95."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          718,
+          521,
+          747
+        ],
+        [
+          97,
+          754,
+          362,
+          784
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 112,
+      "img_file": "4_tempus-quadragesimae__5_hebdomada-quarta-quadragesimje__2_feria-secunda__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\5_hebdomada-quarta-quadragesimje\\2_feria-secunda.pdf",
+      "subsections": {
+        "FERIA SECUNDA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 113,
+      "img_file": "4_tempus-quadragesimae__5_hebdomada-quarta-quadragesimje__2_feria-secunda__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\5_hebdomada-quarta-quadragesimje\\2_feria-secunda.pdf",
+      "subsections": {
+        "FERIA SECUNDA": [
+          "OF. Iubiláte Deo omnis terra, 259."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          95,
+          870,
+          561,
+          899
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 114,
+      "img_file": "4_tempus-quadragesimae__5_hebdomada-quarta-quadragesimje__3_feria-tertia__p00.png",
+      "pdf_path": "4_tempus-quadragesimae\\5_hebdomada-quarta-quadragesimje\\3_feria-tertia.pdf",
+      "subsections": {
+        "FERIA TERTIA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 115,
+      "img_file": "4_tempus-quadragesimae__5_hebdomada-quarta-quadragesimje__3_feria-tertia__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\5_hebdomada-quarta-quadragesimje\\3_feria-tertia.pdf",
+      "subsections": {
+        "FERIA TERTIA": [
+          "OF. Exspéctans exspectávi, 328.",
+          "CO. Dóminus regit me, 365."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          1143,
+          527,
+          1173
+        ],
+        [
+          96,
+          1179,
+          479,
+          1209
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 116,
+      "img_file": "4_tempus-quadragesimae__5_hebdomada-quarta-quadragesimje__4_feria-quarta__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\5_hebdomada-quarta-quadragesimje\\4_feria-quarta.pdf",
+      "subsections": {
+        "FERIA QUARTA": [
+          "GR. Veníte, fílii, 298.",
+          "OF. gentes, sine allelüia, 231.",
+          "CO. Latábimur in salutári tuo, 359."
+        ],
+        "FERIA QUINTA": [
+          "IN. Latétur cor, 268.",
+          "GR. Réspice, Dómine, 320.",
+          "OF. Precátus est, 317."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          784,
+          389,
+          814
+        ],
+        [
+          99,
+          821,
+          644,
+          851
+        ],
+        [
+          98,
+          857,
+          581,
+          887
+        ],
+        [
+          98,
+          1027,
+          397,
+          1055
+        ],
+        [
+          98,
+          1063,
+          465,
+          1093
+        ],
+        [
+          97,
+          1099,
+          397,
+          1129
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 117,
+      "img_file": "4_tempus-quadragesimae__5_hebdomada-quarta-quadragesimje__6_feria-sexta__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\5_hebdomada-quarta-quadragesimje\\6_feria-sexta.pdf",
+      "subsections": {
+        "FERIA SEXTA": [
+          "GR. Clamavérunt iusti, 454.",
+          "OF. Pópulum hümilem, 302.",
+          "CO. Dico vobis : Gáudium est, 387."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          763,
+          476,
+          794
+        ],
+        [
+          96,
+          800,
+          486,
+          830
+        ],
+        [
+          96,
+          836,
+          584,
+          866
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 118,
+      "img_file": "4_tempus-quadragesimae__5_hebdomada-quarta-quadragesimje__7_sabbato__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\5_hebdomada-quarta-quadragesimje\\7_sabbato.pdf",
+      "subsections": {
+        "SABBATO": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 119,
+      "img_file": "4_tempus-quadragesimae__5_hebdomada-quarta-quadragesimje__7_sabbato__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\5_hebdomada-quarta-quadragesimje\\7_sabbato.pdf",
+      "subsections": {
+        "SABBATO": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 120,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__1_dominica__p00.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\1_dominica.pdf",
+      "subsections": {
+        "HEBDOMADA QUINTA QUADRAGESIMAE": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 121,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__1_dominica__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 122,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__1_dominica__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 123,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__1_dominica__p03.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 124,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__1_dominica__p04.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\1_dominica.pdf",
+      "subsections": {
+        "DOMINICA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 125,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__2_feria-secunda__p00.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\2_feria-secunda.pdf",
+      "subsections": {
+        "FERIA SECUNDA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 126,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__2_feria-secunda__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\2_feria-secunda.pdf",
+      "subsections": {
+        "FERIA SECUNDA": [
+          "OF. Gressus meos, 365."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          99,
+          686,
+          424,
+          716
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 127,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__3_feria-tertia__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\3_feria-tertia.pdf",
+      "subsections": {
+        "FERIA TERTIA": [
+          "OF. Sperent in te, 286."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          1462,
+          409,
+          1492
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 128,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__3_feria-tertia__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\3_feria-tertia.pdf",
+      "subsections": {
+        "FERIA TERTIA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 129,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__4_feria-quarta__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\4_feria-quarta.pdf",
+      "subsections": {
+        "FERIA QUARTA": [
+          "GR. Benedíctus es, Dómine, 372."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          113,
+          543,
+          143
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 130,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__4_feria-quarta__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\4_feria-quarta.pdf",
+      "subsections": {
+        "FERIA QUINTA": [
+          "IN. Omnia que fecísti, 342.",
+          "GR. Esto mihi, 301.",
+          "OF. Super flümina Babylónis, 345.",
+          "CO. Meménto verbi tui, 346."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          456,
+          481,
+          487
+        ],
+        [
+          96,
+          493,
+          368,
+          523
+        ],
+        [
+          96,
+          529,
+          564,
+          559
+        ],
+        [
+          96,
+          565,
+          489,
+          595
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 131,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__6_feria-sexta__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\6_feria-sexta.pdf",
+      "subsections": {
+        "FERIA SEXTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 132,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__6_feria-sexta__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\6_feria-sexta.pdf",
+      "subsections": {
+        "FERIA SEXTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 133,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__7_sabbato__p01.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\7_sabbato.pdf",
+      "subsections": {
+        "SABBATO": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 134,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__7_sabbato__p02.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\7_sabbato.pdf",
+      "subsections": {
+        "SABBATO": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 135,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__7_sabbato__p03.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\7_sabbato.pdf",
+      "subsections": {
+        "SABBATO": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 136,
+      "img_file": "4_tempus-quadragesimae__6_hebdomada-quinta-quadragesimae__7_sabbato__p04.png",
+      "pdf_path": "4_tempus-quadragesimae\\6_hebdomada-quinta-quadragesimae\\7_sabbato.pdf",
+      "subsections": {
+        "SABBATO": [
+          "OF. Dómine, vivífica me, 359.",
+          "CO. Aufer a me, 353."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          1104,
+          514,
+          1136
+        ],
+        [
+          95,
+          1140,
+          388,
+          1172
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 257,
+      "img_file": "7_tempus-per-annum__1_hebdomada-prima__p00.png",
+      "pdf_path": "7_tempus-per-annum\\1_hebdomada-prima.pdf",
+      "subsections": {
+        "HEBDOMADA PRIMA": [
+          "Locum dominice I tenet festum Baptismatis Domini, 59."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          370,
+          812,
+          401
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 258,
+      "img_file": "7_tempus-per-annum__1_hebdomada-prima__p01.png",
+      "pdf_path": "7_tempus-per-annum\\1_hebdomada-prima.pdf",
+      "subsections": {
+        "HEBDOMADA PRIMA": [
+          "Anno I, feria 3 : Dómine, Dóminus noster, 308.",
+          "Glória et honóre, 476."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          1205,
+          747,
+          1236
+        ],
+        [
+          341,
+          1279,
+          630,
+          1308
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 259,
+      "img_file": "7_tempus-per-annum__1_hebdomada-prima__p02.png",
+      "pdf_path": "7_tempus-per-annum\\1_hebdomada-prima.pdf",
+      "subsections": {
+        "HEBDOMADA PRIMA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 260,
+      "img_file": "7_tempus-per-annum__1_hebdomada-prima__p03.png",
+      "pdf_path": "7_tempus-per-annum\\1_hebdomada-prima.pdf",
+      "subsections": {
+        "HEBDOMADA PRIMA": [
+          "Feria 2 : Veníte post me, 267."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          872,
+          500,
+          902
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 261,
+      "img_file": "7_tempus-per-annum__2_hebdomada-secunda__p01.png",
+      "pdf_path": "7_tempus-per-annum\\2_hebdomada-secunda.pdf",
+      "subsections": {
+        "HEBDOMADA SECUNDA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 262,
+      "img_file": "7_tempus-per-annum__2_hebdomada-secunda__p02.png",
+      "pdf_path": "7_tempus-per-annum\\2_hebdomada-secunda.pdf",
+      "subsections": {
+        "HEBDOMADA SECUNDA": [
+          "Anno I, feriis 2 et 4 : Iuravit Dominus, 486.",
+          "— feria 6 : Osténde nobis, 31.",
+          "Anno II, feria 3 : Invéni David, 445.",
+          "— feria 6 : Miserére mei, Deus, 63.",
+          "Anno I, feriis 2 et 4 : Iuravit Dominus, 489.",
+          "— feria 3: Tu es sacérdos in etérnum, 449.",
+          "Ego vos elégi de mundo, 429.",
+          "— sabbato : Ascéndit Deus, 236.",
+          "Anno Il, feria 3 : Invéni David, 446.",
+          "— feria 6: Ego vos elégi de mundo, 429.",
+          "OF. Iubiláte Deo, univérsa terra, 227.",
+          "CO. Lztábimur in salutári, 359."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          295,
+          739,
+          325
+        ],
+        [
+          141,
+          333,
+          582,
+          363
+        ],
+        [
+          96,
+          369,
+          597,
+          399
+        ],
+        [
+          140,
+          405,
+          667,
+          435
+        ],
+        [
+          98,
+          1110,
+          741,
+          1140
+        ],
+        [
+          142,
+          1149,
+          770,
+          1179
+        ],
+        [
+          342,
+          1257,
+          728,
+          1287
+        ],
+        [
+          143,
+          1293,
+          626,
+          1322
+        ],
+        [
+          98,
+          1329,
+          599,
+          1359
+        ],
+        [
+          143,
+          1366,
+          741,
+          1396
+        ],
+        [
+          99,
+          1438,
+          606,
+          1468
+        ],
+        [
+          98,
+          1474,
+          529,
+          1504
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 263,
+      "img_file": "7_tempus-per-annum__2_hebdomada-secunda__p03.png",
+      "pdf_path": "7_tempus-per-annum\\2_hebdomada-secunda.pdf",
+      "subsections": {
+        "HEBDOMADA SECUNDA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 264,
+      "img_file": "7_tempus-per-annum__2_hebdomada-secunda__p04.png",
+      "pdf_path": "7_tempus-per-annum\\2_hebdomada-secunda.pdf",
+      "subsections": {
+        "HEBDOMADA SECUNDA": [
+          "Feria 5 : Multitüdo languéntium, 471.",
+          "— 6: Ego vos elégi de mundo, 436."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          396,
+          608,
+          427
+        ],
+        [
+          125,
+          432,
+          616,
+          463
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 265,
+      "img_file": "7_tempus-per-annum__3_hebdomada-tertia__p01.png",
+      "pdf_path": "7_tempus-per-annum\\3_hebdomada-tertia.pdf",
+      "subsections": {
+        "HEBDOMADA TERTIA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 266,
+      "img_file": "7_tempus-per-annum__3_hebdomada-tertia__p02.png",
+      "pdf_path": "7_tempus-per-annum\\3_hebdomada-tertia.pdf",
+      "subsections": {
+        "HEBDOMADA TERTIA": [
+          "Anno I, feria 4 : Iurávit Dóminus, 486.",
+          "— feria 6 : Iustus cum cecíderit, 476.",
+          "Anno II, feria 2 : Invéni David, 445.",
+          "— feria 6: Miserére mihi, Dómine, 103.",
+          "Anno I, feria 4 : Iurávit Dóminus, 489.",
+          "— feria 6: Iustus non conturbábitur, 479.",
+          "Anno Il, feria 2 : Invéni David, 446."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          466,
+          630,
+          496
+        ],
+        [
+          141,
+          503,
+          676,
+          533
+        ],
+        [
+          96,
+          539,
+          596,
+          569
+        ],
+        [
+          141,
+          573,
+          731,
+          604
+        ],
+        [
+          98,
+          1395,
+          632,
+          1425
+        ],
+        [
+          143,
+          1431,
+          743,
+          1462
+        ],
+        [
+          99,
+          1467,
+          598,
+          1496
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 267,
+      "img_file": "7_tempus-per-annum__3_hebdomada-tertia__p03.png",
+      "pdf_path": "7_tempus-per-annum\\3_hebdomada-tertia.pdf",
+      "subsections": {
+        "HEBDOMADA TERTIA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 268,
+      "img_file": "7_tempus-per-annum__3_hebdomada-tertia__p04.png",
+      "pdf_path": "7_tempus-per-annum\\3_hebdomada-tertia.pdf",
+      "subsections": {
+        "HEBDOMADA TERTIA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 269,
+      "img_file": "7_tempus-per-annum__4_hebdomada-quarta__p01.png",
+      "pdf_path": "7_tempus-per-annum\\4_hebdomada-quarta.pdf",
+      "subsections": {
+        "HEBDOMADA QUARTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 270,
+      "img_file": "7_tempus-per-annum__4_hebdomada-quarta__p02.png",
+      "pdf_path": "7_tempus-per-annum\\4_hebdomada-quarta.pdf",
+      "subsections": {
+        "HEBDOMADA QUARTA": [
+          "Anno I, feria 5 : Suscépimus, 360.",
+          "sime. T. P. Allelüia, VIII toni, 826."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          123,
+          564,
+          153
+        ],
+        [
+          124,
+          1463,
+          979,
+          1498
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 271,
+      "img_file": "7_tempus-per-annum__4_hebdomada-quarta__p03.png",
+      "pdf_path": "7_tempus-per-annum\\4_hebdomada-quarta.pdf",
+      "subsections": {
+        "HEBDOMADA QUARTA": [
+          "Dom. anno A : Beáti mundo corde, 514."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          689,
+          645,
+          729
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 272,
+      "img_file": "7_tempus-per-annum__5_hebdomada-quinta__p01.png",
+      "pdf_path": "7_tempus-per-annum\\5_hebdomada-quinta.pdf",
+      "subsections": {
+        "HEBDOMADA QUINTA": [
+          "Dom. anno A : Dispérsit, dedit, 520.",
+          "Anno I, feria 3 : Dómine, Dóminus noster, 308.",
+          "— sabbato : Dómine, refügium, 347.",
+          "Anno II, feria 4 : Os iusti, 494."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          100,
+          1351,
+          601,
+          1389
+        ],
+        [
+          101,
+          1390,
+          750,
+          1421
+        ],
+        [
+          145,
+          1426,
+          677,
+          1457
+        ],
+        [
+          101,
+          1463,
+          528,
+          1493
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 273,
+      "img_file": "7_tempus-per-annum__5_hebdomada-quinta__p02.png",
+      "pdf_path": "7_tempus-per-annum\\5_hebdomada-quinta.pdf",
+      "subsections": {
+        "HEBDOMADA QUINTA": [
+          "Anno I, sabbato : Dómine, refügium, 321."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          609,
+          672,
+          640
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 274,
+      "img_file": "7_tempus-per-annum__5_hebdomada-quinta__p03.png",
+      "pdf_path": "7_tempus-per-annum\\5_hebdomada-quinta.pdf",
+      "subsections": {
+        "HEBDOMADA QUINTA": [
+          "Dom. anno B : Multitüdo languéntium, 471."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          535,
+          703,
+          565
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 275,
+      "img_file": "7_tempus-per-annum__6_hebdomada-sexta__p00.png",
+      "pdf_path": "7_tempus-per-annum\\6_hebdomada-sexta.pdf",
+      "subsections": {
+        "HEBDOMADA SEXTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 276,
+      "img_file": "7_tempus-per-annum__6_hebdomada-sexta__p01.png",
+      "pdf_path": "7_tempus-per-annum\\6_hebdomada-sexta.pdf",
+      "subsections": {
+        "HEBDOMADA SEXTA": [
+          "Anno I, feria 6 : Beáta gens, 333.",
+          "Anno II, feria 6 : Beátus vir qui timet, 475."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          1072,
+          550,
+          1102
+        ],
+        [
+          98,
+          1107,
+          688,
+          1138
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 277,
+      "img_file": "7_tempus-per-annum__6_hebdomada-sexta__p02.png",
+      "pdf_path": "7_tempus-per-annum\\6_hebdomada-sexta.pdf",
+      "subsections": {
+        "HEBDOMADA SEXTA": [
+          "Anno Il, feria 6 : Beátus vir qui timet, 511."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          463,
+          687,
+          494
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 278,
+      "img_file": "7_tempus-per-annum__6_hebdomada-sexta__p03.png",
+      "pdf_path": "7_tempus-per-annum\\6_hebdomada-sexta.pdf",
+      "subsections": {
+        "HEBDOMADA SEXTA": [
+          "Feria 6 : Qui vult veníre, 484.",
+          "Sabbato : Visiónem quam vidístis, 90."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          677,
+          502,
+          707
+        ],
+        [
+          98,
+          712,
+          610,
+          743
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 279,
+      "img_file": "7_tempus-per-annum__7_hebdomada-septima__p01.png",
+      "pdf_path": "7_tempus-per-annum\\7_hebdomada-septima.pdf",
+      "subsections": {
+        "HEBDOMADA SEPTIMA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 280,
+      "img_file": "7_tempus-per-annum__7_hebdomada-septima__p02.png",
+      "pdf_path": "7_tempus-per-annum\\7_hebdomada-septima.pdf",
+      "subsections": {
+        "HEBDOMADA SEPTIMA": [
+          "Anno Il, feria 3 : lacta cogitáturn, 285.",
+          "— sabbato : Dirigátur, 340."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          283,
+          627,
+          315
+        ],
+        [
+          142,
+          316,
+          563,
+          355
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 281,
+      "img_file": "7_tempus-per-annum__7_hebdomada-septima__p03.png",
+      "pdf_path": "7_tempus-per-annum\\7_hebdomada-septima.pdf",
+      "subsections": {
+        "HEBDOMADA SEPTIMA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 282,
+      "img_file": "7_tempus-per-annum__8_hebdomada-octava__p01.png",
+      "pdf_path": "7_tempus-per-annum\\8_hebdomada-octava.pdf",
+      "subsections": {
+        "HEBDOMADA OCTAVA": [
+          "Dom. anno C : Bonum est confitéri, 327.",
+          "Anno I, feria 5 : Beáta gens, 333."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          1236,
+          654,
+          1276
+        ],
+        [
+          98,
+          1276,
+          551,
+          1307
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 283,
+      "img_file": "7_tempus-per-annum__8_hebdomada-octava__p02.png",
+      "pdf_path": "7_tempus-per-annum\\8_hebdomada-octava.pdf",
+      "subsections": {
+        "HEBDOMADA OCTAVA": [
+          "Anno I, feria 5 : Verbo Dómini, 361."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          807,
+          603,
+          837
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 284,
+      "img_file": "7_tempus-per-annum__8_hebdomada-octava__p03.png",
+      "pdf_path": "7_tempus-per-annum\\8_hebdomada-octava.pdf",
+      "subsections": {
+        "HEBDOMADA OCTAVA": [
+          "Dom. anno À : Primum quzrite, 325.",
+          "Feria 3 : Amen dico vobis quod vos, 436.",
+          "Feria 4 : Qui mihi minístrat, 484.",
+          "Feria 6 : Domus mea, 402.",
+          "vel : Amen dico vobis : Quidquid, 368."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          493,
+          609,
+          533
+        ],
+        [
+          96,
+          533,
+          650,
+          564
+        ],
+        [
+          97,
+          569,
+          546,
+          600
+        ],
+        [
+          97,
+          605,
+          459,
+          635
+        ],
+        [
+          229,
+          641,
+          745,
+          672
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 285,
+      "img_file": "7_tempus-per-annum__9_hebdomada-nona__p01.png",
+      "pdf_path": "7_tempus-per-annum\\9_hebdomada-nona.pdf",
+      "subsections": {
+        "HEBDOMADA NONA": [
+          "Dom. anno A : Esto mihi, 301.",
+          "Anno I, feria 2 : Beátus vir qui timet, 475.",
+          "— feria 3 : Dispérsit, dedit, 520.",
+          "Anno Il, feria 3 : Dómine, refügium, 347.",
+          "— . feria s: Univérsi, 16."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          1321,
+          522,
+          1358
+        ],
+        [
+          97,
+          1361,
+          676,
+          1392
+        ],
+        [
+          143,
+          1397,
+          616,
+          1427
+        ],
+        [
+          98,
+          1434,
+          667,
+          1464
+        ],
+        [
+          143,
+          1465,
+          521,
+          1502
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 286,
+      "img_file": "7_tempus-per-annum__9_hebdomada-nona__p02.png",
+      "pdf_path": "7_tempus-per-annum\\9_hebdomada-nona.pdf",
+      "subsections": {
+        "HEBDOMADA NONA": [
+          "Anno I, feria 2 : Beátus vir qui timet, 511.",
+          "— feria 3 : Dispérsit, dedit, 521.",
+          "Anno II, feria 3 : Dómine, refügium, 321."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          1009,
+          675,
+          1040
+        ],
+        [
+          142,
+          1046,
+          616,
+          1076
+        ],
+        [
+          97,
+          1081,
+          667,
+          1112
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 287,
+      "img_file": "7_tempus-per-annum__9_hebdomada-nona__p03.png",
+      "pdf_path": "7_tempus-per-annum\\9_hebdomada-nona.pdf",
+      "subsections": {
+        "HEBDOMADA NONA": [
+          "Amen dico vobis : Quidquid, 368."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          1397,
+          546,
+          1428
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 288,
+      "img_file": "7_tempus-per-annum__10_hebdomada-decima__p00.png",
+      "pdf_path": "7_tempus-per-annum\\10_hebdomada-decima.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA": [
+          "Dom. anno B : Si iniquitátes, 350."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          100,
+          1135,
+          571,
+          1175
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 289,
+      "img_file": "7_tempus-per-annum__10_hebdomada-decima__p01.png",
+      "pdf_path": "7_tempus-per-annum\\10_hebdomada-decima.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA": [
+          "Dom. anno C : Exaltábo te, 112.",
+          "Anno I, feria 2 : Benedícam Dóminum, 316.",
+          "Anno II, feria 3 : Iacta cogitátum, 285."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          879,
+          544,
+          916
+        ],
+        [
+          97,
+          919,
+          701,
+          950
+        ],
+        [
+          98,
+          955,
+          630,
+          986
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 290,
+      "img_file": "7_tempus-per-annum__10_hebdomada-decima__p02.png",
+      "pdf_path": "7_tempus-per-annum\\10_hebdomada-decima.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 291,
+      "img_file": "7_tempus-per-annum__10_hebdomada-decima__p03.png",
+      "pdf_path": "7_tempus-per-annum\\10_hebdomada-decima.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 292,
+      "img_file": "7_tempus-per-annum__11_hebdomada-undecima__p01.png",
+      "pdf_path": "7_tempus-per-annum\\11_hebdomada-undecima.pdf",
+      "subsections": {
+        "HEBDOMADA UNDECIMA": [
+          "Dom. anno B : Bonum est confitéri, 327.",
+          "Anno I, feria 4 : Beátus vir qui timet, 475."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          1080,
+          654,
+          1120
+        ],
+        [
+          97,
+          1120,
+          676,
+          1151
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 293,
+      "img_file": "7_tempus-per-annum__11_hebdomada-undecima__p02.png",
+      "pdf_path": "7_tempus-per-annum\\11_hebdomada-undecima.pdf",
+      "subsections": {
+        "HEBDOMADA UNDECIMA": [
+          "Anno I, feria 4 : Beátus vir qui timet, 511."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          95,
+          782,
+          674,
+          813
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 294,
+      "img_file": "7_tempus-per-annum__11_hebdomada-undecima__p03.png",
+      "pdf_path": "7_tempus-per-annum\\11_hebdomada-undecima.pdf",
+      "subsections": {
+        "HEBDOMADA UNDECIMA": [
+          "Sabbato : Primum quárite, 325."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          99,
+          1017,
+          535,
+          1048
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 295,
+      "img_file": "7_tempus-per-annum__12_hebdomada-duodecima__p01.png",
+      "pdf_path": "7_tempus-per-annum\\12_hebdomada-duodecima.pdf",
+      "subsections": {
+        "HEBDOMADA DUODECIMA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 296,
+      "img_file": "7_tempus-per-annum__12_hebdomada-duodecima__p02.png",
+      "pdf_path": "7_tempus-per-annum\\12_hebdomada-duodecima.pdf",
+      "subsections": {
+        "HEBDOMADA DUODECIMA": [
+          "Anno I, feria 2 : Beáta gens, 333.",
+          "Anno II, sabbato : Réspice, Dómine, 320.",
+          "OF. Pérfice gressus meos, 273."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          99,
+          418,
+          553,
+          447
+        ],
+        [
+          99,
+          455,
+          669,
+          485
+        ],
+        [
+          99,
+          1473,
+          509,
+          1503
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 297,
+      "img_file": "7_tempus-per-annum__12_hebdomada-duodecima__p03.png",
+      "pdf_path": "7_tempus-per-annum\\12_hebdomada-duodecima.pdf",
+      "subsections": {
+        "HEBDOMADA DUODECIMA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 298,
+      "img_file": "7_tempus-per-annum__13_hebdomada-decima-tertia__p01.png",
+      "pdf_path": "7_tempus-per-annum\\13_hebdomada-decima-tertia.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA TERTIA": [
+          "Dom. anno B : Exaltábo te, 112.",
+          "Anno I, feria 4 : Timéte Dóminum, 458."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          924,
+          543,
+          960
+        ],
+        [
+          97,
+          964,
+          652,
+          994
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 299,
+      "img_file": "7_tempus-per-annum__13_hebdomada-decima-tertia__p02.png",
+      "pdf_path": "7_tempus-per-annum\\13_hebdomada-decima-tertia.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA TERTIA": [
+          "Dom. anno A : Christus resürgens, 226."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          99,
+          589,
+          642,
+          628
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 300,
+      "img_file": "7_tempus-per-annum__13_hebdomada-decima-tertia__p03.png",
+      "pdf_path": "7_tempus-per-annum\\13_hebdomada-decima-tertia.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA TERTIA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 301,
+      "img_file": "7_tempus-per-annum__14_hebdomada-decima-quarta__p01.png",
+      "pdf_path": "7_tempus-per-annum\\14_hebdomada-decima-quarta.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA QUARTA": [
+          "Anno I, feria 2 : Angelis suis, 72.",
+          "Anno II, feria 5 : Osténde nobis, 31."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          1428,
+          554,
+          1458
+        ],
+        [
+          97,
+          1464,
+          597,
+          1494
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 302,
+      "img_file": "7_tempus-per-annum__14_hebdomada-decima-quarta__p02.png",
+      "pdf_path": "7_tempus-per-annum\\14_hebdomada-decima-quarta.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA QUARTA": [
+          "Dom. anno A : Veníte ad me, 619.",
+          "Anno Il, feria 5 : Osténde nobis, 16."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          898,
+          571,
+          936
+        ],
+        [
+          98,
+          937,
+          597,
+          967
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 303,
+      "img_file": "7_tempus-per-annum__14_hebdomada-decima-quarta__p03.png",
+      "pdf_path": "7_tempus-per-annum\\14_hebdomada-decima-quarta.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA QUARTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 304,
+      "img_file": "7_tempus-per-annum__15_hebdomada-decima-quinta__p01.png",
+      "pdf_path": "7_tempus-per-annum\\15_hebdomada-decima-quinta.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA QUINTA": [
+          "Vel ad libitum : Ego autem cum iustítia, 94."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          928,
+          668,
+          958
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 305,
+      "img_file": "7_tempus-per-annum__15_hebdomada-decima-quinta__p02.png",
+      "pdf_path": "7_tempus-per-annum\\15_hebdomada-decima-quinta.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA QUINTA": [
+          "Dom. anno B : Osténde nobis, 31.",
+          "Anno I, feria 2 : Anima nostra, 453."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          1079,
+          567,
+          1117
+        ],
+        [
+          97,
+          1119,
+          589,
+          1148
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 306,
+      "img_file": "7_tempus-per-annum__15_hebdomada-decima-quinta__p03.png",
+      "pdf_path": "7_tempus-per-annum\\15_hebdomada-decima-quinta.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA QUINTA": [
+          "Feria 5: Veníte ad me, 619.",
+          "OF. Ad te, Dómine, levávi, 17."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          684,
+          477,
+          713
+        ],
+        [
+          97,
+          743,
+          514,
+          774
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 307,
+      "img_file": "7_tempus-per-annum__15_hebdomada-decima-quinta__p04.png",
+      "pdf_path": "7_tempus-per-annum\\15_hebdomada-decima-quinta.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA QUINTA": [
+          "Ad libitum : Qui mandücat, 383."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          95,
+          354,
+          520,
+          384
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 308,
+      "img_file": "7_tempus-per-annum__16_hebdomada-decima-sexta__p01.png",
+      "pdf_path": "7_tempus-per-annum\\16_hebdomada-decima-sexta.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA SEXTA": [
+          "Dom. anno B : Si ámbulem, 125.",
+          "Anno II, feria 3 : Osténde nobis, 31."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          946,
+          552,
+          984
+        ],
+        [
+          97,
+          987,
+          595,
+          1017
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 309,
+      "img_file": "7_tempus-per-annum__16_hebdomada-decima-sexta__p02.png",
+      "pdf_path": "7_tempus-per-annum\\16_hebdomada-decima-sexta.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA SEXTA": [
+          "Anno Il, feria 3 : Osténde nobis, 16."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          99,
+          437,
+          597,
+          467
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 310,
+      "img_file": "7_tempus-per-annum__16_hebdomada-decima-sexta__p03.png",
+      "pdf_path": "7_tempus-per-annum\\16_hebdomada-decima-sexta.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA SEXTA": [
+          "Dom. anno C : Optimam partem, 507."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          336,
+          621,
+          366
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 311,
+      "img_file": "7_tempus-per-annum__17_hebdomada-decima-septima__p01.png",
+      "pdf_path": "7_tempus-per-annum\\17_hebdomada-decima-septima.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA SEPTIMA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 312,
+      "img_file": "7_tempus-per-annum__17_hebdomada-decima-septima__p02.png",
+      "pdf_path": "7_tempus-per-annum\\17_hebdomada-decima-septima.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA SEPTIMA": [
+          "Dom. anno B : Oculi ómnium, 343."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          1093,
+          587,
+          1131
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 313,
+      "img_file": "7_tempus-per-annum__17_hebdomada-decima-septima__p03.png",
+      "pdf_path": "7_tempus-per-annum\\17_hebdomada-decima-septima.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA SEPTIMA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 314,
+      "img_file": "7_tempus-per-annum__17_hebdomada-decima-septima__p04.png",
+      "pdf_path": "7_tempus-per-annum\\17_hebdomada-decima-septima.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA SEPTIMA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 315,
+      "img_file": "7_tempus-per-annum__17_hebdomada-decima-septima__p05.png",
+      "pdf_path": "7_tempus-per-annum\\17_hebdomada-decima-septima.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA OCTAVA": [
+          "Dom. anno À : Sitiéntes, 114."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          1466,
+          508,
+          1504
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 316,
+      "img_file": "7_tempus-per-annum__18_hebdomada-decima-octava__p01.png",
+      "pdf_path": "7_tempus-per-annum\\18_hebdomada-decima-octava.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA OCTAVA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 317,
+      "img_file": "7_tempus-per-annum__18_hebdomada-decima-octava__p02.png",
+      "pdf_path": "7_tempus-per-annum\\18_hebdomada-decima-octava.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA OCTAVA": [
+          "Dom. anno A : Oculi ómnium, 343.",
+          "Anno I, feria 6 : Tu es Deus, 275.",
+          "Anno II, sabbato : Adiütor in opportunitátibus, 69.",
+          "Feria 5 : Tu es Petrus, 576."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          116,
+          584,
+          154
+        ],
+        [
+          96,
+          155,
+          565,
+          186
+        ],
+        [
+          96,
+          191,
+          793,
+          222
+        ],
+        [
+          97,
+          1080,
+          471,
+          1111
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 318,
+      "img_file": "7_tempus-per-annum__18_hebdomada-decima-octava__p03.png",
+      "pdf_path": "7_tempus-per-annum\\18_hebdomada-decima-octava.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA OCTAVA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 319,
+      "img_file": "7_tempus-per-annum__18_hebdomada-decima-octava__p04.png",
+      "pdf_path": "7_tempus-per-annum\\18_hebdomada-decima-octava.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA OCTAVA": [
+          "Dom. anno C : Sanctificávit Móyses, 338.",
+          "Feria 6 : Qui vult veníre post me, 484."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          95,
+          120,
+          662,
+          157
+        ],
+        [
+          98,
+          996,
+          617,
+          1027
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 320,
+      "img_file": "7_tempus-per-annum__19_hebdomada-decima-nona__p01.png",
+      "pdf_path": "7_tempus-per-annum\\19_hebdomada-decima-nona.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA NONA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 321,
+      "img_file": "7_tempus-per-annum__19_hebdomada-decima-nona__p02.png",
+      "pdf_path": "7_tempus-per-annum\\19_hebdomada-decima-nona.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA NONA": [
+          "Dom. anno À : Osténde, 31.",
+          "— anno C : Beáta gens, 333."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          757,
+          487,
+          795
+        ],
+        [
+          126,
+          793,
+          533,
+          832
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 322,
+      "img_file": "7_tempus-per-annum__19_hebdomada-decima-nona__p03.png",
+      "pdf_path": "7_tempus-per-annum\\19_hebdomada-decima-nona.pdf",
+      "subsections": {
+        "HEBDOMADA DECIMA NONA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 323,
+      "img_file": "7_tempus-per-annum__19_hebdomada-decima-nona__p04.png",
+      "pdf_path": "7_tempus-per-annum\\19_hebdomada-decima-nona.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA": [
+          "Anno Il, feria 5 : Dum sanctificátus, 249."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          102,
+          1465,
+          664,
+          1494
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 324,
+      "img_file": "7_tempus-per-annum__20_hebdomada-vigesima__p01.png",
+      "pdf_path": "7_tempus-per-annum\\20_hebdomada-vigesima.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 325,
+      "img_file": "7_tempus-per-annum__20_hebdomada-vigesima__p02.png",
+      "pdf_path": "7_tempus-per-annum\\20_hebdomada-vigesima.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA": [
+          "Dom. anno B : Caro mea, 378."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          424,
+          519,
+          462
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 326,
+      "img_file": "7_tempus-per-annum__20_hebdomada-vigesima__p03.png",
+      "pdf_path": "7_tempus-per-annum\\20_hebdomada-vigesima.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA": [
+          "Dom. anno A : Domus mea, 402.",
+          "— | — B:Qui mandáücat, 383.",
+          "Feria 3 : Amen dico vobis : Quod vos, 436."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          328,
+          551,
+          358
+        ],
+        [
+          125,
+          359,
+          580,
+          398
+        ],
+        [
+          95,
+          400,
+          675,
+          430
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 327,
+      "img_file": "7_tempus-per-annum__21_hebdomada-vigesima-prima__p01.png",
+      "pdf_path": "7_tempus-per-annum\\21_hebdomada-vigesima-prima.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA PRIMA": [
+          "Anno II, sabbato : Beáta gens, 333."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          1283,
+          582,
+          1313
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 328,
+      "img_file": "7_tempus-per-annum__21_hebdomada-vigesima-prima__p02.png",
+      "pdf_path": "7_tempus-per-annum\\21_hebdomada-vigesima-prima.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA PRIMA": [
+          "Dom. anno A : Tu es Petrus, 576.",
+          "Dom. anno B : Spíritus est qui vivíficat, 245.",
+          "Feria 6 : Quinque prudéntes vírgines, 502."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          99,
+          823,
+          565,
+          860
+        ],
+        [
+          99,
+          860,
+          709,
+          898
+        ],
+        [
+          98,
+          900,
+          666,
+          930
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 329,
+      "img_file": "7_tempus-per-annum__21_hebdomada-vigesima-prima__p03.png",
+      "pdf_path": "7_tempus-per-annum\\21_hebdomada-vigesima-prima.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA PRIMA": [
+          "Ad libitum : Qui mandücat, 383.",
+          "Sabbato : Dómine, quinque talénta, 515."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          1256,
+          524,
+          1288
+        ],
+        [
+          99,
+          1404,
+          646,
+          1434
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 330,
+      "img_file": "7_tempus-per-annum__22_hebdomada-vigesima-secunda__p00.png",
+      "pdf_path": "7_tempus-per-annum\\22_hebdomada-vigesima-secunda.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA SECUNDA": [
+          "GR. Timébunt gentes, 265.",
+          "Anno II, feria 4 : Beáta gens, 333.",
+          "— sabbato : Prope est Dóminus, 35."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          1176,
+          467,
+          1206
+        ],
+        [
+          98,
+          1223,
+          562,
+          1254
+        ],
+        [
+          142,
+          1257,
+          679,
+          1295
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 331,
+      "img_file": "7_tempus-per-annum__22_hebdomada-vigesima-secunda__p01.png",
+      "pdf_path": "7_tempus-per-annum\\22_hebdomada-vigesima-secunda.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA SECUNDA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 332,
+      "img_file": "7_tempus-per-annum__22_hebdomada-vigesima-secunda__p02.png",
+      "pdf_path": "7_tempus-per-annum\\22_hebdomada-vigesima-secunda.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA SECUNDA": [
+          "Feria 2 : Mirabántur, 267.",
+          "Feria 4 : Multitüdo languéntium, 471."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          99,
+          842,
+          456,
+          872
+        ],
+        [
+          99,
+          878,
+          610,
+          908
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 333,
+      "img_file": "7_tempus-per-annum__23_hebdomada-vigesima-tertia__p01.png",
+      "pdf_path": "7_tempus-per-annum\\23_hebdomada-vigesima-tertia.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA TERTIA": [
+          "Dom. anno C : Dómine, refügium, 347.",
+          "Anno II, feria 4 : Audi, fília, 406."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          1425,
+          636,
+          1463
+        ],
+        [
+          98,
+          1465,
+          554,
+          1495
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 334,
+      "img_file": "7_tempus-per-annum__23_hebdomada-vigesima-tertia__p02.png",
+      "pdf_path": "7_tempus-per-annum\\23_hebdomada-vigesima-tertia.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA TERTIA": [
+          "Feria 3 : Ego vos elégi de mundo, 429."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          100,
+          781,
+          617,
+          811
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 335,
+      "img_file": "7_tempus-per-annum__23_hebdomada-vigesima-tertia__p03.png",
+      "pdf_path": "7_tempus-per-annum\\23_hebdomada-vigesima-tertia.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA TERTIA": [
+          "Feria 3 : Multitüdo languéntium, 471."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          1385,
+          609,
+          1415
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 336,
+      "img_file": "7_tempus-per-annum__24_hebdomada-vigesima-quarta__p00.png",
+      "pdf_path": "7_tempus-per-annum\\24_hebdomada-vigesima-quarta.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA QUARTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 337,
+      "img_file": "7_tempus-per-annum__24_hebdomada-vigesima-quarta__p01.png",
+      "pdf_path": "7_tempus-per-annum\\24_hebdomada-vigesima-quarta.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA QUARTA": [
+          "Anno I, feria 2 : In Deo sperávit, 311.",
+          "Anno Il, feria 4 : Beáta gens, 333."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          444,
+          620,
+          474
+        ],
+        [
+          98,
+          480,
+          563,
+          510
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 338,
+      "img_file": "7_tempus-per-annum__24_hebdomada-vigesima-quarta__p02.png",
+      "pdf_path": "7_tempus-per-annum\\24_hebdomada-vigesima-quarta.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA QUARTA": [
+          "Dom. anno C : Precátus est, 317."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          1100,
+          550,
+          1138
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 339,
+      "img_file": "7_tempus-per-annum__24_hebdomada-vigesima-quarta__p03.png",
+      "pdf_path": "7_tempus-per-annum\\24_hebdomada-vigesima-quarta.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA QUARTA": [
+          "Anno II, feria 2 : Hoc corpus quod pro vobis tradétur, 170."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          444,
+          899,
+          474
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 340,
+      "img_file": "7_tempus-per-annum__25_hebdomada-vigesima-quinta__p01.png",
+      "pdf_path": "7_tempus-per-annum\\25_hebdomada-vigesima-quinta.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA QUINTA": [
+          "Dom. anno A : Prope est Dóminus, 35.",
+          "— — C : Quis sicut Dóminus, 269.",
+          "Anno I, feria 3 : Latátus sum, 336.",
+          "Anno Il, feria 5 et sabb. : Dómine, refügium, 347."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          99,
+          993,
+          633,
+          1032
+        ],
+        [
+          128,
+          1033,
+          658,
+          1063
+        ],
+        [
+          99,
+          1069,
+          581,
+          1099
+        ],
+        [
+          99,
+          1105,
+          791,
+          1135
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 341,
+      "img_file": "7_tempus-per-annum__25_hebdomada-vigesima-quinta__p02.png",
+      "pdf_path": "7_tempus-per-annum\\25_hebdomada-vigesima-quinta.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA QUINTA": [
+          "Anno II, feria 5 et sabb. : Dómine, refügium, 321."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          95,
+          465,
+          789,
+          496
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 342,
+      "img_file": "7_tempus-per-annum__25_hebdomada-vigesima-quinta__p03.png",
+      "pdf_path": "7_tempus-per-annum\\25_hebdomada-vigesima-quinta.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA QUINTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 343,
+      "img_file": "7_tempus-per-annum__26_hebdomada-vigesima-sexta__p01.png",
+      "pdf_path": "7_tempus-per-annum\\26_hebdomada-vigesima-sexta.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA SEXTA": [
+          "Dom. anno A : In nómine Dómini, 155."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          630,
+          643,
+          669
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 344,
+      "img_file": "7_tempus-per-annum__26_hebdomada-vigesima-sexta__p02.png",
+      "pdf_path": "7_tempus-per-annum\\26_hebdomada-vigesima-sexta.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA SEXTA": [
+          "Dom. anno A : Christus factus est, 148.",
+          "Anno I, feria 6 : Propítius esto, 288."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          573,
+          636,
+          611
+        ],
+        [
+          97,
+          614,
+          591,
+          644
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 345,
+      "img_file": "7_tempus-per-annum__26_hebdomada-vigesima-sexta__p03.png",
+      "pdf_path": "7_tempus-per-annum\\26_hebdomada-vigesima-sexta.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA SEXTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 346,
+      "img_file": "7_tempus-per-annum__26_hebdomada-vigesima-sexta__p04.png",
+      "pdf_path": "7_tempus-per-annum\\26_hebdomada-vigesima-sexta.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA SEXTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 347,
+      "img_file": "7_tempus-per-annum__27_hebdomada-vigesima-septima__p01.png",
+      "pdf_path": "7_tempus-per-annum\\27_hebdomada-vigesima-septima.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA SEPTIMA": [
+          "Anno Il, feria 3 : De ventre matris mez, 570."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          961,
+          713,
+          991
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 348,
+      "img_file": "7_tempus-per-annum__27_hebdomada-vigesima-septima__p02.png",
+      "pdf_path": "7_tempus-per-annum\\27_hebdomada-vigesima-septima.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA SEPTIMA": [
+          "Anno Il, feria 4 : Qui operátus est Petro, 536."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          101,
+          937,
+          717,
+          968
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 349,
+      "img_file": "7_tempus-per-annum__27_hebdomada-vigesima-septima__p03.png",
+      "pdf_path": "7_tempus-per-annum\\27_hebdomada-vigesima-septima.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA SEPTIMA": [
+          "Anno II, feria 4: Laudáte Dóminum, 273."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          426,
+          678,
+          456
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 350,
+      "img_file": "7_tempus-per-annum__27_hebdomada-vigesima-septima__p04.png",
+      "pdf_path": "7_tempus-per-annum\\27_hebdomada-vigesima-septima.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA SEPTIMA": [
+          "Feria 3 : Optimam partem, 507.",
+          "Feria 5 : Petíte, 314."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          1060,
+          527,
+          1090
+        ],
+        [
+          98,
+          1096,
+          375,
+          1126
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 351,
+      "img_file": "7_tempus-per-annum__28_hebdomada-vigesima-octava__p01.png",
+      "pdf_path": "7_tempus-per-annum\\28_hebdomada-vigesima-octava.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA OCTAVA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 352,
+      "img_file": "7_tempus-per-annum__28_hebdomada-vigesima-octava__p02.png",
+      "pdf_path": "7_tempus-per-annum\\28_hebdomada-vigesima-octava.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA OCTAVA": [
+          "Dom. anno A : Si ámbulem, 125.",
+          "Anno I, feria 3 : In omnem terram, 427.",
+          "Anno II, feria 6 : Beáta gens, 333.",
+          "— . sabbato : Glória et honóre, 476."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          96,
+          407,
+          550,
+          445
+        ],
+        [
+          97,
+          448,
+          644,
+          478
+        ],
+        [
+          97,
+          484,
+          560,
+          514
+        ],
+        [
+          142,
+          516,
+          657,
+          555
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 353,
+      "img_file": "7_tempus-per-annum__28_hebdomada-vigesima-octava__p03.png",
+      "pdf_path": "7_tempus-per-annum\\28_hebdomada-vigesima-octava.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA OCTAVA": [
+          "Feria 6 : Dico autem vobis, 470."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          100,
+          1467,
+          534,
+          1496
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 354,
+      "img_file": "7_tempus-per-annum__29_hebdomada-vigesima-nona__p00.png",
+      "pdf_path": "7_tempus-per-annum\\29_hebdomada-vigesima-nona.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA NONA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 355,
+      "img_file": "7_tempus-per-annum__29_hebdomada-vigesima-nona__p01.png",
+      "pdf_path": "7_tempus-per-annum\\29_hebdomada-vigesima-nona.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA NONA": [
+          "Anno II, sabbato : Lztátus sum, 336."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          1267,
+          612,
+          1297
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 356,
+      "img_file": "7_tempus-per-annum__29_hebdomada-vigesima-nona__p02.png",
+      "pdf_path": "7_tempus-per-annum\\29_hebdomada-vigesima-nona.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA NONA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 357,
+      "img_file": "7_tempus-per-annum__29_hebdomada-vigesima-nona__p03.png",
+      "pdf_path": "7_tempus-per-annum\\29_hebdomada-vigesima-nona.pdf",
+      "subsections": {
+        "HEBDOMADA VIGESIMA NONA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 358,
+      "img_file": "7_tempus-per-annum__30_hebdomada-trigesima__p01.png",
+      "pdf_path": "7_tempus-per-annum\\30_hebdomada-trigesima.pdf",
+      "subsections": {
+        "HEBDOMADA TRIGESIMA": [
+          "Dom. anno C : Clamavérunt iusti, 454."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          1280,
+          630,
+          1311
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 359,
+      "img_file": "7_tempus-per-annum__30_hebdomada-trigesima__p02.png",
+      "pdf_path": "7_tempus-per-annum\\30_hebdomada-trigesima.pdf",
+      "subsections": {
+        "HEBDOMADA TRIGESIMA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 360,
+      "img_file": "7_tempus-per-annum__31_hebdomada-trigesima-prima__p00.png",
+      "pdf_path": "7_tempus-per-annum\\31_hebdomada-trigesima-prima.pdf",
+      "subsections": {
+        "HEBDOMADA TRIGESIMA PRIMA": [
+          "Dom. anno C : Miseréris ómnium, 62."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          994,
+          622,
+          1030
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 361,
+      "img_file": "7_tempus-per-annum__31_hebdomada-trigesima-prima__p01.png",
+      "pdf_path": "7_tempus-per-annum\\31_hebdomada-trigesima-prima.pdf",
+      "subsections": {
+        "HEBDOMADA TRIGESIMA PRIMA": [
+          "Anno II, feria 6 : Lztátus sum, 336.",
+          "Anno II, sabbato : Beátus vir qui timet, 475."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          97,
+          779,
+          593,
+          810
+        ],
+        [
+          96,
+          815,
+          705,
+          846
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 362,
+      "img_file": "7_tempus-per-annum__31_hebdomada-trigesima-prima__p02.png",
+      "pdf_path": "7_tempus-per-annum\\31_hebdomada-trigesima-prima.pdf",
+      "subsections": {
+        "HEBDOMADA TRIGESIMA PRIMA": [
+          "Dom. anno C : O quam bonus, 517.",
+          "Anno II, feria 6 : Lztátus sum, 19.",
+          "— sabbato : Beátus vir qui timet, 511."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          123,
+          591,
+          162
+        ],
+        [
+          98,
+          162,
+          578,
+          191
+        ],
+        [
+          143,
+          198,
+          707,
+          229
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 363,
+      "img_file": "7_tempus-per-annum__31_hebdomada-trigesima-prima__p03.png",
+      "pdf_path": "7_tempus-per-annum\\31_hebdomada-trigesima-prima.pdf",
+      "subsections": {
+        "HEBDOMADA TRIGESIMA PRIMA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 364,
+      "img_file": "7_tempus-per-annum__32_hebdomada-trigesima-secunda__p01.png",
+      "pdf_path": "7_tempus-per-annum\\32_hebdomada-trigesima-secunda.pdf",
+      "subsections": {
+        "HEBDOMADA TRIGESIMA SECUNDA": [
+          "Anno I, feria 3 : Benedícam Dóminum, 316.",
+          "— feria 6: In omnem terram, 427.",
+          "Anno Il, sabbato : Beátus vir qui timet, 475.",
+          "Dom. anno A : Quinque prudéntes vírgines, 502.",
+          "Anno I, feria 3 : Fulgébunt iusti, 460."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          98,
+          634,
+          699,
+          664
+        ],
+        [
+          143,
+          670,
+          647,
+          700
+        ],
+        [
+          97,
+          706,
+          707,
+          737
+        ],
+        [
+          99,
+          1396,
+          762,
+          1434
+        ],
+        [
+          99,
+          1436,
+          616,
+          1466
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 365,
+      "img_file": "7_tempus-per-annum__32_hebdomada-trigesima-secunda__p02.png",
+      "pdf_path": "7_tempus-per-annum\\32_hebdomada-trigesima-secunda.pdf",
+      "subsections": {
+        "HEBDOMADA TRIGESIMA SECUNDA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 366,
+      "img_file": "7_tempus-per-annum__33_hebdomada-trigesima-tertia__p00.png",
+      "pdf_path": "7_tempus-per-annum\\33_hebdomada-trigesima-tertia.pdf",
+      "subsections": {
+        "HEBDOMADA TRIGESIMA TERTIA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 367,
+      "img_file": "7_tempus-per-annum__33_hebdomada-trigesima-tertia__p01.png",
+      "pdf_path": "7_tempus-per-annum\\33_hebdomada-trigesima-tertia.pdf",
+      "subsections": {
+        "HEBDOMADA TRIGESIMA TERTIA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 368,
+      "img_file": "7_tempus-per-annum__33_hebdomada-trigesima-tertia__p02.png",
+      "pdf_path": "7_tempus-per-annum\\33_hebdomada-trigesima-tertia.pdf",
+      "subsections": {
+        "HEBDOMADA TRIGESIMA TERTIA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 369,
+      "img_file": "7_tempus-per-annum__33_hebdomada-trigesima-tertia__p03.png",
+      "pdf_path": "7_tempus-per-annum\\33_hebdomada-trigesima-tertia.pdf",
+      "subsections": {
+        "HEBDOMADA TRIGESIMA TERTIA": [
+          "Dom. anno À : Dómine, quinque talénta, 515.",
+          "— 6: Domus mea, 402."
+        ],
+        "HEBDOMADA TRIGESIMA QUARTA": [
+          "versorum Regis, 388.",
+          "GR. vel AL. ut in solemnitate Trinitatis, 372."
+        ]
+      },
+      "citation_bboxes": [
+        [
+          99,
+          112,
+          722,
+          152
+        ],
+        [
+          129,
+          188,
+          463,
+          218
+        ],
+        [
+          99,
+          369,
+          358,
+          398
+        ],
+        [
+          98,
+          1285,
+          680,
+          1315
+        ]
+      ],
+      "status": "pending",
+      "reviewed": null
+    },
+    {
+      "graduale_page": 370,
+      "img_file": "7_tempus-per-annum__34_hebdomada-trigesima-quarta__p01.png",
+      "pdf_path": "7_tempus-per-annum\\34_hebdomada-trigesima-quarta.pdf",
+      "subsections": {
+        "HEBDOMADA TRIGESIMA QUARTA": []
+      },
+      "citation_bboxes": [],
+      "status": "pending",
+      "reviewed": null
+    }
+  ]
+}

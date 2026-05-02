@@ -1,0 +1,17 @@
+[
+  {
+    "id": 11,
+    "pdf_path": "1_tempus-adventus\\4_in-ultimis-feriis\\6_sabbato.pdf",
+    "subsection": "SABBATO",
+    "page_idx": 1,
+    "graduale_page": 34,
+    "ocr_text": "OF. et CO. e dom. IV Adventus, 36.",
+    "bbox": [
+      97,
+      853,
+      571,
+      883
+    ],
+    "img_file": "1_tempus-adventus__4_in-ultimis-feriis__6_sabbato__p01.png"
+  }
+]

@@ -1,0 +1,6 @@
+PyMuPDF
+pytesseract
+Pillow
+sqlalchemy
+mysql-connector-python
+liturgio-tools @ git+https://github.com/drj-chantschool/liturgio-tools.git

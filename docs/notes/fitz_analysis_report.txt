@@ -1,0 +1,147 @@
+==========================================================================================
+FITZ TEXT LAYER ANALYSIS: GR SECTION GRADUALE PDF PLAINTEXT CITATIONS
+==========================================================================================
+
+
+EXECUTIVE SUMMARY
+------------------------------------------------------------------------------------------
+
+The Graduale PDFs (specifically 0_tempus-nativitatis.pdf and 0_tempus-per-annum.pdf) are 
+scanned PDF documents with OCR-generated text layers. Key characteristics:
+
+TEXT EXTRACTION STATUS:
+  - fitz.get_text("text") and fitz.get_text("blocks") methods WORK
+  - fitz.get_text("rawdict") returns EMPTY text blocks (structural issue with OCR'd PDFs)
+  - No embedded searchable text layer; text is reconstructed from image OCR
+  - Encoding issues with diacritics and Latin characters present
+
+PDF STRUCTURE:
+  - Format: PDF 1.7 (unencrypted)
+  - Page 16 (0_tempus-nativitatis.pdf): ~32 image blocks, 0 text blocks in rawdict, 1072 chars extracted
+  - Page 47 (0_tempus-per-annum.pdf): ~44 image blocks, 0 text blocks in rawdict, 967 chars extracted
+  - Most content is image-based with OCR layer on top
+
+
+
+KEY FINDINGS FROM EXTRACTED TEXT
+------------------------------------------------------------------------------------------
+
+1. PART TYPE PREFIXES FOUND:
+   These are used to mark different parts of the liturgy:
+   Page 16: GR, OF, AL, IN, CO
+   Page 47: IN, co
+
+   - IN. = Introitus (Introit)
+   - GR. = Graduale (Gradual)
+   - OF. = Offertorium (Offertory)
+   - CO. = Communio (Communion)
+   - AL. = Alleluia
+
+
+2. PAGE NUMBER REFERENCES:
+   Format: Citation title, page_number.
+   Examples found:
+   Page 16: 422, 52, 403, 408, 47, 11, 414
+
+   Pattern: "Salve, sancta Parens, 403." where 403 = page in Gregorian source
+   Examples:
+     - Salve, sancta Parens, 403.
+     - Lux fulgebit, 44.
+     - Diffusa est gratia, 408.
+     - Felix namque es, 422.
+     - Exsulta, filia Sion, 47.
+     - Vel ad libitum: Ego autem cum iustitia, 94.
+     - Dom. anno B: Ostende nobis, 31.
+     - Anno I, feria 2: Anima nostra, 453.
+
+
+3. DASH REPLACEMENTS:
+   Triple dashes '---' used for music notation/special content:
+   - Page 16: 10 occurrences
+   - Page 47: 13 occurrences
+   - Page 48: 7 occurrences
+   - Page 49: 8 occurrences
+
+   Note: Triple dashes appear to mark boundaries or replaced musical notation
+
+
+4. ALTERNATIVE MARKERS (vel/Vel ad libitum):
+   Found: {'Vel ad libitum :', 'vel cant. Magnificat:'}
+
+   Pattern: "vel cant. Magnificat: Lc 1, 46-55"
+   Meaning: "or sing Magnificat (Luke 1:46-55)"
+   Pattern: "Vel ad libitum: [Citation with page number]"
+   Meaning: "Or at choice: [alternative citation]"
+
+
+5. OVERRIDE MARKERS (temporal variants):
+   Found patterns: {'Dom. anno B :', 'Anno I, feria 2:'}
+
+   Examples from Page 49:
+     - "Dom. anno B : Ostende nobis, 31."
+       (For Sunday in year B, use 'Ostende nobis' from page 31)
+     - "Anno I, feria 2: Anima nostra, 453."
+       (For year 1, weekday 2, use 'Anima nostra' from page 453)
+   These are temporal overrides/customizations
+
+
+6. BIBLICAL REFERENCES:
+   Pattern: Book abbr. Chapter:Verse[, verse list]
+
+   Examples found:
+     - Sap. 18, 14-15; Ps. 92 (Wisdom 18:14-15; Psalm 92)
+     - Lc 1, 46-47. 48. 49. 50. 51. 52. 53. 54. 55 (Luke 1:46-55)
+     - Ps. 33, praeter v. 9. (Psalm 33 except verse 9)
+     - Ps. 54, 17. 18. 19. 20. 23 et 2 (Psalm 54, verses 17-20, 23, plus 2)
+     - Ps. 16, 8. Y. 2 (Psalm 16:8, with verse 2)
+     - Ps. 64, 2 (Psalm 64:2)
+
+
+
+FILTHINESS ASSESSMENT OF FITZ TEXT LAYER
+------------------------------------------------------------------------------------------
+
+OCR QUALITY: POOR
+  - Numerous encoding errors (diacritics replaced with symbols like •, ·, ¯)
+  - Character corruption: "MARI.lE" should be "MARIAE", "GENITRICIS" -> "SANCT 1E"
+  - Fragment corruption: "Resp6nsum" should be "Responsum", "6-" for "O-"
+  - Boundary artifacts from overlapping music notation and text
+
+TEXT USABILITY: MODERATE TO LOW
+  - Part prefixes (IN., GR., etc.) are generally clean
+  - Page references are mostly extractable with regex: \d{2,3}\.
+  - Biblical references present but need careful parsing
+  - Music notation creates extensive noise in text layer
+  - Temporal markers (Dom., Anno) are extractable
+
+RECOMMENDATIONS FOR CITATION PARSING:
+  1. Use get_text("blocks") or get_text("text"), NOT get_text("rawdict")
+  2. Extract part prefixes: (IN|GR|OF|CO|AL|RESP|TRACT|GRAD)\.\s
+  3. Extract page refs: citation_text,\s*(\d{2,3})\.
+  4. Handle "vel" alternatives: split on [Vv]el\s+(?:ad libitum)?\s*:
+  5. Handle temporal overrides: (?:Dom\.|Anno\s+\w+,\s*feria\s+\d)\s*:\s*[^:]+,\s*\d+
+  6. Clean OCR artifacts:
+     - Replace common diacritical errors (need mapping table)
+     - Handle split words from line breaks: "MARI.lE" -> "MARIAE"
+     - Strip leading/trailing dashes and special chars
+
+
+
+FONT SIZE & LAYOUT OBSERVATIONS
+------------------------------------------------------------------------------------------
+
+NOTE: rawdict method returns 0 spans, so detailed font metrics unavailable.
+      However, from visual inspection of extracted text:
+
+HEADING LEVEL: 
+  - "SOLLEMNITAS SANCTAE DEI GENETRICIS MARIAE" - largest/prominent
+  - "HEBDOMADA XV" - section headers
+
+CITATION LEVEL:
+  - Part prefixes (IN., GR., etc.) on own lines
+  - Citation titles with page numbers on separate lines
+  - Temporal overrides/alternatives clearly marked
+
+MUSIC NOTATION LEVEL:
+  - Musical staff symbols appear as ASCII artifacts and dashes
+  - Heavily interleaved with text, making segmentation difficult

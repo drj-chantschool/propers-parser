@@ -1,0 +1,448 @@
+
+==========================================================================================
+SOLLEMNITAS SANCTAE DEI GENETRICIS MARIAE (All Citations)
+PDF: C:\Users\johna\python\propers-parser\graduale\1\2_tempus-nativitatis\0_tempus-nativitatis.pdf
+Page: 16
+==========================================================================================
+
+Raw extracted text (1072 chars):
+------------------------------------------------------------------------------------------
+DOMINICA II POST NATIVITATEM 
+53 
+•, 
+•• I $.. 
+I 
+r·r··.· 
+•. 
+. 
+I 
+·
+· 	 
+IILi 
+.  
+I lh-! -i • ., • 
+•., 
+&'()*. 
+I·· 
+··% 
+--' -T•f\:!1! ;::---
+-!.-=--+::..:.-U
+ 
+0. 
+CO. 
+Resp6nsum, 544· 
+-
+I Iii• 
+Die 29 decembris 
+Die 1 ianuarii 
+In octava Nativitatis Domini 
+SOLLEMNITAS SANCT 1E DEI GENETRICIS MARI.lE 
+IN. 
+Salve, sancta Parens, 403. 
+Lux fulgebit, 44· 
+GR. Diffusa est gratia, 408. 
+AL. Post partum, 414. 
+Multifarie, 52. 
+OF. Felix namque es, 422. 
+CO. Exsulta, filia Sion, 47, 
+cum ps. 44*, 2 ab. 9. 10. 11. 12. 13. 14 (Differentia : g) 
+vel cant. Magnificat: Lc 1, 46-47. 48. 49· 50. 51. 52. 53· 54· 55 
+DOMINICA SECUNDA POST NATMTATEM 
+IN. VIII c 
+• 
+6 P 
+-
+I 
+t.
+• 
+,._  
+___ _,11,..••-•=--
+-=•=-=-•- •-
+ 
+#: I ; 
+• 
+r--
+1 
+D 
+= 
+ 
+Sap. 18, 74-15; Ps. 92 
+UM me-
+r-·...,.·== 
+di- urn 
+si- len- ti-
+urn • tene-
+rent 
+ 
+I 
+I 
+I 
+•• 1----
+--i-------IIHII-1 
+iii 
+••
+• N-
+• 
+C ••• 
+t 
+--------------------
+6- mni-
+a, 
+et nox in su-o cur-su me-di-
+• 
+Q 
+. 
+. .. 
+I 
+"" 
+I 
+habe-
+ret, 
+omni- pot-ens sermo tu- us, D6-
+urn i-
+ter 
+r· =d-
+mi-
+ne, 
+
+------------------------------------------------------------------------------------------
+
+
+Pattern Analysis:
+------------------------------------------------------------------------------------------
+Found part prefixes: {'GR', 'CO', 'IN', 'OF', 'AL'}
+Possible page numbers: {'53', '55', '92'}
+Triple dashes '---': 10
+Alternative patterns: {'vel cant. Magnificat:'}
+
+==========================================================================================
+HEBDOMADA XV p.1 (Mixed Citations & Chant)
+PDF: C:\Users\johna\python\propers-parser\graduale\1\7_tempus-per-annum\0_tempus-per-annum.pdf
+Page: 47
+==========================================================================================
+
+Raw extracted text (967 chars):
+------------------------------------------------------------------------------------------
+HEBDOMADA XV 
+z --=---11-1 11 
+••• 
+1 '\ y 
+••• 
+1 n- y 
+. N 
+"'-li -1=i---l5----
+---'-"-'n.i'-l -1-H••.·-=-. --'-'--T':'-+-1 .. )-. ;;;-:. 
+,:--l :4e-;.d! . f--1 
+•• ,._. ---l-.:'----+11---
+praeter te, D6-
+mi-
+ne? 
+-------
+Ps. JJ, 9 
+co. III G 
+: I I 
+I 
+I 
+II I 
+•• 
+II I 
+j 
+{•-----------1
+---= • . 11-..
+ll|}•~j
+
+·
+-
+c 
+G 
+I. 
+(• 
+-,1, 
+Usta-te 
+et vi-de-
+te,* qu6-
+ni-
+am su-a- vis 
+est 
+D6mi-
+!II I 
+i 
+;±: 
+nus: be-
+I = 
+I 
+•• 
+I 
+a-tus 
+e-
+o. 
+T.P. Aile-
+lu-
+ia. 
+··- ,-: . 
+I 
+: 
+I -·& ··· 
+vir,qui 
+spe-rat in 
+Ps. 33, pra!ter y. 9· 
+Sabbato: Quod dico vobis, 472, cum ps. 33*. 
+HEBDOMADA DECIMA QUINTA 
+i 
+Ps. 54, 17. 18. 19. 20. 23 et 2 
+IN. III c 
+·= 
+• Q 
+I 
+D 
+j• 
+UM cia- rna-rem 
+lti  
+..,1 ..
+. ,·: I 
+I 
+vo- cem me-
+am, 
+G 
+=2 
+:I· 
+I 
+O. 
+;fi 
+I 
+I 
+• 
+mi-
+hi : 
+et humi-
+Ii- a-
+6-· ·· 
+··II
+ 
+( 
+ad D6- mi-num, • exaudi-
+vit 
+II 
+= 
+I 
+I 
+I 
+ab his qui 
+appro-
+pinquant 
+I /0 .. 
+II 
+II  
+3· 
+' 
+I 
+I 
+I 
+vit 
+e-
+OS, qui 
+est 
+ante sae-
+
+------------------------------------------------------------------------------------------
+
+
+Pattern Analysis:
+------------------------------------------------------------------------------------------
+Found part prefixes: {'IN', 'co'}
+Possible page numbers: {'11'}
+Triple dashes '---': 13
+
+==========================================================================================
+HEBDOMADA XV p.2 (Mixed Citations & Chant)
+PDF: C:\Users\johna\python\propers-parser\graduale\1\7_tempus-per-annum\0_tempus-per-annum.pdf
+Page: 48
+==========================================================================================
+
+Raw extracted text (773 chars):
+------------------------------------------------------------------------------------------
+TEMPUS PER ANNUM 
+cu-
+la, 
+et rna-
+net 
+in ae-
+ter-
+num: ia- eta 
+cogi-
+c • 
+• 
+• 
+• 
+ 
+• N r.: I 
+• 
+• JI'- I .•, •• •• 
+• 
+ta-tum tu- urn in D6mi-
+no, 
+et 
+ipse te 
+e-
+C 
+= 
+• 
+I -tt-._._•• -t•t----tat---a-1-li .. 
+, -+-1 -11r--1....-t, 
+• /n :___u_ll 
+
+• 
+----
+nutri-
+et. Ps. Exaudi De- us o-ra-ti- 6-nem me- am, et ne 
+c 
+• 
+• 
+• 
+• 
+• 
+•
+•
+•
+•
+. 
+r. 
+Ill 
+despe-xe-ris depre-ca- ti-
+6-nem me-
+am : 
+et 
+ex-audi me. 
+intende mi-hi, 
+Vel ad libitum : Ego autem cum iustitia, 94-
+G 
+Ps. 16, 8. Y. 2 
+GR.I R--------+------
+-----r 
+II 0
+•
+., . I 
+• * N. ..... 
+OPQ, ... . =J 
+c 
+ 
+sub 
+I 
+I = 
+I 
+• r-1. 
+M 
+1-' r- ·f-il 
+•• 
+f-11 
+Ust6-di me, 
+* D6-
+mi-
+ne, 
+ut pu-pil-
+lam 
+.·r,. 
+·. =,, = 
+ 
+• 
+•. 
+r. 
+. L 
+, ., .. =: 
++-
+umbra 
+a-la-
+rum tu- a-
+rum 
+
+------------------------------------------------------------------------------------------
+
+
+Pattern Analysis:
+------------------------------------------------------------------------------------------
+Triple dashes '---': 7
+Alternative patterns: {'Vel ad libitum :'}
+
+==========================================================================================
+HEBDOMADA XV p.3 (Mixed Citations & Chant)
+PDF: C:\Users\johna\python\propers-parser\graduale\1\7_tempus-per-annum\0_tempus-per-annum.pdf
+Page: 49
+==========================================================================================
+
+Raw extracted text (496 chars):
+------------------------------------------------------------------------------------------
+HEBDOMADA XV 
+305 
+pr6-
+te-
+ge 
+8Cb9.:;<=>?------@---A=----------+­
+r· ••• 3--= ) ·2 ... 
+ 4-+t--
+---t---5-+r3=-6+r73 6_8 
+__ j 
+I 
+ 
+I
+l
+l
+• I 
+b I
+ 
+I 
+J 
+= 
+me. 
+y.r. De 
+iu-di-
+ci-
+c 
+• , .. Ill. 
+pr6d-e-
+at 
+: 
+6- cu- li 
+tu-
+c 
+vi-
+aequi-
+ta-
+tern. 
+Dom. anno B : Ostende nobis, 3 I. 
+Anno I, feria 2: Anima nostra, 453· 
+VII 
+c 
+Qr. fi•: r.r\ 
+A 
+I 
+I 
+L-Ie-
+lu-
+ia. 
+YUl- tu 
+tu-
+o 
+urn 
+me-
+urn 
+de-
+ant 
+Ps. 64, 2 
+I• 
+, •• 1\1. ·
+1 =1 
+I t_• 
+Y!. Te 
+de-cet hyrnnus, 
+De-
+us, 
+in 
+
+------------------------------------------------------------------------------------------
+
+
+Pattern Analysis:
+------------------------------------------------------------------------------------------
+Possible page numbers: {'305'}
+Triple dashes '---': 8
+Override patterns: {'Dom. anno B :', 'Anno I, feria 2:'}

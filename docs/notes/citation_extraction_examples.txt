@@ -1,0 +1,125 @@
+
+==========================================================================================
+DETAILED CITATION ENTRY EXAMPLES FROM FITZ TEXT EXTRACTION
+==========================================================================================
+
+PAGE 16 - SOLLEMNITAS SANCTAE DEI GENETRICIS MARIAE (All Citations, No Chant)
+------------------------------------------------------------------------------------------
+
+CLEANEST EXTRACTED SECTION:
+  SOLLEMNITAS SANCTAE DEI GENETRICIS MARIAE
+  IN.
+  Salve, sancta Parens, 403.
+  Lux fulgebit, 44.
+  GR. Diffusa est gratia, 408.
+  AL. Post partum, 414.
+  Multifarie, 52.
+  OF. Felix namque es, 422.
+  CO. Exsulta, filia Sion, 47,
+  cum ps. 44*, 2 ab. 9. 10. 11. 12. 13. 14 (Differentia : g)
+  vel cant. Magnificat: Lc 1, 46-47. 48. 49. 50. 51. 52. 53. 54. 55
+
+STRUCTURE ANALYSIS:
+  Line 1: Solemnity title (major heading)
+  Line 2: Part prefix (IN. = Introit)
+  Line 3: Citation title with source page (Salve, sancta Parens, 403.)
+  Line 4: Alternative citation (Lux fulgebit, 44.)
+  Line 5: Part prefix + citation (GR. Diffusa est gratia, 408.)
+  Line 6: Part prefix + citation (AL. Post partum, 414.)
+  Line 7: Alternative citation (Multifarie, 52.)
+  Line 8: Part prefix + citation (OF. Felix namque es, 422.)
+  Line 9: Part prefix + first citation (CO. Exsulta, filia Sion, 47,)
+  Line 10: Psalm reference (cum ps. 44*, 2 ab. 9. 10. 11. 12. 13. 14 (Differentia : g))
+  Line 11: Alternative marker (vel cant. Magnificat: [biblical ref])
+
+KEY PATTERNS:
+  - Part prefixes appear on same line or previous line
+  - Page numbers always follow comma: ", NNN."
+  - Alternative psalm/canticle marked with "vel cant."
+  - Biblical references: Book abbreviation, chapter:verses separated by periods
+  - Psalm ranges use "ab." (from) and multi-verse lists separated by periods
+
+
+PAGE 47-49 - HEBDOMADA XV (Mixed Citations with Music Notation Noise)
+------------------------------------------------------------------------------------------
+
+EXTRACTED WITH NOISE:
+  HEBDOMADA XV
+  z --=---11-1 11 
+  [musical notation as dashes/symbols]
+  Ps. JJ, 9 
+  [more musical notation]
+  co. III G
+  [extensive dashes and symbols: ---'-"-'n.i'-l -1-H••.·-=-. --'-'--T':'-+-1 .. )-. ;;;-:.]
+  
+  praeter te, D6-
+  mi-
+  ne?
+  -------
+  Ps. 33, pra!ter y. 9.
+  [more notation]
+  IN. III c
+  [musical notation]
+  UM cia- rna-rem
+  [musical line breaks]
+  
+CLEANED EXTRACTION (manual):
+  HEBDOMADA XV
+  Ps. 54, 17. 18. 19. 20. 23 et 2
+  IN. III c
+  [Introit reference from page context]
+  Ps. 33, praeter v. 9.
+  co. III G
+  [Communion from page context]
+  [Additional psalms and references follow]
+
+NOISE CHARACTERISTICS:
+  - Musical notation represented as: "---", "----", "-----" strings
+  - Staff symbols as: ":", "|", "II", "{", "}", etc.
+  - Diacritical corruption: "D6-" for "Do-", "mi-" for split lines
+  - Overlapping content makes line-based parsing unreliable
+  - Psalm verse ranges scattered: "Ps. 33, praeter v. 9." = "Psalm 33, except verse 9"
+
+
+TEMPORAL OVERRIDES - PAGE 49
+------------------------------------------------------------------------------------------
+
+RAW EXTRACT:
+  Dom. anno B : Ostende nobis, 3 I.
+  Anno I, feria 2: Anima nostra, 453.
+
+INTERPRETATION:
+  "Dom. anno B : Ostende nobis, 31."
+    - For: Sunday (Dom.) in liturgical year B
+    - Use instead: "Ostende nobis" citation
+    - Source page: 31 (ocr corruption: "3 I" should be "31")
+  
+  "Anno I, feria 2: Anima nostra, 453."
+    - For: Year 1 (Anno I), Weekday 2 (feria 2)
+    - Use instead: "Anima nostra" citation
+    - Source page: 453
+
+PATTERN FOR PARSING:
+  Pattern: (Dom\. anno [ABC]|Anno [IVX]+, feria [1-7])\s*:\s*([^,]+),\s*(\d{2,3})
+  Groups: (temporal_context) (citation_title) (source_page)
+
+
+ENCODING ERROR EXAMPLES
+------------------------------------------------------------------------------------------
+
+OCR produces consistent but wrong characters for diacriticals:
+
+  Correct        OCR Output       Unicode Issue
+  -------        ----------       -------
+  MARIAE         MARI.lE          period + lowercase-L for æ
+  GENETRICIS     SANCT 1E         '1' for 'I' in diphthong position
+  Domini         D6mi-           '6' for 'o' with combining diacritic
+  Responsum      Resp6nsum        '6' for 'o'
+  Offertorium    OF.             truncated/corrupted
+  
+REMEDIATION STRATEGY:
+  1. Build mapping table from known liturgical Latin terms
+  2. Use fuzzy matching against expected liturgical texts
+  3. Apply post-processing regex for common corruptions
+  4. Fall back to OCR confidence scores if available
+

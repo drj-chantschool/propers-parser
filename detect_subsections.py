@@ -27,6 +27,22 @@ HEADING_PATTERNS = [
     r"IN NATIVITATE",
     r"AD MISSAM",
     r"IN ASCENSIONE",
+    r"VIRGI",
+    r"DOCTOR",
+    r"EPISCOP",
+    r"MARTY",
+    r"PRESB",
+    r"DOMINI",
+    r"APOST",
+#    r"COMMUNE",           # Common of Saints cross-references
+#    r"PRO ",
+#    r"IN ",
+    r"S\.",
+    r"SS\.",
+    r"\b(?:IANUARI|FEBRUARI|MARTI|APRIL|MAI|IUNI|IULI|AUGUST|SEPTEMBR|OCTOBR|NOVEMBR|DECEMBR)",  # Latin month names (Sanctorale dates)
+    r"DIE",
+#    r"^\d{1,2}\.?\s",     # Arabic day-of-month numbers (Sanctorale dates)
+    r"\b(?:PRIM|SECUND|TERTI|QUART|QUINT|SEXT|SEPTIM|OCTAV|NON|DECIM)[AOU]",  # Latin ordinals
 ]
 
 HEADING_RE = re.compile("|".join(HEADING_PATTERNS), re.IGNORECASE)
@@ -50,11 +66,17 @@ def detect(pdf_path: Path) -> list[dict]:
                     continue
 
                 if HEADING_RE.search(line_text):
+                    if 'die' in line_text.lower():
+                        level=1
+                    elif 'S.' in line_text or 'SS.' in line_text:
+                        level=2
+                    else:
+                        level=0
                     results.append({
                         "page": i + 1,   # 1-indexed
                         "y": round(y, 1),
                         "size": round(sz, 1),
-                        "level": 0,
+                        "level": level,
                         "text": line_text,
                     })
 

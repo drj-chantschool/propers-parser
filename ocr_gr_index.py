@@ -12,12 +12,13 @@ from PIL import Image
 from pathlib import Path
 
 OUTPUT_CSV = Path(__file__).parent / "gr_chant_index_ocr.csv"
-INDEX_PDF = Path(__file__).parent / "graduale" / "8" / "8_indices.pdf"
+GR_PDF = Path(__file__).parent / "graduale" / "graduale romanum.pdf"
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
-IMAGE_PAGES = range(0, 2)
-FITZ_PAGES = range(2, 14)
+# Chapter 8 (INDICES) starts at PDF page 880 (1-indexed) = index 879 (0-indexed)
+IMAGE_PAGES = range(879, 881)
+FITZ_PAGES  = range(881, 893)
 
 
 _EXT_TRANS_DICT = {
@@ -177,7 +178,7 @@ def parse_ocr_lines(all_lines: list[str]) -> list[dict]:
 
 
 def main():
-    doc = fitz.open(str(INDEX_PDF))
+    doc = fitz.open(str(GR_PDF))
     all_lines: list[str] = []
 
     for pg_idx in list(IMAGE_PAGES) + list(FITZ_PAGES):

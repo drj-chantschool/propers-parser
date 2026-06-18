@@ -1,0 +1,185 @@
+[
+  {
+    "page": 4,
+    "y": 45.5,
+    "size": 10.8,
+    "level": 0,
+    "text": "COMMUNE DEDICATIONIS ECCLESIJE"
+  },
+  {
+    "page": 4,
+    "y": 66.6,
+    "size": 8.9,
+    "level": 1,
+    "text": "In ipsa ecclesia dedicata"
+  },
+  {
+    "page": 5,
+    "y": 290.8,
+    "size": 8.8,
+    "level": 1,
+    "text": "In allis ecclesiis"
+  },
+  {
+    "page": 9,
+    "y": 427.0,
+    "size": 8.9,
+    "level": 1,
+    "text": "In dedicatione altaris"
+  },
+  {
+    "page": 10,
+    "y": 33.7,
+    "size": 13.8,
+    "level": 0,
+    "text": "COMMUNE BEATAE MARIAE VIRGINIS"
+  },
+
+  {
+    "page": 12,
+    "y": 238.6,
+    "size": 10.9,
+    "level": 1,
+    "text": "Ad  libitum, pro solemnitatibus et festis  B. M. V. :"
+  },
+  {
+    "page": 31,
+    "y": 37.1,
+    "size": 10.9,
+    "level": 0,
+    "text": "COMMUNE APOSTOLORUM EXTRA T. P."
+  },
+  {
+    "page": 46,
+    "y": 45.8,
+    "size": 10.9,
+    "level": 0,
+    "text": "COMMUNE APOSTOLORUM VEL MARTYRUM IN T. P."
+  },
+  {
+    "page": 46,
+    "y": 123.8,
+    "size": 8.8,
+    "level": 1,
+    "text": "Pro Apostolis"
+  },
+  {
+    "page": 46,
+    "y": 208.2,
+    "size": 8.8,
+    "level": 1,
+    "text": "Pro pluribus Apostolis vel martyribus"
+  },
+  {
+    "page": 49,
+    "y": 368.2,
+    "size": 8.9,
+    "level": 1,
+    "text": "Pro uno Apostolo vel martyre"
+  },
+  {
+    "page": 52,
+    "y": 34.9,
+    "size": 10.9,
+    "level": 0,
+    "text": "COMMUNE MARTYRUM EXTRA T. P."
+  },
+  {
+    "page": 52,
+    "y": 68.4,
+    "size": 8.8,
+    "level": 1,
+    "text": "Pro papis vel episcopis"
+  },
+  {
+    "page": 54,
+    "y": 396.5,
+    "size": 8.8,
+    "level": 1,
+    "text": "Pro presbyteris"
+  },
+  {
+    "page": 57,
+    "y": 41.8,
+    "size": 8.9,
+    "level": 1,
+    "text": "Pro pluribus martyribus"
+  },
+  {
+    "page": 80,
+    "y": 42.1,
+    "size": 8.6,
+    "level": 1,
+    "text": "Pro uno martyre"
+  },
+  {
+    "page": 92,
+    "y": 39.4,
+    "size": 10.8,
+    "level": 0,
+    "text": "COMMUNE PASTORUM"
+  },
+  {
+    "page": 92,
+    "y": 61.8,
+    "size": 8.6,
+    "level": 1,
+    "text": "Pro papis vel episcopis"
+  },
+  {
+    "page": 100,
+    "y": 43.0,
+    "size": 10.9,
+    "level": 0,
+    "text": "COMMUNE DOCTORUM ECCLESIAE"
+  },
+  {
+    "page": 105,
+    "y": 36.5,
+    "size": 10.9,
+    "level": 0,
+    "text": "COMMUNE VIRGINUM"
+  },
+  {
+    "page": 115,
+    "y": 35.9,
+    "size": 10.9,
+    "level": 0,
+    "text": "COMMUNE SANCTORUM ET SANCTARUM"
+  },
+  {
+    "page": 123,
+    "y": 176.2,
+    "size": 8.6,
+    "level": 1,
+    "text": "Pro religiosis"
+  },
+  {
+    "page": 126,
+    "y": 391.4,
+    "size": 7.8,
+    "level": 1,
+    "text": "Pro iis qui opera misericordire exercuerunt"
+  },
+  {
+    "page": 129,
+    "y": 173.7,
+    "size": 8.8,
+    "level": 1,
+    "text": "Pro educatoribus"
+  },
+  {
+    "page": 130,
+    "y": 354.8,
+    "size": 8.9,
+    "level": 1,
+    "text": "Pro iis qui respublicas moderati sunt"
+  },
+  {
+    "page": 132,
+    "y": 40.7,
+    "size": 8.8,
+    "level": 1,
+    "text": "Pro sanctis mulieribus"
+  }
+]

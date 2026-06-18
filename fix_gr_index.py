@@ -20,7 +20,7 @@ from pathlib import Path
 
 INPUT_CSV  = Path(__file__).parent / "gr_chant_index_fitz_output.csv"
 OUTPUT_CSV = Path(__file__).parent / "gr_chant_index.csv"
-INDEX_PDF  = Path(__file__).parent / "graduale" / "8" / "8_indices.pdf"
+GR_PDF     = Path(__file__).parent / "graduale" / "graduale romanum.pdf"
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
@@ -92,7 +92,7 @@ def _extract_trailing_number(text: str) -> str | None:
 
 
 def find_page_number_by_ocr(doc: fitz.Document, incipit: str,
-                             pg_range=range(2, 14)) -> str | None:
+                             pg_range=range(881, 893)) -> str | None:
     """
     For a given incipit, locate the entry via fitz text search, then OCR only
     the page-number x-zone (right portion of whichever column the entry is in),
@@ -130,7 +130,7 @@ def find_page_number_by_ocr(doc: fitz.Document, incipit: str,
 
 
 def find_page_number_by_ocr_image_pages(doc: fitz.Document, incipit: str,
-                                        pg_range=range(0, 2)) -> str | None:
+                                        pg_range=range(879, 881)) -> str | None:
     """
     For image-only pages: render the whole page at 3x and OCR column halves,
     then search line-by-line for the incipit and extract the page number.
@@ -161,7 +161,7 @@ def find_page_number_by_ocr_image_pages(doc: fitz.Document, incipit: str,
 
 def main():
     rows = list(csv.DictReader(open(INPUT_CSV, encoding="utf-8")))
-    doc  = fitz.open(str(INDEX_PDF))
+    doc  = fitz.open(str(GR_PDF))
 
     out_rows: list[dict] = []
     fixed = skipped = expanded = ocr_found = ocr_failed = 0

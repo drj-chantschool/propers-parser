@@ -1,0 +1,93 @@
+[
+  {
+    "page": 1,
+    "y": 32.3,
+    "size": 23.9,
+    "level": 0,
+    "text": "IN ASCENSIONE DOMINI"
+  },
+  {
+    "page": 5,
+    "y": 41.6,
+    "size": 8.9,
+    "level": 2,
+    "text": "FERIA SEXTA ET SABBATO POST ASCENSIONEM"
+  },
+  {
+    "page": 7,
+    "y": 128.4,
+    "size": 8.8,
+    "level": 1,
+    "text": "HEBDOMADA SEPTIMA PASCHAE"
+  },
+  {
+    "page": 7,
+    "y": 155.8,
+    "size": 8.8,
+    "level": 2,
+    "text": "DOMINICA"
+  },
+  {
+    "page": 9,
+    "y": 255.8,
+    "size": 8.8,
+    "level": 2,
+    "text": "FERIIS SECUNDA ET QUINTA"
+  },
+  {
+    "page": 10,
+    "y": 255.8,
+    "size": 8.8,
+    "level": 2,
+    "text": "FERIIS TERTIA ET SEXTA"
+  },
+  {
+    "page": 12,
+    "y": 231.6,
+    "size": 10.1,
+    "level": 2,
+    "text": "FERIA QUARTA, ET SABBATO AD MISSAM MATUTINAM"
+  },
+  {
+    "page": 13,
+    "y": 272.6,
+    "size": 8.1,
+    "level": 1,
+    "text": "Quando sollemnitas Ascensionis Domini zn dominicam sequentem"
+  },
+  {
+    "page": 13,
+    "y": 344.4,
+    "size": 8.4,
+    "level": 2,
+    "text": "Feria  2:"
+  },
+  {
+    "page": 13,
+    "y": 380.1,
+    "size": 8.4,
+    "level": 2,
+    "text": "Feria 3 :"
+  },
+  {
+    "page": 14,
+    "y": 44.2,
+    "size": 23.8,
+    "level": 0,
+    "text": "DOMINICA PENTECOSTES"
+  },
+  {
+    "page": 14,
+    "y": 126.5,
+    "size": 10.8,
+    "level": 1,
+    "text": "AD MISSAM IN VIGILIA"
+  },
+  {
+    "page": 18,
+    "y": 43.3,
+    "size": 8.8,
+    "level": 1,
+    "text": "AD MISSAM IN DIE"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "page": 1,
+    "y": 73.8,
+    "size": 16.8,
+    "level": 0,
+    "text": "DOMINICA PASCHAE"
+  },
+  {
+    "page": 1,
+    "y": 173.8,
+    "size": 16.8,
+    "level": 1,
+    "text": "AD VIGILIAM PACHALEM"
+  },
+  {
+    "page": 12,
+    "y": 39.1,
+    "size": 10.8,
+    "level": 1,
+    "text": "AD MISSAM IN DIE"
+  },
+  {
+    "page": 16,
+    "y": 186.9,
+    "size": 8.9,
+    "level": 0,
+    "text": "INFRA OCTAVAM PASCHAE"
+  },
+  {
+    "page": 16,
+    "y": 206.9,
+    "size": 8.9,
+    "level": 1,
+    "text": "FERIA SECUNDA"
+  },
+  {
+    "page": 18,
+    "y": 251.8,
+    "size": 8.9,
+    "level": 1,
+    "text": "FERIA TERTIA"
+  },
+  {
+    "page": 21,
+    "y": 305.4,
+    "size": 9.7,
+    "level": 1,
+    "text": "FERIA QUARTA"
+  },
+  {
+    "page": 24,
+    "y": 185.0,
+    "size": 10.8,
+    "level": 1,
+    "text": "FERIA QUINTA"
+  },
+  {
+    "page": 27,
+    "y": 182.9,
+    "size": 8.8,
+    "level": 1,
+    "text": "FERIA SEXTA"
+  },
+  {
+    "page": 30,
+    "y": 163.4,
+    "size": 8.9,
+    "level": 1,
+    "text": "SABBATO"
+  },
+  {
+    "page": 32,
+    "y": 40.3,
+    "size": 8.9,
+    "level": 0,
+    "text": "HEBDOMADA SECUNDA PASCHAE"
+  },
+  {
+    "page": 35,
+    "y": 185.2,
+    "size": 8.8,
+    "level": 0,
+    "text": "HEBDOMADA TERTIA PASCHAE"
+  },
+  {
+    "page": 38,
+    "y": 366.0,
+    "size": 10.2,
+    "level": 0,
+    "text": "HEBDOMADA QUARTA PASCHAE"
+  },
+  {
+    "page": 41,
+    "y": 137.6,
+    "size": 10.9,
+    "level": 0,
+    "text": "HEBDOMADA  QUINTA PASCHAE"
+  },
+  {
+    "page": 45,
+    "y": 154.4,
+    "size": 8.9,
+    "level": 0,
+    "text": "HEBDOMADA SEXTA PASCHAE"
+  }
+]

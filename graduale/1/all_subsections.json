@@ -1,13 +1,26 @@
 [
   {
+    "level": -2,
+    "text": "PROPRIUM DE TEMPORE",
+    "pdf_page": 14,
+    "printed_page": 13,
+    "y": 0
+  },
+  {
+    "section_num": 1,
+    "level": -1,
+    "text": "TEMPUS ADVENTUS",
+    "pdf_page": 14,
+    "printed_page": 13,
+    "y": 0
+  },
+  {
     "section_num": 1,
     "section": "TEMPUS ADVENTUS",
     "level": 0,
     "text": "HEBDOMADA PRIMA ADVENTUS",
-    "page_in_section": 2,
-    "section_offset": 1,
-    "chapter_offset": 14,
-    "graduale_page": 15,
+    "pdf_page": 15,
+    "printed_page": 15,
     "y": 59.9
   },
   {
@@ -15,10 +28,8 @@
     "section": "TEMPUS ADVENTUS",
     "level": 0,
     "text": "HEBDOMADA SECUNDA ADVENTUS",
-    "page_in_section": 5,
-    "section_offset": 1,
-    "chapter_offset": 14,
-    "graduale_page": 18,
+    "pdf_page": 18,
+    "printed_page": 18,
     "y": 142.8
   },
   {
@@ -26,10 +37,8 @@
     "section": "TEMPUS ADVENTUS",
     "level": 0,
     "text": "HEBDOMADA TERTIA ADVENTUS",
-    "page_in_section": 8,
-    "section_offset": 1,
-    "chapter_offset": 14,
-    "graduale_page": 21,
+    "pdf_page": 21,
+    "printed_page": 21,
     "y": 203.1
   },
   {
@@ -37,10 +46,8 @@
     "section": "TEMPUS ADVENTUS",
     "level": 0,
     "text": "IN ULTIMIS FERIIS",
-    "page_in_section": 11,
-    "section_offset": 1,
-    "chapter_offset": 14,
-    "graduale_page": 24,
+    "pdf_page": 24,
+    "printed_page": 24,
     "y": 270.5
   },
   {
@@ -48,98 +55,96 @@
     "section": "TEMPUS ADVENTUS",
     "level": 1,
     "text": "FERIA SECUNDA",
-    "page_in_section": 11,
-    "section_offset": 1,
-    "chapter_offset": 14,
-    "graduale_page": 24,
-    "y": 270.5
+    "pdf_page": 24,
+    "printed_page": 24,
+    "y": 270.5,
+    "subsection": "IN ULTIMIS FERIIS"
   },
   {
     "section_num": 1,
     "section": "TEMPUS ADVENTUS",
     "level": 1,
     "text": "FERIA TERTIA",
-    "page_in_section": 14,
-    "section_offset": 1,
-    "chapter_offset": 14,
-    "graduale_page": 27,
-    "y": 35.6
+    "pdf_page": 27,
+    "printed_page": 27,
+    "y": 35.6,
+    "subsection": "IN ULTIMIS FERIIS"
   },
   {
     "section_num": 1,
     "section": "TEMPUS ADVENTUS",
     "level": 1,
     "text": "FERIA QUARTA",
-    "page_in_section": 16,
-    "section_offset": 1,
-    "chapter_offset": 14,
-    "graduale_page": 29,
-    "y": 165.6
+    "pdf_page": 29,
+    "printed_page": 29,
+    "y": 165.6,
+    "subsection": "IN ULTIMIS FERIIS"
   },
   {
     "section_num": 1,
     "section": "TEMPUS ADVENTUS",
     "level": 1,
     "text": "FERIA QUINTA",
-    "page_in_section": 18,
-    "section_offset": 1,
-    "chapter_offset": 14,
-    "graduale_page": 31,
-    "y": 286.8
+    "pdf_page": 31,
+    "printed_page": 31,
+    "y": 286.8,
+    "subsection": "IN ULTIMIS FERIIS"
   },
   {
     "section_num": 1,
     "section": "TEMPUS ADVENTUS",
     "level": 1,
     "text": "FERIA SEXTA",
-    "page_in_section": 19,
-    "section_offset": 1,
-    "chapter_offset": 14,
-    "graduale_page": 32,
-    "y": 243.4
+    "pdf_page": 32,
+    "printed_page": 32,
+    "y": 243.4,
+    "subsection": "IN ULTIMIS FERIIS"
   },
   {
     "section_num": 1,
     "section": "TEMPUS ADVENTUS",
     "level": 1,
     "text": "SABBATO",
-    "page_in_section": 20,
-    "section_offset": 1,
-    "chapter_offset": 14,
-    "graduale_page": 33,
-    "y": 166.3
+    "pdf_page": 33,
+    "printed_page": 33,
+    "y": 166.3,
+    "subsection": "IN ULTIMIS FERIIS"
   },
   {
     "section_num": 1,
     "section": "TEMPUS ADVENTUS",
     "level": 1,
     "text": "DOMINICA QUARTA ADVENTUS",
-    "page_in_section": 21,
-    "section_offset": 1,
-    "chapter_offset": 14,
-    "graduale_page": 34,
-    "y": 311.5
+    "pdf_page": 34,
+    "printed_page": 34,
+    "y": 311.5,
+    "subsection": "IN ULTIMIS FERIIS"
   },
   {
     "section_num": 1,
     "section": "TEMPUS ADVENTUS",
     "level": 1,
     "text": "DIE 24 DECEMBRIS AD MISSAM MATUTINAM",
-    "page_in_section": 24,
-    "section_offset": 1,
-    "chapter_offset": 14,
-    "graduale_page": 37,
-    "y": 384.6
+    "pdf_page": 37,
+    "printed_page": 37,
+    "y": 384.6,
+    "subsection": "IN ULTIMIS FERIIS"
+  },
+  {
+    "section_num": 2,
+    "level": -1,
+    "text": "TEMPUS NATIVITATIS",
+    "pdf_page": 38,
+    "printed_page": 38,
+    "y": 0
   },
   {
     "section_num": 2,
     "section": "TEMPUS NATIVITATIS",
     "level": 0,
     "text": "IN NATIVITATE DOMINI",
-    "page_in_section": 1,
-    "section_offset": 25,
-    "chapter_offset": 14,
-    "graduale_page": 38,
+    "pdf_page": 38,
+    "printed_page": 38,
     "y": 96.2
   },
   {
@@ -147,54 +152,48 @@
     "section": "TEMPUS NATIVITATIS",
     "level": 1,
     "text": "AD MISSAM IN VIGILIA",
-    "page_in_section": 1,
-    "section_offset": 25,
-    "chapter_offset": 14,
-    "graduale_page": 38,
-    "y": 131.5
+    "pdf_page": 38,
+    "printed_page": 38,
+    "y": 131.5,
+    "subsection": "IN NATIVITATE DOMINI"
   },
   {
     "section_num": 2,
     "section": "TEMPUS NATIVITATIS",
     "level": 1,
     "text": "AD MISSAM IN NOCTE",
-    "page_in_section": 4,
-    "section_offset": 25,
-    "chapter_offset": 14,
-    "graduale_page": 41,
-    "y": 178.7
+    "pdf_page": 41,
+    "printed_page": 41,
+    "y": 178.7,
+    "subsection": "IN NATIVITATE DOMINI"
   },
   {
     "section_num": 2,
     "section": "TEMPUS NATIVITATIS",
     "level": 1,
     "text": "AD MISSAM IN AURORA",
-    "page_in_section": 7,
-    "section_offset": 25,
-    "chapter_offset": 14,
-    "graduale_page": 44,
-    "y": 359.2
+    "pdf_page": 44,
+    "printed_page": 44,
+    "y": 359.2,
+    "subsection": "IN NATIVITATE DOMINI"
   },
   {
     "section_num": 2,
     "section": "TEMPUS NATIVITATIS",
     "level": 1,
     "text": "AD MISSAM IN DIE",
-    "page_in_section": 10,
-    "section_offset": 25,
-    "chapter_offset": 14,
-    "graduale_page": 47,
-    "y": 347.2
+    "pdf_page": 47,
+    "printed_page": 47,
+    "y": 347.2,
+    "subsection": "IN NATIVITATE DOMINI"
   },
   {
     "section_num": 2,
     "section": "TEMPUS NATIVITATIS",
     "level": 0,
     "text": "INFRA OCTAVAM",
-    "page_in_section": 14,
-    "section_offset": 25,
-    "chapter_offset": 14,
-    "graduale_page": 51,
+    "pdf_page": 51,
+    "printed_page": 51,
     "y": 35.9
   },
   {
@@ -202,32 +201,28 @@
     "section": "TEMPUS NATIVITATIS",
     "level": 1,
     "text": "SANCTAE FAMILIAE IESU MARIAE ET IOSEPH",
-    "page_in_section": 14,
-    "section_offset": 25,
-    "chapter_offset": 14,
-    "graduale_page": 51,
-    "y": 35.9
+    "pdf_page": 51,
+    "printed_page": 51,
+    "y": 35.9,
+    "subsection": "INFRA OCTAVAM"
   },
   {
     "section_num": 2,
     "section": "TEMPUS NATIVITATIS",
     "level": 1,
     "text": "INFRA OCTAVAM NATIVITATIS DOMINI",
-    "page_in_section": 15,
-    "section_offset": 25,
-    "chapter_offset": 14,
-    "graduale_page": 52,
-    "y": 200.4
+    "pdf_page": 52,
+    "printed_page": 52,
+    "y": 200.4,
+    "subsection": "INFRA OCTAVAM"
   },
   {
     "section_num": 2,
     "section": "TEMPUS NATIVITATIS",
     "level": 0,
     "text": "SOLLEMNITAS SANCTAE DEI GENITRICIS MARIAE",
-    "page_in_section": 16,
-    "section_offset": 25,
-    "chapter_offset": 14,
-    "graduale_page": 53,
+    "pdf_page": 53,
+    "printed_page": 53,
     "y": 200.4
   },
   {
@@ -235,10 +230,8 @@
     "section": "TEMPUS NATIVITATIS",
     "level": 0,
     "text": "DOMINICA SECUNDA POST NATIVITATEM",
-    "page_in_section": 16,
-    "section_offset": 25,
-    "chapter_offset": 14,
-    "graduale_page": 53,
+    "pdf_page": 53,
+    "printed_page": 53,
     "y": 312.1
   },
   {
@@ -246,21 +239,71 @@
     "section": "TEMPUS NATIVITATIS",
     "level": 0,
     "text": "IN FERIIS TEMPORIS NATIVITATIS",
-    "page_in_section": 18,
-    "section_offset": 25,
-    "chapter_offset": 14,
-    "graduale_page": 55,
+    "pdf_page": 55,
+    "printed_page": 55,
     "y": 370.1
+  },
+  {
+    "section_num": 3,
+    "level": -1,
+    "text": "IN EPIPHANIA DOMINI",
+    "pdf_page": 56,
+    "printed_page": 56,
+    "y": 0
+  },
+  {
+    "section_num": 3,
+    "section": "IN EPIPHANIA DOMINI",
+    "level": 0,
+    "text": "In feriis post Epiphaniam",
+    "pdf_page": 59,
+    "printed_page": 59,
+    "y": 181.8
+  },
+  {
+    "section_num": 3,
+    "section": "IN EPIPHANIA DOMINI",
+    "level": 1,
+    "text": "Die 7 ianuarii, In regionibus ubi Epiphania celebratur dominica  8 ianuarii occurrente:",
+    "pdf_page": 59,
+    "printed_page": 59,
+    "y": 227.2,
+    "subsection": "In feriis post Epiphaniam"
+  },
+  {
+    "section_num": 3,
+    "section": "IN EPIPHANIA DOMINI",
+    "level": 1,
+    "text": "Die  8  ianuarii, vel feria tertia post Epiphaniam",
+    "pdf_page": 59,
+    "printed_page": 59,
+    "y": 274.1,
+    "subsection": "In feriis post Epiphaniam"
+  },
+  {
+    "section_num": 3,
+    "section": "IN EPIPHANIA DOMINI",
+    "level": 0,
+    "text": "In Baptismate Domini",
+    "pdf_page": 59,
+    "printed_page": 59,
+    "y": 315.5
+  },
+  {
+    "section_num": 4,
+    "level": -1,
+    "text": "TEMPUS QUADRAGESIMAE",
+    "pdf_page": 62,
+    "printed_page": 62,
+    "y": 0
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 0,
     "text": "DIES POST CINERES",
-    "page_in_section": 1,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 62,
+    "pdf_page": 62,
+    "printed_page": 62,
     "y": null
   },
   {
@@ -268,54 +311,48 @@
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA QUARTA CINERUM",
-    "page_in_section": 1,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 62,
-    "y": 111.7
+    "pdf_page": 62,
+    "printed_page": 62,
+    "y": 111.7,
+    "subsection": "DIES POST CINERES"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA QUINTA POST CINERES",
-    "page_in_section": 6,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 67,
-    "y": 402.6
+    "pdf_page": 67,
+    "printed_page": 67,
+    "y": 402.6,
+    "subsection": "DIES POST CINERES"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA SEXTA",
-    "page_in_section": 7,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 68,
-    "y": 43.1
+    "pdf_page": 68,
+    "printed_page": 68,
+    "y": 43.1,
+    "subsection": "DIES POST CINERES"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "SABBATO",
-    "page_in_section": 8,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 69,
-    "y": 43.5
+    "pdf_page": 69,
+    "printed_page": 69,
+    "y": 43.5,
+    "subsection": "DIES POST CINERES"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 0,
     "text": "HEBDOMADA PRIMA QUADRAGESIMAE",
-    "page_in_section": 10,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 71,
+    "pdf_page": 71,
+    "printed_page": 71,
     "y": 277.5
   },
   {
@@ -323,76 +360,68 @@
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "DOMINICA",
-    "page_in_section": 10,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 71,
-    "y": 310.7
+    "pdf_page": 71,
+    "printed_page": 71,
+    "y": 310.7,
+    "subsection": "HEBDOMADA PRIMA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA SECUNDA",
-    "page_in_section": 16,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 77,
-    "y": 361.9
+    "pdf_page": 77,
+    "printed_page": 77,
+    "y": 361.9,
+    "subsection": "HEBDOMADA PRIMA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA TERTIA",
-    "page_in_section": 18,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 79,
-    "y": 367.6
+    "pdf_page": 79,
+    "printed_page": 79,
+    "y": 367.6,
+    "subsection": "HEBDOMADA PRIMA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA  QUARTA",
-    "page_in_section": 20,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 81,
-    "y": 41.7
+    "pdf_page": 81,
+    "printed_page": 81,
+    "y": 41.7,
+    "subsection": "HEBDOMADA PRIMA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA QUINTA",
-    "page_in_section": 22,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 83,
-    "y": 120.4
+    "pdf_page": 83,
+    "printed_page": 83,
+    "y": 120.4,
+    "subsection": "HEBDOMADA PRIMA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA SEXTA",
-    "page_in_section": 23,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 84,
-    "y": 189.1
+    "pdf_page": 84,
+    "printed_page": 84,
+    "y": 189.1,
+    "subsection": "HEBDOMADA PRIMA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 0,
     "text": "HEBDOMADA SECUNDA QUADRAGESIMAE",
-    "page_in_section": 27,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 88,
+    "pdf_page": 88,
+    "printed_page": 88,
     "y": 112.1
   },
   {
@@ -400,87 +429,78 @@
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "DOMINICA",
-    "page_in_section": 27,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 88,
-    "y": 136.8
+    "pdf_page": 88,
+    "printed_page": 88,
+    "y": 136.8,
+    "subsection": "HEBDOMADA SECUNDA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA SECUNDA",
-    "page_in_section": 30,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 91,
-    "y": 42.0
+    "pdf_page": 91,
+    "printed_page": 91,
+    "y": 42.0,
+    "subsection": "HEBDOMADA SECUNDA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA TERTIA",
-    "page_in_section": 30,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 91,
-    "y": 414.6
+    "pdf_page": 91,
+    "printed_page": 91,
+    "y": 414.6,
+    "subsection": "HEBDOMADA SECUNDA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA QUARTA",
-    "page_in_section": 32,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 93,
-    "y": 209.7
+    "pdf_page": 93,
+    "printed_page": 93,
+    "y": 209.7,
+    "subsection": "HEBDOMADA SECUNDA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA QUINTA",
-    "page_in_section": 33,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 94,
-    "y": 40.3
+    "pdf_page": 94,
+    "printed_page": 94,
+    "y": 40.3,
+    "subsection": "HEBDOMADA SECUNDA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA  SEXTA",
-    "page_in_section": 33,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 94,
-    "y": 365.2
+    "pdf_page": 94,
+    "printed_page": 94,
+    "y": 365.2,
+    "subsection": "HEBDOMADA SECUNDA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "SABBATO",
-    "page_in_section": 34,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 95,
-    "y": 311.5
+    "pdf_page": 95,
+    "printed_page": 95,
+    "y": 311.5,
+    "subsection": "HEBDOMADA SECUNDA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 0,
     "text": "HEBDOMADA TERTIA QUADRAGESIMJ£",
-    "page_in_section": 35,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 96,
+    "pdf_page": 96,
+    "printed_page": 96,
     "y": 42.6
   },
   {
@@ -488,87 +508,78 @@
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "DOMINICA",
-    "page_in_section": 35,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 96,
-    "y": 73.7
+    "pdf_page": 96,
+    "printed_page": 96,
+    "y": 73.7,
+    "subsection": "HEBDOMADA TERTIA QUADRAGESIMJ£"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA SECUNDA",
-    "page_in_section": 39,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 100,
-    "y": 48.3
+    "pdf_page": 100,
+    "printed_page": 100,
+    "y": 48.3,
+    "subsection": "HEBDOMADA TERTIA QUADRAGESIMJ£"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA TERTIA",
-    "page_in_section": 40,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 101,
-    "y": 399.7
+    "pdf_page": 101,
+    "printed_page": 101,
+    "y": 399.7,
+    "subsection": "HEBDOMADA TERTIA QUADRAGESIMJ£"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA QUARTA",
-    "page_in_section": 42,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 103,
-    "y": 159.8
+    "pdf_page": 103,
+    "printed_page": 103,
+    "y": 159.8,
+    "subsection": "HEBDOMADA TERTIA QUADRAGESIMJ£"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA QUINTA",
-    "page_in_section": 44,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 105,
-    "y": 104.0
+    "pdf_page": 105,
+    "printed_page": 105,
+    "y": 104.0,
+    "subsection": "HEBDOMADA TERTIA QUADRAGESIMJ£"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA SEXTA",
-    "page_in_section": 44,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 105,
-    "y": 190.2
+    "pdf_page": 105,
+    "printed_page": 105,
+    "y": 190.2,
+    "subsection": "HEBDOMADA TERTIA QUADRAGESIMJ£"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "SABBATO",
-    "page_in_section": 45,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 106,
-    "y": 102.4
+    "pdf_page": 106,
+    "printed_page": 106,
+    "y": 102.4,
+    "subsection": "HEBDOMADA TERTIA QUADRAGESIMJ£"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 0,
     "text": "HEBDOMADA QUARTA QUADRAGESIMJE",
-    "page_in_section": 47,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 108,
+    "pdf_page": 108,
+    "printed_page": 108,
     "y": 228.0
   },
   {
@@ -576,87 +587,78 @@
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "DOMINICA",
-    "page_in_section": 47,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 108,
-    "y": 267.7
+    "pdf_page": 108,
+    "printed_page": 108,
+    "y": 267.7,
+    "subsection": "HEBDOMADA QUARTA QUADRAGESIMJE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA SECUNDA",
-    "page_in_section": 50,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 111,
-    "y": 270.8
+    "pdf_page": 111,
+    "printed_page": 111,
+    "y": 270.8,
+    "subsection": "HEBDOMADA QUARTA QUADRAGESIMJE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA TERTIA",
-    "page_in_section": 53,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 114,
-    "y": 35.7
+    "pdf_page": 114,
+    "printed_page": 114,
+    "y": 35.7,
+    "subsection": "HEBDOMADA QUARTA QUADRAGESIMJE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA QUARTA",
-    "page_in_section": 54,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 115,
-    "y": 419.1
+    "pdf_page": 115,
+    "printed_page": 115,
+    "y": 419.1,
+    "subsection": "HEBDOMADA QUARTA QUADRAGESIMJE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA QUINTA",
-    "page_in_section": 55,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 116,
-    "y": 310.7
+    "pdf_page": 116,
+    "printed_page": 116,
+    "y": 310.7,
+    "subsection": "HEBDOMADA QUARTA QUADRAGESIMJE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA SEXTA",
-    "page_in_section": 55,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 116,
-    "y": 415.9
+    "pdf_page": 116,
+    "printed_page": 116,
+    "y": 415.9,
+    "subsection": "HEBDOMADA QUARTA QUADRAGESIMJE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "SABBATO",
-    "page_in_section": 56,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 117,
-    "y": 309.9
+    "pdf_page": 117,
+    "printed_page": 117,
+    "y": 309.9,
+    "subsection": "HEBDOMADA QUARTA QUADRAGESIMJE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 0,
     "text": "HEBDOMADA QUINTA QUADRAGESIMAE",
-    "page_in_section": 59,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 120,
+    "pdf_page": 120,
+    "printed_page": 120,
     "y": 41.3
   },
   {
@@ -664,87 +666,78 @@
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "DOMINICA",
-    "page_in_section": 59,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 120,
-    "y": 71.1
+    "pdf_page": 120,
+    "printed_page": 120,
+    "y": 71.1,
+    "subsection": "HEBDOMADA QUINTA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA SECUNDA",
-    "page_in_section": 64,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 125,
-    "y": 44.0
+    "pdf_page": 125,
+    "printed_page": 125,
+    "y": 44.0,
+    "subsection": "HEBDOMADA QUINTA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA TERTIA",
-    "page_in_section": 65,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 126,
-    "y": 364.3
+    "pdf_page": 126,
+    "printed_page": 126,
+    "y": 364.3,
+    "subsection": "HEBDOMADA QUINTA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA QUARTA",
-    "page_in_section": 67,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 128,
-    "y": 170.9
+    "pdf_page": 128,
+    "printed_page": 128,
+    "y": 170.9,
+    "subsection": "HEBDOMADA QUINTA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA QUINTA",
-    "page_in_section": 69,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 130,
-    "y": 122.4
+    "pdf_page": 130,
+    "printed_page": 130,
+    "y": 122.4,
+    "subsection": "HEBDOMADA QUINTA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA SEXTA",
-    "page_in_section": 69,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 130,
-    "y": 218.8
+    "pdf_page": 130,
+    "printed_page": 130,
+    "y": 218.8,
+    "subsection": "HEBDOMADA QUINTA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "SABBATO",
-    "page_in_section": 71,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 132,
-    "y": 409.5
+    "pdf_page": 132,
+    "printed_page": 132,
+    "y": 409.5,
+    "subsection": "HEBDOMADA QUINTA QUADRAGESIMAE"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 0,
     "text": "HEBDOMAD A SANCTA",
-    "page_in_section": 76,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 137,
+    "pdf_page": 137,
+    "printed_page": 137,
     "y": 34.0
   },
   {
@@ -752,98 +745,383 @@
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "DOMINICA IN PALMIS DE PASSIONE DOMINI",
-    "page_in_section": 76,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 137,
-    "y": 78.4
+    "pdf_page": 137,
+    "printed_page": 137,
+    "y": 78.4,
+    "subsection": "HEBDOMAD A SANCTA"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA SECUNDA",
-    "page_in_section": 89,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 150,
-    "y": 35.2
+    "pdf_page": 150,
+    "printed_page": 150,
+    "y": 35.2,
+    "subsection": "HEBDOMAD A SANCTA"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA TERTIA",
-    "page_in_section": 91,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 152,
-    "y": 406.1
+    "pdf_page": 152,
+    "printed_page": 152,
+    "y": 406.1,
+    "subsection": "HEBDOMAD A SANCTA"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA QUARTA",
-    "page_in_section": 94,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 155,
-    "y": 36.6
+    "pdf_page": 155,
+    "printed_page": 155,
+    "y": 36.6,
+    "subsection": "HEBDOMAD A SANCTA"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA QUINTA",
-    "page_in_section": 97,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 158,
-    "y": 105.1
+    "pdf_page": 158,
+    "printed_page": 158,
+    "y": 105.1,
+    "subsection": "HEBDOMAD A SANCTA"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 2,
     "text": "AD MISSAM CHRISMATIS",
-    "page_in_section": 97,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 158,
-    "y": 126.8
+    "pdf_page": 158,
+    "printed_page": 158,
+    "y": 126.8,
+    "subsection": "HEBDOMAD A SANCTA"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 2,
     "text": "MISSA VESPERTINA IN CENA DOMINI",
-    "page_in_section": 101,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 162,
-    "y": 126.8
+    "pdf_page": 162,
+    "printed_page": 162,
+    "y": 126.8,
+    "subsection": "HEBDOMAD A SANCTA"
   },
   {
     "section_num": 4,
     "section": "TEMPUS QUADRAGESIMAE",
     "level": 1,
     "text": "FERIA SEXTA IN PASSIONE DOMINI",
-    "page_in_section": 111,
-    "section_offset": 49,
-    "chapter_offset": 14,
-    "graduale_page": 172,
-    "y": 163.7
+    "pdf_page": 172,
+    "printed_page": 172,
+    "y": 163.7,
+    "subsection": "HEBDOMAD A SANCTA"
+  },
+  {
+    "section_num": 5,
+    "level": -1,
+    "text": "TEMPUS PASCHALE",
+    "pdf_page": 185,
+    "printed_page": 185,
+    "y": 0
+  },
+  {
+    "section_num": 5,
+    "section": "TEMPUS PASCHALE",
+    "level": 0,
+    "text": "DOMINICA PASCHAE",
+    "pdf_page": 185,
+    "printed_page": 185,
+    "y": 73.8
+  },
+  {
+    "section_num": 5,
+    "section": "TEMPUS PASCHALE",
+    "level": 1,
+    "text": "AD VIGILIAM PACHALEM",
+    "pdf_page": 185,
+    "printed_page": 185,
+    "y": 173.8,
+    "subsection": "DOMINICA PASCHAE"
+  },
+  {
+    "section_num": 5,
+    "section": "TEMPUS PASCHALE",
+    "level": 1,
+    "text": "AD MISSAM IN DIE",
+    "pdf_page": 196,
+    "printed_page": 196,
+    "y": 39.1,
+    "subsection": "DOMINICA PASCHAE"
+  },
+  {
+    "section_num": 5,
+    "section": "TEMPUS PASCHALE",
+    "level": 0,
+    "text": "INFRA OCTAVAM PASCHAE",
+    "pdf_page": 200,
+    "printed_page": 200,
+    "y": 186.9
+  },
+  {
+    "section_num": 5,
+    "section": "TEMPUS PASCHALE",
+    "level": 1,
+    "text": "FERIA SECUNDA",
+    "pdf_page": 200,
+    "printed_page": 200,
+    "y": 206.9,
+    "subsection": "INFRA OCTAVAM PASCHAE"
+  },
+  {
+    "section_num": 5,
+    "section": "TEMPUS PASCHALE",
+    "level": 1,
+    "text": "FERIA TERTIA",
+    "pdf_page": 202,
+    "printed_page": 202,
+    "y": 251.8,
+    "subsection": "INFRA OCTAVAM PASCHAE"
+  },
+  {
+    "section_num": 5,
+    "section": "TEMPUS PASCHALE",
+    "level": 1,
+    "text": "FERIA QUARTA",
+    "pdf_page": 205,
+    "printed_page": 205,
+    "y": 305.4,
+    "subsection": "INFRA OCTAVAM PASCHAE"
+  },
+  {
+    "section_num": 5,
+    "section": "TEMPUS PASCHALE",
+    "level": 1,
+    "text": "FERIA QUINTA",
+    "pdf_page": 208,
+    "printed_page": 208,
+    "y": 185.0,
+    "subsection": "INFRA OCTAVAM PASCHAE"
+  },
+  {
+    "section_num": 5,
+    "section": "TEMPUS PASCHALE",
+    "level": 1,
+    "text": "FERIA SEXTA",
+    "pdf_page": 211,
+    "printed_page": 211,
+    "y": 182.9,
+    "subsection": "INFRA OCTAVAM PASCHAE"
+  },
+  {
+    "section_num": 5,
+    "section": "TEMPUS PASCHALE",
+    "level": 1,
+    "text": "SABBATO",
+    "pdf_page": 214,
+    "printed_page": 214,
+    "y": 163.4,
+    "subsection": "INFRA OCTAVAM PASCHAE"
+  },
+  {
+    "section_num": 5,
+    "section": "TEMPUS PASCHALE",
+    "level": 0,
+    "text": "HEBDOMADA SECUNDA PASCHAE",
+    "pdf_page": 216,
+    "printed_page": 216,
+    "y": 40.3
+  },
+  {
+    "section_num": 5,
+    "section": "TEMPUS PASCHALE",
+    "level": 0,
+    "text": "HEBDOMADA TERTIA PASCHAE",
+    "pdf_page": 219,
+    "printed_page": 219,
+    "y": 185.2
+  },
+  {
+    "section_num": 5,
+    "section": "TEMPUS PASCHALE",
+    "level": 0,
+    "text": "HEBDOMADA QUARTA PASCHAE",
+    "pdf_page": 222,
+    "printed_page": 222,
+    "y": 366.0
+  },
+  {
+    "section_num": 5,
+    "section": "TEMPUS PASCHALE",
+    "level": 0,
+    "text": "HEBDOMADA  QUINTA PASCHAE",
+    "pdf_page": 225,
+    "printed_page": 225,
+    "y": 137.6
+  },
+  {
+    "section_num": 5,
+    "section": "TEMPUS PASCHALE",
+    "level": 0,
+    "text": "HEBDOMADA SEXTA PASCHAE",
+    "pdf_page": 229,
+    "printed_page": 229,
+    "y": 154.4
+  },
+  {
+    "section_num": 6,
+    "level": -1,
+    "text": "IN ASCENSIONE DOMINI",
+    "pdf_page": 235,
+    "printed_page": 235,
+    "y": 0
+  },
+  {
+    "section_num": 6,
+    "section": "IN ASCENSIONE DOMINI",
+    "level": 0,
+    "text": "IN ASCENSIONE DOMINI",
+    "pdf_page": 235,
+    "printed_page": 235,
+    "y": 32.3
+  },
+  {
+    "section_num": 6,
+    "section": "IN ASCENSIONE DOMINI",
+    "level": 2,
+    "text": "FERIA SEXTA ET SABBATO POST ASCENSIONEM",
+    "pdf_page": 239,
+    "printed_page": 239,
+    "y": 41.6,
+    "subsection": "IN ASCENSIONE DOMINI"
+  },
+  {
+    "section_num": 6,
+    "section": "IN ASCENSIONE DOMINI",
+    "level": 1,
+    "text": "HEBDOMADA SEPTIMA PASCHAE",
+    "pdf_page": 241,
+    "printed_page": 241,
+    "y": 128.4,
+    "subsection": "IN ASCENSIONE DOMINI"
+  },
+  {
+    "section_num": 6,
+    "section": "IN ASCENSIONE DOMINI",
+    "level": 2,
+    "text": "DOMINICA",
+    "pdf_page": 241,
+    "printed_page": 241,
+    "y": 155.8,
+    "subsection": "IN ASCENSIONE DOMINI"
+  },
+  {
+    "section_num": 6,
+    "section": "IN ASCENSIONE DOMINI",
+    "level": 2,
+    "text": "FERIIS SECUNDA ET QUINTA",
+    "pdf_page": 243,
+    "printed_page": 243,
+    "y": 255.8,
+    "subsection": "IN ASCENSIONE DOMINI"
+  },
+  {
+    "section_num": 6,
+    "section": "IN ASCENSIONE DOMINI",
+    "level": 2,
+    "text": "FERIIS TERTIA ET SEXTA",
+    "pdf_page": 244,
+    "printed_page": 244,
+    "y": 255.8,
+    "subsection": "IN ASCENSIONE DOMINI"
+  },
+  {
+    "section_num": 6,
+    "section": "IN ASCENSIONE DOMINI",
+    "level": 2,
+    "text": "FERIA QUARTA, ET SABBATO AD MISSAM MATUTINAM",
+    "pdf_page": 246,
+    "printed_page": 246,
+    "y": 231.6,
+    "subsection": "IN ASCENSIONE DOMINI"
+  },
+  {
+    "section_num": 6,
+    "section": "IN ASCENSIONE DOMINI",
+    "level": 1,
+    "text": "Quando sollemnitas Ascensionis Domini zn dominicam sequentem",
+    "pdf_page": 247,
+    "printed_page": 247,
+    "y": 272.6,
+    "subsection": "IN ASCENSIONE DOMINI"
+  },
+  {
+    "section_num": 6,
+    "section": "IN ASCENSIONE DOMINI",
+    "level": 2,
+    "text": "Feria  2:",
+    "pdf_page": 247,
+    "printed_page": 247,
+    "y": 344.4,
+    "subsection": "IN ASCENSIONE DOMINI"
+  },
+  {
+    "section_num": 6,
+    "section": "IN ASCENSIONE DOMINI",
+    "level": 2,
+    "text": "Feria 3 :",
+    "pdf_page": 247,
+    "printed_page": 247,
+    "y": 380.1,
+    "subsection": "IN ASCENSIONE DOMINI"
+  },
+  {
+    "section_num": 6,
+    "section": "IN ASCENSIONE DOMINI",
+    "level": 0,
+    "text": "DOMINICA PENTECOSTES",
+    "pdf_page": 248,
+    "printed_page": 248,
+    "y": 44.2
+  },
+  {
+    "section_num": 6,
+    "section": "IN ASCENSIONE DOMINI",
+    "level": 1,
+    "text": "AD MISSAM IN VIGILIA",
+    "pdf_page": 248,
+    "printed_page": 248,
+    "y": 126.5,
+    "subsection": "DOMINICA PENTECOSTES"
+  },
+  {
+    "section_num": 6,
+    "section": "IN ASCENSIONE DOMINI",
+    "level": 1,
+    "text": "AD MISSAM IN DIE",
+    "pdf_page": 252,
+    "printed_page": 252,
+    "y": 43.3,
+    "subsection": "DOMINICA PENTECOSTES"
+  },
+  {
+    "section_num": 7,
+    "level": -1,
+    "text": "TEMPUS PER ANNUM",
+    "pdf_page": 257,
+    "printed_page": 257,
+    "y": 0
   },
   {
     "section_num": 7,
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA PRIMA",
-    "page_in_section": 1,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 257,
+    "pdf_page": 257,
+    "printed_page": 257,
     "y": 97
   },
   {
@@ -851,10 +1129,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA SECUNDA",
-    "page_in_section": 4,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 260,
+    "pdf_page": 260,
+    "printed_page": 260,
     "y": 316
   },
   {
@@ -862,10 +1138,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA TERTIA",
-    "page_in_section": 8,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 264,
+    "pdf_page": 264,
+    "printed_page": 264,
     "y": 166
   },
   {
@@ -873,10 +1147,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA QUARTA",
-    "page_in_section": 12,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 268,
+    "pdf_page": 268,
+    "printed_page": 268,
     "y": 369
   },
   {
@@ -884,10 +1156,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA QUINTA",
-    "page_in_section": 15,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 271,
+    "pdf_page": 271,
+    "printed_page": 271,
     "y": 252
   },
   {
@@ -895,10 +1165,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA SEXTA",
-    "page_in_section": 19,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 275,
+    "pdf_page": 275,
+    "printed_page": 275,
     "y": 37
   },
   {
@@ -906,10 +1174,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA SEPTIMA",
-    "page_in_section": 22,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 278,
+    "pdf_page": 278,
+    "printed_page": 278,
     "y": 265
   },
   {
@@ -917,10 +1183,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA OCTAVA",
-    "page_in_section": 25,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 281,
+    "pdf_page": 281,
+    "printed_page": 281,
     "y": 223
   },
   {
@@ -928,10 +1192,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA NONA",
-    "page_in_section": 28,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 284,
+    "pdf_page": 284,
+    "printed_page": 284,
     "y": 226
   },
   {
@@ -939,10 +1201,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA DECIMA",
-    "page_in_section": 32,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 288,
+    "pdf_page": 288,
+    "printed_page": 288,
     "y": 44
   },
   {
@@ -950,10 +1210,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA UNDECIMA",
-    "page_in_section": 35,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 291,
+    "pdf_page": 291,
+    "printed_page": 291,
     "y": 206
   },
   {
@@ -961,10 +1219,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA DUODECIMA",
-    "page_in_section": 38,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 294,
+    "pdf_page": 294,
+    "printed_page": 294,
     "y": 368
   },
   {
@@ -972,10 +1228,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA DECIMA TERTIA",
-    "page_in_section": 41,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 297,
+    "pdf_page": 297,
+    "printed_page": 297,
     "y": 272
   },
   {
@@ -983,10 +1237,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA DECIMA QUARTA",
-    "page_in_section": 44,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 300,
+    "pdf_page": 300,
+    "printed_page": 300,
     "y": 254
   },
   {
@@ -994,10 +1246,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA DECIMA QUINTA",
-    "page_in_section": 47,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 303,
+    "pdf_page": 303,
+    "printed_page": 303,
     "y": 312
   },
   {
@@ -1005,10 +1255,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA DECIMA SEXTA",
-    "page_in_section": 51,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 307,
+    "pdf_page": 307,
+    "printed_page": 307,
     "y": 144
   },
   {
@@ -1016,10 +1264,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA DECIMA SEPTIMA",
-    "page_in_section": 54,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 310,
+    "pdf_page": 310,
+    "printed_page": 310,
     "y": 154
   },
   {
@@ -1027,10 +1273,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA DECIMA OCTAVA",
-    "page_in_section": 59,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 315,
+    "pdf_page": 315,
+    "printed_page": 315,
     "y": 191
   },
   {
@@ -1038,10 +1282,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA DECIMA NONA",
-    "page_in_section": 63,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 319,
+    "pdf_page": 319,
+    "printed_page": 319,
     "y": 363
   },
   {
@@ -1049,10 +1291,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA VIGESIMA",
-    "page_in_section": 67,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 323,
+    "pdf_page": 323,
+    "printed_page": 323,
     "y": 134
   },
   {
@@ -1060,10 +1300,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA VIGESIMA PRIMA",
-    "page_in_section": 70,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 326,
+    "pdf_page": 326,
+    "printed_page": 326,
     "y": 157
   },
   {
@@ -1071,10 +1309,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA VIGESIMA SECUNDA",
-    "page_in_section": 74,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 330,
+    "pdf_page": 330,
+    "printed_page": 330,
     "y": 41
   },
   {
@@ -1082,10 +1318,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA VIGESIMA TERTIA",
-    "page_in_section": 76,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 332,
+    "pdf_page": 332,
+    "printed_page": 332,
     "y": 318
   },
   {
@@ -1093,10 +1327,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA VIGESIMA QUARTA",
-    "page_in_section": 80,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 336,
+    "pdf_page": 336,
+    "printed_page": 336,
     "y": 30
   },
   {
@@ -1104,10 +1336,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA VIGESIMA QUINTA",
-    "page_in_section": 83,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 339,
+    "pdf_page": 339,
+    "printed_page": 339,
     "y": 173
   },
   {
@@ -1115,10 +1345,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA VIGESIMA SEXTA",
-    "page_in_section": 86,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 342,
+    "pdf_page": 342,
+    "printed_page": 342,
     "y": 245
   },
   {
@@ -1126,10 +1354,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA VIGESIMA SEPTIMA",
-    "page_in_section": 90,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 346,
+    "pdf_page": 346,
+    "printed_page": 346,
     "y": 331
   },
   {
@@ -1137,10 +1363,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA VIGESIMA OCTAVA",
-    "page_in_section": 94,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 350,
+    "pdf_page": 350,
+    "printed_page": 350,
     "y": 417
   },
   {
@@ -1148,10 +1372,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA VIGESIMA NONA",
-    "page_in_section": 98,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 354,
+    "pdf_page": 354,
+    "printed_page": 354,
     "y": 44
   },
   {
@@ -1159,10 +1381,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA TRIGESIMA",
-    "page_in_section": 101,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 357,
+    "pdf_page": 357,
+    "printed_page": 357,
     "y": 263
   },
   {
@@ -1170,10 +1390,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA TRIGESIMA PRIMA",
-    "page_in_section": 104,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 360,
+    "pdf_page": 360,
+    "printed_page": 360,
     "y": 33
   },
   {
@@ -1181,10 +1399,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA TRIGESIMA SECUNDA",
-    "page_in_section": 107,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 363,
+    "pdf_page": 363,
+    "printed_page": 363,
     "y": 152
   },
   {
@@ -1192,10 +1408,8 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA TRIGESIMA TERTIA",
-    "page_in_section": 110,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 366,
+    "pdf_page": 366,
+    "printed_page": 366,
     "y": 40
   },
   {
@@ -1203,10 +1417,52 @@
     "section": "TEMPUS PER ANNUM",
     "level": 0,
     "text": "HEBDOMADA TRIGESIMA QUARTA",
-    "page_in_section": 113,
-    "section_offset": 244,
-    "chapter_offset": 14,
-    "graduale_page": 369,
+    "pdf_page": 369,
+    "printed_page": 369,
     "y": 85
+  },
+  {
+    "section_num": 8,
+    "level": -1,
+    "text": "SOLLEMNITATES DOMINI",
+    "pdf_page": 371,
+    "printed_page": 371,
+    "y": 0
+  },
+  {
+    "section_num": 8,
+    "section": "SOLLEMNITATES DOMINI",
+    "level": 0,
+    "text": "Sanctissimae Trinitatis",
+    "pdf_page": 371,
+    "printed_page": 371,
+    "y": 122.3
+  },
+  {
+    "section_num": 8,
+    "section": "SOLLEMNITATES DOMINI",
+    "level": 0,
+    "text": "SS.mi Corporis et Sanguinis Christi",
+    "pdf_page": 377,
+    "printed_page": 377,
+    "y": 34.3
+  },
+  {
+    "section_num": 8,
+    "section": "SOLLEMNITATES DOMINI",
+    "level": 0,
+    "text": "Sacratissimi Cordis Jesu",
+    "pdf_page": 384,
+    "printed_page": 384,
+    "y": 36.4
+  },
+  {
+    "section_num": 8,
+    "section": "SOLLEMNITATES DOMINI",
+    "level": 0,
+    "text": "D. N. Jesu Christi Universorum Regis",
+    "pdf_page": 388,
+    "printed_page": 388,
+    "y": 47.3
   }
 ]

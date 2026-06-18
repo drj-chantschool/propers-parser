@@ -498,11 +498,28 @@ class ReviewApp:
             if not p:
                 continue
             mode, inc, pages = p
-            sec = entry.get("section_type") or ""
+            sec  = entry.get("section_type") or ""
+            bbox = entry.get("bbox") or [None, None, None, None]
             for pg in pages:
-                rows.append({"chant_type": sec, "mode": mode, "incipit": inc, "page": pg})
+                rows.append({
+                    "id":       entry["id"],
+                    "page_idx": entry.get("page_idx"),
+                    "column":   entry.get("column"),
+                    "bbox_x1":  bbox[0],
+                    "bbox_y1":  bbox[1],
+                    "bbox_x2":  bbox[2],
+                    "bbox_y2":  bbox[3],
+                    "chant_type": sec,
+                    "mode": mode,
+                    "incipit": inc,
+                    "page": pg,
+                })
         with open(REVIEWED_CSV, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=["chant_type", "mode", "incipit", "page"])
+            writer = csv.DictWriter(f, fieldnames=[
+                "id", "page_idx", "column",
+                "bbox_x1", "bbox_y1", "bbox_x2", "bbox_y2",
+                "chant_type", "mode", "incipit", "page",
+            ])
             writer.writeheader()
             writer.writerows(rows)
         print(f"CSV written: {len(rows)} entries → {REVIEWED_CSV}")

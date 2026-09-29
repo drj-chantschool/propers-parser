@@ -1,0 +1,41 @@
+{
+  "subsection": "tq-lent-00-5",
+  "label": "Lent — Thursday after Ash Wednesday (Feria Quinta post Cineres)",
+  "lit_epoch_slug": "TQ-LENT-00-5",
+  "wkday": 5,
+  "chants": [
+    {
+      "page": 67,
+      "service_part": "in",
+      "incipit": "Dum clamarem",
+      "target_page": 303,
+      "band": [413, 437.5],
+      "engraved": false
+    },
+    {
+      "page": 67,
+      "service_part": "gr",
+      "incipit": "Convertere, Domine",
+      "target_page": 295,
+      "band": [437.5, 451.5],
+      "engraved": false
+    },
+    {
+      "page": 67,
+      "service_part": "of",
+      "incipit": "Ad te, Domine, levavi",
+      "target_page": 17,
+      "band": [451.5, 465.5],
+      "engraved": false
+    },
+    {
+      "page": 67,
+      "service_part": "co",
+      "incipit": "Qui vult venire",
+      "text_src": "cum ps. 25*, 1. 3. 4. 5. 6. 7. 8. 12",
+      "target_page": 484,
+      "band": [465.5, 505],
+      "engraved": false
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "subsection": "fidelis-of-sigmaringen",
+  "label": "S. Fidelis de Sigmaringen, Presbyteri et Martyris (Die 24 aprilis) — Cantus ut supra, die 23 aprilis",
+  "lit_epoch_slug": "fidelis-of-sigmaringen",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 556,
+      "service_part": "in",
+      "incipit": "Protexisti me, Deus",
+      "target_page": 442,
+      "band": [
+        222,
+        238
+      ],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Materialized from `george` (S. Georgii, 23 April) per the printed rubric ‘Cantus ut supra, die 23 aprilis.’ — this day prints no chant lines of its own. printed_page_num is this day's page 556 (where the rubric is printed); ref_page_num 442 is where the chant is engraved."
+    },
+    {
+      "page": 556,
+      "service_part": "al",
+      "incipit": "Confitebuntur",
+      "target_page": 478,
+      "band": [
+        222,
+        238
+      ],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Materialized from `george` (S. Georgii, 23 April) per the printed rubric ‘Cantus ut supra, die 23 aprilis.’ — this day prints no chant lines of its own. printed_page_num is this day's page 556 (where the rubric is printed); ref_page_num 478 is where the chant is engraved."
+    },
+    {
+      "page": 556,
+      "service_part": "al",
+      "incipit": "Posuisti",
+      "target_page": 480,
+      "band": [
+        222,
+        238
+      ],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Materialized from `george` (S. Georgii, 23 April) per the printed rubric ‘Cantus ut supra, die 23 aprilis.’ — this day prints no chant lines of its own. printed_page_num is this day's page 556 (where the rubric is printed); ref_page_num 480 is where the chant is engraved.",
+      "option_txt": "vel"
+    },
+    {
+      "page": 556,
+      "service_part": "of",
+      "incipit": "Confitebuntur caeli",
+      "target_page": 441,
+      "band": [
+        222,
+        238
+      ],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Materialized from `george` (S. Georgii, 23 April) per the printed rubric ‘Cantus ut supra, die 23 aprilis.’ — this day prints no chant lines of its own. printed_page_num is this day's page 556 (where the rubric is printed); ref_page_num 441 is where the chant is engraved."
+    },
+    {
+      "page": 556,
+      "service_part": "co",
+      "incipit": "Laetabitur iustus",
+      "target_page": 444,
+      "band": [
+        222,
+        238
+      ],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Materialized from `george` (S. Georgii, 23 April) per the printed rubric ‘Cantus ut supra, die 23 aprilis.’ — this day prints no chant lines of its own. printed_page_num is this day's page 556 (where the rubric is printed); ref_page_num 444 is where the chant is engraved."
+    }
+  ]
+}

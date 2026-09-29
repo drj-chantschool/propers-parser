@@ -1,0 +1,44 @@
+{
+  "subsection": "adv-ii-wkday7-sab",
+  "label": "Sabbato — Saturday (In ultimis feriis, a die 17 ad 24 decembris)",
+  "lit_epoch_slug": "ADV-II",
+  "wkday": 7,
+  "chants": [
+    {
+      "page": 33,
+      "service_part": "gr",
+      "mode": 2,
+      "incipit": "Excita Domine",
+      "text_src": "Ps. 79, 3. V. 2. 3",
+      "band": [179, 505],
+      "engraved": true
+    },
+    {
+      "page": 33,
+      "service_part": "in",
+      "incipit": "Memento nostri",
+      "target_page": 29,
+      "band": [161, 180],
+      "text_src": null,
+      "engraved": false
+    },
+    {
+      "page": 33,
+      "service_part": "of",
+      "incipit": "Audi Israel",
+      "target_page": 30,
+      "band": [161, 180],
+      "text_src": null,
+      "engraved": false
+    },
+    {
+      "page": 33,
+      "service_part": "co",
+      "incipit": "Veni Domine",
+      "target_page": 31,
+      "band": [161, 180],
+      "text_src": null,
+      "engraved": false
+    }
+  ]
+}

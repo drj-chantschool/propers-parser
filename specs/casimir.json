@@ -1,0 +1,49 @@
+{
+  "subsection": "casimir",
+  "label": "S. Casimiri (Die 4 martii)",
+  "lit_epoch_slug": "casimir",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 551,
+      "service_part": "in",
+      "incipit": "Os iusti meditabitur",
+      "target_page": 494,
+      "band": [119, 130],
+      "engraved": false
+    },
+    {
+      "page": 551,
+      "service_part": "gr",
+      "incipit": "Iustus ut palma",
+      "target_page": 510,
+      "band": [131, 142],
+      "engraved": false
+    },
+    {
+      "page": 551,
+      "service_part": "al",
+      "incipit": "Beatus vir qui suffert",
+      "target_page": 511,
+      "band": [143, 154],
+      "engraved": false
+    },
+    {
+      "page": 551,
+      "service_part": "of",
+      "incipit": "Veritas mea",
+      "target_page": 483,
+      "band": [155, 166],
+      "engraved": false
+    },
+    {
+      "page": 551,
+      "service_part": "co",
+      "incipit": "Beatus servus",
+      "target_page": 491,
+      "band": [166, 178],
+      "engraved": false,
+      "notes": "Printed as 'Beatus servus, 491, cum ps. 32*.' — psalm-tone data not modeled."
+    }
+  ]
+}

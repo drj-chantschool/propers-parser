@@ -1,0 +1,37 @@
+{
+  "subsection": "ordo-exsequiarum-vigilia",
+  "label": "Ordo Exsequiarum — De vigilia pro defuncto",
+  "lit_epoch_slug": "ordo-exsequiarum",
+  "chants": [
+    {
+      "page": 678,
+      "service_part": "vigan1",
+      "mode": 4,
+      "incipit": "Apud Dominum misericordia",
+      "text_src": null,
+      "band": [130, 250],
+      "engraved": true,
+      "notes": "Sung with Psalmus 129 (De profundis), pointed to the psalm tone engraved beneath the antiphon on this page."
+    },
+    {
+      "page": 679,
+      "service_part": "vigan2",
+      "mode": 8,
+      "incipit": "Memento mei Domine Deus",
+      "text_src": "Lc. 23, 42",
+      "band": [126, 244],
+      "engraved": true,
+      "notes": "Sung with Psalmus 22, pointed to the psalm tone engraved beneath the antiphon on this page."
+    },
+    {
+      "page": 680,
+      "service_part": "vigan3",
+      "mode": 4,
+      "incipit": "Habitabit in tabernaculo tuo",
+      "text_src": null,
+      "band": [115, 235],
+      "engraved": true,
+      "notes": "Sung with Psalmus 14, pointed to the psalm tone engraved beneath the antiphon on this page. Ps 14 verses 5-6 continue onto p681, above the STATIO PRIMA heading (out of scope for this chant row)."
+    }
+  ]
+}

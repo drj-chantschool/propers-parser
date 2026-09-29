@@ -1,0 +1,242 @@
+{
+  "subsection": "com-ded-aliis",
+  "label": "Anniversary of the Dedication of a Church — outside the dedicated church (Gregorian Missal)",
+  "lit_epoch_slug": "COM-DED-ALIIS",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 680,
+      "vernacular_text": "The Lord says: \"My words which I have put in your mouth will not cease to be upon your lips; for your name is present to me, and your offerings will be accepted upon my altar. ℣. How lovely is your tabernacle, O Lord of hosts! My soul longs and pines after the courts of the Lord.",
+      "text_src": "Is 59:21 and 56:7; Ps 83",
+      "cycle_sun": null,
+      "option_num": 1
+    },
+    {
+      "service_part": "in",
+      "page": 681,
+      "gm_xref_page": 202,
+      "vernacular_text": "God is in his holy dwelling place; the God who causes us to dwell together, one at heart, in his house; he himself will give power and strength to his people. ℣. Let God arise, and let his enemies be scattered; and let those who hate him flee before his face.",
+      "text_src": "Ps 67:6,7,36 and 2",
+      "cycle_sun": null,
+      "option_num": 2,
+      "option_txt": "Or:"
+    },
+    {
+      "service_part": "in",
+      "page": 681,
+      "gm_xref_page": 527,
+      "vernacular_text": "Behold, O God our protector, and consider the face of your Anointed; for one day in your house is better than a thousand elsewhere. ℣. How lovely is your tabernacle, O Lord of hosts! My soul longs and pines after the courts of the Lord.",
+      "text_src": "Ps 83:10, 11 and 2, 3",
+      "cycle_sun": null,
+      "option_num": 3,
+      "option_txt": "Or:"
+    },
+    {
+      "service_part": "in",
+      "page": 681,
+      "gm_xref_page": 492,
+      "vernacular_text": "We have received your mercy, O God, in the midst of your temple; even as your name, so also does your praise extend to the ends of the earth; your right hand is filled with righteousness. ℣. Great is the Lord and worthy of all praise, in the city of our God, on his holy mountain.",
+      "text_src": "Ps 47:10,11 and 2",
+      "cycle_sun": null,
+      "option_num": 4,
+      "option_txt": "Or:"
+    },
+    {
+      "service_part": "gr",
+      "page": 682,
+      "gm_xref_page": 548,
+      "vernacular_text": "I rejoiced when it was said unto me: “Let us go to the house of the Lord!” ℣. Let peace reign within your walls, and abundance in your towers.",
+      "text_src": "Ps 121:1, ℣.7",
+      "cycle_sun": null,
+      "option_num": 1
+    },
+    {
+      "service_part": "gr",
+      "page": 682,
+      "gm_xref_page": 582,
+      "vernacular_text": "We have received your mercy, O God, in the midst of your temple; even as your name, so does your praise extend to the ends of the earth. ℣. All that we have heard, we have now seen, in the city of our God, on his holy mountain.",
+      "text_src": "Ps 47:10, 11, ℣.9",
+      "cycle_sun": null,
+      "option_num": 2
+    },
+    {
+      "service_part": "gr",
+      "page": 682,
+      "gm_xref_page": 448,
+      "vernacular_text": "Bring your offerings and come into his courts; worship the Lord in his holy dwelling place. ℣. The Lord shall strip bare the thick forests and in his temple all shall proclaim his glory.",
+      "text_src": "Ps 95:8,9, ℣. Ps 28:9",
+      "cycle_sun": null,
+      "option_num": 3
+    },
+    {
+      "service_part": "gr",
+      "page": 682,
+      "gm_xref_page": 576,
+      "vernacular_text": "One thing have I asked of the Lord, this will I seek after; that I may dwell in the house of the Lord. ℣. To gaze in delight upon the Lord's beauty, and to be sheltered in his holy temple.",
+      "text_src": "Ps 26:4",
+      "cycle_sun": null,
+      "option_num": 4
+    },
+    {
+      "service_part": "al",
+      "page": 683,
+      "gm_xref_page": 444,
+      "vernacular_text": "I will bow down toward your holy temple and give thanks to your name.",
+      "text_src": "Ps 137:2",
+      "cycle_sun": null,
+      "option_num": 1
+    },
+    {
+      "service_part": "al",
+      "page": 683,
+      "gm_xref_page": 671,
+      "vernacular_text": "The house of the Lord is solidly built upon a firm rock.",
+      "text_src": null,
+      "cycle_sun": null,
+      "option_num": 2
+    },
+    {
+      "service_part": "al",
+      "page": 683,
+      "vernacular_text": "O Lord, I love the beauty of your house, and the tabernacle where your glory resides.",
+      "text_src": "Ps 25:8",
+      "cycle_sun": null,
+      "option_num": 3,
+      "option_txt": "Or:"
+    },
+    {
+      "service_part": "al",
+      "page": 683,
+      "gm_xref_page": 171,
+      "vernacular_text": "I rejoiced when it was said unto me: \"Let us go to the house of the Lord!\"",
+      "text_src": "Ps 121:1",
+      "cycle_sun": null,
+      "option_num": 4,
+      "option_txt": "Or:"
+    },
+    {
+      "service_part": "al",
+      "page": 683,
+      "gm_xref_page": 500,
+      "vernacular_text": "It is fitting, O God, to sing a hymn unto you on Mount Zion, and our vows shall be carried out for you in Jerusalem.",
+      "text_src": "Ps 64:2",
+      "cycle_sun": null,
+      "option_num": 5,
+      "option_txt": "Or:"
+    },
+    {
+      "service_part": "tr",
+      "page": 683,
+      "gm_xref_page": 261,
+      "vernacular_text": "Those who trust in the Lord are like Mount Zion; the inhabitants of Jerusalem shall never be shaken. ℣. As the mountains are round about Jerusalem, so the Lord is round about his people, from this time forth and for evermore.",
+      "text_src": "Ps 124:1,2",
+      "cycle_sun": null,
+      "option_num": 1
+    },
+    {
+      "service_part": "of",
+      "page": 683,
+      "gm_xref_page": 672,
+      "vernacular_text": "O Lord God, in the simplicity of my heart I have joyfully offered all things; and I have beheld with immense joy your people gathered here. God of Israel, preserve this good intention, O Lord God.",
+      "text_src": "I Chron 29:17,18",
+      "cycle_sun": null,
+      "option_num": 1
+    },
+    {
+      "service_part": "of",
+      "page": 683,
+      "gm_xref_page": 545,
+      "vernacular_text": "I prayed to my God, I, Daniel, and I said: \"Hearken, O Lord, unto the prayers of your servant, and cause your face to shine upon your sanctuary; look with forgiveness upon this nation over whom your name has been invoked, O God.\"",
+      "text_src": "Dan 9:4, (2,) 17, 19",
+      "cycle_sun": null,
+      "option_num": 2
+    },
+    {
+      "service_part": "of",
+      "page": 683,
+      "gm_xref_page": 549,
+      "vernacular_text": "Moses consecrated an altar to the Lord, and presented thereupon burnt offerings and sacrificial victims; he made an evening sacrifice as a fragrant offering to the Lord, in the presence of the sons of Israel.",
+      "text_src": "Cf. Ex 24:4,5",
+      "cycle_sun": null,
+      "option_num": 3
+    },
+    {
+      "service_part": "of",
+      "page": 684,
+      "vernacular_text": "The Angel stood at the altar of the temple with a golden censer in his hand; and he was given much incense and the smoke of the incense ascended before the presence of God, alleluia.",
+      "text_src": "Rev 8:3,4",
+      "cycle_sun": null,
+      "option_num": 4,
+      "option_txt": "Or, outside of lent:"
+    },
+    {
+      "service_part": "co",
+      "page": 686,
+      "vernacular_text": "My house will be called a house of prayer, says the Lord; everyone who asks here, will receive, and he who seeks, will find, and to him who knocks, it will be opened.",
+      "text_src": "Mt 21:13",
+      "cycle_sun": null,
+      "option_num": 1
+    },
+    {
+      "service_part": "co",
+      "page": 687,
+      "gm_xref_page": 507,
+      "vernacular_text": "You will accept a sacrifice of righteousness, oblations and burnt offerings, placed on your altar, O Lord.",
+      "text_src": "Ps 50:21",
+      "cycle_sun": null,
+      "option_num": 2,
+      "option_txt": "Or:"
+    },
+    {
+      "service_part": "co",
+      "page": 687,
+      "gm_xref_page": 263,
+      "vernacular_text": "Jerusalem, built as a city whose parts are bound firmly together! It is there that the tribes go up, the tribes of the Lord, to give thanks unto your name, O Lord.",
+      "text_src": "Ps 121:3,4",
+      "cycle_sun": null,
+      "option_num": 3,
+      "option_txt": "Or:"
+    },
+    {
+      "service_part": "co",
+      "page": 687,
+      "gm_xref_page": 451,
+      "vernacular_text": "I will go in to the altar of God, to the God who gives joy to my youth.",
+      "text_src": "Ps 42:4",
+      "cycle_sun": null,
+      "option_num": 4,
+      "option_txt": "Or:"
+    },
+    {
+      "service_part": "co",
+      "page": 687,
+      "gm_xref_page": 502,
+      "vernacular_text": "The sparrow has found herself a home, and the turtle dove a nest in which to lay her young: at your altars, O Lord of hosts, my King and my God! Blessed are they who dwell in your house, they shall praise you for ever and ever.",
+      "text_src": "Ps 83:4,5",
+      "cycle_sun": null,
+      "option_num": 5,
+      "option_txt": "Or:"
+    },
+    {
+      "service_part": "co",
+      "page": 687,
+      "gm_xref_page": 551,
+      "vernacular_text": "Bring up your sacrifices and come into his courts; adore the Lord in his holy temple.",
+      "text_src": "Ps 95:8,9",
+      "cycle_sun": null,
+      "option_num": 6,
+      "option_txt": "Or:"
+    },
+    {
+      "service_part": "co",
+      "page": 687,
+      "gm_xref_page": 480,
+      "vernacular_text": "One thing have I asked of the Lord, this will I seek after: that I may dwell in the house of the Lord all the days of my life.",
+      "text_src": "Ps 26:4",
+      "cycle_sun": null,
+      "option_num": 7,
+      "option_txt": "Or:"
+    }
+  ]
+}

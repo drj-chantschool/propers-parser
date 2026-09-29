@@ -1,0 +1,55 @@
+{
+  "subsection": "st-augustine",
+  "label": "St Augustine, Bishop and Doctor of the Church (S. AUGUSTINI, EPISCOPI ET ECCLESIAE DOCTORIS, Die 28 augusti)",
+  "lit_epoch_slug": "st-augustine",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 595,
+      "service_part": "in",
+      "incipit": "In medio Ecclesiae",
+      "target_page": 493,
+      "band": [435.6, 446.6],
+      "engraved": false,
+      "text_src": null
+    },
+    {
+      "page": 595,
+      "service_part": "gr",
+      "incipit": "Os iusti meditabitur",
+      "target_page": 494,
+      "band": [447.3, 458.3],
+      "engraved": false,
+      "text_src": null
+    },
+    {
+      "page": 595,
+      "service_part": "al",
+      "incipit": "Inveni David servum meum",
+      "target_page": 446,
+      "band": [459.5, 470.5],
+      "engraved": false,
+      "text_src": null
+    },
+    {
+      "page": 595,
+      "service_part": "of",
+      "incipit": "Iustus ut palma",
+      "target_page": 497,
+      "band": [471.9, 493.7],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Printed as 'OF. Iustus ut palma, 497.' This citation shares one merged OCR text block (y 471.9-493.7) with the communio line below it, so both rows share a bbox."
+    },
+    {
+      "page": 595,
+      "service_part": "co",
+      "incipit": "Fidelis servus et prudens",
+      "target_page": 491,
+      "band": [471.9, 493.7],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Printed as 'CO. Fidelis servus et prudens, 491, cum ps. 118*.' - psalm-tone data not modeled. This citation shares one merged OCR text block (y 471.9-493.7) with the offertory line above it, so both rows share a bbox."
+    }
+  ]
+}

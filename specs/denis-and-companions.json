@@ -1,0 +1,48 @@
+{
+  "subsection": "denis-and-companions",
+  "label": "SS. Dionysii, Episcopi, et Sociorum, Martyrum (Denis and Companions) — 9 October",
+  "lit_epoch_slug": "denis-and-companions",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 615,
+      "service_part": "in",
+      "incipit": "Sapientiam sanctorum",
+      "target_page": 452,
+      "band": [208, 221],
+      "engraved": false
+    },
+    {
+      "page": 615,
+      "service_part": "gr",
+      "incipit": "Anima nostra sicut passer",
+      "target_page": 453,
+      "band": [220, 233],
+      "engraved": false
+    },
+    {
+      "page": 615,
+      "service_part": "al",
+      "incipit": "Iusti epulentur",
+      "target_page": 461,
+      "band": [232, 245],
+      "engraved": false
+    },
+    {
+      "page": 615,
+      "service_part": "of",
+      "incipit": "Exsultabunt sancti",
+      "target_page": 466,
+      "band": [244, 257],
+      "engraved": false
+    },
+    {
+      "page": 615,
+      "service_part": "co",
+      "incipit": "Dico autem vobis",
+      "target_page": 470,
+      "band": [256, 270],
+      "engraved": false
+    }
+  ]
+}

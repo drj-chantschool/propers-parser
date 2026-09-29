@@ -1,0 +1,59 @@
+{
+  "subsection": "de-pretiosissimo-sanguine",
+  "label": "Votive Mass of the Most Precious Blood — De pretiosissimo Sanguine D.N. Iesu Christi",
+  "lit_epoch_slug": "de-pretiosissimo-sanguine",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 659,
+      "service_part": "in",
+      "incipit": "Dignus est Agnus qui occisus est",
+      "target_page": 388,
+      "band": [56, 75],
+      "engraved": false
+    },
+    {
+      "page": 659,
+      "service_part": "in",
+      "mode": 3,
+      "incipit": "Redemisti nos, Domine, in sanguine tuo",
+      "text_src": "Apc. 5, 9-10; Ps. 88",
+      "band": [75, 445],
+      "engraved": true,
+      "option_txt": "Ad libitum:",
+      "notes": "Engraving closes with the Paschaltide formula 'T.P. Alleluia, alleluia.' before the psalm verse 'Ps. Misericordias Domini in aeternum cantabo...' -- part of this same engraved chant, not a separate row."
+    },
+    {
+      "page": 659,
+      "service_part": "gr",
+      "incipit": "Christus factus est pro nobis obediens",
+      "target_page": 148,
+      "band": [446, 461],
+      "engraved": false
+    },
+    {
+      "page": 659,
+      "service_part": "al",
+      "incipit": "Caro mea vere est cibus",
+      "target_page": 378,
+      "band": [461, 473],
+      "engraved": false
+    },
+    {
+      "page": 659,
+      "service_part": "of",
+      "incipit": "Improperium exspectavit",
+      "target_page": 386,
+      "band": [473, 485],
+      "engraved": false
+    },
+    {
+      "page": 659,
+      "service_part": "co",
+      "incipit": "Unus militum lancea latus eius aperuit",
+      "target_page": 387,
+      "band": [485, 497],
+      "engraved": false
+    }
+  ]
+}

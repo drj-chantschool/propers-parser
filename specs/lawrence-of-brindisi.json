@@ -1,0 +1,48 @@
+{
+  "subsection": "lawrence-of-brindisi",
+  "label": "S. Laurentii de Brindisi, Presbyteri et Ecclesiae Doctoris (Die 21 iulii)",
+  "lit_epoch_slug": "lawrence-of-brindisi",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 580,
+      "service_part": "in",
+      "incipit": "Lex Domini irreprehensibilis",
+      "target_page": 86,
+      "band": [208.6, 219.6],
+      "engraved": false
+    },
+    {
+      "page": 580,
+      "service_part": "gr",
+      "incipit": "Iustus ut palma",
+      "target_page": 510,
+      "band": [220.8, 231.8],
+      "engraved": false
+    },
+    {
+      "page": 580,
+      "service_part": "al",
+      "incipit": "Beatus vir qui timet",
+      "target_page": 511,
+      "band": [232.7, 243.7],
+      "engraved": false
+    },
+    {
+      "page": 580,
+      "service_part": "of",
+      "incipit": "Levabo oculos meos",
+      "target_page": 78,
+      "band": [244.8, 255.8],
+      "engraved": false
+    },
+    {
+      "page": 580,
+      "service_part": "co",
+      "incipit": "Qui mihi ministrat",
+      "target_page": 484,
+      "band": [256.6, 267.6],
+      "engraved": false
+    }
+  ]
+}

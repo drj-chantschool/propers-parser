@@ -1,0 +1,24 @@
+{
+  "subsection": "adv-ii-00-4-dec20",
+  "label": "December 20 (In ultimis feriis) — proper offertory & communion for the day",
+  "lit_epoch_slug": "ADV-II-00-4",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 34,
+      "service_part": "of",
+      "incipit": "Ave Maria",
+      "target_page": 36,
+      "band": [278, 294],
+      "engraved": false
+    },
+    {
+      "page": 34,
+      "service_part": "co",
+      "incipit": "Ecce virgo",
+      "target_page": 37,
+      "band": [278, 294],
+      "engraved": false
+    }
+  ]
+}

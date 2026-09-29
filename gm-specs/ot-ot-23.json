@@ -1,0 +1,51 @@
+{
+  "subsection": "ot-ot-23",
+  "label": "23rd Sunday in Ordinary Time (Gregorian Missal)",
+  "lit_epoch_slug": "OT-OT-23",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 542,
+      "vernacular_text": "You are righteous, O Lord, and right is your judgement; deal with this servant of yours according to your mercy. ℣. Blessed are those whose way is blameless, who walk in the law of the Lord.",
+      "text_src": "Ps 118:137, 124 and 1",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 543,
+      "vernacular_text": "Blessed is the nation whose God is the Lord; the people whom he has chosen as his inheritance. ℣. By the Word of the Lord, the heavens were established, and all the power therein by the Spirit of his mouth.",
+      "text_src": "Ps 32:12, ℣.6",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 544,
+      "vernacular_text": "O Lord, you have been for us a refuge from age to age. ℣. Before the mountains were created, and before the land and the world were formed, from everlasting to everlasting, you are God.",
+      "text_src": "Ps 89:1, ℣.2",
+      "cycle_sun": 3,
+      "gm_xref_page": 562
+    },
+    {
+      "service_part": "al",
+      "page": 544,
+      "vernacular_text": "O Lord, hear my prayer; and let my cry come unto you.",
+      "text_src": "Ps 101:2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 545,
+      "vernacular_text": "I prayed to my God, I, Daniel, and I said: \"Hearken, O Lord, unto the prayers of your servant, and cause your face to shine upon your sanctuary; look with forgiveness upon this nation over whom your name has been invoked, O God.\"",
+      "text_src": "Dan 9:4, (2,) 17, 19",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 546,
+      "vernacular_text": "Make vows unto the Lord your God, and accomplish them, all you who gather around him to present offerings; to the awesome God who takes away the life of princes; he is greatly feared by all the kings of the earth.",
+      "text_src": "Ps 75:12, 13",
+      "cycle_sun": null
+    }
+  ]
+}

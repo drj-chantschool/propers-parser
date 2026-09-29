@@ -1,0 +1,59 @@
+{
+  "subsection": "ot-ot-26",
+  "label": "26th Sunday in Ordinary Time (Gregorian Missal)",
+  "lit_epoch_slug": "OT-OT-26",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 556,
+      "vernacular_text": "At the name of the Lord let every knee bend, in heaven, on earth and under the earth; for the Lord became obedient unto death, even death on the Cross; that is why Jesus Christ is the Lord, to the glory of God the Father. ℣. O Lord, hear my prayer, and let my cry come unto you.",
+      "text_src": "Phil 2:10, 8, 11; Ps 101:2",
+      "cycle_sun": 1
+    },
+    {
+      "service_part": "in",
+      "page": 557,
+      "vernacular_text": "All that you have inflicted upon us, O Lord, has been dealt out in true justice, for we have sinned against you and we have failed to obey your commandments; but give glory to your name and deal with us according to the abundance of your mercy. ℣. Blessed are those whose way is blameless, who walk in the law of the Lord.",
+      "text_src": "Dan 3:31, 29, 30, 43, 42; Ps 118:1",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 558,
+      "vernacular_text": "Christ became obedient for us unto death, even death on a Cross. ℣. Therefore God has highly exalted him, and bestowed on him the name which is above every name.",
+      "text_src": "Phil 2:8, ℣.9",
+      "cycle_sun": 1,
+      "gm_xref_page": 282
+    },
+    {
+      "service_part": "gr",
+      "page": 558,
+      "vernacular_text": "The eyes of all look towards you in hope, O Lord; and you give them their food in due season. ℣. You open your hand and fill every living thing with your blessings.",
+      "text_src": "Ps 144:15, ℣.16",
+      "cycle_sun": null,
+      "gm_xref_page": 414
+    },
+    {
+      "service_part": "al",
+      "page": 558,
+      "vernacular_text": "My heart is ready, O God, my heart is ready; I will sing to you and praise you, my glory.",
+      "text_src": "Ps 107:2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 559,
+      "vernacular_text": "Upon the rivers of Babylon, there we sat down and we wept, as we remembered you, O Zion.",
+      "text_src": "Ps 136:1",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 560,
+      "vernacular_text": "Be mindful of your word to your servant, O Lord, in which you caused me to hope; this has been my comfort in my affliction.",
+      "text_src": "Ps 118:49, 50",
+      "cycle_sun": null
+    }
+  ]
+}

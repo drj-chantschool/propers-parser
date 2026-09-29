@@ -1,0 +1,57 @@
+{
+  "subsection": "ot-ot-32",
+  "label": "32nd Sunday in Ordinary Time (Gregorian Missal)",
+  "lit_epoch_slug": "OT-OT-32",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 586,
+      "vernacular_text": "Let my prayer enter into your presence; incline your ear to my supplication, O Lord. ℣. O Lord, God of my salvation, day and night have I cried before you.",
+      "text_src": "Ps 87:3 and 2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 587,
+      "vernacular_text": "Let my prayer ascend like incense in your presence, O Lord. ℣. May the lifting up of my hands be an evening sacrifice.",
+      "text_src": "Ps 140:2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 587,
+      "vernacular_text": "The five wise virgins took oil in flasks with their lamps; at midnight there was a cry: \"Behold, the bridegroom is here; come out to meet Christ the Lord.\"",
+      "text_src": "Mt 25:4,6",
+      "cycle_sun": 1
+    },
+    {
+      "service_part": "al",
+      "page": 588,
+      "vernacular_text": "He has established peace in your boundaries, and he fills you with the finest wheat.",
+      "text_src": "Ps 147:3",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 589,
+      "vernacular_text": "Guide my footsteps, O Lord, according to your word, so that no iniquity may ever gain the upper hand, O Lord.",
+      "text_src": "Ps 118:133",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 590,
+      "vernacular_text": "The five wise virgins took oil in flasks with their lamps; at midnight there was a cry: \"Behold, the bridegroom is here; come out to meet Christ the Lord.\"",
+      "text_src": "Mt 25:4,6",
+      "cycle_sun": 1
+    },
+    {
+      "service_part": "co",
+      "page": 590,
+      "vernacular_text": "The Lord is my shepherd and I shall want nothing; he has set me in a land of abundant pastures; he has led me to life-renewing waters.",
+      "text_src": "Ps 22:1,2",
+      "cycle_sun": null
+    }
+  ]
+}

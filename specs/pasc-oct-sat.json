@@ -1,0 +1,61 @@
+{
+  "subsection": "pasc-oct-sat",
+  "label": "Easter Octave — Saturday (Sabbato infra octavam Paschae)",
+  "lit_epoch_slug": "PASC-OCT-01-7",
+  "wkday": 7,
+  "chants": [
+    {
+      "page": 214,
+      "service_part": "in",
+      "mode": 7,
+      "incipit": "Eduxit Dominus",
+      "text_src": "Ps. 104, 43 et 1",
+      "band": [160, 447],
+      "engraved": true
+    },
+    {
+      "page": 214,
+      "service_part": "al1",
+      "mode": 8,
+      "incipit": "Haec dies",
+      "text_src": "Ps. 117, 24",
+      "band": [447, 519],
+      "engraved": true
+    },
+    {
+      "page": 215,
+      "service_part": "al",
+      "mode": 4,
+      "incipit": "Laudate pueri",
+      "text_src": "Ps. 112, 1",
+      "band": [255, 445],
+      "option_txt": "Cf. Praenotanda, n. 9.",
+      "engraved": true
+    },
+    {
+      "page": 202,
+      "service_part": "seq",
+      "incipit": "Victimae paschali laudes",
+      "target_page": 198,
+      "band": [26, 66],
+      "option_txt": "Infra octavam, quando cantatur Alleluia cum suo ℣., addi potest Sequentia ut in Pascha.",
+      "engraved": false
+    },
+    {
+      "page": 215,
+      "service_part": "of",
+      "incipit": "Benedictus qui venit",
+      "target_page": 60,
+      "band": [447, 462],
+      "engraved": false
+    },
+    {
+      "page": 215,
+      "service_part": "co",
+      "incipit": "Omnes qui in Christo",
+      "target_page": 61,
+      "band": [460, 486],
+      "engraved": false
+    }
+  ]
+}

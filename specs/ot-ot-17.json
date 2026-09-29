@@ -1,0 +1,101 @@
+{
+  "subsection": "ot-ot-17",
+  "label": "17th week of Ordinary Time (Hebdomada XVII per annum)",
+  "lit_epoch_slug": "OT-OT-17",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 310,
+      "service_part": "in",
+      "mode": 5,
+      "incipit": "Deus in loco sancto suo",
+      "text_src": "Ps. 67, 6. 7. 36 et 2",
+      "band": [165, 505],
+      "engraved": true
+    },
+    {
+      "page": 312,
+      "service_part": "al",
+      "mode": 7,
+      "incipit": "Exsultate Deo",
+      "text_src": "Ps. 80, 2. 3",
+      "band": [395, 505],
+      "engraved": true
+    },
+    {
+      "page": 313,
+      "service_part": "of",
+      "mode": 2,
+      "incipit": "Exaltabo te Domine",
+      "text_src": "Ps. 29, 2. 3",
+      "band": [200, 505],
+      "engraved": true
+    },
+    {
+      "page": 314,
+      "service_part": "co",
+      "mode": 6,
+      "incipit": "Honora Dominum",
+      "text_src": "Prov. 3, 9. 10",
+      "band": [22, 260],
+      "engraved": true
+    },
+    {
+      "page": 312,
+      "service_part": "gr",
+      "incipit": "Oculi omnium",
+      "target_page": 343,
+      "cycle_sun": 2,
+      "band": [340, 395],
+      "engraved": false
+    },
+    {
+      "page": 314,
+      "service_part": "co",
+      "incipit": "Simile est regnum caelorum",
+      "target_page": 519,
+      "cycle_sun": 1,
+      "band": [288, 333],
+      "engraved": false
+    },
+    {
+      "page": 314,
+      "service_part": "co",
+      "mode": 1,
+      "incipit": "Petite",
+      "text_src": "Lc. 11, 9. 10; cf. Mt. 7, 7. 8 et 10, 1",
+      "cycle_sun": 3,
+      "band": [333, 505],
+      "engraved": true
+    },
+    {
+      "page": 311,
+      "service_part": "in",
+      "mode": 6,
+      "incipit": "Exsultate Deo",
+      "text_src": "Ps. 80, 2. 3. 4. 5. 6",
+      "wkday": 6,
+      "cycle_wkday": 1,
+      "band": [36, 443],
+      "engraved": true
+    },
+    {
+      "page": 311,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "In Deo speravit",
+      "text_src": "Ps. 27, 7. V. 1",
+      "band": [443, 505],
+      "engraved": true
+    },
+    {
+      "page": 315,
+      "service_part": "co",
+      "incipit": "Simile est regnum caelorum",
+      "target_page": 519,
+      "wkday": 4,
+      "band": [155, 185],
+      "engraved": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "subsection": "nat-epi-00-2",
+  "label": "2nd day after the Epiphany (January 8, or Tuesday after Epiphany)",
+  "lit_epoch_slug": "NAT-EPI-00-2",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 59,
+      "service_part": "co",
+      "incipit": "Manducaverunt",
+      "target_page": 278,
+      "band": [292.4, 306.3],
+      "engraved": false
+    }
+  ]
+}

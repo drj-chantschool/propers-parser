@@ -1,0 +1,48 @@
+{
+  "subsection": "assumption-vigil",
+  "label": "The Assumption of the Blessed Virgin Mary - Ad Missam in Vigilia (IN ASSUMPTIONE B. MARIAE VIRGINIS, Die 15 augusti)",
+  "lit_epoch_slug": "assumption-vigil",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 590,
+      "service_part": "in",
+      "incipit": "Vultum tuum deprecabuntur",
+      "target_page": 404,
+      "band": [136, 177],
+      "engraved": false
+    },
+    {
+      "page": 590,
+      "service_part": "gr",
+      "incipit": "Benedicta et venerabilis",
+      "target_page": 407,
+      "band": [136, 177],
+      "engraved": false
+    },
+    {
+      "page": 590,
+      "service_part": "al",
+      "incipit": "Felix es, sacra Virgo",
+      "target_page": 414,
+      "band": [136, 177],
+      "engraved": false
+    },
+    {
+      "page": 590,
+      "service_part": "of",
+      "incipit": "Beata es, Virgo Maria",
+      "target_page": 420,
+      "band": [173, 201],
+      "engraved": false
+    },
+    {
+      "page": 590,
+      "service_part": "co",
+      "incipit": "Beata viscera",
+      "target_page": 423,
+      "band": [173, 201],
+      "engraved": false
+    }
+  ]
+}

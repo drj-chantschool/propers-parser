@@ -1,0 +1,48 @@
+{
+  "subsection": "januarius-gennaro",
+  "label": "St. Januarius, Bishop and Martyr (Die 19 septembris)",
+  "lit_epoch_slug": "januarius-gennaro",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 606,
+      "service_part": "in",
+      "incipit": "Statuit ei Dominus",
+      "target_page": 445,
+      "band": [205.0, 215.4],
+      "engraved": false
+    },
+    {
+      "page": 606,
+      "service_part": "gr",
+      "incipit": "Inveni David servum meum",
+      "target_page": 445,
+      "band": [217.1, 227.4],
+      "engraved": false
+    },
+    {
+      "page": 606,
+      "service_part": "al",
+      "incipit": "Tu es sacerdos",
+      "target_page": 449,
+      "band": [229.3, 239.7],
+      "engraved": false
+    },
+    {
+      "page": 606,
+      "service_part": "of",
+      "incipit": "Exaltabo te, Domine",
+      "target_page": 313,
+      "band": [240.2, 251.6],
+      "engraved": false
+    },
+    {
+      "page": 606,
+      "service_part": "co",
+      "incipit": "Semel iuravi in sancto meo",
+      "target_page": 492,
+      "band": [252.2, 263.7],
+      "engraved": false
+    }
+  ]
+}

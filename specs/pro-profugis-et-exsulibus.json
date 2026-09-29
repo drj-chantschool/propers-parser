@@ -1,0 +1,66 @@
+{
+  "subsection": "pro-profugis-et-exsulibus",
+  "label": "For Refugees and Exiles — Pro profugis et exsulibus",
+  "lit_epoch_slug": "pro-profugis-et-exsulibus",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 655,
+      "service_part": "in",
+      "incipit": "Dicit Dominus : Ego cogito",
+      "target_page": 366,
+      "band": [57, 69],
+      "engraved": false
+    },
+    {
+      "page": 655,
+      "service_part": "in",
+      "incipit": "Esto mihi in Deum protectorem",
+      "target_page": 275,
+      "band": [69, 81],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 655,
+      "service_part": "gr",
+      "incipit": "Angelis suis mandavit de te",
+      "target_page": 72,
+      "band": [81, 93],
+      "engraved": false
+    },
+    {
+      "page": 655,
+      "service_part": "gr",
+      "incipit": "Si ambulem in medio umbrae",
+      "target_page": 125,
+      "band": [93, 105],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 655,
+      "service_part": "al",
+      "incipit": "Verba mea auribus percipe",
+      "target_page": 280,
+      "band": [105, 117],
+      "engraved": false
+    },
+    {
+      "page": 655,
+      "service_part": "of",
+      "incipit": "Gressus meos dirige, Domine",
+      "target_page": 365,
+      "band": [117, 129],
+      "engraved": false
+    },
+    {
+      "page": 655,
+      "service_part": "co",
+      "incipit": "Dominus firmamentum meum",
+      "target_page": 290,
+      "band": [129, 148],
+      "engraved": false
+    }
+  ]
+}

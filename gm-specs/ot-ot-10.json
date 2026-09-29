@@ -1,0 +1,65 @@
+{
+  "subsection": "ot-ot-10",
+  "label": "10th Sunday in Ordinary Time (Gregorian Missal)",
+  "lit_epoch_slug": "OT-OT-10",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 470,
+      "vernacular_text": "The Lord is my light and my salvation, whom shall I fear? The Lord is the protector of my life, of whom shall I be afraid? My enemies who trouble me have themselves grown weak and have fallen. ℣. Though a host encamp against me, my heart shall not fear.",
+      "text_src": "Ps 26:1,2,3",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "in",
+      "page": 471,
+      "vernacular_text": "O Lord, if you were to take into account our iniquities, who would withstand the test? But forgiveness abides with you, O God of Israel. ℣. Out of the depths have I cried to you, O Lord; Lord, hear my voice.",
+      "text_src": "Ps 129:3,4 and 1,2",
+      "cycle_sun": 2,
+      "gm_xref_page": 566
+    },
+    {
+      "service_part": "gr",
+      "page": 471,
+      "vernacular_text": "Lord, forgive us our sins, lest they should say among the Gentiles: \"Where is their God?\" ℣. Help us, O God, our Saviour, and for the sake of your name deliver us, O Lord.",
+      "text_src": "Ps 78:9c,10a, ℣.9ab",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 472,
+      "vernacular_text": "I will extol you, O Lord, for you have drawn me up and have not allowed my enemies to rejoice over me. ℣. O Lord, my God, I called out unto you and you have healed me; O Lord, you have brought back my soul from hell; you have delivered me from among those who go down into the pit.",
+      "text_src": "Ps 29:2, ℣.3,4",
+      "cycle_sun": 3
+    },
+    {
+      "service_part": "al",
+      "page": 474,
+      "vernacular_text": "O God, you sit on your throne and judge with righteousness; deign to be a refuge for the poor in their distress.",
+      "text_src": "Ps 9:5,10",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 475,
+      "vernacular_text": "Enlighten my eyes lest I fall into the sleep of death; lest my enemy say: \"I have prevailed against him.\"",
+      "text_src": "Ps 12:4,5",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 476,
+      "vernacular_text": "The Lord is my support, my refuge and my deliverer; God is my only help.",
+      "text_src": "Ps 17:3",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 476,
+      "vernacular_text": "Whosoever does the will of my Father in heaven is my brother, my sister and my mother, says the Lord.",
+      "text_src": "Mt 12:50",
+      "cycle_sun": 2
+    }
+  ]
+}

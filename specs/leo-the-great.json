@@ -1,0 +1,53 @@
+{
+  "subsection": "leo-the-great",
+  "label": "Leo the Great (S. LEONIS MAGNI, PAPAE ET ECCLESIAE DOCTORIS, Die 10 novembris)",
+  "lit_epoch_slug": "leo-the-great",
+  "chants": [
+    {
+      "page": 621,
+      "service_part": "in",
+      "incipit": "In medio Ecclesiae",
+      "text_src": null,
+      "target_page": 493,
+      "band": [308.1, 319.1],
+      "engraved": false
+    },
+    {
+      "page": 621,
+      "service_part": "gr",
+      "incipit": "Os iusti meditabitur sapientiam",
+      "text_src": null,
+      "target_page": 494,
+      "band": [319.5, 330.5],
+      "engraved": false
+    },
+    {
+      "page": 621,
+      "service_part": "al",
+      "incipit": "Iustus germinabit",
+      "text_src": null,
+      "target_page": 496,
+      "band": [332.0, 343.0],
+      "engraved": false
+    },
+    {
+      "page": 621,
+      "service_part": "of",
+      "incipit": "Inveni David servum meum",
+      "text_src": null,
+      "target_page": 447,
+      "band": [344.2, 355.2],
+      "engraved": false
+    },
+    {
+      "page": 621,
+      "service_part": "co",
+      "incipit": "Beatus servus",
+      "text_src": null,
+      "target_page": 491,
+      "band": [354.2, 365.2],
+      "engraved": false,
+      "notes": "Printed as 'Beatus servus, 491, cum ps. 32*.' — psalm-tone data not modeled."
+    }
+  ]
+}

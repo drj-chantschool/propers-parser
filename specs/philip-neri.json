@@ -1,0 +1,58 @@
+{
+  "subsection": "philip-neri",
+  "label": "Die 26 maii — S. Philippi Neri, Presbyteri",
+  "lit_epoch_slug": "philip-neri",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 564,
+      "service_part": "in",
+      "incipit": "Caritas Dei diffusa est",
+      "target_page": 248,
+      "band": [77, 90],
+      "engraved": false
+    },
+    {
+      "page": 564,
+      "service_part": "al",
+      "incipit": "O quam bonus",
+      "target_page": 517,
+      "band": [90, 102],
+      "engraved": false
+    },
+    {
+      "page": 564,
+      "service_part": "of",
+      "incipit": "Benedic, anima mea",
+      "target_page": 362,
+      "band": [102, 114],
+      "engraved": false
+    },
+    {
+      "page": 564,
+      "service_part": "co",
+      "incipit": "Magna est gloria eius",
+      "target_page": 437,
+      "band": [114, 126],
+      "engraved": false
+    },
+    {
+      "page": 564,
+      "service_part": "in",
+      "incipit": "Os iusti meditabitur",
+      "target_page": 494,
+      "band": [141, 154],
+      "engraved": false,
+      "option_txt": "Extra tempus paschale :"
+    },
+    {
+      "page": 564,
+      "service_part": "gr",
+      "incipit": "Venite, filii, audite me",
+      "target_page": 298,
+      "band": [154, 167],
+      "engraved": false,
+      "option_txt": "Extra tempus paschale :"
+    }
+  ]
+}

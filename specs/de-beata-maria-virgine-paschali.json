@@ -1,0 +1,39 @@
+{
+  "subsection": "de-beata-maria-virgine-paschali",
+  "label": "Votive Mass of the BVM — Paschaltide",
+  "lit_epoch_slug": "de-beata-maria-virgine-paschali",
+  "chants": [
+    {
+      "page": 663,
+      "service_part": "in",
+      "incipit": "Salve, sancta Parens",
+      "target_page": 403,
+      "band": [55, 71],
+      "engraved": false
+    },
+    {
+      "page": 663,
+      "service_part": "al",
+      "incipit": "Virga Iesse floruit",
+      "target_page": 416,
+      "band": [71, 83],
+      "engraved": false
+    },
+    {
+      "page": 663,
+      "service_part": "of",
+      "incipit": "Beata es, Virgo Maria",
+      "target_page": 420,
+      "band": [83, 95],
+      "engraved": false
+    },
+    {
+      "page": 663,
+      "service_part": "co",
+      "incipit": "Diffusa est gratia in labiis tuis",
+      "target_page": 423,
+      "band": [95, 112],
+      "engraved": false
+    }
+  ]
+}

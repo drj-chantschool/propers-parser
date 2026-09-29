@@ -1,0 +1,71 @@
+{
+  "subsection": "ot-ot-15",
+  "label": "15th Sunday in Ordinary Time (Gregorian Missal)",
+  "lit_epoch_slug": "OT-OT-15",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 496,
+      "vernacular_text": "When I cried out to the Lord, he heeded my call against my assailants; he who is before the beginning of the world and who endures forever has humbled them. Cast your cares upon the Lord, and he will sustain you. ℣. Hear my prayer, O God, and despise not my supplication; be attentive to me and hear me.",
+      "text_src": "Ps 54:17,18,19,20,23 and 2",
+      "cycle_sun": null,
+      "option_num": 1
+    },
+    {
+      "service_part": "in",
+      "page": 497,
+      "vernacular_text": "As for me, I will appear before you in righteousness; I will be satisfied when your glory is made manifest. ℣. Give heed, O Lord, to my righteousness; be attentive to my supplication.",
+      "text_src": "Ps 16:15 and 1",
+      "cycle_sun": null,
+      "option_num": 2,
+      "option_txt": "Or:"
+    },
+    {
+      "service_part": "gr",
+      "page": 498,
+      "vernacular_text": "Keep me, O Lord, as the apple of your eye; shield me under the shadow of your wings. ℣. Let judgment in my favour come forth from your presence; may your eyes discern what is right.",
+      "text_src": "Ps 16:8, ℣.2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 499,
+      "vernacular_text": "Show us your mercy, O Lord, and grant us your salvation. ℣. Lord, you have blessed your land, you have put an end to Jacob's captivity.",
+      "text_src": "Ps 84:8, ℣.2",
+      "cycle_sun": 2
+    },
+    {
+      "service_part": "al",
+      "page": 500,
+      "vernacular_text": "It is fitting, O God, to sing a hymn unto you on Mount Zion, and our vows shall be carried out for you in Jerusalem.",
+      "text_src": "Ps 64:2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 501,
+      "vernacular_text": "Unto you, O Lord, have I lifted up my soul; O my God, I trust in you, let me not be put to shame; do not allow my enemies to laugh at me; for none of those who are awaiting you will be disappointed.",
+      "text_src": "Ps 24:1-3",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 502,
+      "vernacular_text": "The sparrow has found herself a home, and the turtle dove a nest in which to lay her young: at your altars, O Lord of hosts, my King and my God! Blessed are they who dwell in your house, they shall praise you for ever and ever.",
+      "text_src": "Ps 83:4,5",
+      "cycle_sun": null,
+      "option_num": 1
+    },
+    {
+      "service_part": "co",
+      "page": 503,
+      "vernacular_text": "He who eats my flesh and drinks my blood, abides in me, and I in him, says the Lord.",
+      "text_src": "Jn 6:57",
+      "cycle_sun": null,
+      "option_num": 2,
+      "option_txt": "Or:",
+      "gm_xref_page": 423
+    }
+  ]
+}

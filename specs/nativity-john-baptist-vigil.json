@@ -1,0 +1,50 @@
+{
+  "subsection": "nativity-john-baptist-vigil",
+  "label": "The Nativity of Saint John the Baptist — Vigil Mass (Die 24 iunii, Ad Missam in Vigilia)",
+  "lit_epoch_slug": "nativity-john-baptist-vigil",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 568,
+      "service_part": "in",
+      "mode": 7,
+      "incipit": "Ne timeas, Zacharia",
+      "text_src": "Lc. 1, 13. 15. 14",
+      "band": [240, 510],
+      "engraved": true
+    },
+    {
+      "page": 569,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "Fuit homo missus a Deo",
+      "text_src": "Io. 1, 6. V. 7",
+      "band": [185, 505],
+      "engraved": true
+    },
+    {
+      "page": 570,
+      "service_part": "al",
+      "incipit": "Beatus vir qui timet",
+      "target_page": 511,
+      "band": [38, 52.5],
+      "engraved": false
+    },
+    {
+      "page": 570,
+      "service_part": "of",
+      "incipit": "Gloria et honore",
+      "target_page": 434,
+      "band": [52.5, 63],
+      "engraved": false
+    },
+    {
+      "page": 570,
+      "service_part": "co",
+      "incipit": "Magna est gloria eius",
+      "target_page": 437,
+      "band": [63, 76],
+      "engraved": false
+    }
+  ]
+}

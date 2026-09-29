@@ -1,0 +1,48 @@
+{
+  "subsection": "st-monica",
+  "label": "St. Monica (S. MONICÆ, Die 27 augusti)",
+  "lit_epoch_slug": "st-monica",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 595,
+      "service_part": "in",
+      "incipit": "Cognovi, Domine",
+      "target_page": 525,
+      "band": [310, 327],
+      "engraved": false
+    },
+    {
+      "page": 595,
+      "service_part": "gr",
+      "incipit": "Diffusa est gratia",
+      "target_page": 408,
+      "band": [327, 339],
+      "engraved": false
+    },
+    {
+      "page": 595,
+      "service_part": "al",
+      "incipit": "Specie tua",
+      "target_page": 416,
+      "band": [339, 351],
+      "engraved": false
+    },
+    {
+      "page": 595,
+      "service_part": "of",
+      "incipit": "Diffusa est gratia",
+      "target_page": 421,
+      "band": [351, 363],
+      "engraved": false
+    },
+    {
+      "page": 595,
+      "service_part": "co",
+      "incipit": "Dilexisti iustitiam",
+      "target_page": 506,
+      "band": [363, 383],
+      "engraved": false
+    }
+  ]
+}

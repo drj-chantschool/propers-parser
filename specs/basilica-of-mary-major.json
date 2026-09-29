@@ -1,0 +1,246 @@
+{
+  "subsection": "basilica-of-mary-major",
+  "label": "In Dedicatione Basilicae S. Mariae (Die 5 augusti) — Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663",
+  "lit_epoch_slug": "basilica-of-mary-major",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 584,
+      "service_part": "in",
+      "incipit": "Salve, sancta Parens",
+      "target_page": 403,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "A",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-a` (GR p663, block A) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 403 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling)."
+    },
+    {
+      "page": 584,
+      "service_part": "gr",
+      "incipit": "Diffusa est gratia in labiis tuis",
+      "target_page": 408,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "A",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-a` (GR p663, block A) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 408 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling)."
+    },
+    {
+      "page": 584,
+      "service_part": "al",
+      "incipit": "Virga Iesse floruit",
+      "target_page": 416,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "A",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-a` (GR p663, block A) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 416 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling)."
+    },
+    {
+      "page": 584,
+      "service_part": "of",
+      "incipit": "Ave, Maria, gratia plena",
+      "target_page": 419,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "A",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-a` (GR p663, block A) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 419 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling)."
+    },
+    {
+      "page": 584,
+      "service_part": "co",
+      "incipit": "Beata viscera Mariae Virginis",
+      "target_page": 423,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "A",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-a` (GR p663, block A) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 423 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling)."
+    },
+    {
+      "page": 584,
+      "service_part": "in",
+      "incipit": "Vultum tuum deprecabuntur",
+      "target_page": 404,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "B",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-b` (GR p663, block B) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 404 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling)."
+    },
+    {
+      "page": 584,
+      "service_part": "gr",
+      "incipit": "Audi, filia, et vide",
+      "target_page": 406,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "B",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-b` (GR p663, block B) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 406 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling)."
+    },
+    {
+      "page": 584,
+      "service_part": "gr",
+      "incipit": "Propter veritatem",
+      "target_page": 410,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "—",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-b` (GR p663, block B) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 410 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling). Em-dash alternate within block B."
+    },
+    {
+      "page": 584,
+      "service_part": "al",
+      "incipit": "Specie tua et pulchritudine tua",
+      "target_page": 416,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "B",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-b` (GR p663, block B) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 416 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling)."
+    },
+    {
+      "page": 584,
+      "service_part": "of",
+      "incipit": "Ave, Maria, gratia plena",
+      "target_page": 419,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "B",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-b` (GR p663, block B) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 419 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling)."
+    },
+    {
+      "page": 584,
+      "service_part": "of",
+      "incipit": "Beata es, Virgo Maria",
+      "target_page": 420,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "—",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-b` (GR p663, block B) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 420 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling). Em-dash alternate within block B."
+    },
+    {
+      "page": 584,
+      "service_part": "co",
+      "incipit": "Diffusa est gratia in labiis tuis",
+      "target_page": 423,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "B",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-b` (GR p663, block B) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 423 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling)."
+    },
+    {
+      "page": 584,
+      "service_part": "in",
+      "incipit": "Salve, sancta Parens",
+      "target_page": 403,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "C",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-c` (GR p663, block C) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 403 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling)."
+    },
+    {
+      "page": 584,
+      "service_part": "gr",
+      "incipit": "Concupivit rex decorem tuum",
+      "target_page": 408,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "C",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-c` (GR p663, block C) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 408 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling)."
+    },
+    {
+      "page": 584,
+      "service_part": "al",
+      "incipit": "Diffusa est gratia in labiis tuis",
+      "target_page": 413,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "C",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-c` (GR p663, block C) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 413 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling)."
+    },
+    {
+      "page": 584,
+      "service_part": "of",
+      "incipit": "Felix namque es, sacra Virgo",
+      "target_page": 422,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "C",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-c` (GR p663, block C) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 422 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling)."
+    },
+    {
+      "page": 584,
+      "service_part": "co",
+      "incipit": "Gloriosa dicta sunt de te",
+      "target_page": 631,
+      "band": [
+        476.0,
+        498.0
+      ],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": "C",
+      "notes": "Materialized from votive Mass `de-beata-maria-virgine-post-pentecosten-c` (GR p663, block C) per the rubric printed on p584: 'Cantus ut in Missa votiva de B.M.V., tempore per annum, A, B, C, 663.' 5 Aug prints no chants of its own; printed_page_num 584 = the rubric's page, ref_page_num 631 = where the chant is engraved. A/B/C are three OPTIONS (option_num 1/2/3), not a 3-year cycle, so cycle_sun is NULL (user ruling)."
+    }
+  ]
+}

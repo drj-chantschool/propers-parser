@@ -1,0 +1,43 @@
+{
+  "subsection": "nat-night",
+  "label": "Christmas — Midnight Mass (Gregorian Missal)",
+  "lit_epoch_slug": "NAT-DAY-00-0-night",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 189,
+      "vernacular_text": "The Lord said unto me: You are my Son, today I have begotten you. ℣. Why do the nations conspire and the peoples plot in vain?",
+      "text_src": "Ps 2:7, ℣.1,2,8",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 190,
+      "vernacular_text": "Sovereign strength is yours on the day of your great might. Amidst the splendours of the heavenly sanctuary, from the womb, before the morning star, I have begotten you. ℣. The Lord said unto my Lord: \"Sit at my right hand, until I make your enemies a stool for your feet.\"",
+      "text_src": "Ps 109:3, ℣.1",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 191,
+      "vernacular_text": "The Lord said unto me: \"You are my Son, today I have begotten you.\"",
+      "text_src": "Ps 2:7",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 192,
+      "vernacular_text": "Let the heavens rejoice and let the earth be glad before the face of the Lord for he cometh.",
+      "text_src": "Ps 95:11",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 193,
+      "vernacular_text": "Amidst the splendours of the heavenly sanctuary, from the womb, before the morning star, I have begotten you.",
+      "text_src": "Ps 109:3",
+      "cycle_sun": null
+    }
+  ]
+}

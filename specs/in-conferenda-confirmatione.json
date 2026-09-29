@@ -1,0 +1,127 @@
+{
+  "subsection": "in-conferenda-confirmatione",
+  "label": "Conferral of Confirmation — In conferenda Confirmatione",
+  "lit_epoch_slug": "in-conferenda-confirmatione",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 644,
+      "service_part": "in",
+      "incipit": "Dum sanctificatus fuero in vobis",
+      "target_page": 249,
+      "band": [70, 84],
+      "engraved": false
+    },
+    {
+      "page": 644,
+      "service_part": "in",
+      "incipit": "Caritas Dei diffusa est",
+      "target_page": 248,
+      "band": [95, 107],
+      "engraved": false,
+      "option_txt": "Tempore paschali:"
+    },
+    {
+      "page": 644,
+      "service_part": "gr",
+      "incipit": "Beata gens",
+      "target_page": 333,
+      "band": [107, 131],
+      "engraved": false
+    },
+    {
+      "page": 644,
+      "service_part": "al",
+      "incipit": "Emitte Spiritum tuum",
+      "target_page": 249,
+      "band": [107, 131],
+      "engraved": false
+    },
+    {
+      "page": 644,
+      "service_part": "al",
+      "incipit": "Emitte Spiritum tuum",
+      "target_page": 253,
+      "band": [107, 131],
+      "engraved": false,
+      "option_txt": "vel",
+      "notes": "Printed 'AL. Emitte Spiritum tuum, 249, vel 253.' -- one incipit cited at two alternate pages, both carrying a chant of this title on p249 and p253 (p249's index entry is annotated '(altera melodia)'). Modeled as two AL rows sharing the same incipit with different target_page."
+    },
+    {
+      "page": 644,
+      "service_part": "al",
+      "incipit": "Veni, Sancte Spiritus",
+      "target_page": 253,
+      "band": [131, 143],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 644,
+      "service_part": "of",
+      "incipit": "Confirma hoc, Deus",
+      "target_page": 255,
+      "band": [143, 155],
+      "engraved": false,
+      "notes": "Resolves to the CUM-Alleluia engraving (gregobase 361), the only Confirma hoc the GR prints -- p255 ends 'offerent reges munera, alleluia.' gregobase also carries a sine-Alleluia form (id 83) that the GR never prints; gr_index_entry row 1495 pointed there until 2026-09-26. Alleluia suppression outside Paschaltide is global logic's job, not a different chant."
+    },
+    {
+      "page": 644,
+      "service_part": "of",
+      "incipit": "Meditabor in mandatis tuis",
+      "target_page": 356,
+      "band": [167, 179],
+      "engraved": false,
+      "option_txt": "Tempore Quadragesimae:"
+    },
+    {
+      "page": 644,
+      "service_part": "co",
+      "incipit": "Beati mundo corde",
+      "target_page": 514,
+      "band": [175, 191],
+      "engraved": false,
+      "notes": "cum ps. 33* -- psalm-tone plan, not modeled as a separate field."
+    },
+    {
+      "page": 644,
+      "service_part": "co",
+      "incipit": "Domine, quinque talenta",
+      "target_page": 515,
+      "band": [187, 203],
+      "engraved": false,
+      "option_txt": "—",
+      "notes": "cum ps. 118* -- psalm-tone plan, not modeled as a separate field."
+    },
+    {
+      "page": 644,
+      "service_part": "co",
+      "incipit": "Qui vult venire post me",
+      "target_page": 484,
+      "band": [199, 227],
+      "engraved": false,
+      "option_txt": "—",
+      "notes": "cum ps. 33*. 2. 3. 4. 6. 9. 12. 13. 14. 15 -- psalm-tone plan, not modeled as a separate field."
+    },
+    {
+      "page": 644,
+      "service_part": "co",
+      "incipit": "Non vos relinquam orphanos",
+      "target_page": 232,
+      "band": [235, 251],
+      "engraved": false,
+      "option_txt": "Extra tempus Quadragesimae:",
+      "notes": "cum ps. 121* -- psalm-tone plan, not modeled as a separate field."
+    },
+    {
+      "page": 644,
+      "service_part": "co",
+      "incipit": "Spiritus qui a Patre procedit",
+      "target_page": 233,
+      "band": [247, 263],
+      "engraved": false,
+      "option_txt": "—",
+      "notes": "cum ps. 77*, ooo -- psalm-tone plan, not modeled as a separate field."
+    }
+  ]
+}

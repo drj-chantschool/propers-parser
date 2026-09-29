@@ -1,0 +1,80 @@
+{
+  "subsection": "adv-i-01",
+  "label": "1st week of Advent (Hebdomada I Adventus)",
+  "lit_epoch_slug": "ADV-I-01",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 15,
+      "service_part": "in",
+      "mode": 8,
+      "incipit": "Ad te levavi",
+      "text_src": "Ps. 24, 1-4",
+      "band": [88, 458],
+      "engraved": true
+    },
+    {
+      "page": 16,
+      "service_part": "gr",
+      "mode": 1,
+      "incipit": "Universi qui te exspectant",
+      "text_src": "Ps. 24, 3. V. 4",
+      "band": [25, 333],
+      "engraved": true
+    },
+    {
+      "page": 16,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Ostende nobis",
+      "text_src": "Ps. 84, 8",
+      "band": [344, 519],
+      "engraved": true
+    },
+    {
+      "page": 17,
+      "service_part": "of",
+      "mode": 2,
+      "incipit": "Ad te, Domine, levavi",
+      "text_src": "Ps. 24, 1-3",
+      "band": [140, 445],
+      "engraved": true
+    },
+    {
+      "page": 17,
+      "service_part": "co",
+      "mode": 1,
+      "incipit": "Dominus dabit benignitatem",
+      "text_src": "Ps. 84, 13",
+      "band": [444, 519],
+      "engraved": true
+    },
+    {
+      "page": 15,
+      "service_part": "in",
+      "incipit": "Dominus illuminatio mea",
+      "target_page": 288,
+      "wkday": 6,
+      "band": [455, 485],
+      "engraved": false
+    },
+    {
+      "page": 16,
+      "service_part": "gr",
+      "incipit": "Bonum est confidere",
+      "target_page": 324,
+      "wkday": 5,
+      "band": [330, 348],
+      "engraved": false
+    },
+    {
+      "page": 18,
+      "service_part": "co",
+      "incipit": "Manducaverunt",
+      "target_page": 278,
+      "wkday": 4,
+      "band": [115, 140],
+      "engraved": false
+    }
+  ]
+}

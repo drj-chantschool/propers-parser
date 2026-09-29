@@ -1,0 +1,43 @@
+{
+  "subsection": "2nd-sunday-of-easter",
+  "label": "2nd Sunday of Easter (Gregorian Missal)",
+  "lit_epoch_slug": "PASC-AD_ASC-02",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 355,
+      "vernacular_text": "As newborn babes, alleluia, long for pure spiritual milk, alleluia, alleluia, alleluia. ℣. Rejoice in honour of God our helper; shout for joy to the God of Jacob.",
+      "text_src": "1 Pet 2:2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al1",
+      "page": 356,
+      "vernacular_text": "On the day of my resurrection, says the Lord, I will go before you into Galilee.",
+      "text_src": "Mt 28:7",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 357,
+      "vernacular_text": "Eight days later, while all the doors were shut, Jesus came and stood in the midst of his disciples and said: \"Peace be with you.\"",
+      "text_src": "Jn 20:26",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 357,
+      "vernacular_text": "The Angel of the Lord came down from heaven and said to the women: \"The One whom you seek has risen, as he said he would\", alleluia.",
+      "text_src": "Mt 28:2,5,6",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 358,
+      "vernacular_text": "Stretch forth your hand, and feel the place where the nails were, alleluia; and be not doubtful but believing, alleluia, alleluia.",
+      "text_src": "Jn 20:27",
+      "cycle_sun": null
+    }
+  ]
+}

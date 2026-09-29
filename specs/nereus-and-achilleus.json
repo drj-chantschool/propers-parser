@@ -1,0 +1,77 @@
+{
+  "subsection": "nereus-and-achilleus",
+  "label": "SS. Nerei et Achillei, Martyrum (12 maii)",
+  "lit_epoch_slug": "nereus-and-achilleus",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 561,
+      "service_part": "in",
+      "incipit": "Ecce oculi Domini",
+      "target_page": 439,
+      "band": [300, 312],
+      "engraved": false
+    },
+    {
+      "page": 561,
+      "service_part": "al",
+      "incipit": "Haec est vera fraternitas",
+      "target_page": 460,
+      "band": [312, 324],
+      "engraved": false,
+      "notes": "The Extra tempus paschale block repeats this same alleluia ('AL. Haec est vera fraternitas, ut supra.', p561) — the same chant on the same target page 460 (gregobase 32). The loader dedups on slot + chant_group and ignores option_num, so a second row would collapse onto this one; the repetition is recorded here instead of as a separate row."
+    },
+    {
+      "page": 561,
+      "service_part": "of",
+      "incipit": "Confitebuntur caeli",
+      "target_page": 441,
+      "band": [324, 336],
+      "engraved": false
+    },
+    {
+      "page": 561,
+      "service_part": "co",
+      "incipit": "Gaudete, iusti",
+      "target_page": 442,
+      "band": [336, 348],
+      "engraved": false
+    },
+    {
+      "page": 561,
+      "service_part": "in",
+      "incipit": "Salus autem iustorum",
+      "target_page": 451,
+      "band": [366, 378],
+      "engraved": false,
+      "option_txt": "Extra tempus paschale :"
+    },
+    {
+      "page": 561,
+      "service_part": "gr",
+      "incipit": "Gloriosus Deus",
+      "target_page": 456,
+      "band": [378, 390],
+      "engraved": false,
+      "option_txt": "Extra tempus paschale :"
+    },
+    {
+      "page": 561,
+      "service_part": "of",
+      "incipit": "Anima nostra",
+      "target_page": 466,
+      "band": [402, 414],
+      "engraved": false,
+      "option_txt": "Extra tempus paschale :"
+    },
+    {
+      "page": 561,
+      "service_part": "co",
+      "incipit": "Amen dico vobis: quod uni",
+      "target_page": 79,
+      "band": [414, 426],
+      "engraved": false,
+      "option_txt": "Extra tempus paschale :"
+    }
+  ]
+}

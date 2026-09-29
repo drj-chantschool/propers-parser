@@ -1,0 +1,48 @@
+{
+  "subsection": "st-scholastica",
+  "label": "St. Scholastica (S. SCHOLASTICÆ, VIRGINIS, Die 10 februarii)",
+  "lit_epoch_slug": "st-scholastica",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 547,
+      "service_part": "in",
+      "incipit": "Dilexisti iustitiam",
+      "target_page": 498,
+      "band": [200.3, 210.6],
+      "engraved": false
+    },
+    {
+      "page": 547,
+      "service_part": "gr",
+      "incipit": "Specie tua",
+      "target_page": 411,
+      "band": [211.5, 222.8],
+      "engraved": false
+    },
+    {
+      "page": 547,
+      "service_part": "al",
+      "incipit": "Adducentur regi",
+      "target_page": 500,
+      "band": [223.5, 234.9],
+      "engraved": false
+    },
+    {
+      "page": 547,
+      "service_part": "of",
+      "incipit": "Filiae regum",
+      "target_page": 505,
+      "band": [236.7, 246.9],
+      "engraved": false
+    },
+    {
+      "page": 547,
+      "service_part": "co",
+      "incipit": "Quinque prudentes virgines",
+      "target_page": 507,
+      "band": [248.5, 258.8],
+      "engraved": false
+    }
+  ]
+}

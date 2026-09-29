@@ -1,0 +1,219 @@
+{
+  "subsection": "pasc-ad-asc-06",
+  "label": "6th week of Easter (Hebdomada VI Paschae)",
+  "lit_epoch_slug": "PASC-AD_ASC-06",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 229,
+      "service_part": "in",
+      "mode": 3,
+      "incipit": "Vocem iucunditatis",
+      "text_src": "Cf. Is. 48, 20; Ps. 65",
+      "band": [165, 505],
+      "engraved": true
+    },
+    {
+      "page": 230,
+      "service_part": "al1",
+      "mode": 1,
+      "incipit": "Surrexit Christus",
+      "text_src": null,
+      "band": [25, 270],
+      "engraved": true
+    },
+    {
+      "page": 230,
+      "service_part": "al",
+      "mode": 7,
+      "incipit": "Exivi a Patre",
+      "text_src": "Io. 16, 28",
+      "band": [270, 505],
+      "engraved": true
+    },
+    {
+      "page": 231,
+      "service_part": "of",
+      "mode": 2,
+      "incipit": "Benedicite, gentes",
+      "text_src": "Ps. 65, 8. 9. 20",
+      "band": [216, 505],
+      "engraved": true
+    },
+    {
+      "page": 231,
+      "service_part": "al",
+      "incipit": "Non vos relinquam",
+      "target_page": 242,
+      "cycle_sun": 1,
+      "band": [120, 204],
+      "engraved": false
+    },
+    {
+      "page": 231,
+      "service_part": "al",
+      "incipit": "Ego vos elegi",
+      "target_page": 429,
+      "cycle_sun": 2,
+      "band": [120, 204],
+      "engraved": false
+    },
+    {
+      "page": 231,
+      "service_part": "al",
+      "incipit": "Spiritus sanctus docebit vos",
+      "target_page": 432,
+      "cycle_sun": 3,
+      "band": [120, 204],
+      "engraved": false
+    },
+    {
+      "page": 231,
+      "service_part": "al1",
+      "incipit": "Surrexit Christus",
+      "target_page": 230,
+      "cycle_sun": 1,
+      "band": [120, 210],
+      "engraved": false
+    },
+    {
+      "page": 231,
+      "service_part": "al1",
+      "incipit": "Exivi a Patre",
+      "target_page": 230,
+      "cycle_sun": 2,
+      "band": [120, 210],
+      "engraved": false
+    },
+    {
+      "page": 231,
+      "service_part": "al1",
+      "incipit": "Surrexit Christus",
+      "target_page": 230,
+      "cycle_sun": 3,
+      "band": [120, 210],
+      "engraved": false
+    },
+    {
+      "page": 231,
+      "service_part": "al1",
+      "incipit": "Exivi a Patre",
+      "target_page": 230,
+      "cycle_sun": 3,
+      "option_txt": "vel",
+      "band": [120, 210],
+      "engraved": false
+    },
+    {
+      "page": 231,
+      "service_part": "al",
+      "incipit": "Cantate Domino",
+      "target_page": 276,
+      "wkday": 2,
+      "band": [205, 215],
+      "engraved": false,
+      "notes": "Printed unnumbered as 'Feria 2: Cantate Domino, 276 vel 331', so the page does not say which Alleluia slot it fills. Assigned to the 2nd Alleluia (al): on ferias only one Alleluia is sung — normally either week default, but here the Graduale specifies this one. No al1 is assigned to feria 2."
+    },
+    {
+      "page": 231,
+      "service_part": "al",
+      "incipit": "Cantate Domino",
+      "target_page": 330,
+      "wkday": 2,
+      "option_txt": "vel:",
+      "band": [205, 215],
+      "engraved": false,
+      "notes": "Alternate of the feria 2 Alleluia (printed 'vel 331'; the chant is indexed at 330, its verse spilling onto 331). Assigned to the 2nd Alleluia slot (al) — see the note on the primary."
+    },
+    {
+      "page": 232,
+      "service_part": "co",
+      "mode": 5,
+      "incipit": "Non vos relinquam orphanos",
+      "text_src": "Io. 14, 18",
+      "cycle_sun": 1,
+      "band": [130, 326],
+      "engraved": true
+    },
+    {
+      "page": 232,
+      "service_part": "co",
+      "incipit": "Ego vos elegi",
+      "target_page": 436,
+      "cycle_sun": 2,
+      "band": [327, 349],
+      "engraved": false
+    },
+    {
+      "page": 232,
+      "service_part": "co",
+      "mode": 8,
+      "incipit": "Spiritus Sanctus docebit vos",
+      "text_src": "Io. 14, 26",
+      "band": [350, 505],
+      "engraved": true,
+      "notes": "Loaded as the WEEK DEFAULT communio (no cycle_sun), departing from the page: this edition prints it under 'Dom. anno C', but that rubric is an error on the part of Solesmes. Inferred from the Ordo Cantus Missae by this author. Assignment authority and book remain GRADUALE."
+    },
+    {
+      "page": 233,
+      "service_part": "co",
+      "mode": 8,
+      "incipit": "Spiritus qui a Patre procedit",
+      "text_src": "Io. 15, 26; 16, 14; 17, 1. 5",
+      "wkday": 2,
+      "band": [25, 200],
+      "engraved": true
+    },
+    {
+      "page": 233,
+      "service_part": "co",
+      "mode": 8,
+      "incipit": "Dum venerit Paraclitus",
+      "text_src": "Io. 16, 8",
+      "wkday": 3,
+      "band": [201, 480],
+      "engraved": true
+    },
+    {
+      "page": 233,
+      "service_part": "co",
+      "incipit": "Spiritus qui a Patre procedit",
+      "target_page": 233,
+      "wkday": 4,
+      "option_txt": "ut supra feria 2.",
+      "band": [481, 505],
+      "engraved": false
+    },
+    {
+      "page": 234,
+      "service_part": "in",
+      "incipit": "Deus, dum egrederéris",
+      "target_page": 244,
+      "wkday": 5,
+      "band": [35, 106],
+      "engraved": false,
+      "notes": "Printed under 'Feria 5, in regionibus ubi sollemnitas Ascensionis in dominicam sequentem transfertur: Missa de dominica VI Paschae, 229, praeter:' — the alternate track for regions that transfer the Ascension to the following Sunday. The normal track (Ascension on this Thursday) is PASC-ASC-06-5. Only the introit is excepted; the rest of the Mass is the week default."
+    },
+    {
+      "page": 234,
+      "service_part": "co",
+      "mode": 8,
+      "incipit": "Modicum et non videbitis me",
+      "text_src": "Io. 16, 16",
+      "wkday": 5,
+      "band": [107, 300],
+      "engraved": true,
+      "notes": "Belongs to the 'Feria 5, in regionibus ubi sollemnitas Ascensionis in dominicam sequentem transfertur' block on p234 — the alternate track for regions that transfer the Ascension to the following Sunday. Overrides the week-default communio for that day."
+    },
+    {
+      "page": 234,
+      "service_part": "in",
+      "incipit": "Redemisti nos, Domine",
+      "target_page": 659,
+      "wkday": 6,
+      "band": [305, 505],
+      "engraved": false,
+      "notes": "Printed as 'Feria 6: Missa de dominica VI Paschae, 229, praeter: IN.' — still inside the p234 'in regionibus ubi sollemnitas Ascensionis in dominicam sequentem transfertur' block (the normal track's Friday after the Ascension is PASC-POST_ASC-06). Only the introit is excepted; the rest of the Mass, communio included, is the week default."
+    }
+  ]
+}

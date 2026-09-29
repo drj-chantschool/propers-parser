@@ -1,0 +1,45 @@
+{
+  "subsection": "transfiguration",
+  "label": "The Transfiguration of the Lord (Gregorian Missal)",
+  "lit_epoch_slug": "transfiguration",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 646,
+      "vernacular_text": "My heart declared to you: \"Your countenance have I sought; I shall ever seek your countenance, O Lord; do not turn your face from me.\" ℣. The Lord is my light and my salvation; whom shall I fear?",
+      "text_src": "Ps 26:8,9 and 1",
+      "cycle_sun": null,
+      "gm_xref_page": 246
+    },
+    {
+      "service_part": "gr",
+      "page": 646,
+      "vernacular_text": "Your beauty surpasses that of all the children of men; grace is poured out upon your lips. ℣. My heart overflows with a goodly theme; I address my works to the King; my tongue is like the pen of an agile scribe.",
+      "text_src": "Ps 44:3 and 2",
+      "cycle_sun": null,
+      "gm_xref_page": 214
+    },
+    {
+      "service_part": "al",
+      "page": 647,
+      "vernacular_text": "He is the splendour of eternal light, an unspotted mirror and the image of His goodness.",
+      "text_src": "Wis 7:26",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 647,
+      "vernacular_text": "You have crowned him with glory and honour, and you have placed him over the work of your hands, O Lord.",
+      "text_src": "Ps 8:6,7",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 649,
+      "vernacular_text": "As for the vision you have seen, tell no one until the Son of Man has risen from the dead.",
+      "text_src": "Mt 17:9",
+      "cycle_sun": null
+    }
+  ]
+}

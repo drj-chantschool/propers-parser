@@ -1,0 +1,105 @@
+{
+  "subsection": "in-conferendo-baptismate",
+  "label": "Conferral of Baptism — In conferendo Baptismate",
+  "lit_epoch_slug": "in-conferendo-baptismate",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 643,
+      "service_part": "in",
+      "incipit": "Sitientes, venite ad aquas",
+      "target_page": 114,
+      "band": [338, 352],
+      "engraved": false
+    },
+    {
+      "page": 643,
+      "service_part": "in",
+      "incipit": "Deus, dum egredereris",
+      "target_page": 244,
+      "band": [362, 376],
+      "engraved": false,
+      "option_txt": "Tempore paschali:",
+      "notes": "GR prints 'Deus, dum egredereris, 315.' but p315 (Hebdomada XVIII) engraves only the unrelated introit 'Deus, in adiutorium'; it holds no 'Deus, dum egredereris'. That chant (mode III, Feriis Tertia et Sexta, T.P.) is engraved on p244 (gregobase 822). target_page recorded as 244, the page that actually carries it; printed 315 appears to be a page-number misprint. Flagged for a ruling."
+    },
+    {
+      "page": 643,
+      "service_part": "in",
+      "incipit": "Eduxit Dominus",
+      "target_page": 214,
+      "band": [374, 388],
+      "engraved": false,
+      "option_txt": "Tempore paschali:"
+    },
+    {
+      "page": 643,
+      "service_part": "gr",
+      "incipit": "Beata gens, cuius est Dominus",
+      "target_page": 333,
+      "band": [386, 400],
+      "engraved": false
+    },
+    {
+      "page": 643,
+      "service_part": "gr",
+      "incipit": "Laetatus sum",
+      "target_page": 336,
+      "band": [398, 412],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 643,
+      "service_part": "al",
+      "incipit": "Confitemini et invocate",
+      "target_page": 340,
+      "band": [410, 424],
+      "engraved": false
+    },
+    {
+      "page": 643,
+      "service_part": "al",
+      "incipit": "Verba mea auribus percipe",
+      "target_page": 280,
+      "band": [422, 436],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 643,
+      "service_part": "of",
+      "incipit": "Factus est Dominus firmamentum",
+      "target_page": 119,
+      "band": [434, 448],
+      "engraved": false
+    },
+    {
+      "page": 643,
+      "service_part": "of",
+      "incipit": "Gressus meos dirige, Domine",
+      "target_page": 365,
+      "band": [446, 460],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 643,
+      "service_part": "co",
+      "incipit": "Omnes qui in Christo",
+      "target_page": 61,
+      "band": [458, 472],
+      "engraved": false,
+      "notes": "cum ps. 28*, 61 -- psalm-tone plan, not modeled as a separate field."
+    },
+    {
+      "page": 643,
+      "service_part": "co",
+      "incipit": "Illumina faciem tuam",
+      "target_page": 271,
+      "band": [481, 496],
+      "engraved": false,
+      "option_txt": "Tempore Quadragesimae:",
+      "notes": "cum ps. 30, 271 -- psalm-tone plan, not modeled as a separate field."
+    }
+  ]
+}

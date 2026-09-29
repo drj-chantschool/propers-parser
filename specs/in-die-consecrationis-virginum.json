@@ -1,0 +1,55 @@
+{
+  "subsection": "in-die-consecrationis-virginum",
+  "label": "Consecration of Virgins and Religious Profession — In Die Consecrationis Virginum et in Professione Religiosorum",
+  "lit_epoch_slug": "in-die-consecrationis-virginum",
+  "chants": [
+    { "page": 647, "service_part": "in", "incipit": "Dum sanctificatus fuero in vobis", "target_page": 249, "band": [406, 422], "engraved": false, "option_txt": "I" },
+    { "page": 647, "service_part": "in", "incipit": "Exspecta Dominum, viriliter age", "target_page": 126, "band": [422, 434], "engraved": false, "option_txt": "II" },
+    { "page": 647, "service_part": "in", "incipit": "Laetetur cor quaerentium Dominum", "target_page": 357, "band": [434, 447], "engraved": false, "option_txt": "III" },
+    { "page": 647, "service_part": "in", "incipit": "Tibi dixit cor meum", "target_page": 88, "band": [447, 461], "engraved": false, "option_txt": "IV" },
+    { "page": 647, "service_part": "in", "incipit": "Exaudi, Domine ... tibi dixit cor", "target_page": 241, "band": [474, 488], "engraved": false, "option_txt": "V", "notes": "Under the 'Tempore paschali:' subheading." },
+    { "page": 647, "service_part": "in", "incipit": "Venite, benedicti Patris mei", "target_page": 205, "band": [488, 500], "engraved": false, "option_txt": "VI", "notes": "Under the 'Tempore paschali:' subheading." },
+
+    { "page": 648, "service_part": "gr", "incipit": "Beata gens", "target_page": 333, "band": [54, 69], "engraved": false, "option_txt": "I" },
+    { "page": 648, "service_part": "gr", "incipit": "Ecce quam bonum et quam iucundum", "target_page": 351, "band": [69, 87], "engraved": false, "option_txt": "II" },
+    { "page": 648, "service_part": "gr", "incipit": "Laetatus sum", "target_page": 336, "band": [87, 117], "engraved": false, "option_txt": "III" },
+    { "page": 648, "service_part": "gr", "incipit": "Unam petii a Domino", "target_page": 358, "band": [87, 117], "engraved": false, "option_txt": "IV" },
+    { "page": 648, "service_part": "gr", "incipit": "Venite, filii, audite me", "target_page": 298, "band": [87, 117], "engraved": false, "option_txt": "V" },
+
+    { "page": 648, "service_part": "al", "incipit": "Domine, dilexi decorem domus tuae", "target_page": 400, "band": [144, 160], "engraved": false, "option_txt": "I" },
+    { "page": 648, "service_part": "al", "incipit": "Ego vos elegi de mundo", "target_page": 429, "band": [160, 172], "engraved": false, "option_txt": "II" },
+    { "page": 648, "service_part": "al", "incipit": "Laetatus sum", "target_page": 19, "band": [172, 187], "engraved": false, "option_txt": "III" },
+    { "page": 648, "service_part": "al", "incipit": "Lauda, anima mea, Dominum", "target_page": 355, "band": [187, 205], "engraved": false, "option_txt": "IV" },
+    { "page": 648, "service_part": "al", "incipit": "O quam bonus et suavis est", "target_page": 517, "band": [187, 205], "engraved": false, "option_txt": "V" },
+    { "page": 648, "service_part": "al", "incipit": "Paratum cor meum", "target_page": 344, "band": [205, 223], "engraved": false, "option_txt": "VI" },
+    { "page": 648, "service_part": "al", "incipit": "Quinque prudentes virgines", "target_page": 502, "band": [223, 247], "engraved": false, "option_txt": "VII" },
+    { "page": 648, "service_part": "al", "incipit": "Venite ad me, omnes", "target_page": 619, "band": [223, 247], "engraved": false, "option_txt": "VIII" },
+
+    { "page": 648, "service_part": "tr", "incipit": "Qui confidunt in Domino", "target_page": 109, "band": [274, 302], "engraved": false, "option_txt": "I" },
+    { "page": 648, "service_part": "tr", "incipit": "Sicut cervus desiderat", "target_page": 190, "band": [274, 302], "engraved": false, "option_txt": "II" },
+
+    { "page": 648, "service_part": "of", "incipit": "Confitebor tibi, Domine", "target_page": 123, "band": [326, 341], "engraved": false, "option_txt": "I" },
+    { "page": 648, "service_part": "of", "incipit": "Domine Deus, in simplicitate cordis mei", "target_page": 401, "band": [341, 356], "engraved": false, "option_txt": "II" },
+    { "page": 648, "service_part": "of", "incipit": "Exspectans, exspectavi Dominum", "target_page": 328, "band": [356, 374], "engraved": false, "option_txt": "III" },
+    { "page": 648, "service_part": "of", "incipit": "Meditabor in mandatis tuis", "target_page": 356, "band": [356, 374], "engraved": false, "option_txt": "IV" },
+    { "page": 648, "service_part": "of", "incipit": "Sicut in holocausto arietum", "target_page": 299, "band": [374, 392], "engraved": false, "option_txt": "V" },
+    { "page": 648, "service_part": "of", "incipit": "Deus, Deus meus, ad te de luce vigilo", "target_page": 224, "band": [410, 436], "engraved": false, "option_txt": "VI", "notes": "Under the 'Tempore paschali:' subheading." },
+    { "page": 648, "service_part": "of", "incipit": "Lauda, anima mea, Dominum", "target_page": 221, "band": [410, 436], "engraved": false, "option_txt": "VII", "notes": "Under the 'Tempore paschali:' subheading." },
+
+    { "page": 648, "service_part": "co", "incipit": "Amen dico vobis quod vos", "target_page": 436, "band": [460, 474], "engraved": false, "option_txt": "I" },
+    { "page": 648, "service_part": "co", "incipit": "Beati mundo corde", "target_page": 514, "band": [474, 486], "engraved": false, "option_txt": "II", "notes": "Psalm plan 'cum ps. 33*' not modeled." },
+    { "page": 648, "service_part": "co", "incipit": "Ego vos elegi de mundo", "target_page": 436, "band": [486, 505], "engraved": false, "option_txt": "III" },
+
+    { "page": 649, "service_part": "co", "incipit": "Memento verbi tui servo tuo", "target_page": 346, "band": [35, 55], "engraved": false, "option_txt": "IV" },
+    { "page": 649, "service_part": "co", "incipit": "Notas mihi fecisti vias vitae", "target_page": 362, "band": [55, 72], "engraved": false, "option_txt": "V" },
+    { "page": 649, "service_part": "co", "incipit": "Optimam partem elegit", "target_page": 507, "band": [55, 72], "engraved": false, "option_txt": "VI" },
+    { "page": 649, "service_part": "co", "incipit": "Qui mihi ministrat, me sequitur", "target_page": 484, "band": [72, 90], "engraved": false, "option_txt": "VII", "notes": "Psalm plan 'cum ps. 33*' not modeled." },
+    { "page": 649, "service_part": "co", "incipit": "Qui vult venire post me", "target_page": 484, "band": [90, 108], "engraved": false, "option_txt": "VIII" },
+    { "page": 649, "service_part": "co", "incipit": "Quicumque fecerit voluntatem", "target_page": 515, "band": [90, 108], "engraved": false, "option_txt": "IX" },
+    { "page": 649, "service_part": "co", "incipit": "Quinque prudentes virgines", "target_page": 507, "band": [108, 123], "engraved": false, "option_txt": "X", "notes": "Psalm plan 'cum ps. 33*' not modeled." },
+    { "page": 649, "service_part": "co", "incipit": "Unam petii a Domino", "target_page": 294, "band": [123, 140], "engraved": false, "option_txt": "XI" },
+    { "page": 649, "service_part": "co", "incipit": "Ego sum vitis vera", "target_page": 228, "band": [156, 169], "engraved": false, "option_txt": "XII", "notes": "Under the 'Tempore paschali:' subheading." },
+    { "page": 649, "service_part": "co", "incipit": "Populus acquisitionis", "target_page": 210, "band": [169, 181], "engraved": false, "option_txt": "XIII", "notes": "Under the 'Tempore paschali:' subheading." },
+    { "page": 649, "service_part": "co", "incipit": "Si consurrexistis cum Christo", "target_page": 205, "band": [181, 210], "engraved": false, "option_txt": "XIV", "notes": "Under the 'Tempore paschali:' subheading." }
+  ]
+}

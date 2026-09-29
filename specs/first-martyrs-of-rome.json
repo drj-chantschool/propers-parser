@@ -1,0 +1,59 @@
+{
+  "subsection": "first-martyrs-of-rome",
+  "label": "SS. Protomartyrum S. Romanae Ecclesiae (Die 30 iunii)",
+  "lit_epoch_slug": "first-martyrs-of-rome",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 577,
+      "service_part": "in",
+      "incipit": "Probasti, Domine",
+      "target_page": 474,
+      "band": [427.2, 438.7],
+      "engraved": false
+    },
+    {
+      "page": 577,
+      "service_part": "in",
+      "incipit": "Timete Dominum",
+      "target_page": 453,
+      "option_txt": "—",
+      "band": [440.2, 450.7],
+      "engraved": false
+    },
+    {
+      "page": 577,
+      "service_part": "gr",
+      "incipit": "Iustorum animae",
+      "target_page": 457,
+      "band": [452.3, 462.8],
+      "engraved": false
+    },
+    {
+      "page": 577,
+      "service_part": "al",
+      "incipit": "Fulgebunt iusti",
+      "target_page": 460,
+      "band": [464.2, 474.7],
+      "engraved": false
+    },
+    {
+      "page": 577,
+      "service_part": "of",
+      "incipit": "Gloriabuntur in te",
+      "target_page": 467,
+      "band": [476.4, 498.5],
+      "engraved": false,
+      "notes": "The OF and CO citation lines share one merged OCR text block (p577 y476.4-498.5), so both chants carry the same band/bbox."
+    },
+    {
+      "page": 577,
+      "service_part": "co",
+      "incipit": "Posuerunt mortalia",
+      "target_page": 471,
+      "band": [476.4, 498.5],
+      "engraved": false,
+      "notes": "The OF and CO citation lines share one merged OCR text block (p577 y476.4-498.5), so both chants carry the same band/bbox."
+    }
+  ]
+}

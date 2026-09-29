@@ -1,0 +1,69 @@
+{
+  "subsection": "ot-ot-21",
+  "label": "21st Sunday in Ordinary Time (Gregorian Missal)",
+  "lit_epoch_slug": "OT-OT-21",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 531,
+      "vernacular_text": "Incline your ear to me, O Lord, and hear me; O God, save your servant who trusts in you; have mercy on me, O Lord, for unto you do I cry all the day. ℣. Gladden the soul of your servant, for unto you, O Lord, have I lifted up my soul.",
+      "text_src": "Ps 85:1, 2, 3, 4",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 533,
+      "vernacular_text": "It is good to give thanks unto the Lord, and to sing in honour of your name, O Most High. ℣. To show forth your mercy in the morning, and your fidelity in the night.",
+      "text_src": "Ps 91:2, ℣.3",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 534,
+      "vernacular_text": "You are Peter, and upon this rock I will build my Church.",
+      "text_src": "Mt 16:18",
+      "cycle_sun": 1,
+      "gm_xref_page": 643
+    },
+    {
+      "service_part": "al",
+      "page": 534,
+      "vernacular_text": "It is the Spirit who gives life; the flesh is of no avail.",
+      "text_src": "Jn 6:64",
+      "cycle_sun": 2
+    },
+    {
+      "service_part": "al",
+      "page": 534,
+      "vernacular_text": "For the Lord is a great God; a great king over all the earth.",
+      "text_src": "Ps 94:3",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 535,
+      "vernacular_text": "With expectation I have waited for the Lord, and he has cast his look upon me; he has heard my supplication and he has put a new canticle into my mouth, a song to our God.",
+      "text_src": "Ps 39:2, 3, 4",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 536,
+      "vernacular_text": "The earth will be satisfied by the work of your hands, O Lord, as you bring forth bread from the land and wine to gladden the heart of man; oil to make his face shine, and bread to strengthen man's heart.",
+      "text_src": "Ps 103:13, 14, 15",
+      "cycle_sun": null,
+      "option_num": 1
+    },
+    {
+      "service_part": "co",
+      "page": 536,
+      "vernacular_text": "He who eats my flesh and drinks my blood, abides in me, and I in him, says the Lord.",
+      "text_src": "Jn 6:57",
+      "cycle_sun": null,
+      "option_num": 2,
+      "option_txt": "Or:",
+      "gm_xref_page": 423
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "subsection": "don-bosco",
+  "label": "Don Bosco (S. IOANNIS BOSCO, PRESBYTERI, Die 31 ianuarii)",
+  "lit_epoch_slug": "don-bosco",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 538,
+      "service_part": "in",
+      "incipit": "Dispersit, dedit",
+      "target_page": 519,
+      "band": [376.8, 389.3],
+      "engraved": false
+    },
+    {
+      "page": 538,
+      "service_part": "gr",
+      "incipit": "Venite, filii",
+      "target_page": 298,
+      "band": [388.9, 401.4],
+      "engraved": false
+    },
+    {
+      "page": 538,
+      "service_part": "al",
+      "incipit": "Iustus germinabit",
+      "target_page": 496,
+      "band": [401.1, 413.5],
+      "engraved": false
+    },
+    {
+      "page": 538,
+      "service_part": "of",
+      "incipit": "Factus est Dominus",
+      "target_page": 119,
+      "band": [413.1, 425.6],
+      "engraved": false
+    },
+    {
+      "page": 538,
+      "service_part": "co",
+      "incipit": "Amen dico vobis : quod uni",
+      "target_page": 79,
+      "band": [425.1, 437.6],
+      "engraved": false
+    }
+  ]
+}

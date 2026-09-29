@@ -1,0 +1,53 @@
+{
+  "subsection": "nat-day-vigil",
+  "label": "Christmas — Vigil Mass (Ad Missam in Vigilia)",
+  "lit_epoch_slug": "NAT-DAY-00-0-vigil",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 38,
+      "service_part": "in",
+      "mode": 6,
+      "incipit": "Hodie scietis",
+      "text_src": "Cf. Ex. 16, 6. 7; Is. 35, 4; Ps. 23",
+      "band": [145, 380],
+      "engraved": true
+    },
+    {
+      "page": 38,
+      "service_part": "gr",
+      "mode": 2,
+      "incipit": "Hodie scietis",
+      "text_src": "Cf. Ex. 16, 6. 7; Is. 35, 4. V. Ps. 79, 2. 3",
+      "band": [381, 519],
+      "engraved": true
+    },
+    {
+      "page": 39,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Crastina die",
+      "text_src": null,
+      "band": [425, 519],
+      "engraved": true
+    },
+    {
+      "page": 40,
+      "service_part": "of",
+      "mode": 2,
+      "incipit": "Tollite portas",
+      "text_src": "Ps. 23, 7",
+      "band": [195, 438],
+      "engraved": true
+    },
+    {
+      "page": 40,
+      "service_part": "co",
+      "mode": 1,
+      "incipit": "Revelabitur",
+      "text_src": "Cf. Is. 40, 5",
+      "band": [438, 519],
+      "engraved": true
+    }
+  ]
+}

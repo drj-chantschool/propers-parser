@@ -1,0 +1,66 @@
+{
+  "subsection": "pro-humano-labore-sanctificando",
+  "label": "For the Sanctification of Human Labor — Pro humano labore sanctificando",
+  "lit_epoch_slug": "pro-humano-labore-sanctificando",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 654,
+      "service_part": "in",
+      "incipit": "Exspecta Dominum, viriliter age",
+      "target_page": 126,
+      "band": [65.8, 76.1],
+      "engraved": false
+    },
+    {
+      "page": 654,
+      "service_part": "gr",
+      "incipit": "Protector noster, aspice, Deus",
+      "target_page": 292,
+      "band": [77.8, 88.1],
+      "engraved": false
+    },
+    {
+      "page": 654,
+      "service_part": "al",
+      "incipit": "Venite ad me, omnes",
+      "target_page": 619,
+      "band": [89.8, 100.1],
+      "engraved": false
+    },
+    {
+      "page": 654,
+      "service_part": "of",
+      "incipit": "Benedicam Dominum",
+      "target_page": 293,
+      "band": [101.9, 112.2],
+      "engraved": false
+    },
+    {
+      "page": 654,
+      "service_part": "co",
+      "incipit": "De fructu operum tuorum",
+      "target_page": 329,
+      "band": [113.9, 124.1],
+      "engraved": false
+    },
+    {
+      "page": 654,
+      "service_part": "co",
+      "incipit": "Domine, quinque talenta",
+      "target_page": 515,
+      "band": [125.8, 136.1],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 654,
+      "service_part": "co",
+      "incipit": "Primum quaerite regnum Dei",
+      "target_page": 325,
+      "band": [137.8, 148.1],
+      "engraved": false,
+      "option_txt": "—"
+    }
+  ]
+}

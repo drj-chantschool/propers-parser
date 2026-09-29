@@ -1,0 +1,110 @@
+{
+  "subsection": "ot-ot-24",
+  "label": "24th week of Ordinary Time (Hebdomada XXIV per annum)",
+  "lit_epoch_slug": "OT-OT-24",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 336,
+      "service_part": "in",
+      "mode": 1,
+      "incipit": "Da pacem",
+      "text_src": "Sir 40, 16; Ps. 121",
+      "band": [55, 330],
+      "engraved": true
+    },
+    {
+      "page": 336,
+      "service_part": "gr",
+      "mode": 7,
+      "incipit": "Laetatus sum",
+      "text_src": "Ps. 121, 1. V. 7",
+      "band": [330, 502],
+      "engraved": true
+    },
+    {
+      "page": 337,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "Timebunt gentes",
+      "text_src": "Ps. 101, 16",
+      "band": [173, 502],
+      "engraved": true
+    },
+    {
+      "page": 338,
+      "service_part": "of",
+      "mode": 5,
+      "incipit": "Sanctificavit",
+      "text_src": "Cf. Ex. 24, 4. 5",
+      "band": [24, 358],
+      "engraved": true
+    },
+    {
+      "page": 338,
+      "service_part": "co",
+      "mode": 4,
+      "incipit": "Tollite hostias",
+      "text_src": "Ps. 95, 8. 9",
+      "band": [386, 502],
+      "engraved": true
+    },
+    {
+      "page": 337,
+      "service_part": "gr",
+      "incipit": "In Deo speravit",
+      "target_page": 311,
+      "wkday": 2,
+      "cycle_wkday": 1,
+      "band": [140, 170],
+      "engraved": false
+    },
+    {
+      "page": 337,
+      "service_part": "gr",
+      "incipit": "Beata gens",
+      "target_page": 333,
+      "wkday": 4,
+      "cycle_wkday": 2,
+      "band": [140, 170],
+      "engraved": false
+    },
+    {
+      "page": 338,
+      "service_part": "of",
+      "incipit": "Precatus est",
+      "target_page": 317,
+      "cycle_sun": 3,
+      "band": [358, 388],
+      "engraved": false
+    },
+    {
+      "page": 339,
+      "service_part": "co",
+      "incipit": "Qui vult venire",
+      "target_page": 484,
+      "cycle_sun": 2,
+      "band": [104, 130],
+      "engraved": false
+    },
+    {
+      "page": 339,
+      "service_part": "co",
+      "incipit": "Dico vobis Gaudium",
+      "target_page": 387,
+      "cycle_sun": 3,
+      "band": [120, 142],
+      "engraved": false
+    },
+    {
+      "page": 339,
+      "service_part": "co",
+      "incipit": "Hoc corpus",
+      "target_page": 170,
+      "wkday": 2,
+      "cycle_wkday": 2,
+      "band": [128, 165],
+      "engraved": false
+    }
+  ]
+}

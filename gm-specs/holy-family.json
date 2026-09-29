@@ -1,0 +1,50 @@
+{
+  "subsection": "holy-family",
+  "label": "Holy Family of Jesus, Mary, and Joseph (Gregorian Missal)",
+  "lit_epoch_slug": "NAT-IO-01-0",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 202,
+      "vernacular_text": "God is in his holy dwelling place; the God who causes us to dwell together, one at heart, in his house; he himself will give power and strength to his people. ℣. Let God arise, and let his enemies be scattered; and let those who hate him flee before his face.",
+      "text_src": "Ps 67:6,7,36 and 2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 204,
+      "vernacular_text": "One thing have I asked of the Lord, this will I seek after; that I may dwell in the house of the Lord. ℣. To gaze in delight upon the Lord's beauty and to be sheltered in his holy temple.",
+      "text_src": "Ps 26:4",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 205,
+      "vernacular_text": "Rejoice in the Lord, O you just. It is fitting that loyal hearts should praise him.",
+      "text_src": "Ps 32:1",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 205,
+      "vernacular_text": "In you have I put my trust, O Lord; I said: \"You are my God, my destiny is in your hands.\"",
+      "text_src": "Ps 30:15,16",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 206,
+      "vernacular_text": "My son, why have you treated us so? Your father and I have been anxiously looking for you. How is it that you were seeking me? Did you not know that I must be about my Father's business?",
+      "text_src": "Lk 2:48,49",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 206,
+      "vernacular_text": "Take the child and his mother, and go into the land of Israel; for those who sought the child's life are dead.",
+      "text_src": "Mt 2:20",
+      "cycle_sun": 1
+    }
+  ]
+}

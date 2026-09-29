@@ -1,0 +1,51 @@
+{
+  "subsection": "st-john-chrysostom",
+  "label": "St. John Chrysostom, Bishop and Doctor of the Church (Die 13 septembris)",
+  "lit_epoch_slug": "st-john-chrysostom",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 598,
+      "service_part": "in",
+      "incipit": "In medio Ecclesiae",
+      "target_page": 493,
+      "band": [202.6, 213.1],
+      "engraved": false
+    },
+    {
+      "page": 598,
+      "service_part": "gr",
+      "incipit": "Ecce sacerdos magnus",
+      "target_page": 486,
+      "band": [214.8, 237.5],
+      "engraved": false,
+      "notes": "GR and AL citation lines share one OCR text block on p598 (band [214.8, 237.5] covers both)."
+    },
+    {
+      "page": 598,
+      "service_part": "al",
+      "incipit": "Beatus vir qui suffert",
+      "target_page": 511,
+      "band": [214.8, 237.5],
+      "engraved": false,
+      "notes": "GR and AL citation lines share one OCR text block on p598 (band [214.8, 237.5] covers both)."
+    },
+    {
+      "page": 598,
+      "service_part": "of",
+      "incipit": "Iustus ut palma",
+      "target_page": 497,
+      "band": [238.9, 249.2],
+      "engraved": false
+    },
+    {
+      "page": 598,
+      "service_part": "co",
+      "incipit": "Fidelis servus et prudens",
+      "target_page": 491,
+      "band": [250.0, 261.6],
+      "engraved": false,
+      "notes": "Printed as 'Fidelis servus et prudens, 491, cum ps. 118*.' — psalm-tone plan not modeled."
+    }
+  ]
+}

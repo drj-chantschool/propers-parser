@@ -1,0 +1,51 @@
+{
+  "subsection": "ot-ot-28",
+  "label": "28th Sunday in Ordinary Time (Gregorian Missal)",
+  "lit_epoch_slug": "OT-OT-28",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 566,
+      "vernacular_text": "O Lord, if you were to take into account our iniquities, who would withstand the test? But forgiveness abides with you, O God of Israel. ℣. Out of the depths have I cried to you, O Lord; Lord, hear my voice.",
+      "text_src": "Ps 129:3, 4 and 1, 2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 567,
+      "vernacular_text": "Though I should walk in the midst of the shadow of death, I will fear no evil, for you are with me, O Lord. ℣. Your rod and your staff have comforted me.",
+      "text_src": "Ps 22:4",
+      "cycle_sun": 1,
+      "gm_xref_page": 505
+    },
+    {
+      "service_part": "gr",
+      "page": 567,
+      "vernacular_text": "Behold how good and how pleasant it is for brethren to dwell in unity. ℣. Like the precious ointment on the head, that ran down upon the beard, the beard of Aaron.",
+      "text_src": "Ps 132:1, ℣.2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 568,
+      "vernacular_text": "Let those who fear the Lord put their trust in him; he is their help and their protection.",
+      "text_src": "Ps 113:11",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 569,
+      "vernacular_text": "Remember me, O Lord, you who dominate all authority; put the right words on my lips, so that my speech may be convincing in the presence of the King.",
+      "text_src": "Esther 14:12, 13",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 570,
+      "vernacular_text": "Remove from me all scorn and contempt, for I have kept your commandments; for your law is the object of my meditations.",
+      "text_src": "Ps 118:22, 24",
+      "cycle_sun": null
+    }
+  ]
+}

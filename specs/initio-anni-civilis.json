@@ -1,0 +1,56 @@
+{
+  "subsection": "initio-anni-civilis",
+  "label": "At the Beginning of the Civil Year — Initio anni civilis",
+  "lit_epoch_slug": "initio-anni-civilis",
+  "chants": [
+    {
+      "page": 653,
+      "service_part": "in",
+      "incipit": "Deus in loco sancto suo",
+      "target_page": 310,
+      "band": [427, 438],
+      "engraved": false
+    },
+    {
+      "page": 653,
+      "service_part": "in",
+      "incipit": "Exsultate Deo adiutori nostro",
+      "target_page": 311,
+      "band": [440, 451],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 653,
+      "service_part": "gr",
+      "incipit": "Beata gens, cuius est Dominus Deus",
+      "target_page": 333,
+      "band": [452, 486],
+      "engraved": false
+    },
+    {
+      "page": 653,
+      "service_part": "al",
+      "incipit": "Qui posuit fines tuos pacem",
+      "target_page": 364,
+      "band": [452, 486],
+      "engraved": false
+    },
+    {
+      "page": 653,
+      "service_part": "of",
+      "incipit": "Laudate Dominum quia benignus est",
+      "target_page": 110,
+      "band": [452, 486],
+      "engraved": false
+    },
+    {
+      "page": 653,
+      "service_part": "co",
+      "incipit": "Primum quaerite regnum Dei",
+      "target_page": 325,
+      "band": [487, 498],
+      "engraved": false
+    }
+  ]
+}

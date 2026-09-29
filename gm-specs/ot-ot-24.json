@@ -1,0 +1,67 @@
+{
+  "subsection": "ot-ot-24",
+  "label": "24th Sunday in Ordinary Time (Gregorian Missal)",
+  "lit_epoch_slug": "OT-OT-24",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 547,
+      "vernacular_text": "Grant peace to those who are waiting for you, O Lord, so that your prophets may be proved trustworthy; hear the prayers of your servant and of your people Israel. ℣. I rejoiced when it was said unto me: “Let us go to the house of the Lord.”",
+      "text_src": "Sir 36:18; Ps 121",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 548,
+      "vernacular_text": "I rejoiced when it was said unto me: “Let us go to the house of the Lord!” ℣. Let peace reign within your walls, and abundance in your towers.",
+      "text_src": "Ps 121:1, ℣.7",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 549,
+      "vernacular_text": "The nations will fear your name, O Lord, and all the kings of the earth your glory.",
+      "text_src": "Ps 101:16",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 549,
+      "vernacular_text": "Moses consecrated an altar to the Lord, and presented thereupon burnt offerings and sacrificial victims; he made an evening sacrifice as a fragrant offering to the Lord, in the presence of the sons of Israel.",
+      "text_src": "Cf. Ex 24:4,5",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 550,
+      "vernacular_text": "Moses prayed to the Lord his God, and said; Moses addressed this prayer to the Lord his God, and declared: “Why, O Lord, is your anger enkindled against your people? Let the wrath your mind has conceived cease. Remember Abraham, Isaac and Jacob, to whom you swore to give a land flowing with milk and honey.” And the Lord was dissuaded from accomplishing the evil which he had threatened to inflict upon his people.",
+      "text_src": "Ex 32:11,15,13,14",
+      "cycle_sun": 3,
+      "gm_xref_page": 519
+    },
+    {
+      "service_part": "co",
+      "page": 551,
+      "vernacular_text": "Bring up your sacrifices and come into his courts; adore the Lord in his holy temple.",
+      "text_src": "Ps 95:8,9",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 551,
+      "vernacular_text": "If a man wishes to come after me, let him deny himself and take up his cross and follow me.",
+      "text_src": "Mt 16:24",
+      "cycle_sun": 2,
+      "gm_xref_page": 486
+    },
+    {
+      "service_part": "co",
+      "page": 551,
+      "vernacular_text": "I say unto you: there is joy among the Angels of God for one single sinner who repents.",
+      "text_src": "Lk 15:10",
+      "cycle_sun": 3,
+      "gm_xref_page": 429
+    }
+  ]
+}

@@ -4,7 +4,7 @@
     "y": 45.5,
     "size": 10.8,
     "level": 0,
-    "text": "COMMUNE DEDICATIONIS ECCLESIJE"
+    "text": "COMMUNE DEDICATIONIS ECCLESIAE"
   },
   {
     "page": 4,
@@ -18,7 +18,7 @@
     "y": 290.8,
     "size": 8.8,
     "level": 1,
-    "text": "In allis ecclesiis"
+    "text": "In aliis ecclesiis"
   },
   {
     "page": 9,
@@ -33,14 +33,6 @@
     "size": 13.8,
     "level": 0,
     "text": "COMMUNE BEATAE MARIAE VIRGINIS"
-  },
-
-  {
-    "page": 12,
-    "y": 238.6,
-    "size": 10.9,
-    "level": 1,
-    "text": "Ad  libitum, pro solemnitatibus et festis  B. M. V. :"
   },
   {
     "page": 31,
@@ -159,7 +151,7 @@
     "y": 391.4,
     "size": 7.8,
     "level": 1,
-    "text": "Pro iis qui opera misericordire exercuerunt"
+    "text": "Pro iis qui opera misericordiae exercuerunt"
   },
   {
     "page": 129,

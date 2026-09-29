@@ -1,0 +1,43 @@
+{
+  "subsection": "nat-vigil",
+  "label": "Christmas — Vigil Mass (Gregorian Missal)",
+  "lit_epoch_slug": "NAT-DAY-00-0-vigil",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 185,
+      "vernacular_text": "Today you will know that the Lord is coming to save us; and tomorrow you will see his glory. ℣. The earth is the Lord's and the fulness thereof; the world, and all those who dwell therein.",
+      "text_src": "Cf. Ex 16:6,7; Is 35:4; Ps 23",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 186,
+      "vernacular_text": "Today you will know that the Lord is coming to save us; and tomorrow you will see his glory. ℣. O Shepherd of Israel, hear us; you who lead Joseph like a flock, and who are enthroned upon the Cherubim; we beseech you to appear before Ephraim, Benjamin and Manasseh.",
+      "text_src": "Cf. Ex 16:6,7; Is 35:4, v. Ps 79:2,3",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 187,
+      "vernacular_text": "Tomorrow the sin of the land will be destroyed, and the Saviour of the world will establish over us his kingdom.",
+      "text_src": null,
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 188,
+      "vernacular_text": "O Princes, lift up your gates; be lifted high, o eternal gates, and the King of Glory shall make his entry.",
+      "text_src": "Ps 23:7",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 188,
+      "vernacular_text": "The glory of the Lord shall be revealed, and all flesh shall see the salvation which comes from our God.",
+      "text_src": "Cf. Is 40:5",
+      "cycle_sun": null
+    }
+  ]
+}

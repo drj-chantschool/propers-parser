@@ -1,0 +1,98 @@
+{
+  "subsection": "ot-ot-15",
+  "label": "15th week of Ordinary Time (Hebdomada XV per annum)",
+  "lit_epoch_slug": "OT-OT-15",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 303,
+      "service_part": "in",
+      "mode": 3,
+      "incipit": "Dum clamarem",
+      "text_src": "Ps. 54, 17. 18. 19. 20. 23 et 2",
+      "band": [334, 505],
+      "engraved": true
+    },
+    {
+      "page": 304,
+      "service_part": "in",
+      "incipit": "Ego autem cum iustitia",
+      "target_page": 94,
+      "option_txt": "Vel ad libitum:",
+      "band": [308, 325],
+      "engraved": false
+    },
+    {
+      "page": 304,
+      "service_part": "gr",
+      "mode": 1,
+      "incipit": "Custodi me",
+      "text_src": "Ps. 16, 8. V. 2",
+      "band": [325, 505],
+      "engraved": true
+    },
+    {
+      "page": 305,
+      "service_part": "gr",
+      "incipit": "Ostende nobis",
+      "target_page": 31,
+      "cycle_sun": 2,
+      "band": [355, 395],
+      "engraved": false
+    },
+    {
+      "page": 305,
+      "service_part": "gr",
+      "incipit": "Anima nostra",
+      "target_page": 453,
+      "wkday": 2,
+      "cycle_wkday": 1,
+      "band": [355, 395],
+      "engraved": false
+    },
+    {
+      "page": 305,
+      "service_part": "al",
+      "mode": 7,
+      "incipit": "Te decet hymnus",
+      "text_src": "Ps. 64, 2",
+      "band": [384, 505],
+      "engraved": true
+    },
+    {
+      "page": 306,
+      "service_part": "al",
+      "incipit": "Venite ad me",
+      "target_page": 619,
+      "wkday": 5,
+      "band": [222, 248],
+      "engraved": false
+    },
+    {
+      "page": 306,
+      "service_part": "of",
+      "incipit": "Ad te, Domine, levavi",
+      "target_page": 17,
+      "band": [247, 265],
+      "engraved": false
+    },
+    {
+      "page": 306,
+      "service_part": "co",
+      "mode": 1,
+      "incipit": "Passer invenit",
+      "text_src": "Ps. 83, 4. 5",
+      "band": [265, 505],
+      "engraved": true
+    },
+    {
+      "page": 307,
+      "service_part": "co",
+      "incipit": "Qui manducat",
+      "target_page": 383,
+      "option_txt": "Ad libitum:",
+      "band": [100, 143],
+      "engraved": false
+    }
+  ]
+}

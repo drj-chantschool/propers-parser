@@ -1,0 +1,50 @@
+{
+  "subsection": "st-henry-ii",
+  "label": "S. Henrici (Die 13 iulii)",
+  "lit_epoch_slug": "st-henry-ii",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 579,
+      "service_part": "in",
+      "incipit": "In virtute tua",
+      "target_page": 523,
+      "band": [194.0, 205.0],
+      "engraved": false,
+      "notes": "Printed with an ellipsis: 'In virtute tua... laetabitur rex, 523.'"
+    },
+    {
+      "page": 579,
+      "service_part": "gr",
+      "incipit": "Iustus ut palma florebit",
+      "target_page": 510,
+      "band": [206.1, 217.1],
+      "engraved": false
+    },
+    {
+      "page": 579,
+      "service_part": "al",
+      "incipit": "Beatus vir qui suffert",
+      "target_page": 511,
+      "band": [218.0, 229.0],
+      "engraved": false
+    },
+    {
+      "page": 579,
+      "service_part": "of",
+      "incipit": "Veritas mea",
+      "target_page": 483,
+      "band": [230.1, 241.1],
+      "engraved": false
+    },
+    {
+      "page": 579,
+      "service_part": "co",
+      "incipit": "Beatus servus",
+      "target_page": 491,
+      "band": [242.0, 253.0],
+      "engraved": false,
+      "notes": "Printed as 'Beatus servus, 491, cum ps. 71*.' — psalm-tone plan, not modeled."
+    }
+  ]
+}

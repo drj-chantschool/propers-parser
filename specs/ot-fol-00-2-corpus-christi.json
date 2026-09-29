@@ -1,0 +1,78 @@
+{
+  "subsection": "ss-mi-corporis-et-sanguinis-christi",
+  "label": "SS.mi Corporis et Sanguinis Christi — Most Holy Body and Blood of Christ (Corpus Christi)",
+  "lit_epoch_slug": "OT-FOL-00-2",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 377,
+      "service_part": "in",
+      "mode": 2,
+      "incipit": "Cibavit eos",
+      "text_src": "Ps. 80, 17 et 2. J. 11",
+      "band": [76, 519],
+      "engraved": true
+    },
+    {
+      "page": 378,
+      "service_part": "gr",
+      "incipit": "Oculi omnium",
+      "target_page": 343,
+      "band": [140, 168],
+      "engraved": false
+    },
+    {
+      "page": 378,
+      "service_part": "al",
+      "mode": 7,
+      "incipit": "Caro mea",
+      "text_src": "Io. 6, 56. 57",
+      "band": [162, 519],
+      "engraved": true
+    },
+    {
+      "page": 379,
+      "service_part": "seq",
+      "mode": 7,
+      "incipit": "Lauda Sion",
+      "option_txt": "Ad libitum:",
+      "band": [30, 519],
+      "engraved": true
+    },
+    {
+      "page": 383,
+      "service_part": "of",
+      "incipit": "Portas caeli",
+      "target_page": 207,
+      "band": [140, 190],
+      "engraved": false
+    },
+    {
+      "page": 383,
+      "service_part": "of",
+      "incipit": "Sanctificavit Moyses",
+      "target_page": 338,
+      "option_txt": "vel:",
+      "band": [140, 190],
+      "engraved": false
+    },
+    {
+      "page": 383,
+      "service_part": "co",
+      "mode": 6,
+      "incipit": "Qui manducat",
+      "text_src": "Io. 6, 57",
+      "band": [190, 420],
+      "engraved": true
+    },
+    {
+      "page": 383,
+      "service_part": "co",
+      "incipit": "Hoc corpus",
+      "target_page": 170,
+      "cycle_sun": 3,
+      "band": [430, 460],
+      "engraved": false
+    }
+  ]
+}

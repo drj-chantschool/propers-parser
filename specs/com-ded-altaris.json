@@ -1,0 +1,40 @@
+{
+  "subsection": "com-ded-altaris",
+  "label": "Common of the Dedication of a Church — In dedicatione altaris",
+  "lit_epoch_slug": "COM-DED-ALTARIS",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 402,
+      "service_part": "in",
+      "incipit": "Dicit Dominus : Sermones mei",
+      "target_page": 398,
+      "band": [446, 462],
+      "engraved": false
+    },
+    {
+      "page": 402,
+      "service_part": "in",
+      "incipit": "Protector noster",
+      "target_page": 323,
+      "band": [462, 500],
+      "engraved": false
+    },
+    {
+      "page": 402,
+      "service_part": "of",
+      "incipit": "Sanctificavit Moyses",
+      "target_page": 338,
+      "band": [462, 500],
+      "engraved": false
+    },
+    {
+      "page": 402,
+      "service_part": "co",
+      "incipit": "Passer invenit",
+      "target_page": 306,
+      "band": [462, 500],
+      "engraved": false
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "subsection": "tq-holyweek-00-1",
+  "label": "Holy Week — Palm Sunday (Dominica in Palmis de Passione Domini)",
+  "lit_epoch_slug": "TQ-HOLYWEEK-00-1",
+  "wkday": 1,
+  "chants": [
+    {
+      "page": 137,
+      "service_part": "palan",
+      "mode": 7,
+      "incipit": "Hosanna filio David",
+      "text_src": "Ps. 117",
+      "band": [
+        130,
+        340
+      ],
+      "engraved": true
+    },
+    {
+      "page": 138,
+      "service_part": "palproc",
+      "mode": null,
+      "incipit": "Procedamus in pace",
+      "text_src": null,
+      "band": [
+        186,
+        326
+      ],
+      "engraved": true
+    },
+    {
+      "page": 138,
+      "service_part": "palan1",
+      "mode": 1,
+      "incipit": "Pueri Hebraeorum portantes",
+      "text_src": "Ps. 23",
+      "band": [
+        338,
+        505
+      ],
+      "engraved": true
+    },
+    {
+      "page": 140,
+      "service_part": "palan2",
+      "mode": 1,
+      "incipit": "Pueri Hebraeorum vestimenta",
+      "text_src": "Ps. 46",
+      "band": [
+        38,
+        505
+      ],
+      "engraved": true
+    },
+    {
+      "page": 141,
+      "service_part": "palhy",
+      "mode": 1,
+      "incipit": "Gloria, laus et honor",
+      "text_src": null,
+      "band": [
+        185,
+        505
+      ],
+      "engraved": true
+    },
+    {
+      "page": 143,
+      "service_part": "palre",
+      "mode": 2,
+      "incipit": "Ingrediente Domino",
+      "text_src": null,
+      "band": [
+        110,
+        505
+      ],
+      "engraved": true
+    },
+    {
+      "page": 144,
+      "service_part": "tr",
+      "mode": 2,
+      "incipit": "Deus, Deus meus",
+      "text_src": "Ps. 21, 2-9. 18. 19. 22. 24. 32",
+      "band": [
+        74,
+        505
+      ],
+      "engraved": true
+    },
+    {
+      "page": 148,
+      "service_part": "gr2",
+      "mode": 5,
+      "incipit": "Christus factus est",
+      "text_src": "Phil. 2, 8. V. 9",
+      "band": [
+        40,
+        383
+      ],
+      "engraved": true
+    },
+    {
+      "page": 148,
+      "service_part": "of",
+      "mode": 8,
+      "incipit": "Improperium et dederunt",
+      "text_src": "Ps. 68, 21. 22",
+      "band": [
+        387,
+        505
+      ],
+      "engraved": true
+    },
+    {
+      "page": 149,
+      "service_part": "co",
+      "mode": 8,
+      "incipit": "Pater, si non potest",
+      "text_src": "Mt. 26, 42",
+      "band": [
+        330,
+        476
+      ],
+      "engraved": true
+    }
+  ]
+}

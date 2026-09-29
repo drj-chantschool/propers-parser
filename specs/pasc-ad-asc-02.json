@@ -1,0 +1,109 @@
+{
+  "subsection": "pasc-ad-asc-02",
+  "label": "2nd week of Easter (Hebdomada II Paschae)",
+  "lit_epoch_slug": "PASC-AD_ASC-02",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 216,
+      "service_part": "in",
+      "mode": 6,
+      "incipit": "Quasi modo",
+      "text_src": "1 Petr. 2, 2",
+      "band": [40, 353],
+      "engraved": true
+    },
+    {
+      "page": 216,
+      "service_part": "in",
+      "incipit": "Deus, dum egredereris",
+      "target_page": 244,
+      "wkday": 5,
+      "band": [352, 390],
+      "engraved": false
+    },
+    {
+      "page": 216,
+      "service_part": "in",
+      "incipit": "Redemisti nos",
+      "target_page": 659,
+      "wkday": 6,
+      "band": [352, 390],
+      "engraved": false
+    },
+    {
+      "page": 216,
+      "service_part": "in",
+      "incipit": "Accipite iucunditatem",
+      "target_page": 243,
+      "wkdays": [2, 3, 4, 7],
+      "band": [352, 390],
+      "engraved": false
+    },
+    {
+      "page": 216,
+      "service_part": "al1",
+      "mode": 7,
+      "incipit": "In die resurrectionis meae",
+      "text_src": "Mt. 28, 7",
+      "band": [390, 505],
+      "engraved": true
+    },
+    {
+      "page": 217,
+      "service_part": "al",
+      "mode": 7,
+      "incipit": "Post dies octo",
+      "text_src": "Io. 20, 26",
+      "wkday": 1,
+      "band": [137, 397],
+      "engraved": true
+    },
+    {
+      "page": 217,
+      "service_part": "al",
+      "incipit": "Dominus regnavit, decorem",
+      "target_page": 46,
+      "wkday": 3,
+      "band": [397, 445],
+      "engraved": false
+    },
+    {
+      "page": 217,
+      "service_part": "al",
+      "incipit": "Surrexit Christus qui creavit",
+      "target_page": 209,
+      "wkday": 7,
+      "band": [397, 445],
+      "engraved": false
+    },
+    {
+      "page": 217,
+      "service_part": "of",
+      "mode": 8,
+      "incipit": "Angelus Domini",
+      "text_src": "Mt. 28, 2. 5. 6",
+      "band": [444, 505],
+      "engraved": true
+    },
+    {
+      "page": 218,
+      "service_part": "co",
+      "mode": 6,
+      "incipit": "Mitte manum tuam",
+      "text_src": "Io. 20, 27",
+      "band": [260, 430],
+      "engraved": true
+    },
+    {
+      "page": 218,
+      "service_part": "co",
+      "mode": 8,
+      "incipit": "Spiritus ubi vult spirat",
+      "text_src": "Io. 3, 8",
+      "wkdays": [2, 3],
+      "band": [434, 505],
+      "engraved": true
+    }
+  ]
+}

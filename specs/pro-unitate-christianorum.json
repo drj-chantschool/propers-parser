@@ -1,0 +1,83 @@
+{
+  "subsection": "pro-unitate-christianorum",
+  "label": "For Christian Unity — Pro unitate christianorum",
+  "lit_epoch_slug": "pro-unitate-christianorum",
+  "chants": [
+    {
+      "page": 651,
+      "service_part": "in",
+      "incipit": "Deus in loco sancto suo",
+      "target_page": 310,
+      "band": [377, 391],
+      "engraved": false
+    },
+    {
+      "page": 651,
+      "service_part": "in",
+      "incipit": "Dum sanctificatus fuero in vobis",
+      "target_page": 249,
+      "band": [391, 403],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 651,
+      "service_part": "in",
+      "incipit": "Loquetur Dominus pacem",
+      "target_page": 369,
+      "band": [403, 415],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 651,
+      "service_part": "gr",
+      "incipit": "Universi qui te exspectant",
+      "target_page": 16,
+      "band": [415, 427],
+      "engraved": false
+    },
+    {
+      "page": 651,
+      "service_part": "al",
+      "incipit": "Ego sum pastor bonus",
+      "target_page": 223,
+      "band": [427, 439],
+      "engraved": false
+    },
+    {
+      "page": 651,
+      "service_part": "al",
+      "incipit": "Laetatus sum",
+      "target_page": 19,
+      "band": [439, 451],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 651,
+      "service_part": "of",
+      "incipit": "Deus, tu convertens",
+      "target_page": 20,
+      "band": [451, 463],
+      "engraved": false
+    },
+    {
+      "page": 651,
+      "service_part": "co",
+      "incipit": "Amen dico vobis, quidquid",
+      "target_page": 368,
+      "band": [463, 475],
+      "engraved": false
+    },
+    {
+      "page": 651,
+      "service_part": "co",
+      "incipit": "Ego sum pastor bonus",
+      "target_page": 224,
+      "band": [475, 500],
+      "engraved": false,
+      "option_txt": "Tempore paschali :"
+    }
+  ]
+}

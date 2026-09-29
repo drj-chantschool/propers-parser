@@ -1,0 +1,48 @@
+{
+  "subsection": "pro-episcopo",
+  "label": "For the Bishop — Pro episcopo",
+  "lit_epoch_slug": "pro-episcopo",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 650,
+      "service_part": "in",
+      "incipit": "Dominus fortitudo plebis suae",
+      "target_page": 294,
+      "band": [235, 258],
+      "engraved": false
+    },
+    {
+      "page": 650,
+      "service_part": "gr",
+      "incipit": "Exaltent eum in ecclesia plebis",
+      "target_page": 548,
+      "band": [235, 258],
+      "engraved": false
+    },
+    {
+      "page": 650,
+      "service_part": "al",
+      "incipit": "Ego sum pastor bonus",
+      "target_page": 223,
+      "band": [259, 270],
+      "engraved": false
+    },
+    {
+      "page": 650,
+      "service_part": "of",
+      "incipit": "Inveni David servum meum",
+      "target_page": 447,
+      "band": [271, 282],
+      "engraved": false
+    },
+    {
+      "page": 650,
+      "service_part": "co",
+      "incipit": "Ego vos elegi de mundo",
+      "target_page": 436,
+      "band": [283, 294],
+      "engraved": false
+    }
+  ]
+}

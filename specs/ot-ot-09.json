@@ -1,0 +1,141 @@
+{
+  "subsection": "ot-ot-09",
+  "label": "9th week of Ordinary Time (Hebdomada IX per annum)",
+  "lit_epoch_slug": "OT-OT-09",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 284,
+      "service_part": "in",
+      "mode": 6,
+      "incipit": "Respice in me",
+      "text_src": "Ps. 24, 16. 18 et 1-2",
+      "band": [225, 505],
+      "engraved": true
+    },
+    {
+      "page": 285,
+      "service_part": "gr",
+      "mode": 7,
+      "incipit": "Iacta cogitatum tuum",
+      "text_src": "Ps. 54, 23. V. 17a. 18b. 19a",
+      "band": [83, 435],
+      "engraved": true
+    },
+    {
+      "page": 286,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Deus, iudex iustus",
+      "text_src": "Ps. 7, 12",
+      "band": [25, 330],
+      "engraved": true
+    },
+    {
+      "page": 286,
+      "service_part": "of",
+      "mode": 3,
+      "incipit": "Sperent in te",
+      "text_src": "Ps. 9, 11. 12. 13",
+      "band": [375, 505],
+      "engraved": true
+    },
+    {
+      "page": 287,
+      "service_part": "co",
+      "mode": 8,
+      "incipit": "Ego clamavi",
+      "text_src": "Ps. 16, 6",
+      "band": [275, 430],
+      "engraved": true
+    },
+    {
+      "page": 285,
+      "service_part": "gr",
+      "incipit": "Esto mihi",
+      "target_page": 301,
+      "cycle_sun": 1,
+      "band": [435, 455],
+      "engraved": false
+    },
+    {
+      "page": 285,
+      "service_part": "gr",
+      "incipit": "Beatus vir qui timet",
+      "target_page": 475,
+      "wkday": 2,
+      "cycle_wkday": 1,
+      "band": [447, 468],
+      "engraved": false
+    },
+    {
+      "page": 285,
+      "service_part": "gr",
+      "incipit": "Dispersit, dedit",
+      "target_page": 520,
+      "wkday": 3,
+      "cycle_wkday": 1,
+      "band": [459, 480],
+      "engraved": false
+    },
+    {
+      "page": 285,
+      "service_part": "gr",
+      "incipit": "Domine, refugium",
+      "target_page": 347,
+      "wkday": 3,
+      "cycle_wkday": 2,
+      "band": [471, 492],
+      "engraved": false
+    },
+    {
+      "page": 285,
+      "service_part": "gr",
+      "incipit": "Universi qui te exspectant",
+      "target_page": 16,
+      "wkday": 5,
+      "cycle_wkday": 2,
+      "band": [483, 505],
+      "engraved": false
+    },
+    {
+      "page": 286,
+      "service_part": "al",
+      "incipit": "Beatus vir qui timet",
+      "target_page": 511,
+      "wkday": 2,
+      "cycle_wkday": 1,
+      "band": [329, 352],
+      "engraved": false
+    },
+    {
+      "page": 286,
+      "service_part": "al",
+      "incipit": "Dispersit, dedit",
+      "target_page": 521,
+      "wkday": 3,
+      "cycle_wkday": 1,
+      "band": [340, 375],
+      "engraved": false
+    },
+    {
+      "page": 286,
+      "service_part": "al",
+      "incipit": "Domine, refugium",
+      "target_page": 321,
+      "wkday": 3,
+      "cycle_wkday": 2,
+      "band": [340, 375],
+      "engraved": false
+    },
+    {
+      "page": 287,
+      "service_part": "co",
+      "incipit": "Amen dico vobis : Quidquid",
+      "target_page": 368,
+      "option_txt": "vel:",
+      "band": [430, 480],
+      "engraved": false
+    }
+  ]
+}

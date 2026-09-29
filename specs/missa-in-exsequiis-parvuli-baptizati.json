@@ -1,0 +1,66 @@
+{
+  "subsection": "missa-in-exsequiis-parvuli-baptizati",
+  "label": "Funeral Mass of a Baptized Child (Missa in exsequiis parvuli baptizati)",
+  "lit_epoch_slug": "missa-in-exsequiis-parvuli-baptizati",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 677,
+      "service_part": "in",
+      "incipit": "Ego autem cum iustitia apparebo",
+      "target_page": 94,
+      "band": [252.4, 262.8],
+      "engraved": false
+    },
+    {
+      "page": 677,
+      "service_part": "gr",
+      "incipit": "Beata gens cuius est Dominus",
+      "target_page": 333,
+      "band": [264.0, 299.0],
+      "engraved": false
+    },
+    {
+      "page": 677,
+      "service_part": "al",
+      "incipit": "Laudate, pueri, Dominum",
+      "target_page": 215,
+      "band": [264.0, 299.0],
+      "engraved": false
+    },
+    {
+      "page": 677,
+      "service_part": "of",
+      "incipit": "Intende voci orationis meae",
+      "target_page": 280,
+      "band": [264.0, 299.0],
+      "engraved": false
+    },
+    {
+      "page": 677,
+      "service_part": "co",
+      "incipit": "Dominus regit me, et nihil mihi deerit",
+      "target_page": 365,
+      "band": [300.7, 311.1],
+      "engraved": false
+    },
+    {
+      "page": 677,
+      "service_part": "in",
+      "incipit": "Venite benedicti Patris mei",
+      "target_page": 205,
+      "option_txt": "Tempore Paschali:",
+      "band": [346.5, 357.0],
+      "engraved": false
+    },
+    {
+      "page": 677,
+      "service_part": "co",
+      "incipit": "Omnes qui in Christo baptizati estis",
+      "target_page": 61,
+      "option_txt": "Tempore Paschali:",
+      "band": [358.6, 369.1],
+      "engraved": false
+    }
+  ]
+}

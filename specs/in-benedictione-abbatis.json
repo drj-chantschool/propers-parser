@@ -1,0 +1,48 @@
+{
+  "subsection": "in-benedictione-abbatis",
+  "label": "Blessing of an Abbot or Abbess — In Benedictione Abbatis vel Abbatissae",
+  "lit_epoch_slug": "in-benedictione-abbatis",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 647,
+      "service_part": "in",
+      "incipit": "Protector noster aspice, Deus",
+      "target_page": 323,
+      "band": [281, 292],
+      "engraved": false
+    },
+    {
+      "page": 647,
+      "service_part": "gr",
+      "incipit": "Venite, filii, audite me",
+      "target_page": 298,
+      "band": [293, 304],
+      "engraved": false
+    },
+    {
+      "page": 647,
+      "service_part": "al",
+      "incipit": "Qui timent Dominum, sperent in eo",
+      "target_page": 352,
+      "band": [305, 316],
+      "engraved": false
+    },
+    {
+      "page": 647,
+      "service_part": "of",
+      "incipit": "Gressus meos dirige, Domine",
+      "target_page": 365,
+      "band": [317, 328],
+      "engraved": false
+    },
+    {
+      "page": 647,
+      "service_part": "co",
+      "incipit": "Tu mandasti mandata tua",
+      "target_page": 342,
+      "band": [329, 340],
+      "engraved": false
+    }
+  ]
+}

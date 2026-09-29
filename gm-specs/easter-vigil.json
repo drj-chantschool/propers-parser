@@ -1,0 +1,112 @@
+{
+  "subsection": "easter-vigil",
+  "label": "The Easter Vigil in the Holy Night (Gregorian Missal)",
+  "lit_epoch_slug": "PASC-OCT-01-1-vigil",
+  "wkday": 1,
+  "chants": [
+    {
+      "service_part": "vigcan1",
+      "page": 328,
+      "vernacular_text": "Make a joyful noise to the Lord all the earth; serve the Lord with gladness. ℣. Come into his presence in exultation. ℣. Know that the Lord is God. ℣. It is he that made us and not we ourselves; we are his people and the sheep of his pasture.",
+      "text_src": "Ps 99:2,3",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "vigcan2",
+      "page": 329,
+      "gm_xref_page": 261,
+      "vernacular_text": "Those who trust in the Lord are like Mount Zion; the inhabitants of Jerusalem shall never be shaken. ℣. As the mountains are round about Jerusalem, so the Lord is round about his people, from this time forth and for evermore.",
+      "text_src": "Ps 124:1,2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "vigcan3",
+      "page": 330,
+      "vernacular_text": "Let us sing to the Lord, for he has triumphed gloriously; the horse and his rider he has thrown into the sea; he has become my strength and my protection unto my salvation. ℣. This is my God and I will praise him, my father's God and I will exalt him. ℣. The Lord shatters the forces of war; the Lord is his name.",
+      "text_src": "Ex 15:1,2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "vigcan4",
+      "page": 332,
+      "vernacular_text": "Praise the Lord, all nations; praise him in unison, all peoples. ℣. For his mercy is confirmed upon us and the faithfulness of the Lord endures for ever.",
+      "text_src": "Ps 116",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "vigcan5",
+      "page": 333,
+      "vernacular_text": "My beloved had a vineyard on a hill, in a fruitful place. ℣. And he fenced it in and made a ditch around it, and planted it with the vine of Sorec and built a watchtower in the midst of it. ℣. He hewed out a wine vat in it. Now, the vineyard of the Lord of hosts is the house of Israel.",
+      "text_src": "Is 5:1,2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "vigcan6",
+      "page": 334,
+      "vernacular_text": "Give ear, O heavens, and I will speak; let the earth hearken to the words of my mouth. ℣. Let my speech be longed for as the rain; let my words come down like the dew, like showers upon the grass. ℣. Yes, and like snow upon the dry herb; for I will invoke the name of the Lord. ℣. Ascribe greatness to our God; the works of God are true and all his ways are justice. ℣. God is faithful, there is no iniquity in him; the Lord is just and holy.",
+      "text_src": "Deut 32:1-4",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "vigcan7",
+      "page": 336,
+      "vernacular_text": "As a hart longs for flowing streams, so longs my soul for you, O God. ℣. My soul thirsts for the living God; when shall I come and appear before the face of my God? ℣. My tears have been my food day and night, while men say to me daily: \"Where is your God?\"",
+      "text_src": "Ps 41:2,3,4",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 339,
+      "vernacular_text": "Give thanks to the Lord, for he is good; his mercy endures forever.",
+      "text_src": "Ps 117:1",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "viglit",
+      "page": 340,
+      "vernacular_text": "Lord, have mercy (twice). Christ, have mercy (twice). Lord, have mercy (twice).\n\nHoly Mary, Mother of God, pray for us. Saint Michael, pray for us. Holy angels of God, pray for us. Saint John the Baptist, pray for us. Saint Joseph, pray for us. Saint Peter and Saint Paul, pray for us. Saint Andrew, pray for us. Saint John, pray for us. Saint Mary Magdalene, pray for us. Saint Stephen, pray for us. Saint Ignatius of Antioch, pray for us. Saint Lawrence, pray for us. Saint Perpetua and Saint Felicity, pray for us. Saint Agnes, pray for us. Saint Gregory, pray for us. Saint Augustine, pray for us. Saint Athanasius, pray for us. Saint Basil, pray for us. Saint Martin, pray for us. Saint Benedict, pray for us. Saint Francis and Saint Dominic, pray for us. Saint Francis Xavier, pray for us. Saint John Vianney, pray for us. Saint Catherine of Siena, pray for us. Saint Teresa of Avila, pray for us. All holy men and women, pray for us.\n\nLord, be merciful, Lord, save your people. From all evil, From every sin, From everlasting death, By your coming as man, By your death and rising to new life, By your gift of the Holy Spirit, Be merciful to us sinners, Lord, hear our prayer. Give new life to these chosen ones by the grace of baptism, (In place of the last invocation, if no one is to be baptized: By your grace bless this font where your children will be reborn.) Jesus, Son of the living God,\n\nChrist, hear us (twice). Lord Jesus, hear our prayer (twice).",
+      "text_src": null,
+      "cycle_sun": null
+    },
+    {
+      "service_part": "vigasp",
+      "page": 346,
+      "gm_xref_page": 71,
+      "vernacular_text": "I saw water issuing forth from the Temple, on the right side, alleluia; and all those to whom this water came obtained salvation and they exclaimed: \"Alleluia, alleluia\".",
+      "text_src": "Ezek 47:1,9",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 347,
+      "vernacular_text": "The right hand of the Lord has done valiantly, the right hand of the Lord has exalted me; I shall not die, but I shall live, and recount the deeds of the Lord, alleluia.",
+      "text_src": "Ps 117:16,17",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 347,
+      "option_num": 1,
+      "gm_xref_page": 354,
+      "vernacular_text": "Christ, our Paschal Lamb, has been sacrificed, alleluia; therefore, let us keep the feast by sharing the unleavened bread of uprightness and truth, alleluia, alleluia, alleluia.",
+      "text_src": "1 Cor 5:7,8",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 348,
+      "option_num": 2,
+      "option_txt": "Or:",
+      "vernacular_text": "Alleluia, alleluia, alleluia.",
+      "text_src": null,
+      "cycle_sun": null
+    },
+    {
+      "service_part": "ite",
+      "page": 348,
+      "vernacular_text": "℣. The Mass is ended, go in peace, alleluia, alleluia. ℟. Thanks be to God, alleluia, alleluia.",
+      "text_src": null,
+      "cycle_sun": null
+    }
+  ]
+}

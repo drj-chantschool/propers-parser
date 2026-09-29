@@ -1,0 +1,199 @@
+{
+  "subsection": "com-doct",
+  "label": "Common of Doctors of the Church (Commune doctorum Ecclesiae)",
+  "lit_epoch_slug": "COM-DOCT",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 493,
+      "service_part": "in",
+      "mode": 6,
+      "incipit": "In medio Ecclesiae",
+      "text_src": "Sir. 15, 5; Ps. 91",
+      "band": [90, 462],
+      "engraved": true
+    },
+    {
+      "page": 494,
+      "service_part": "in",
+      "mode": 6,
+      "incipit": "Os iusti",
+      "text_src": "Ps. 36, 30. 31 et 1",
+      "band": [24, 298],
+      "engraved": true
+    },
+    {
+      "page": 494,
+      "service_part": "gr",
+      "mode": 1,
+      "incipit": "Os iusti",
+      "text_src": "Ps. 36, 30. V. 31",
+      "band": [325, 502],
+      "engraved": true
+    },
+    {
+      "page": 495,
+      "service_part": "al",
+      "mode": 4,
+      "incipit": "Amavit eum",
+      "text_src": "Sir. 45, 9",
+      "band": [266, 502],
+      "engraved": true
+    },
+    {
+      "page": 496,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "Iustus germinabit",
+      "text_src": "Os. 14, 6",
+      "band": [135, 425],
+      "engraved": true
+    },
+    {
+      "page": 497,
+      "service_part": "of",
+      "mode": 4,
+      "incipit": "Iustus ut palma",
+      "text_src": "Ps. 91, 13",
+      "band": [106, 339],
+      "engraved": true
+    },
+    {
+      "page": 493,
+      "service_part": "in",
+      "incipit": "Lex Domini irreprehensibilis",
+      "target_page": 86,
+      "band": [473, 500],
+      "engraved": false
+    },
+    {
+      "page": 493,
+      "service_part": "in",
+      "incipit": "Meditatio cordis mei",
+      "target_page": 103,
+      "band": [473, 500],
+      "engraved": false
+    },
+    {
+      "page": 494,
+      "service_part": "in",
+      "incipit": "Sapientiam sanctorum",
+      "target_page": 452,
+      "band": [298, 326],
+      "engraved": false
+    },
+    {
+      "page": 496,
+      "service_part": "al",
+      "incipit": "Spiritus Sanctus docebit",
+      "target_page": 432,
+      "band": [468, 486],
+      "engraved": false
+    },
+    {
+      "page": 496,
+      "service_part": "tr",
+      "incipit": "Beatus vir",
+      "target_page": 481,
+      "band": [486, 502],
+      "engraved": false
+    },
+    {
+      "page": 497,
+      "service_part": "of",
+      "incipit": "Benedicam Dominum",
+      "target_page": 293,
+      "band": [61, 88],
+      "engraved": false
+    },
+    {
+      "page": 497,
+      "service_part": "of",
+      "incipit": "Benedictus es in labiis",
+      "target_page": 277,
+      "band": [61, 88],
+      "engraved": false
+    },
+    {
+      "page": 497,
+      "service_part": "of",
+      "incipit": "Bonum est confiteri",
+      "target_page": 270,
+      "band": [86, 100],
+      "engraved": false
+    },
+    {
+      "page": 497,
+      "service_part": "of",
+      "incipit": "Levabo oculos meos",
+      "target_page": 78,
+      "band": [349, 389],
+      "engraved": false
+    },
+    {
+      "page": 497,
+      "service_part": "of",
+      "incipit": "Meditabor in mandatis tuis",
+      "target_page": 356,
+      "band": [349, 389],
+      "engraved": false
+    },
+    {
+      "page": 497,
+      "service_part": "of",
+      "incipit": "Meditabor in mandatis tuis",
+      "target_page": 245,
+      "option_txt": "T. P.",
+      "band": [349, 389],
+      "engraved": false
+    },
+    {
+      "page": 497,
+      "service_part": "of",
+      "incipit": "Veritas mea",
+      "target_page": 483,
+      "band": [349, 389],
+      "engraved": false
+    },
+    {
+      "page": 497,
+      "service_part": "co",
+      "incipit": "Narrabo omnia mirabilia tua",
+      "target_page": 281,
+      "band": [425, 452],
+      "engraved": false
+    },
+    {
+      "page": 497,
+      "service_part": "co",
+      "incipit": "Notas mihi fecisti",
+      "target_page": 362,
+      "band": [450, 463],
+      "engraved": false
+    },
+    {
+      "page": 497,
+      "service_part": "co",
+      "incipit": "Qui meditabitur",
+      "target_page": 67,
+      "band": [462, 476],
+      "engraved": false
+    },
+    {
+      "page": 497,
+      "service_part": "co",
+      "incipit": "Quod dico vobis",
+      "target_page": 472,
+      "band": [474, 488],
+      "engraved": false
+    },
+    {
+      "page": 497,
+      "service_part": "co",
+      "incipit": "Tu mandasti mandata tua",
+      "target_page": 342,
+      "band": [485, 499],
+      "engraved": false
+    }
+  ]
+}

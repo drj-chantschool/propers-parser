@@ -1,0 +1,63 @@
+{
+  "subsection": "queenship-of-mary",
+  "label": "The Queenship of the Blessed Virgin Mary (B. MARIAE VIRGINIS REGINAE, Die 22 augusti)",
+  "lit_epoch_slug": "queenship-of-mary",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 594,
+      "service_part": "in",
+      "incipit": "Salve, sancta Parens",
+      "target_page": 403,
+      "text_src": null,
+      "band": [202.1, 213.1],
+      "engraved": false
+    },
+    {
+      "page": 594,
+      "service_part": "in",
+      "incipit": "Vultum tuum deprecabuntur",
+      "target_page": 404,
+      "text_src": null,
+      "option_txt": "—",
+      "band": [214.2, 225.2],
+      "engraved": false
+    },
+    {
+      "page": 594,
+      "service_part": "gr",
+      "incipit": "Posuisti, Domine",
+      "target_page": 477,
+      "text_src": null,
+      "band": [226.3, 237.3],
+      "engraved": false
+    },
+    {
+      "page": 594,
+      "service_part": "al",
+      "incipit": "Posuisti, Domine",
+      "target_page": 480,
+      "text_src": null,
+      "band": [238.3, 249.3],
+      "engraved": false
+    },
+    {
+      "page": 594,
+      "service_part": "of",
+      "incipit": "Recordare, Virgo Mater",
+      "target_page": 422,
+      "text_src": null,
+      "band": [250.5, 261.5],
+      "engraved": false
+    },
+    {
+      "page": 594,
+      "service_part": "co",
+      "incipit": "Diffusa est gratia",
+      "target_page": 423,
+      "text_src": null,
+      "band": [262.6, 273.6],
+      "engraved": false
+    }
+  ]
+}

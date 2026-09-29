@@ -1,0 +1,332 @@
+{
+  "subsection": "com-mart-xtp-plur",
+  "label": "Common of Martyrs outside Paschaltide — Pro pluribus martyribus",
+  "lit_epoch_slug": "COM-MART-XTP-PLUR",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 450,
+      "service_part": "in",
+      "mode": 2,
+      "incipit": "Clamaverunt iusti",
+      "text_src": "Ps. 33, 18 et 2",
+      "band": [78, 373],
+      "engraved": true
+    },
+    {
+      "page": 450,
+      "service_part": "in",
+      "mode": 6,
+      "incipit": "Iusti epulentur",
+      "text_src": "Ps. 67, 4 et 2",
+      "band": [373, 508],
+      "engraved": true
+    },
+    {
+      "page": 451,
+      "service_part": "in",
+      "incipit": "Loquetur Dominus",
+      "target_page": 369,
+      "band": [138, 157],
+      "engraved": false
+    },
+    {
+      "page": 451,
+      "service_part": "in",
+      "mode": 2,
+      "incipit": "Multae tribulationes",
+      "text_src": "Ps. 33, 20. 21 et 2",
+      "band": [157, 433],
+      "engraved": true
+    },
+    {
+      "page": 451,
+      "service_part": "in",
+      "mode": 1,
+      "incipit": "Salus autem",
+      "text_src": "Ps. 36, 39 et 1",
+      "band": [433, 519],
+      "engraved": true
+    },
+    {
+      "page": 452,
+      "service_part": "in",
+      "mode": 1,
+      "incipit": "Sapientiam sanctorum",
+      "text_src": "Sir. 44, 15. 14; Ps. 32",
+      "band": [186, 508],
+      "engraved": true
+    },
+    {
+      "page": 453,
+      "service_part": "in",
+      "mode": 3,
+      "incipit": "Timete Dominum",
+      "text_src": "Ps. 33, 10. 11 et 2",
+      "band": [28, 362],
+      "engraved": true
+    },
+    {
+      "page": 453,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "Anima nostra",
+      "text_src": "Ps. 123, 7. V. 8",
+      "band": [377, 508],
+      "engraved": true
+    },
+    {
+      "page": 454,
+      "service_part": "gr",
+      "mode": 7,
+      "incipit": "Clamaverunt iusti",
+      "text_src": "Ps. 33, 7. 8. V. 19",
+      "band": [298, 508],
+      "engraved": true
+    },
+    {
+      "page": 455,
+      "service_part": "gr",
+      "mode": 2,
+      "incipit": "Exsultabunt sancti",
+      "text_src": "Ps. 149, 5. V. 1",
+      "band": [360, 508],
+      "engraved": true
+    },
+    {
+      "page": 456,
+      "service_part": "gr",
+      "mode": 1,
+      "incipit": "Gloriosus Deus",
+      "text_src": "Ex. 15, 11. V. 6",
+      "band": [312, 508],
+      "engraved": true
+    },
+    {
+      "page": 457,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "Iustorum animae",
+      "text_src": "Sap. 3, 1. V. 2. 3",
+      "band": [395, 508],
+      "engraved": true
+    },
+    {
+      "page": 458,
+      "service_part": "gr",
+      "mode": 1,
+      "incipit": "Timete Dominum",
+      "text_src": "Ps. 33, 10. V. 11b",
+      "band": [305, 508],
+      "engraved": true
+    },
+    {
+      "page": 459,
+      "service_part": "al",
+      "mode": 2,
+      "incipit": "Corpora sanctorum",
+      "text_src": "Sir. 44, 14",
+      "band": [205, 508],
+      "engraved": true
+    },
+    {
+      "page": 460,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "Fulgebunt iusti",
+      "text_src": "Sap. 3, 7",
+      "band": [10, 305],
+      "engraved": true
+    },
+    {
+      "page": 460,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Haec est vera fraternitas",
+      "text_src": null,
+      "band": [305, 508],
+      "engraved": true
+    },
+    {
+      "page": 461,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "Iusti epulentur",
+      "text_src": "Ps. 67, 4",
+      "band": [137, 508],
+      "engraved": true
+    },
+    {
+      "page": 462,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "Iustorum animae",
+      "text_src": "Sap. 3, 1",
+      "band": [10, 368],
+      "engraved": true
+    },
+    {
+      "page": 462,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "Mirabilis Dominus",
+      "text_src": "Ps. 67, 36",
+      "band": [368, 508],
+      "engraved": true
+    },
+    {
+      "page": 463,
+      "service_part": "al",
+      "mode": 4,
+      "incipit": "Pretiosa",
+      "text_src": "Ps. 115, 15",
+      "band": [135, 420],
+      "engraved": true
+    },
+    {
+      "page": 463,
+      "service_part": "al",
+      "mode": 2,
+      "incipit": "Sancti tui benedicent",
+      "text_src": "Ps. 144, 10. 11",
+      "band": [420, 508],
+      "engraved": true
+    },
+    {
+      "page": 464,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Sancti tui florebunt",
+      "text_src": "Cf. Sir. 39, 19",
+      "band": [198, 508],
+      "engraved": true
+    },
+    {
+      "page": 465,
+      "service_part": "al",
+      "mode": 5,
+      "incipit": "Te martyrum",
+      "text_src": null,
+      "band": [10, 225],
+      "engraved": true
+    },
+    {
+      "page": 465,
+      "service_part": "tr",
+      "mode": 8,
+      "incipit": "Qui seminant",
+      "text_src": "Ps. 125, 5. 6",
+      "band": [225, 508],
+      "engraved": true
+    },
+    {
+      "page": 466,
+      "service_part": "of",
+      "mode": 2,
+      "incipit": "Anima nostra",
+      "text_src": "Ps. 123, 7",
+      "band": [165, 420],
+      "engraved": true
+    },
+    {
+      "page": 466,
+      "service_part": "of",
+      "mode": 4,
+      "incipit": "Exsultabunt sancti",
+      "text_src": "Ps. 149, 5. 6",
+      "band": [420, 508],
+      "engraved": true
+    },
+    {
+      "page": 467,
+      "service_part": "of",
+      "mode": 6,
+      "incipit": "Gloriabuntur",
+      "text_src": "Ps. 5, 12. 13",
+      "band": [210, 508],
+      "engraved": true
+    },
+    {
+      "page": 468,
+      "service_part": "of",
+      "mode": 1,
+      "incipit": "Laetamini",
+      "text_src": "Ps. 31, 11",
+      "band": [10, 290],
+      "engraved": true
+    },
+    {
+      "page": 468,
+      "service_part": "of",
+      "mode": 1,
+      "incipit": "Iustorum animae",
+      "text_src": "Sap. 3, 1. 2. 3",
+      "option_txt": "Extra tempus Quadragesimae:",
+      "band": [292, 508],
+      "engraved": true
+    },
+    {
+      "page": 469,
+      "service_part": "of",
+      "mode": 8,
+      "incipit": "Mirabilis Deus",
+      "text_src": "Ps. 67, 36",
+      "band": [205, 508],
+      "engraved": true
+    },
+    {
+      "page": 470,
+      "service_part": "co",
+      "mode": 8,
+      "incipit": "Dico autem vobis",
+      "text_src": "Lc. 12, 4",
+      "band": [46, 189],
+      "engraved": true
+    },
+    {
+      "page": 470,
+      "service_part": "co",
+      "mode": 1,
+      "incipit": "Et si coram hominibus",
+      "text_src": "Sap. 3, 4. 6",
+      "band": [189, 435],
+      "engraved": true
+    },
+    {
+      "page": 470,
+      "service_part": "co",
+      "mode": 3,
+      "incipit": "Iustorum animae",
+      "text_src": "Sap. 3, 1. 2. 3",
+      "band": [435, 508],
+      "engraved": true
+    },
+    {
+      "page": 471,
+      "service_part": "co",
+      "mode": 2,
+      "incipit": "Multitudo languentium",
+      "text_src": "Lc. 6, 17. 18. 19",
+      "band": [110, 380],
+      "engraved": true
+    },
+    {
+      "page": 471,
+      "service_part": "co",
+      "mode": 1,
+      "incipit": "Posuerunt",
+      "text_src": "Ps. 78, 2. 11",
+      "band": [410, 508],
+      "engraved": true
+    },
+    {
+      "page": 472,
+      "service_part": "co",
+      "mode": 4,
+      "incipit": "Quod dico vobis",
+      "text_src": "Mt. 10, 27",
+      "band": [285, 508],
+      "engraved": true
+    }
+  ]
+}

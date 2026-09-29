@@ -1,0 +1,79 @@
+{
+  "subsection": "tq-lent-04-1",
+  "label": "Lent — 4th Sunday (Dominica IV in Quadragesima)",
+  "lit_epoch_slug": "TQ-LENT-04-1",
+  "wkday": 1,
+  "chants": [
+    {
+      "page": 108,
+      "service_part": "in",
+      "mode": 5,
+      "incipit": "Laetare Ierusalem",
+      "text_src": "Cf. Is. 66, 10. 11; Ps. 121",
+      "band": [267, 519],
+      "engraved": true
+    },
+    {
+      "page": 109,
+      "service_part": "gr",
+      "incipit": "Laetatus sum",
+      "target_page": 336,
+      "band": [200, 218],
+      "engraved": false
+    },
+    {
+      "page": 109,
+      "service_part": "tr",
+      "mode": 8,
+      "incipit": "Qui confidunt",
+      "text_src": "Ps. 124, 1. 2",
+      "band": [218, 519],
+      "engraved": true
+    },
+    {
+      "page": 110,
+      "service_part": "of",
+      "mode": 2,
+      "incipit": "Laudate Dominum",
+      "text_src": "Ps. 134, 3. 6",
+      "band": [204, 481],
+      "engraved": true
+    },
+    {
+      "page": 110,
+      "service_part": "co",
+      "incipit": "Ierusalem quae aedificatur",
+      "target_page": 370,
+      "band": [485, 500],
+      "engraved": false
+    },
+    {
+      "page": 111,
+      "service_part": "co",
+      "mode": 6,
+      "incipit": "Lutum fecit",
+      "text_src": "Io. 9, 6. 11. 38",
+      "band": [55, 220],
+      "engraved": true,
+      "option_txt": "Quando legitur Evangelium de caeco nato:"
+    },
+    {
+      "page": 111,
+      "service_part": "of",
+      "incipit": "Illumina oculos meos",
+      "target_page": 290,
+      "band": [222, 265],
+      "engraved": false,
+      "option_txt": "Quando legitur Evangelium de filio prodigo:"
+    },
+    {
+      "page": 111,
+      "service_part": "co",
+      "incipit": "Oportet te",
+      "target_page": 95,
+      "band": [222, 265],
+      "engraved": false,
+      "option_txt": "Quando legitur Evangelium de filio prodigo:"
+    }
+  ]
+}

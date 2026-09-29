@@ -1,0 +1,56 @@
+{
+  "subsection": "columban",
+  "label": "Columban (S. COLUMBANI, ABBATIS, Eodem die - 23 novembris)",
+  "lit_epoch_slug": "columban",
+  "chants": [
+    {
+      "page": 625,
+      "service_part": "in",
+      "incipit": "Loquebar de testimoniis tuis",
+      "target_page": 526,
+      "band": [258.0, 275.0],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Citation shares one merged text block (IN./GR./AL.) with the graduale and alleluia citations below it on p625; band cannot isolate this line alone."
+    },
+    {
+      "page": 625,
+      "service_part": "gr",
+      "incipit": "Domine, praevenisti eum",
+      "target_page": 509,
+      "band": [258.0, 275.0],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Citation shares one merged text block (IN./GR./AL.) with the introit and alleluia citations on p625; band cannot isolate this line alone."
+    },
+    {
+      "page": 625,
+      "service_part": "al",
+      "incipit": "Confitemini... et invocate",
+      "target_page": 340,
+      "band": [258.0, 275.0],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Printed with a book ellipsis 'Confitemini... et invocate' - not repaired. Citation shares one merged text block (IN./GR./AL.) with the introit and graduale citations on p625; band cannot isolate this line alone."
+    },
+    {
+      "page": 625,
+      "service_part": "of",
+      "incipit": "Desiderium animae eius",
+      "target_page": 518,
+      "band": [285.2, 296.2],
+      "engraved": false,
+      "text_src": null
+    },
+    {
+      "page": 625,
+      "service_part": "co",
+      "incipit": "Fidelis servus et prudens",
+      "target_page": 491,
+      "band": [294.8, 305.8],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Printed as 'Fidelis servus et prudens, 491, cum ps. 111*.' - psalm-tone data not modeled. Target page 491 also holds a different communio (Beatus servus, mode 3) cited by the Clement I Mass above; ours is Fidelis servus (mode 7)."
+    }
+  ]
+}

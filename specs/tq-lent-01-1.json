@@ -1,0 +1,53 @@
+{
+  "subsection": "tq-lent-01-1",
+  "label": "Lent — 1st Sunday (Dominica I in Quadragesima)",
+  "lit_epoch_slug": "TQ-LENT-01-1",
+  "wkday": 1,
+  "chants": [
+    {
+      "page": 71,
+      "service_part": "in",
+      "mode": 8,
+      "incipit": "Invocabit me",
+      "text_src": "Ps. 90, 15. 16 et 1",
+      "band": [318, 505],
+      "engraved": true
+    },
+    {
+      "page": 72,
+      "service_part": "gr",
+      "mode": 2,
+      "incipit": "Angelis suis",
+      "text_src": "Ps. 90, 11-12",
+      "band": [135, 505],
+      "engraved": true
+    },
+    {
+      "page": 73,
+      "service_part": "tr",
+      "mode": 2,
+      "incipit": "Qui habitat",
+      "text_src": "Ps. 90, 1-7 et 11-16",
+      "band": [24, 505],
+      "engraved": true
+    },
+    {
+      "page": 76,
+      "service_part": "of",
+      "mode": 8,
+      "incipit": "Scapulis suis",
+      "text_src": "Ps. 90, 4-5",
+      "band": [443, 519],
+      "engraved": true
+    },
+    {
+      "page": 77,
+      "service_part": "co",
+      "mode": 3,
+      "incipit": "Scapulis suis",
+      "text_src": "Ps. 90, 4-5",
+      "band": [145, 360],
+      "engraved": true
+    }
+  ]
+}

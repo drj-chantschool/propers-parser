@@ -1,0 +1,49 @@
+{
+  "subsection": "st-benedict-of-nursia",
+  "label": "S. Benedicti, Abbatis (Die 11 iulii)",
+  "lit_epoch_slug": "st-benedict-of-nursia",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 579,
+      "service_part": "in",
+      "incipit": "Os iusti meditabitur",
+      "target_page": 494,
+      "band": [78.5, 89.5],
+      "engraved": false
+    },
+    {
+      "page": 579,
+      "service_part": "gr",
+      "incipit": "Domine, praevenisti eum",
+      "target_page": 509,
+      "band": [90.4, 101.4],
+      "engraved": false
+    },
+    {
+      "page": 579,
+      "service_part": "al",
+      "incipit": "Iustus ut palma florebit",
+      "target_page": 516,
+      "band": [102.5, 113.5],
+      "engraved": false
+    },
+    {
+      "page": 579,
+      "service_part": "of",
+      "incipit": "Desiderium animae eius",
+      "target_page": 518,
+      "band": [114.4, 125.4],
+      "engraved": false
+    },
+    {
+      "page": 579,
+      "service_part": "co",
+      "incipit": "Fidelis servus",
+      "target_page": 491,
+      "band": [126.6, 137.6],
+      "engraved": false,
+      "notes": "Printed as 'Fidelis servus, 491, cum ps. 111*.' — psalm-tone plan, not modeled."
+    }
+  ]
+}

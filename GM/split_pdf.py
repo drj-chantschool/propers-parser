@@ -24,7 +24,7 @@ for i, (level, title, page) in enumerate(toc):
         end_page = total_pages
         for j in range(i + 1, len(toc)):
             if toc[j][0] == 1:
-                end_page = toc[j][2] - 1
+                end_page = toc[j][2]
                 break
         parent_info[title] = (page, end_page)
 
@@ -56,7 +56,7 @@ for parent_name in parent_sections:
     pad = len(str(len(subsections)))
 
     for i, (title, start_page) in enumerate(subsections):
-        end_page = subsections[i + 1][1] - 1 if i + 1 < len(subsections) else parent_end
+        end_page = subsections[i + 1][1] if i + 1 < len(subsections) else parent_end
         end_page = max(end_page, start_page)
 
         new_doc = fitz.open()

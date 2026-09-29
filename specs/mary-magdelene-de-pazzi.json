@@ -1,0 +1,59 @@
+{
+  "subsection": "mary-magdelene-de-pazzi",
+  "label": "25 May, Eodem die — S. Mariae Magdalenae de Pazzi, Virginis",
+  "lit_epoch_slug": "mary-magdelene-de-pazzi",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 563,
+      "service_part": "in",
+      "incipit": "Dilexisti iustitiam",
+      "target_page": 498,
+      "band": [436, 449],
+      "engraved": false,
+      "option_txt": null,
+      "text_src": null
+    },
+    {
+      "page": 563,
+      "service_part": "gr",
+      "incipit": "Specie tua",
+      "target_page": 411,
+      "band": [449, 461],
+      "engraved": false,
+      "option_txt": null,
+      "text_src": null
+    },
+    {
+      "page": 563,
+      "service_part": "al",
+      "incipit": "Adducentur regi",
+      "target_page": 500,
+      "band": [461, 473],
+      "engraved": false,
+      "option_txt": null,
+      "text_src": null,
+      "notes": "The Graduale prints 'AL. Adducentur regi, 511.' but p511 (Commune Sanctorum et Sanctarum, Versus alleluiatici) engraves only 'Beatus vir qui suffert' (I) and 'Beatus vir qui timet' (II) -- it holds no Adducentur. The alleluia 'Adducentur regi virgines post eam' is engraved on p500 (Commune Virginum, Versus alleluiatici I, mode III, gregobase 208). target_page is recorded as 500, the page that actually carries the chant; the printed 511 appears to be a page-number misprint. Flagged for a ruling."
+    },
+    {
+      "page": 563,
+      "service_part": "of",
+      "incipit": "Filiae regum",
+      "target_page": 505,
+      "band": [473, 485],
+      "engraved": false,
+      "option_txt": null,
+      "text_src": null
+    },
+    {
+      "page": 563,
+      "service_part": "co",
+      "incipit": "Quinque prudentes virgines",
+      "target_page": 507,
+      "band": [485, 498],
+      "engraved": false,
+      "option_txt": null,
+      "text_src": null
+    }
+  ]
+}

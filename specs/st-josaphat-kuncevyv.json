@@ -1,0 +1,53 @@
+{
+  "subsection": "st-josaphat-kuncevyv",
+  "label": "St. Josaphat (S. IOSAPHAT, EPISCOPI ET MARTYRIS, Die 12 novembris)",
+  "lit_epoch_slug": "st-josaphat-kuncevyv",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 622,
+      "service_part": "in",
+      "incipit": "Sacerdotes eius induant salutare",
+      "text_src": null,
+      "target_page": 448,
+      "band": [365.1, 376.1],
+      "engraved": false
+    },
+    {
+      "page": 622,
+      "service_part": "gr",
+      "incipit": "Inveni David servum meum",
+      "text_src": null,
+      "target_page": 445,
+      "band": [377.2, 388.2],
+      "engraved": false
+    },
+    {
+      "page": 622,
+      "service_part": "al",
+      "incipit": "Hic est sacerdos",
+      "text_src": null,
+      "target_page": 449,
+      "band": [389.2, 400.2],
+      "engraved": false
+    },
+    {
+      "page": 622,
+      "service_part": "of",
+      "incipit": "Gloria et honore",
+      "text_src": null,
+      "target_page": 434,
+      "band": [401.3, 412.3],
+      "engraved": false
+    },
+    {
+      "page": 622,
+      "service_part": "co",
+      "incipit": "Ego sum pastor bonus",
+      "text_src": null,
+      "target_page": 224,
+      "band": [413.4, 424.4],
+      "engraved": false
+    }
+  ]
+}

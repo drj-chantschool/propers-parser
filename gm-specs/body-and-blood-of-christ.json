@@ -1,0 +1,70 @@
+{
+  "subsection": "body-and-blood-of-christ",
+  "label": "The Body and Blood of Christ (Corpus Christi) — Solemnity (Gregorian Missal)",
+  "lit_epoch_slug": "OT-FOL-00-2",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 413,
+      "vernacular_text": "He fed them with the finest of wheat, alleluia; and with honey from the rock he satisfied them, alleluia, alleluia. ℣. Rejoice in honour of God our helper; shout for joy to the God of Jacob.",
+      "text_src": "Ps 80:17 and 2,3,11",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 414,
+      "vernacular_text": "The eyes of all look towards you in hope, O Lord; and you give them their food in due season. ℣. You open your hand and fill every living thing with your blessings.",
+      "text_src": "Ps 144:15, ℣.16",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 415,
+      "vernacular_text": "My flesh is the true food, my blood is the true drink; he who eats my flesh and drinks my blood abides in me, and I in him.",
+      "text_src": "Jn 6:56,57",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "seq",
+      "page": 416,
+      "vernacular_text": "O Zion, praise thy Saviour, thy Prince and thy Shepherd; praise him with hymns and canticles.\n\nMake bold to praise him with all thy strength; for he surpasseth all praise; thou shalt ne'er be fully equal to the task.\n\nA special theme of praise, the living and life-giving bread, is on this day proposed.\n\nUpon the table of the Last Supper, to the group of the brethren Twelve, this bread was truly given.\n\nLet our praise ring out full and resonant, a song of the heart, joyful and radiant.\n\nFor today is a most solemn festival, recalling how this sacred banquet first was instituted.\n\nAt this banquet of our newly crowned King, the Paschal mystery of the New Law bringeth to its end the ancient Passover rite.\n\nNovelty replaceth that which is old, reality chaseth away the shadows, radiance doth eliminate the night.\n\nThat which Christ accomplished at this supper he ordered to be done again, in memory of him.\n\nTaught by his divine precepts, we consecrate the bread and wine, a sacrificial victim for salvation.\n\nThis sacred doctrine do Christians receive: the bread into his body and the wine into his blood is changed.\n\nWhat thou can neither grasp nor perceive is affirmed by ardent faith, beyond the natural order of things.\n\nBeneath these double appearances — mere signs, and not the realities themselves — is hidden the most sublime of mysteries.\n\nHis body is food, his blood, a beverage but Christ remains entirely present under each.\n\nHis flesh, when eaten, is not torn apart, broken asunder or divided; intact he is received.\n\nThough one alone be fed, though thousands be fed, all receive the same reality, which perisheth not at meal's end.\n\nThe good and the guilty may all have part therein, but with different results: life or death.\n\nDeath for sinners, life everlasting for the just; mark well the varied effects of this single food.\n\nAnd when the bread is fragmented, be thou not troubled, but remember: he is present in each fragment just as much as in the whole.\n\nThe hidden reality is not divided, the sign only is fragmented; He whose presence is signified, suffereth no diminution in stature or in strength.\n\n* Behold this bread of Angels which hath become food for us on our pilgrimage; it is truly the bread of God's children, let it ne'er be thrown to dogs.\n\nScripture announced it figuratively by Isaac's sacrifice, by the paschal lamb and by the manna given to our forefathers.\n\nO Good Shepherd and most true bread of life, Lord Jesus, have mercy on us; feed us and protect us, bring us to the vision of eternal riches in the land of the living.\n\nThou who knowest and canst accomplish all things, who dost feed us in this mortal life, make us thy chosen guests, the co-heirs and companions of thy saints in the heavenly city.",
+      "text_src": null,
+      "cycle_sun": null,
+      "option_txt": "After the Alleluia, the Sequence may be sung, either in its entirety or starting at the asterisk."
+    },
+    {
+      "service_part": "of",
+      "page": 422,
+      "vernacular_text": "The Lord opened the doors of heaven and rained down manna upon them to eat; he gave them bread from heaven; man ate the bread of angels, alleluia.",
+      "text_src": "Ps 77:23,24,25",
+      "cycle_sun": null,
+      "option_num": 1
+    },
+    {
+      "service_part": "of",
+      "page": 423,
+      "vernacular_text": "Moses consecrated an altar to the Lord, and presented thereupon burnt offerings and sacrificial victims; he made an evening sacrifice as a fragrant offering to the Lord, in the presence of the sons of Israel.",
+      "text_src": "Cf. Ex 24:4,5",
+      "cycle_sun": null,
+      "gm_xref_page": 549,
+      "option_num": 2,
+      "option_txt": "Or:"
+    },
+    {
+      "service_part": "co",
+      "page": 423,
+      "vernacular_text": "He who eats my flesh and drinks my blood, abides in me, and I in him, says the Lord.",
+      "text_src": "Jn 6:57",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 424,
+      "gm_xref_page": 297,
+      "vernacular_text": "\"This is my body which is given up for you; this is the cup of the new covenant in my blood\", says the Lord. \"Each time that you partake thereof, do it in memory of me.\"",
+      "text_src": "1 Cor 11:24,25",
+      "cycle_sun": 3
+    }
+  ]
+}

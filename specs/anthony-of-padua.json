@@ -1,0 +1,49 @@
+{
+  "subsection": "anthony-of-padua",
+  "label": "S. Antonii de Padova, Presbyteri et Ecclesiae Doctoris (13 iunii)",
+  "lit_epoch_slug": "anthony-of-padua",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 567,
+      "service_part": "in",
+      "incipit": "Os iusti meditabitur",
+      "target_page": 494,
+      "band": [91.5, 102.3],
+      "engraved": false
+    },
+    {
+      "page": 567,
+      "service_part": "gr",
+      "incipit": "Iustus ut palma",
+      "target_page": 510,
+      "band": [103.7, 114.2],
+      "engraved": false
+    },
+    {
+      "page": 567,
+      "service_part": "al",
+      "incipit": "Amavit eum Dominus",
+      "target_page": 495,
+      "band": [115.8, 126.3],
+      "engraved": false
+    },
+    {
+      "page": 567,
+      "service_part": "of",
+      "incipit": "Veritas mea",
+      "target_page": 483,
+      "band": [128.0, 138.0],
+      "engraved": false
+    },
+    {
+      "page": 567,
+      "service_part": "co",
+      "incipit": "Beatus servus",
+      "target_page": 491,
+      "band": [139.0, 151.0],
+      "engraved": false,
+      "notes": "Printed as 'CO. Beatus servus, 491, cum ps. 120*.' — psalm-tone data not modeled."
+    }
+  ]
+}

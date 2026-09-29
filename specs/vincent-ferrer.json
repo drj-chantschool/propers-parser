@@ -1,0 +1,61 @@
+{
+  "subsection": "vincent-ferrer",
+  "label": "Vincent Ferrer (S. VINCENTII FERRER, PRESBYTERI, Die 5 aprilis)",
+  "lit_epoch_slug": "vincent-ferrer",
+  "chants": [
+    {
+      "page": 554,
+      "service_part": "in",
+      "incipit": "Os iusti meditabitur",
+      "target_page": 494,
+      "band": [411, 435],
+      "engraved": false,
+      "notes": "IN. and GR. citation lines share one merged text block on p554 (y411-435); both rows share this bbox. p494 holds two same-incipit index rows (introitus 'Os iusti' gb 1374 vs graduale 'Os iusti' gb 511, the latter cited as the gradual by Die 2 aprilis on this page) - this row is the introitus, expect gb 1374."
+    },
+    {
+      "page": 554,
+      "service_part": "gr",
+      "incipit": "Iustus ut palma",
+      "target_page": 510,
+      "band": [411, 435],
+      "engraved": false,
+      "notes": "Incipit 'Iustus ut palma' is shared by three chants in April (p508 introitus gb 108, p510 graduale gb 34, p497 offertorium gb 777); this row targets p510/graduale, expect gb 34."
+    },
+    {
+      "page": 554,
+      "service_part": "al1",
+      "incipit": "Beatus vir qui suffert",
+      "target_page": 511,
+      "band": [455, 467],
+      "option_txt": "Tempore paschali :",
+      "engraved": false,
+      "notes": "Printed as a single AL line after IN+GR with no engraved Gradual on this page; in Paschaltide the Alleluia replaces the Gradual cited above it, so this fills the Gradual's slot (al1, part_id 20) rather than the ordinary al slot. Same construct as Die 2 aprilis (S. Francisci de Paola) and Die 4 aprilis (S. Isidori) on this page, spelled out in full there."
+    },
+    {
+      "page": 554,
+      "service_part": "al1",
+      "incipit": "Amavit eum",
+      "target_page": 495,
+      "band": [455, 467],
+      "option_txt": "vel",
+      "engraved": false
+    },
+    {
+      "page": 554,
+      "service_part": "of",
+      "incipit": "Veritas mea",
+      "target_page": 483,
+      "band": [473, 485],
+      "engraved": false
+    },
+    {
+      "page": 554,
+      "service_part": "co",
+      "incipit": "Beatus servus",
+      "target_page": 491,
+      "band": [485, 497],
+      "engraved": false,
+      "notes": "Printed psalm plan: cum ps. 120*"
+    }
+  ]
+}

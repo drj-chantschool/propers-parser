@@ -1,0 +1,224 @@
+{
+  "subsection": "com-apost-xtp",
+  "label": "Common of Apostles outside Paschaltide (Commune Apostolorum extra T. P.)",
+  "lit_epoch_slug": "COM-APOST-XTP",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 424,
+      "service_part": "in",
+      "mode": 3,
+      "incipit": "Ego autem sicut oliva",
+      "text_src": "Ps. 51, 10. 11 et 3",
+      "band": [108, 505],
+      "engraved": true
+    },
+    {
+      "page": 425,
+      "service_part": "in",
+      "mode": 7,
+      "incipit": "Iudicant sancti gentes",
+      "text_src": "Sap. 3, 8; Ps. 32",
+      "band": [28, 265],
+      "engraved": true
+    },
+    {
+      "page": 425,
+      "service_part": "in",
+      "mode": 2,
+      "incipit": "Mihi autem nimis honorati sunt",
+      "text_src": "Ps. 138, 17 et 1",
+      "band": [266, 519],
+      "engraved": true
+    },
+    {
+      "page": 426,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "Constitues eos principes",
+      "text_src": "Ps. 44, 17. V. 18",
+      "band": [110, 519],
+      "engraved": true
+    },
+    {
+      "page": 427,
+      "service_part": "gr",
+      "mode": 2,
+      "incipit": "In omnem terram exivit",
+      "text_src": "Ps. 18, 5. V. 2",
+      "band": [30, 460],
+      "engraved": true
+    },
+    {
+      "page": 428,
+      "service_part": "gr",
+      "mode": 2,
+      "incipit": "Nimis honorati sunt",
+      "text_src": "Ps. 138, 17. V. 18",
+      "band": [30, 411],
+      "engraved": true
+    },
+    {
+      "page": 429,
+      "service_part": "al",
+      "mode": 4,
+      "incipit": "Constitues eos",
+      "text_src": "Ps. 44, 17. 18",
+      "band": [28, 318],
+      "engraved": true
+    },
+    {
+      "page": 429,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "Ego vos elegi",
+      "text_src": "Io. 15, 16",
+      "band": [318, 519],
+      "engraved": true
+    },
+    {
+      "page": 430,
+      "service_part": "al",
+      "mode": 4,
+      "incipit": "Gaudete, iusti",
+      "text_src": "Ps. 32, 1",
+      "band": [188, 420],
+      "engraved": true
+    },
+    {
+      "page": 431,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "Loquebantur variis linguis",
+      "text_src": "Act. 2, 4",
+      "band": [28, 220],
+      "engraved": true
+    },
+    {
+      "page": 431,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Nimis honorati sunt",
+      "text_src": "Ps. 138, 17",
+      "band": [220, 519],
+      "engraved": true
+    },
+    {
+      "page": 432,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Spiritus Sanctus docebit",
+      "text_src": "Io. 14, 26",
+      "band": [30, 218],
+      "engraved": true
+    },
+    {
+      "page": 432,
+      "service_part": "al",
+      "mode": 5,
+      "incipit": "Te gloriosus Apostolorum chorus",
+      "text_src": null,
+      "band": [218, 421],
+      "engraved": true
+    },
+    {
+      "page": 432,
+      "service_part": "tr",
+      "mode": 8,
+      "incipit": "Desiderium animae eius",
+      "text_src": "Ps. 20, 3. 4",
+      "band": [421, 519],
+      "engraved": true
+    },
+    {
+      "page": 434,
+      "service_part": "of",
+      "mode": 3,
+      "incipit": "Constitues eos principes",
+      "text_src": "Ps. 44, 17. 18",
+      "band": [58, 315],
+      "engraved": true
+    },
+    {
+      "page": 434,
+      "service_part": "of",
+      "mode": 1,
+      "incipit": "Gloria et honore",
+      "text_src": "Ps. 8, 6. 7",
+      "band": [315, 519],
+      "engraved": true
+    },
+    {
+      "page": 435,
+      "service_part": "of",
+      "mode": 2,
+      "incipit": "In omnem terram exivit",
+      "text_src": "Ps. 78, 5",
+      "band": [80, 320],
+      "engraved": true
+    },
+    {
+      "page": 435,
+      "service_part": "of",
+      "mode": 3,
+      "incipit": "Mihi autem nimis honorati sunt",
+      "text_src": "Ps. 138, 17",
+      "band": [320, 519],
+      "engraved": true
+    },
+    {
+      "page": 436,
+      "service_part": "co",
+      "mode": 1,
+      "incipit": "Amen dico vobis : Quod vos",
+      "text_src": "Mt. 19, 28. 29",
+      "band": [116, 376],
+      "engraved": true
+    },
+    {
+      "page": 436,
+      "service_part": "co",
+      "mode": 1,
+      "incipit": "Ego vos elegi",
+      "text_src": "Io. 15, 16",
+      "band": [372, 519],
+      "engraved": true
+    },
+    {
+      "page": 437,
+      "service_part": "co",
+      "mode": 4,
+      "incipit": "Magna est gloria eius",
+      "text_src": "Ps. 20, 6",
+      "band": [110, 375],
+      "engraved": true
+    },
+    {
+      "page": 437,
+      "service_part": "co",
+      "mode": 7,
+      "incipit": "Signa eos qui in me credunt",
+      "text_src": "Mc. 16, 17. 18",
+      "band": [370, 519],
+      "engraved": true
+    },
+    {
+      "page": 438,
+      "service_part": "co",
+      "mode": 1,
+      "incipit": "Vos qui secuti estis me",
+      "text_src": "Mt. 19, 28",
+      "band": [168, 370],
+      "engraved": true
+    },
+    {
+      "page": 438,
+      "service_part": "co",
+      "mode": 2,
+      "incipit": "Vos qui secuti estis me dicit Dominus",
+      "text_src": "Mt. 19, 28",
+      "band": [365, 519],
+      "engraved": true
+    }
+  ]
+}

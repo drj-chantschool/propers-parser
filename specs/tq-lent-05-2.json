@@ -1,0 +1,52 @@
+{
+  "subsection": "tq-lent-05-2",
+  "label": "Lent — 5th week, Monday (Feria Secunda)",
+  "lit_epoch_slug": "TQ-LENT-05-2",
+  "wkday": 2,
+  "chants": [
+    {
+      "page": 125,
+      "service_part": "in",
+      "mode": 3,
+      "incipit": "Miserere mihi Domine",
+      "text_src": "Ps. 55, 2. 3",
+      "band": [58, 310],
+      "engraved": true
+    },
+    {
+      "page": 125,
+      "service_part": "gr",
+      "mode": 1,
+      "incipit": "Si ambulem in medio umbrae mortis",
+      "text_src": "Ps. 22, 4",
+      "band": [313, 519],
+      "engraved": true
+    },
+    {
+      "page": 126,
+      "service_part": "of",
+      "incipit": "Gressus meos",
+      "target_page": 365,
+      "band": [225, 242],
+      "engraved": false
+    },
+    {
+      "page": 126,
+      "service_part": "co",
+      "incipit": "Nemo te condemnavit",
+      "target_page": 124,
+      "option_txt": "Quando legitur Evangelium de muliere adultera:",
+      "band": [253, 292],
+      "engraved": false
+    },
+    {
+      "page": 126,
+      "service_part": "co",
+      "incipit": "Panis quem ego dedero",
+      "target_page": 322,
+      "option_txt": "Quando legitur aliud Evangelium:",
+      "band": [304, 342],
+      "engraved": false
+    }
+  ]
+}

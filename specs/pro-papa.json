@@ -1,0 +1,48 @@
+{
+  "subsection": "pro-papa",
+  "label": "For the Pope — Pro papa",
+  "lit_epoch_slug": "pro-papa",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 650,
+      "service_part": "in",
+      "incipit": "Statuit ei Dominus",
+      "target_page": 445,
+      "band": [128, 155],
+      "engraved": false
+    },
+    {
+      "page": 650,
+      "service_part": "gr",
+      "incipit": "Exaltent eum in ecclesia plebis",
+      "target_page": 548,
+      "band": [128, 155],
+      "engraved": false
+    },
+    {
+      "page": 650,
+      "service_part": "al",
+      "incipit": "Tu es Petrus",
+      "target_page": 576,
+      "band": [155, 167],
+      "engraved": false
+    },
+    {
+      "page": 650,
+      "service_part": "of",
+      "incipit": "Veritas mea",
+      "target_page": 483,
+      "band": [167, 179],
+      "engraved": false
+    },
+    {
+      "page": 650,
+      "service_part": "co",
+      "incipit": "Simon Ioannis",
+      "target_page": 574,
+      "band": [179, 195],
+      "engraved": false
+    }
+  ]
+}

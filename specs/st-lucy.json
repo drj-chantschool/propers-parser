@@ -1,0 +1,48 @@
+{
+  "subsection": "st-lucy",
+  "label": "St. Lucy (S. LUCIAE, VIRGINIS ET MARTYRIS, Die 13 decembris)",
+  "lit_epoch_slug": "st-lucy",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 631,
+      "service_part": "in",
+      "incipit": "Dilexisti iustitiam",
+      "target_page": 498,
+      "band": [442.7, 453.7],
+      "engraved": false
+    },
+    {
+      "page": 631,
+      "service_part": "gr",
+      "incipit": "Dilexisti iustitiam",
+      "target_page": 499,
+      "band": [454.7, 465.7],
+      "engraved": false
+    },
+    {
+      "page": 631,
+      "service_part": "al",
+      "incipit": "Diffusa est gratia in labiis tuis",
+      "target_page": 413,
+      "band": [467.1, 478.1],
+      "engraved": false
+    },
+    {
+      "page": 631,
+      "service_part": "of",
+      "incipit": "Afferentur... proximae",
+      "target_page": 504,
+      "band": [478.8, 489.8],
+      "engraved": false
+    },
+    {
+      "page": 631,
+      "service_part": "co",
+      "incipit": "Principes persecuti sunt",
+      "target_page": 530,
+      "band": [490.6, 501.6],
+      "engraved": false
+    }
+  ]
+}

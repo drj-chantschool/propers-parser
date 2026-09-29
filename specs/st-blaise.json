@@ -1,0 +1,48 @@
+{
+  "subsection": "st-blaise",
+  "label": "St. Blaise (S. BLASII, EPISCOPI ET MARTYRIS, Die 3 februarii)",
+  "lit_epoch_slug": "st-blaise",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 545,
+      "service_part": "in",
+      "incipit": "Sacerdotes Dei",
+      "target_page": 447,
+      "band": [216.8, 228.5],
+      "engraved": false
+    },
+    {
+      "page": 545,
+      "service_part": "gr",
+      "incipit": "Gloria et honore",
+      "target_page": 476,
+      "band": [228.8, 240.5],
+      "engraved": false
+    },
+    {
+      "page": 545,
+      "service_part": "al",
+      "incipit": "Hic est sacerdos",
+      "target_page": 449,
+      "band": [240.9, 252.6],
+      "engraved": false
+    },
+    {
+      "page": 545,
+      "service_part": "of",
+      "incipit": "Inveni David",
+      "target_page": 447,
+      "band": [253.0, 264.6],
+      "engraved": false
+    },
+    {
+      "page": 545,
+      "service_part": "co",
+      "incipit": "Posuisti, Domine",
+      "target_page": 483,
+      "band": [265.0, 276.7],
+      "engraved": false
+    }
+  ]
+}

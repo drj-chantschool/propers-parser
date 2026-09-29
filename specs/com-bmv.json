@@ -1,0 +1,269 @@
+{
+  "subsection": "com-bmv",
+  "label": "Common of the Blessed Virgin Mary (Commune beatae Mariae Virginis)",
+  "lit_epoch_slug": "COM-BMV",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 403,
+      "service_part": "in",
+      "mode": 1,
+      "incipit": "Rorate Ps 84: Benedixisti",
+      "text_src": "Is. 45, 8; Ps. 84",
+      "band": [80, 328],
+      "engraved": true,
+      "notes": "Printed incipit is 'Rorate caeli desuper' (Ps. 84 Benedixisti); incipit here matches gr_index_entry's curated form verbatim so the loader resolves via the curated index to gregobase:161 (Solesmes, Ps. Benedixisti) rather than live-matching the same-incipit Advent 'Rorate caeli' (gregobase:19080, Solesmes 1974, Ps. Caeli enarrant) — a different chant using a different psalm."
+    },
+    {
+      "page": 403,
+      "service_part": "in",
+      "mode": 2,
+      "incipit": "Salve, sancta Parens",
+      "text_src": "Sedulius; Ps. 44, 2. 11. 12",
+      "band": [328, 519],
+      "engraved": true
+    },
+    {
+      "page": 404,
+      "service_part": "in",
+      "mode": 2,
+      "incipit": "Vultum tuum",
+      "text_src": "Ps. 44, 13. 15. 16 et 2",
+      "band": [360, 519],
+      "engraved": true
+    },
+    {
+      "page": 405,
+      "service_part": "in",
+      "mode": 1,
+      "incipit": "Gaudeamus omnes in Domino",
+      "text_src": "Ps. 44, 2",
+      "band": [230, 515],
+      "engraved": true,
+      "option_txt": "Ad libitum, pro solemnitatibus et festis B. M. V. :"
+    },
+    {
+      "page": 406,
+      "service_part": "gr",
+      "mode": 7,
+      "incipit": "Audi, filia",
+      "text_src": "Ps. 44, 11. 12. V. 5",
+      "band": [155, 519],
+      "engraved": true
+    },
+    {
+      "page": 407,
+      "service_part": "gr",
+      "mode": 4,
+      "incipit": "Benedicta et venerabilis",
+      "text_src": null,
+      "band": [150, 519],
+      "engraved": true
+    },
+    {
+      "page": 408,
+      "service_part": "gr",
+      "mode": 1,
+      "incipit": "Concupivit rex",
+      "text_src": "Ps. 44, 12. V. 11",
+      "band": [88, 379],
+      "engraved": true
+    },
+    {
+      "page": 408,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "Diffusa est gratia",
+      "text_src": "Ps. 44, 3. V. 5",
+      "band": [379, 519],
+      "engraved": true
+    },
+    {
+      "page": 409,
+      "service_part": "gr",
+      "mode": 2,
+      "incipit": "Exsultabit cor meum",
+      "text_src": "Ps. 72, 6. V. Ps. 44, 18",
+      "band": [358, 519],
+      "engraved": true
+    },
+    {
+      "page": 410,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "Propter veritatem",
+      "text_src": "Ps. 44, 5. V. 11. 12",
+      "band": [440, 519],
+      "engraved": true
+    },
+    {
+      "page": 411,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "Specie tua",
+      "text_src": "Ps. 44, 5",
+      "band": [355, 519],
+      "engraved": true
+    },
+    {
+      "page": 412,
+      "service_part": "al",
+      "mode": 2,
+      "incipit": "Ave, Maria",
+      "text_src": "Lc. 1, 28",
+      "band": [430, 519],
+      "engraved": true
+    },
+    {
+      "page": 413,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Diffusa est gratia",
+      "text_src": "Ps. 44, 3",
+      "band": [232, 519],
+      "engraved": true
+    },
+    {
+      "page": 414,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Felix es, sacra Virgo",
+      "text_src": null,
+      "band": [30, 375],
+      "engraved": true
+    },
+    {
+      "page": 414,
+      "service_part": "al",
+      "mode": 4,
+      "incipit": "Post partum, Virgo",
+      "text_src": null,
+      "band": [378, 519],
+      "engraved": true
+    },
+    {
+      "page": 415,
+      "service_part": "al",
+      "mode": 2,
+      "incipit": "Propter veritatem",
+      "text_src": "Ps. 44, 5",
+      "band": [185, 519],
+      "engraved": true
+    },
+    {
+      "page": 416,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Specie tua",
+      "text_src": "Ps. 44, 5",
+      "band": [30, 320],
+      "engraved": true
+    },
+    {
+      "page": 416,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Virga Iesse",
+      "text_src": "Cf. Num. 17, 8",
+      "band": [320, 519],
+      "engraved": true
+    },
+    {
+      "page": 417,
+      "service_part": "tr",
+      "mode": 2,
+      "incipit": "Audi, filia",
+      "text_src": "Ps. 44, 11. 12. 13. 10. 15. 16",
+      "band": [160, 519],
+      "engraved": true
+    },
+    {
+      "page": 418,
+      "service_part": "tr",
+      "mode": 2,
+      "incipit": "Gaude, Maria Virgo",
+      "text_src": null,
+      "band": [253, 519],
+      "engraved": true
+    },
+    {
+      "page": 419,
+      "service_part": "of",
+      "mode": 8,
+      "incipit": "Ave, Maria et benedictus",
+      "text_src": "Lc. 1, 28. 42",
+      "band": [352, 519],
+      "engraved": true
+    },
+    {
+      "page": 420,
+      "service_part": "of",
+      "mode": 8,
+      "incipit": "Beata es, Virgo Maria",
+      "text_src": null,
+      "band": [232, 519],
+      "engraved": true
+    },
+    {
+      "page": 421,
+      "service_part": "of",
+      "mode": 8,
+      "incipit": "Diffusa est gratia",
+      "text_src": "Ps. 44, 3",
+      "band": [90, 519],
+      "engraved": true
+    },
+    {
+      "page": 422,
+      "service_part": "of",
+      "mode": 1,
+      "incipit": "Felix namque es",
+      "text_src": null,
+      "band": [30, 260],
+      "engraved": true
+    },
+    {
+      "page": 422,
+      "service_part": "of",
+      "mode": 1,
+      "incipit": "Recordare, Virgo Mater",
+      "text_src": "Ier. 18, 20",
+      "band": [260, 519],
+      "engraved": true
+    },
+    {
+      "page": 423,
+      "service_part": "co",
+      "mode": 1,
+      "incipit": "Beata viscera",
+      "text_src": "Lc. 11, 27",
+      "band": [53, 272],
+      "engraved": true
+    },
+    {
+      "page": 423,
+      "service_part": "co",
+      "mode": 6,
+      "incipit": "Diffusa est gratia",
+      "text_src": "Ps. 44, 3",
+      "band": [272, 470],
+      "engraved": true
+    },
+    {
+      "page": 423,
+      "service_part": "co",
+      "incipit": "Gloriosa",
+      "target_page": 631,
+      "band": [470, 505],
+      "engraved": false
+    },
+    {
+      "page": 423,
+      "service_part": "co",
+      "incipit": "Ecce virgo",
+      "target_page": 37,
+      "band": [470, 505],
+      "engraved": false
+    }
+  ]
+}

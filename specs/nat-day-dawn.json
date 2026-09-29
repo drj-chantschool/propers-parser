@@ -1,0 +1,53 @@
+{
+  "subsection": "nat-day-dawn",
+  "label": "Christmas — Mass at Dawn (Ad Missam in Aurora)",
+  "lit_epoch_slug": "NAT-DAY-00-0-dawn",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 44,
+      "service_part": "in",
+      "mode": 8,
+      "incipit": "Lux fulgebit",
+      "text_src": "Cf. Is. 9, 2. 6; Lc. 1, 33; Ps. 92",
+      "band": [356, 515],
+      "engraved": true
+    },
+    {
+      "page": 45,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "Benedictus qui venit",
+      "text_src": "Ps. 117, 26. 27. V. 23",
+      "band": [227, 515],
+      "engraved": true
+    },
+    {
+      "page": 46,
+      "service_part": "al",
+      "mode": 2,
+      "incipit": "Dominus regnavit, decorem",
+      "text_src": "Ps. 92, 1 ab",
+      "band": [90, 375],
+      "engraved": true
+    },
+    {
+      "page": 46,
+      "service_part": "of",
+      "mode": 8,
+      "incipit": "Deus enim firmavit",
+      "text_src": "Ps. 92, 1 c. 2",
+      "band": [378, 515],
+      "engraved": true
+    },
+    {
+      "page": 47,
+      "service_part": "co",
+      "mode": 4,
+      "incipit": "Exsulta, filia Sion",
+      "text_src": "Zach. 9, 9",
+      "band": [143, 335],
+      "engraved": true
+    }
+  ]
+}

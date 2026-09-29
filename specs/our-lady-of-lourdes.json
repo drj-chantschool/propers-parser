@@ -1,0 +1,81 @@
+{
+  "subsection": "our-lady-of-lourdes",
+  "label": "Our Lady of Lourdes (B. MARIAE VIRGINIS DE LOURDES, Die 11 februarii)",
+  "lit_epoch_slug": "our-lady-of-lourdes",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 547,
+      "service_part": "in",
+      "incipit": "Vultum tuum deprecabuntur",
+      "target_page": 404,
+      "band": [
+        314,
+        358
+      ],
+      "engraved": false,
+      "notes": "PRINTED exception. p547 y316-340 prints 'Ut in sollemnitate Conceptionis immaculatae B. M. V., die 8 decembris, praeter :' — the Mass is the Immaculate Conception's EXCEPT this introit and the Lenten offertory below. The inherited gr/al/of/co are materialized from `immaculate-conception` per the user's 2026-09-05 ruling; see also the part_id=0 MASS.all pointer row."
+    },
+    {
+      "page": 547,
+      "service_part": "gr",
+      "incipit": "Benedicta es tu",
+      "target_page": 629,
+      "band": [
+        315,
+        342
+      ],
+      "engraved": false,
+      "notes": "Materialized from `immaculate-conception` (8 December) per p547's printed rubric 'Ut in sollemnitate Conceptionis immaculatae B. M. V., die 8 decembris, praeter :' — this part is NOT among p547's printed exceptions, so it is inherited. printed_page_num is 11 February's page 547; ref_page_num is 8 December's engraving page. 8 December engraves it on p629 (mode 5)."
+    },
+    {
+      "page": 547,
+      "service_part": "al",
+      "incipit": "Tota pulchra es",
+      "target_page": 630,
+      "band": [
+        315,
+        342
+      ],
+      "engraved": false,
+      "notes": "Materialized from `immaculate-conception` (8 December) per p547's printed rubric 'Ut in sollemnitate Conceptionis immaculatae B. M. V., die 8 decembris, praeter :' — this part is NOT among p547's printed exceptions, so it is inherited. printed_page_num is 11 February's page 547; ref_page_num is 8 December's engraving page. 8 December engraves it on p630 (mode 1)."
+    },
+    {
+      "page": 547,
+      "service_part": "of",
+      "incipit": "Ave, Maria",
+      "target_page": 630,
+      "band": [
+        315,
+        342
+      ],
+      "engraved": false,
+      "notes": "Materialized from `immaculate-conception` (8 December) per p547's printed rubric 'Ut in sollemnitate Conceptionis immaculatae B. M. V., die 8 decembris, praeter :' — this part is NOT among p547's printed exceptions, so it is inherited. printed_page_num is 11 February's page 547; ref_page_num is 8 December's engraving page. 8 December's own offertory, engraved p630 (gregobase 210) — a DIFFERENT chant from the Lenten 'Ave, Maria et benedictus' (p419, gb 843) at option 2. It applies outside Lent."
+    },
+    {
+      "page": 547,
+      "service_part": "of",
+      "incipit": "Ave, Maria",
+      "target_page": 419,
+      "band": [
+        364,
+        378
+      ],
+      "engraved": false,
+      "option_txt": "Tempore Quadragesimae :",
+      "notes": "PRINTED exception, Lent only: p547 prints 'Tempore Quadragesimae : OF. Ave, Maria, 419.' This is p419's 'Ave, Maria et benedictus' (gregobase 843), a different chant from the Immaculate Conception's own offertory (p630, gregobase 210) which is option 1 above and applies outside Lent."
+    },
+    {
+      "page": 547,
+      "service_part": "co",
+      "incipit": "Gloriosa dicta sunt de te",
+      "target_page": 631,
+      "band": [
+        315,
+        342
+      ],
+      "engraved": false,
+      "notes": "Materialized from `immaculate-conception` (8 December) per p547's printed rubric 'Ut in sollemnitate Conceptionis immaculatae B. M. V., die 8 decembris, praeter :' — this part is NOT among p547's printed exceptions, so it is inherited. printed_page_num is 11 February's page 547; ref_page_num is 8 December's engraving page. 8 December engraves it on p631 (mode 8)."
+    }
+  ]
+}

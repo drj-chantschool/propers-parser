@@ -1,0 +1,50 @@
+{
+  "subsection": "st-anskar",
+  "label": "St. Anskar (S. Ansgarii, Episcopi, Eodem die — Die 3 februarii)",
+  "lit_epoch_slug": "st-anskar",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 545,
+      "service_part": "in",
+      "incipit": "Sacerdotes tui",
+      "target_page": 485,
+      "band": [332, 344],
+      "engraved": false
+    },
+    {
+      "page": 545,
+      "service_part": "gr",
+      "incipit": "Sacerdotes eius",
+      "target_page": 488,
+      "band": [344, 356],
+      "engraved": false
+    },
+    {
+      "page": 545,
+      "service_part": "al",
+      "incipit": "Iuravit Dominus",
+      "target_page": 489,
+      "band": [351, 368],
+      "engraved": false
+    },
+    {
+      "page": 545,
+      "service_part": "of",
+      "incipit": "Veritas mea",
+      "target_page": 483,
+      "band": [368, 392],
+      "engraved": false,
+      "notes": "The OF ('Veritas mea, 483.') and CO ('Beatus servus, 491, cum ps. 32*.') citation lines share a single OCR text block (y368-392), so the computed bbox covers both lines."
+    },
+    {
+      "page": 545,
+      "service_part": "co",
+      "incipit": "Beatus servus",
+      "target_page": 491,
+      "band": [368, 392],
+      "engraved": false,
+      "notes": "Printed as 'Beatus servus, 491, cum ps. 32*.' — psalm-tone data not modeled."
+    }
+  ]
+}

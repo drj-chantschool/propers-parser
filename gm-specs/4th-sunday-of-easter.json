@@ -1,0 +1,43 @@
+{
+  "subsection": "4th-sunday-of-easter",
+  "label": "4th Sunday of Easter (Gregorian Missal)",
+  "lit_epoch_slug": "PASC-AD_ASC-04",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 364,
+      "vernacular_text": "The earth is full of the mercy of the Lord, alleluia; by the word of the Lord, the heavens were established, alleluia, alleluia. ℣. Rejoice in the Lord, O you righteous! Praising befits those who are upright.",
+      "text_src": "Ps 32:5,6 and 1",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al1",
+      "page": 365,
+      "vernacular_text": "The Lord has sent deliverance to his people.",
+      "text_src": "Ps 110:9",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 366,
+      "vernacular_text": "I am the good shepherd; I know my sheep and my own know me.",
+      "text_src": "Jn 10:14",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 366,
+      "vernacular_text": "O God, my God, from daybreak do I watch for you; and in invocation of your name will I lift up my hands.",
+      "text_src": "Ps 62:2,5",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 367,
+      "vernacular_text": "I am the good shepherd, alleluia; I know my sheep and my own know me, alleluia, alleluia.",
+      "text_src": "Jn 10:14",
+      "cycle_sun": null
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "subsection": "ot-ot-16",
+  "label": "16th Sunday in Ordinary Time (Gregorian Missal)",
+  "lit_epoch_slug": "OT-OT-16",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 503,
+      "vernacular_text": "Behold, God is my helper, and the Lord is the upholder of my soul; turn back all the evil against my enemies, destroy them in your fidelity, O Lord, the Protector of my life. ℣. Save me, O God, by your name, and render justice unto me in your strength.",
+      "text_src": "Ps 53:6,7 and 3",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 504,
+      "vernacular_text": "O Lord, our governor, how admirable is your name in all the earth! ℣. For your magnificence is elevated above the heavens.",
+      "text_src": "Ps 8:2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 505,
+      "vernacular_text": "Though I should walk in the midst of the shadow of death, I will fear no evil, for you are with me, O Lord. ℣. Your rod and your staff have comforted me.",
+      "text_src": "Ps 22:4",
+      "cycle_sun": 2
+    },
+    {
+      "service_part": "al",
+      "page": 506,
+      "vernacular_text": "Deliver me from my enemies, O my God, and defend me from those who have risen up against me.",
+      "text_src": "Ps 58:2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 507,
+      "vernacular_text": "The ordinances of the Lord are right, bringing joy to all hearts, sweeter than honey or the honeycomb. Therefore your servant will observe them.",
+      "text_src": "Ps 18:9,10,11,12",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 507,
+      "vernacular_text": "You will accept a sacrifice of righteousness, oblations and burnt offerings, placed on your altar, O Lord.",
+      "text_src": "Ps 50:21",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 508,
+      "vernacular_text": "Mary has chosen for herself the best portion, which shall never be taken away from her.",
+      "text_src": "Lk 10:42",
+      "cycle_sun": 3
+    }
+  ]
+}

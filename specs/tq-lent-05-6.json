@@ -1,0 +1,44 @@
+{
+  "subsection": "tq-lent-05-6",
+  "label": "Lent — 5th week, Friday (Feria Sexta)",
+  "lit_epoch_slug": "TQ-LENT-05-6",
+  "wkday": 6,
+  "chants": [
+    {
+      "page": 130,
+      "service_part": "in",
+      "mode": 5,
+      "incipit": "Miserere mihi Domine",
+      "text_src": "Ps. 30, 10. 16. 18 et 2",
+      "band": [215, 505],
+      "engraved": true
+    },
+    {
+      "page": 131,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "Pacifice loquebantur mihi inimici",
+      "text_src": "Ps. 34, 20(13) et Ps. 54, 4. V. Ps. 34, 22",
+      "band": [83, 420],
+      "engraved": true
+    },
+    {
+      "page": 131,
+      "service_part": "of",
+      "mode": 8,
+      "incipit": "Benedictus es, Domine",
+      "text_src": "Ps. 118, 12. 121. 122. 42",
+      "band": [425, 505],
+      "engraved": true
+    },
+    {
+      "page": 132,
+      "service_part": "co",
+      "mode": 7,
+      "incipit": "Ne tradideris me, Domine",
+      "text_src": "Ps. 26, 12",
+      "band": [200, 405],
+      "engraved": true
+    }
+  ]
+}

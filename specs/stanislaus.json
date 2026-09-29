@@ -1,0 +1,108 @@
+{
+  "subsection": "stanislaus",
+  "label": "Stanislaus (S. STANISLAI, EPISCOPI ET MARTYRIS, Die 11 aprilis)",
+  "lit_epoch_slug": "stanislaus",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 555,
+      "service_part": "in",
+      "incipit": "Protexisti me, Deus",
+      "target_page": 442,
+      "band": [179, 192],
+      "engraved": false,
+      "option_txt": "Tempore paschali :",
+      "text_src": null
+    },
+    {
+      "page": 555,
+      "service_part": "al",
+      "incipit": "Confitebuntur",
+      "target_page": 478,
+      "band": [190, 204],
+      "engraved": false,
+      "option_txt": "Tempore paschali :",
+      "text_src": null
+    },
+    {
+      "page": 555,
+      "service_part": "al",
+      "incipit": "Posuisti",
+      "target_page": 480,
+      "band": [190, 204],
+      "engraved": false,
+      "option_txt": "vel",
+      "text_src": null
+    },
+    {
+      "page": 555,
+      "service_part": "of",
+      "incipit": "Confitebuntur caeli",
+      "target_page": 441,
+      "band": [203, 216],
+      "engraved": false,
+      "option_txt": "Tempore paschali :",
+      "text_src": null
+    },
+    {
+      "page": 555,
+      "service_part": "co",
+      "incipit": "Laetabitur iustus",
+      "target_page": 444,
+      "band": [214, 228],
+      "engraved": false,
+      "option_txt": "Tempore paschali :",
+      "text_src": null
+    },
+    {
+      "page": 555,
+      "service_part": "in",
+      "incipit": "Sacerdotes Dei",
+      "target_page": 447,
+      "band": [247, 261],
+      "engraved": false,
+      "option_txt": "Extra tempus paschale :",
+      "text_src": null
+    },
+    {
+      "page": 555,
+      "service_part": "gr",
+      "incipit": "Gloria et honore",
+      "target_page": 476,
+      "band": [260, 273],
+      "engraved": false,
+      "option_txt": "Extra tempus paschale :",
+      "text_src": null
+    },
+    {
+      "page": 555,
+      "service_part": "al",
+      "incipit": "Hic est sacerdos",
+      "target_page": 449,
+      "band": [272, 285],
+      "engraved": false,
+      "option_txt": "Extra tempus paschale :",
+      "text_src": null
+    },
+    {
+      "page": 555,
+      "service_part": "of",
+      "incipit": "Inveni David",
+      "target_page": 447,
+      "band": [284, 297],
+      "engraved": false,
+      "option_txt": "Extra tempus paschale :",
+      "text_src": null
+    },
+    {
+      "page": 555,
+      "service_part": "co",
+      "incipit": "Posuisti, Domine",
+      "target_page": 483,
+      "band": [295, 309],
+      "engraved": false,
+      "option_txt": "Extra tempus paschale :",
+      "text_src": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "subsection": "com-ded-ipsa",
+  "label": "Common of the Dedication of a Church — In ipsa ecclesia dedicata",
+  "lit_epoch_slug": "COM-DED-IPSA",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 397,
+      "service_part": "in",
+      "mode": 2,
+      "incipit": "Terribilis est locus iste",
+      "text_src": "Gen. 28, 17. 22; Ps. 83",
+      "band": [100, 420],
+      "engraved": true
+    },
+    {
+      "page": 397,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "Locus iste",
+      "text_src": "Cf. 4 Esd. 8, 21.24",
+      "band": [413, 519],
+      "engraved": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "subsection": "de-beata-maria-virgine-nativitatis",
+  "label": "Votive Mass of the BVM — Christmastide",
+  "lit_epoch_slug": "de-beata-maria-virgine-nativitatis",
+  "chants": [
+    {
+      "page": 662,
+      "service_part": "in",
+      "incipit": "Vultum tuum deprecabuntur",
+      "target_page": 404,
+      "band": [345, 363],
+      "engraved": false
+    },
+    {
+      "page": 662,
+      "service_part": "gr",
+      "incipit": "Speciosus forma",
+      "target_page": 54,
+      "band": [363, 375],
+      "engraved": false
+    },
+    {
+      "page": 662,
+      "service_part": "al",
+      "incipit": "Post partum, Virgo inviolata",
+      "target_page": 414,
+      "band": [375, 387],
+      "engraved": false
+    },
+    {
+      "page": 662,
+      "service_part": "of",
+      "incipit": "Felix namque es, sacra Virgo",
+      "target_page": 422,
+      "band": [387, 399],
+      "engraved": false
+    },
+    {
+      "page": 662,
+      "service_part": "co",
+      "incipit": "Beata viscera Mariae Virginis",
+      "target_page": 423,
+      "band": [399, 420],
+      "engraved": false
+    }
+  ]
+}

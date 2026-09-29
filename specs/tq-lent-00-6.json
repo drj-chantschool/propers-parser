@@ -1,0 +1,42 @@
+{
+  "subsection": "tq-lent-00-6",
+  "label": "Lent — Friday after Ash Wednesday (Feria Sexta post Cineres)",
+  "lit_epoch_slug": "TQ-LENT-00-6",
+  "wkday": 6,
+  "chants": [
+    {
+      "page": 68,
+      "service_part": "in",
+      "mode": 7,
+      "incipit": "Audivit Dominus",
+      "text_src": "Ps. 29, 11 et 2",
+      "band": [50, 273],
+      "engraved": true
+    },
+    {
+      "page": 68,
+      "service_part": "gr",
+      "incipit": "Unam petii",
+      "target_page": 358,
+      "band": [275, 310],
+      "engraved": false
+    },
+    {
+      "page": 68,
+      "service_part": "of",
+      "incipit": "Domine, vivifica me",
+      "target_page": 359,
+      "band": [275, 310],
+      "engraved": false
+    },
+    {
+      "page": 68,
+      "service_part": "co",
+      "mode": 5,
+      "incipit": "Servite Domino",
+      "text_src": "Ps. 2, 11 et 12 ab",
+      "band": [304, 503],
+      "engraved": true
+    }
+  ]
+}

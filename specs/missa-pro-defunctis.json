@@ -1,0 +1,118 @@
+{
+  "subsection": "missa-pro-defunctis",
+  "label": "Mass for the Dead (Requiem) — Missae in exsequiis, in anniversario et in diversis commemorationibus",
+  "lit_epoch_slug": "missa-pro-defunctis",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 669,
+      "service_part": "in",
+      "mode": 6,
+      "incipit": "Requiem aeternam",
+      "text_src": "IV Esdr. 2, 34.35; Ps. 64, 2.3.4.5",
+      "band": [116, 502],
+      "engraved": true,
+      "option_txt": "I",
+      "notes": "Responsorial-form introit (antiphon + several psalm verses, each followed by the Ant. Requiem refrain); engraving continues from p669 onto p670 before the numbered alternate-antiphon list begins."
+    },
+    {
+      "page": 670,
+      "service_part": "gr",
+      "mode": 2,
+      "incipit": "Requiem aeternam",
+      "text_src": "IV Esdr. 2, 34.35. V. Ps. 111, 7",
+      "band": [363, 502],
+      "engraved": true,
+      "option_txt": "I"
+    },
+    {
+      "page": 672,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Requiem aeternam",
+      "text_src": "IV Esdr. 2, 34.35",
+      "band": [37, 233],
+      "engraved": true,
+      "option_txt": "IV",
+      "notes": "Under heading VERSUS ALLELUIATICI: the fixed 'Alleluia' jubilus (mode VIII) is engraved at the foot of the PRECEDING page (671, y428-499, itself headed item IV); this verse text 'Requiem aeternam...' is its continuation on p672, which is where gr_index_entry places the chant. Alternate verses I-III (p671) and V (p672) are cross-referenced separately."
+    },
+    {
+      "page": 672,
+      "service_part": "tr",
+      "mode": 8,
+      "incipit": "Absolve, Domine",
+      "band": [253, 502],
+      "engraved": true,
+      "option_txt": "I"
+    },
+    {
+      "page": 674,
+      "service_part": "of",
+      "mode": 2,
+      "incipit": "Domine Iesu Christe",
+      "band": [355, 502],
+      "engraved": true,
+      "option_txt": "I",
+      "notes": "Rubric printed just before the engraving: 'V. Hostias omitti potest.' — the offertory's second verse ('Hostias et preces tibi Domine laudis offerimus...') may be omitted."
+    },
+    {
+      "page": 676,
+      "service_part": "co",
+      "mode": 8,
+      "incipit": "Lux aeterna",
+      "text_src": "IV Esdr. 2, 35",
+      "band": [149, 281],
+      "engraved": true,
+      "option_txt": "I",
+      "notes": "Followed (not modeled as a chant) by a psalm-verse plan: 'cum ps. 129*, ... vel 120*, ... vel 22*, ...' — alternate psalms for the communion procession, same class as a bare 'cum ps. NNN*' plan."
+    },
+
+    { "page": 670, "service_part": "in", "incipit": "De necessitatibus meis eripe me", "target_page": 84, "band": [258, 271], "engraved": false, "option_txt": "II" },
+    { "page": 670, "service_part": "in", "incipit": "Ego autem cum iustitia apparebo", "target_page": 94, "band": [270, 283], "engraved": false, "option_txt": "III" },
+    { "page": 670, "service_part": "in", "incipit": "Intret oratio mea in conspectu tuo", "target_page": 363, "band": [283, 295], "engraved": false, "option_txt": "IV" },
+    { "page": 670, "service_part": "in", "incipit": "Si iniquitates observaveris, Domine", "target_page": 350, "band": [295, 307], "engraved": false, "option_txt": "V" },
+    { "page": 670, "service_part": "in", "incipit": "Sicut oculi servorum in manibus", "target_page": 77, "band": [304, 314], "engraved": false, "option_txt": "VI" },
+    { "page": 670, "service_part": "in", "incipit": "Verba mea auribus percipe, Domine", "target_page": 83, "band": [314, 331], "engraved": false, "option_txt": "VII" },
+
+    { "page": 671, "service_part": "gr", "incipit": "Convertere, Domine, aliquantulum", "target_page": 295, "band": [298, 311], "engraved": false, "option_txt": "II" },
+    { "page": 671, "service_part": "gr", "incipit": "Laetatus sum", "target_page": 336, "band": [311, 323], "engraved": false, "option_txt": "III" },
+    { "page": 671, "service_part": "gr", "incipit": "Salvum fac servum tuum", "target_page": 85, "band": [323, 335], "engraved": false, "option_txt": "IV" },
+    { "page": 671, "service_part": "gr", "incipit": "Si ambulem in medio umbrae", "target_page": 125, "band": [335, 347], "engraved": false, "option_txt": "V" },
+    { "page": 671, "service_part": "gr", "incipit": "Unam petii a Domino", "target_page": 358, "band": [347, 359], "engraved": false, "option_txt": "VI" },
+
+    { "page": 671, "service_part": "al", "incipit": "De profundis clamavi ad te, Domine", "target_page": 367, "band": [391, 403], "engraved": false, "option_txt": "I", "notes": "Alternate Alleluia verse (VERSUS ALLELUIATICI), not the tract of the same incipit on p672-673." },
+    { "page": 671, "service_part": "al", "incipit": "In exitu Israel ex Aegypto", "target_page": 348, "band": [403, 415], "engraved": false, "option_txt": "II" },
+    { "page": 671, "service_part": "al", "incipit": "Laetatus sum", "target_page": 19, "band": [415, 427], "engraved": false, "option_txt": "III" },
+    { "page": 672, "service_part": "al", "incipit": "Ego vos elegi de mundo", "target_page": 429, "band": [230, 251], "engraved": false, "option_txt": "V Pro sacerdotibus et religiosis:", "notes": "Occasion-specific alternate Alleluia verse, for Masses for priests and religious." },
+
+    { "page": 673, "service_part": "tr", "mode": 8, "incipit": "De profundis clamavi ad te, Domine", "text_src": "Ps. 129, 1.2.3.4", "band": [160, 502], "engraved": true, "option_txt": "II", "notes": "Fully engraved second Tract — an alternative to Tract I (Absolve, Domine), not sung after it." },
+    { "page": 674, "service_part": "tr", "incipit": "Qui seminant in lacrimis", "target_page": 465, "band": [293, 325], "engraved": false, "option_txt": "III" },
+    { "page": 674, "service_part": "tr", "incipit": "Sicut cervus desiderat", "target_page": 190, "band": [293, 325], "engraved": false, "option_txt": "IV" },
+
+    { "page": 676, "service_part": "of", "incipit": "De profundis clamavi ad te, Domine", "target_page": 368, "band": [37, 51], "engraved": false, "option_txt": "II", "notes": "Cites p368's offertorium 'De profundis' (gregobase 986) — NOT the same-page communio 'Amen dico vobis: Quidquid' entry also indexed at p368." },
+    { "page": 676, "service_part": "of", "incipit": "Domine, convertere, et eripe animam meam", "target_page": 283, "band": [49, 63], "engraved": false, "option_txt": "III" },
+    { "page": 676, "service_part": "of", "incipit": "Domine, Deus salutis meae", "target_page": 87, "band": [61, 75], "engraved": false, "option_txt": "IV" },
+    { "page": 676, "service_part": "of", "incipit": "Illumina oculos meos", "target_page": 290, "band": [73, 87], "engraved": false, "option_txt": "V" },
+    { "page": 676, "service_part": "of", "incipit": "Miserere mihi, Domine", "target_page": 92, "band": [85, 99], "engraved": false, "option_txt": "VI" },
+    { "page": 676, "service_part": "of", "incipit": "Si ambulavero in medio tribulationis", "target_page": 341, "band": [97, 111], "engraved": false, "option_txt": "VII" },
+
+    { "page": 676, "service_part": "co", "incipit": "Amen dico vobis : quod uni", "target_page": 79, "band": [355, 369], "engraved": false, "option_txt": "II", "notes": "Psalm plan 'cum ps. 6*, 2.3.4.5.6.7' not modeled." },
+    { "page": 676, "service_part": "co", "incipit": "Domine, quinque talenta tradidisti mihi", "target_page": 515, "band": [368, 393], "engraved": false, "option_txt": "III", "notes": "Psalm plan 'cum ps. 15*, ...' not modeled." },
+    { "page": 676, "service_part": "co", "incipit": "Domine, quis habitabit in tabernaculo tuo", "target_page": 102, "band": [392, 405], "engraved": false, "option_txt": "IV" },
+    { "page": 676, "service_part": "co", "incipit": "Dominus regit me et nihil mihi deerit", "target_page": 365, "band": [404, 417], "engraved": false, "option_txt": "V" },
+    { "page": 676, "service_part": "co", "incipit": "Illumina faciem tuam super servum tuum", "target_page": 271, "band": [416, 429], "engraved": false, "option_txt": "VI" },
+    { "page": 676, "service_part": "co", "incipit": "Notas mihi fecisti vias vitae", "target_page": 362, "band": [428, 441], "engraved": false, "option_txt": "VII" },
+    { "page": 676, "service_part": "co", "incipit": "Panis quem ego dedero, caro mea est", "target_page": 322, "band": [440, 465], "engraved": false, "option_txt": "VIII", "notes": "Psalm plan 'cum ps. 26*, ...' not modeled." },
+    { "page": 676, "service_part": "co", "incipit": "Qui manducat carnem meam", "target_page": 383, "band": [464, 501], "engraved": false, "option_txt": "IX", "notes": "Psalm plan 'cum ps. 22*, ut supra' not modeled." },
+    { "page": 676, "service_part": "co", "incipit": "Qui mihi ministrat, me sequatur", "target_page": 484, "band": [464, 501], "engraved": false, "option_txt": "X" },
+
+    { "page": 677, "service_part": "in", "incipit": "Ecce oculi Domini super timentes eum", "target_page": 439, "band": [62, 78], "engraved": false, "option_txt": "Tempore paschali:", "notes": "Paschaltide set for the Missae in exsequiis, printed at the head of p677 ABOVE the '2. MISSA IN EXSEQUIIS PARVULI BAPTIZATI' heading (y191) — it belongs to section 1, not section 2. Unnumbered in print; the rubric 'Tempore paschali :' governs the whole IN/AL/OF/CO block. No GR. or TR. is printed (Paschaltide replaces the Gradual with Alleluias)." },
+    { "page": 677, "service_part": "al", "incipit": "Christus resurgens ex mortuis", "target_page": 226, "band": [76, 88], "engraved": false, "option_txt": "Tempore paschali:", "notes": "First of four Paschaltide Alleluia verses; the following three are printed as em-dash continuation lines under the same AL. label. Cites p226's alleluia (gregobase 1348), NOT the p207 communio of the same incipit." },
+    { "page": 677, "service_part": "al", "incipit": "Oportebat pati Christum et resurgere", "target_page": 220, "band": [89, 99], "engraved": false, "option_txt": "Tempore paschali:" },
+    { "page": 677, "service_part": "al", "incipit": "Surrexit Christus et illuxit nobis", "target_page": 230, "band": [101, 111], "engraved": false, "option_txt": "Tempore paschali:" },
+    { "page": 677, "service_part": "al", "incipit": "Surrexit Dominus de sepulcro", "target_page": 203, "band": [113, 130], "engraved": false, "option_txt": "Tempore paschali:" },
+    { "page": 677, "service_part": "of", "incipit": "Deus, Deus meus, ad te de luce vigilo", "target_page": 224, "band": [113, 130], "engraved": false, "option_txt": "Tempore paschali:", "notes": "Shares a text block with the preceding AL. line, so the computed bbox covers both reference lines." },
+    { "page": 677, "service_part": "co", "incipit": "Christus resurgens ex mortuis", "target_page": 207, "band": [137, 147], "engraved": false, "option_txt": "Tempore paschali:", "notes": "Cites p207's communio (gregobase 593), NOT the p226 alleluia of the same incipit. Psalm plan 'cum ps. 15*' not modeled." },
+    { "page": 677, "service_part": "co", "incipit": "Ego sum pastor bonus", "target_page": 224, "band": [148, 160], "engraved": false, "option_txt": "Tempore paschali:", "notes": "Cites p224's communio (gregobase 95), NOT the p224 offertorium 'Deus, Deus meus' cited above. Psalm plan 'cum ps. 22*' not modeled." }
+  ]
+}

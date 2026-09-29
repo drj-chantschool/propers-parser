@@ -1,0 +1,49 @@
+{
+  "subsection": "antony-of-egypt",
+  "label": "Antony of Egypt (S. ANTONII, ABBATIS, Die 17 ianuarii)",
+  "lit_epoch_slug": "antony-of-egypt",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 533,
+      "service_part": "in",
+      "incipit": "Iustus ut palma",
+      "target_page": 508,
+      "band": [430, 447],
+      "engraved": false
+    },
+    {
+      "page": 533,
+      "service_part": "gr",
+      "incipit": "Domine, praevenisti eum",
+      "target_page": 509,
+      "band": [447, 460],
+      "engraved": false
+    },
+    {
+      "page": 533,
+      "service_part": "al",
+      "incipit": "Iustus ut palma",
+      "target_page": 516,
+      "band": [459, 471],
+      "engraved": false
+    },
+    {
+      "page": 533,
+      "service_part": "of",
+      "incipit": "Desiderium animae eius",
+      "target_page": 518,
+      "band": [471, 494],
+      "engraved": false
+    },
+    {
+      "page": 533,
+      "service_part": "co",
+      "incipit": "Fidelis servus et prudens",
+      "target_page": 491,
+      "band": [471, 494],
+      "engraved": false,
+      "notes": "Printed as 'Fidelis servus et prudens, 491, cum ps. 111*.' — psalm-tone data not modeled."
+    }
+  ]
+}

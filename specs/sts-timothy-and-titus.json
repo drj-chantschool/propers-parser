@@ -1,0 +1,48 @@
+{
+  "subsection": "sts-timothy-and-titus",
+  "label": "Sts. Timothy and Titus (SS. TIMOTHEI ET TITI, EPISCOPORUM, Die 26 ianuarii)",
+  "lit_epoch_slug": "sts-timothy-and-titus",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 537,
+      "service_part": "in",
+      "incipit": "Sacerdotes eius",
+      "target_page": 448,
+      "band": [430, 451],
+      "engraved": false
+    },
+    {
+      "page": 537,
+      "service_part": "gr",
+      "incipit": "Beata gens",
+      "target_page": 333,
+      "band": [450, 476],
+      "engraved": false
+    },
+    {
+      "page": 537,
+      "service_part": "al",
+      "incipit": "Ego vos elegi",
+      "target_page": 429,
+      "band": [450, 476],
+      "engraved": false
+    },
+    {
+      "page": 537,
+      "service_part": "of",
+      "incipit": "Gloriabuntur in te",
+      "target_page": 467,
+      "band": [474, 487],
+      "engraved": false
+    },
+    {
+      "page": 537,
+      "service_part": "co",
+      "incipit": "Amen dico vobis : quod vos",
+      "target_page": 436,
+      "band": [486, 505],
+      "engraved": false
+    }
+  ]
+}

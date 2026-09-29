@@ -1,0 +1,64 @@
+{
+  "subsection": "pasc-pent-vigil",
+  "label": "Pentecost — Vigil Mass (DOMINICA PENTECOSTES, Ad Missam in Vigilia)",
+  "lit_epoch_slug": "PASC-PENT-08-1-vigil",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 248,
+      "service_part": "in",
+      "mode": 3,
+      "incipit": "Caritas Dei",
+      "text_src": "Rom. 5, 5; 10, 11; Ps. 102",
+      "band": [140, 505],
+      "engraved": true
+    },
+    {
+      "page": 249,
+      "service_part": "in",
+      "mode": 3,
+      "incipit": "Dum sanctificatus fuero",
+      "text_src": "Ezech. 36, 23. 24. 25. 26; Ps. 33",
+      "band": [40, 436],
+      "engraved": true,
+      "option_txt": "Vel ad libitum:"
+    },
+    {
+      "page": 249,
+      "service_part": "al1",
+      "mode": 2,
+      "incipit": "Emitte Spiritum tuum",
+      "text_src": "Ps. 103, 30",
+      "band": [438, 505],
+      "engraved": true
+    },
+    {
+      "page": 250,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "Dum complerentur",
+      "text_src": "Act. 2, 7",
+      "band": [125, 435],
+      "engraved": true
+    },
+    {
+      "page": 250,
+      "service_part": "of",
+      "mode": 8,
+      "incipit": "Emitte Spiritum tuum",
+      "text_src": "Ps. 103, 30. 31",
+      "band": [438, 505],
+      "engraved": true
+    },
+    {
+      "page": 251,
+      "service_part": "co",
+      "mode": 5,
+      "incipit": "Ultimo festivitatis",
+      "text_src": "Io. 7, 37-39",
+      "band": [186, 500],
+      "engraved": true,
+      "notes": "Psalm-tone plan printed: Ps. 103*, 1 ab. 30. 31. 33. 34"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "subsection": "bede-the-venerable",
+  "label": "Die 25 maii — S. Bedae Venerabilis, Presbyteri et Ecclesiae Doctoris",
+  "lit_epoch_slug": "bede-the-venerable",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 563,
+      "service_part": "in",
+      "incipit": "Meditatio cordis mei",
+      "target_page": 103,
+      "band": [206, 220],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": null
+    },
+    {
+      "page": 563,
+      "service_part": "gr",
+      "incipit": "Iustus ut palma",
+      "target_page": 510,
+      "band": [220, 232],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": null
+    },
+    {
+      "page": 563,
+      "service_part": "al",
+      "incipit": "Amavit eum Dominus",
+      "target_page": 495,
+      "band": [232, 244],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": null
+    },
+    {
+      "page": 563,
+      "service_part": "of",
+      "incipit": "Benedicam Dominum",
+      "target_page": 293,
+      "band": [244, 255],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": null
+    },
+    {
+      "page": 563,
+      "service_part": "co",
+      "incipit": "Qui meditabitur",
+      "target_page": 67,
+      "band": [255, 268],
+      "engraved": false,
+      "text_src": null,
+      "option_txt": null
+    }
+  ]
+}

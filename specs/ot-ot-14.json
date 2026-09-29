@@ -1,0 +1,101 @@
+{
+  "subsection": "ot-ot-14",
+  "label": "14th week of Ordinary Time (Hebdomada XIV per annum)",
+  "lit_epoch_slug": "OT-OT-14",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 300,
+      "service_part": "in",
+      "mode": 1,
+      "incipit": "Suscepimus",
+      "text_src": "Ps. 47, 10. 11 et 2",
+      "band": [248, 505],
+      "engraved": true
+    },
+    {
+      "page": 301,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "Esto mihi",
+      "text_src": "Ps. 70, 3. V. 1",
+      "band": [125, 452],
+      "engraved": true
+    },
+    {
+      "page": 302,
+      "service_part": "al",
+      "mode": 7,
+      "incipit": "Magnus Dominus",
+      "text_src": "Ps. 47, 2",
+      "band": [25, 290],
+      "engraved": true
+    },
+    {
+      "page": 302,
+      "service_part": "of",
+      "mode": 5,
+      "incipit": "Populum humilem",
+      "text_src": "Ps. 17, 28. 32",
+      "band": [321, 505],
+      "engraved": true
+    },
+    {
+      "page": 303,
+      "service_part": "co",
+      "mode": 3,
+      "incipit": "Gustate et videte",
+      "text_src": "Ps. 33, 9",
+      "band": [25, 282],
+      "engraved": true
+    },
+    {
+      "page": 301,
+      "service_part": "gr",
+      "incipit": "Angelis suis",
+      "target_page": 72,
+      "wkday": 2,
+      "cycle_wkday": 1,
+      "band": [450, 505],
+      "engraved": false
+    },
+    {
+      "page": 301,
+      "service_part": "gr",
+      "incipit": "Ostende nobis",
+      "target_page": 31,
+      "wkday": 5,
+      "cycle_wkday": 2,
+      "band": [450, 505],
+      "engraved": false
+    },
+    {
+      "page": 302,
+      "service_part": "al",
+      "incipit": "Venite ad me",
+      "target_page": 619,
+      "cycle_sun": 1,
+      "band": [290, 325],
+      "engraved": false
+    },
+    {
+      "page": 302,
+      "service_part": "al",
+      "incipit": "Ostende nobis",
+      "target_page": 16,
+      "wkday": 5,
+      "cycle_wkday": 2,
+      "band": [290, 325],
+      "engraved": false
+    },
+    {
+      "page": 303,
+      "service_part": "co",
+      "incipit": "Quod dico vobis",
+      "target_page": 472,
+      "wkday": 7,
+      "band": [282, 308],
+      "engraved": false
+    }
+  ]
+}

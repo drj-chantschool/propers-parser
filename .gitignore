@@ -3,3 +3,8 @@
 __pycache__/
 *.pyc
 .venv/
+
+# One-off scratch/backups
+_tmp/
+_tmp_out.txt
+*.bak-*

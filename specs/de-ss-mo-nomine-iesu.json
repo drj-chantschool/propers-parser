@@ -1,0 +1,48 @@
+{
+  "subsection": "de-ss-mo-nomine-iesu",
+  "label": "Votive Mass of the Holy Name of Jesus — De Ss.mo Nomine Iesu",
+  "lit_epoch_slug": "de-ss-mo-nomine-iesu",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 658,
+      "service_part": "in",
+      "incipit": "In nomine Iesu omne genu",
+      "target_page": 582,
+      "band": [435, 451],
+      "engraved": false
+    },
+    {
+      "page": 658,
+      "service_part": "gr",
+      "incipit": "Domine, Dominus noster",
+      "target_page": 308,
+      "band": [451, 463],
+      "engraved": false
+    },
+    {
+      "page": 658,
+      "service_part": "al",
+      "incipit": "Laudate, pueri, Dominum",
+      "target_page": 215,
+      "band": [463, 475],
+      "engraved": false
+    },
+    {
+      "page": 658,
+      "service_part": "of",
+      "incipit": "Domine, fac mecum misericordiam",
+      "target_page": 104,
+      "band": [475, 487],
+      "engraved": false
+    },
+    {
+      "page": 658,
+      "service_part": "co",
+      "incipit": "Domine, Dominus noster",
+      "target_page": 357,
+      "band": [487, 503],
+      "engraved": false
+    }
+  ]
+}

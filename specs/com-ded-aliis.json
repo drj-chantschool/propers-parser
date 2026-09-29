@@ -1,0 +1,213 @@
+{
+  "subsection": "com-ded-aliis",
+  "label": "Common of the Dedication of a Church — In aliis ecclesiis",
+  "lit_epoch_slug": "COM-DED-ALIIS",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 398,
+      "service_part": "in",
+      "mode": 1,
+      "incipit": "Dicit Dominus: Sermones mei",
+      "text_src": "Is. 59, 21 et 56, 7; Ps. 83",
+      "band": [291, 519],
+      "engraved": true
+    },
+    {
+      "page": 399,
+      "service_part": "in",
+      "incipit": "Deus in loco sancto suo",
+      "target_page": 310,
+      "band": [247, 261],
+      "engraved": false
+    },
+    {
+      "page": 399,
+      "service_part": "in",
+      "incipit": "Protector noster",
+      "target_page": 323,
+      "band": [260, 273],
+      "engraved": false
+    },
+    {
+      "page": 399,
+      "service_part": "in",
+      "incipit": "Suscepimus, Deus",
+      "target_page": 300,
+      "band": [272, 286],
+      "engraved": false
+    },
+    {
+      "page": 399,
+      "service_part": "gr",
+      "incipit": "Laetatus sum",
+      "target_page": 336,
+      "band": [318, 334],
+      "engraved": false
+    },
+    {
+      "page": 399,
+      "service_part": "gr",
+      "incipit": "Suscepimus, Deus",
+      "target_page": 360,
+      "band": [334, 344],
+      "engraved": false
+    },
+    {
+      "page": 399,
+      "service_part": "gr",
+      "incipit": "Tollite hostias",
+      "target_page": 272,
+      "band": [344, 358],
+      "engraved": false
+    },
+    {
+      "page": 399,
+      "service_part": "gr",
+      "incipit": "Unam petii",
+      "target_page": 358,
+      "band": [358, 372],
+      "engraved": false
+    },
+    {
+      "page": 399,
+      "service_part": "al",
+      "incipit": "Adorabo ad templum",
+      "target_page": 270,
+      "band": [403, 420],
+      "engraved": false
+    },
+    {
+      "page": 399,
+      "service_part": "al",
+      "mode": 5,
+      "incipit": "Bene fundata est domus Domini supra firmam petram",
+      "band": [426, 519],
+      "engraved": true
+    },
+    {
+      "page": 400,
+      "service_part": "al",
+      "mode": 2,
+      "incipit": "Domine, dilexi decorem domus tuae et locum tabernaculi gloriae tuae",
+      "text_src": "Ps. 25, 8",
+      "band": [186, 424],
+      "engraved": true
+    },
+    {
+      "page": 400,
+      "service_part": "al",
+      "incipit": "Laetatus sum",
+      "target_page": 19,
+      "band": [423, 445],
+      "engraved": false
+    },
+    {
+      "page": 400,
+      "service_part": "al",
+      "incipit": "Te decet hymnus",
+      "target_page": 305,
+      "band": [435, 458],
+      "engraved": false
+    },
+    {
+      "page": 400,
+      "service_part": "tr",
+      "incipit": "Qui confidunt",
+      "target_page": 109,
+      "band": [458, 500],
+      "engraved": false
+    },
+    {
+      "page": 401,
+      "service_part": "of",
+      "mode": 6,
+      "incipit": "Domine Deus, in simplicitate cordis mei",
+      "text_src": "1 Chron. 29, 17. 18",
+      "band": [74, 415],
+      "engraved": true
+    },
+    {
+      "page": 401,
+      "service_part": "of",
+      "incipit": "Oravi Deum meum",
+      "target_page": 334,
+      "band": [428, 456],
+      "engraved": false
+    },
+    {
+      "page": 401,
+      "service_part": "of",
+      "incipit": "Sanctificavit Moyses",
+      "target_page": 338,
+      "band": [428, 456],
+      "engraved": false
+    },
+    {
+      "page": 401,
+      "service_part": "of",
+      "incipit": "Stetit angelus",
+      "target_page": 610,
+      "option_txt": "Extra tempus Quadragesimae :",
+      "band": [464, 501],
+      "engraved": false
+    },
+    {
+      "page": 402,
+      "service_part": "co",
+      "mode": 5,
+      "incipit": "Domus mea, domus orationis vocabitur",
+      "text_src": "Mt. 21, 13",
+      "band": [60, 300],
+      "engraved": true
+    },
+    {
+      "page": 402,
+      "service_part": "co",
+      "incipit": "Acceptabis sacrificium",
+      "target_page": 309,
+      "band": [333, 358],
+      "engraved": false
+    },
+    {
+      "page": 402,
+      "service_part": "co",
+      "incipit": "Ierusalem quae aedificatur",
+      "target_page": 370,
+      "band": [333, 358],
+      "engraved": false
+    },
+    {
+      "page": 402,
+      "service_part": "co",
+      "incipit": "Introibo ad altare Dei",
+      "target_page": 274,
+      "band": [358, 371],
+      "engraved": false
+    },
+    {
+      "page": 402,
+      "service_part": "co",
+      "incipit": "Passer invenit",
+      "target_page": 306,
+      "band": [370, 383],
+      "engraved": false
+    },
+    {
+      "page": 402,
+      "service_part": "co",
+      "incipit": "Tollite hostias",
+      "target_page": 338,
+      "band": [382, 395],
+      "engraved": false
+    },
+    {
+      "page": 402,
+      "service_part": "co",
+      "incipit": "Unam petii",
+      "target_page": 294,
+      "band": [394, 410],
+      "engraved": false
+    }
+  ]
+}

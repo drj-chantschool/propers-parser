@@ -1,0 +1,41 @@
+{
+  "subsection": "tq-lent-02-5",
+  "label": "Lent — Week 2, Thursday (Feria Quinta)",
+  "lit_epoch_slug": "TQ-LENT-02-5",
+  "wkday": 5,
+  "chants": [
+    {
+      "page": 94,
+      "service_part": "in",
+      "incipit": "Deus in adiutorium",
+      "target_page": 315,
+      "band": [62, 88],
+      "engraved": false
+    },
+    {
+      "page": 94,
+      "service_part": "gr",
+      "incipit": "Beatus vir",
+      "target_page": 475,
+      "band": [62, 88],
+      "engraved": false
+    },
+    {
+      "page": 94,
+      "service_part": "of",
+      "mode": 6,
+      "incipit": "Domine ad adiuvandum me",
+      "text_src": "Ps. 39, 14. 15",
+      "band": [88, 324],
+      "engraved": true
+    },
+    {
+      "page": 94,
+      "service_part": "co",
+      "incipit": "Qui manducat",
+      "target_page": 383,
+      "band": [325, 354],
+      "engraved": false
+    }
+  ]
+}

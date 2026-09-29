@@ -1,0 +1,80 @@
+{
+  "subsection": "ot-ot-33",
+  "label": "33rd week of Ordinary Time (Hebdomada XXXIII per annum)",
+  "lit_epoch_slug": "OT-OT-33",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 366,
+      "service_part": "in",
+      "mode": 6,
+      "incipit": "Dicit Dominus: Ego cogito",
+      "text_src": "Ier. 29, 11. 12. 14; Ps. 84",
+      "band": [55, 380],
+      "engraved": true
+    },
+    {
+      "page": 366,
+      "service_part": "gr",
+      "mode": 7,
+      "incipit": "Liberasti nos",
+      "text_src": "Ps. 43, 8. 9",
+      "band": [380, 519],
+      "engraved": true
+    },
+    {
+      "page": 367,
+      "service_part": "al",
+      "mode": 7,
+      "incipit": "De profundis",
+      "text_src": "Ps. 129, 7. 2",
+      "band": [315, 519],
+      "engraved": true
+    },
+    {
+      "page": 368,
+      "service_part": "of",
+      "mode": 2,
+      "incipit": "De profundis",
+      "text_src": "Ps. 129, 1. 2",
+      "band": [130, 362],
+      "engraved": true
+    },
+    {
+      "page": 368,
+      "service_part": "co",
+      "mode": 1,
+      "incipit": "Amen dico vobis: Quidquid",
+      "text_src": "Mc. 11, 24",
+      "band": [362, 505],
+      "engraved": true
+    },
+    {
+      "page": 369,
+      "service_part": "co",
+      "incipit": "Domine, quinque talenta",
+      "target_page": 515,
+      "cycle_sun": 1,
+      "band": [30, 83],
+      "engraved": false
+    },
+    {
+      "page": 369,
+      "service_part": "co",
+      "incipit": "Domine, quinque talenta",
+      "target_page": 515,
+      "wkday": 4,
+      "band": [30, 83],
+      "engraved": false
+    },
+    {
+      "page": 369,
+      "service_part": "co",
+      "incipit": "Domus mea",
+      "target_page": 402,
+      "wkday": 6,
+      "band": [30, 83],
+      "engraved": false
+    }
+  ]
+}

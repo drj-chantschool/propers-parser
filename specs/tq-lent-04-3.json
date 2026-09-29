@@ -1,0 +1,42 @@
+{
+  "subsection": "tq-lent-04-3",
+  "label": "Lent — 4th week, Tuesday (Feria Tertia)",
+  "lit_epoch_slug": "TQ-LENT-04-3",
+  "wkday": 3,
+  "chants": [
+    {
+      "page": 114,
+      "service_part": "in",
+      "mode": 2,
+      "incipit": "Sitientes venite ad aquas",
+      "text_src": "Cf. Is. 55, 1; Ps. 77",
+      "band": [48, 325],
+      "engraved": true
+    },
+    {
+      "page": 114,
+      "service_part": "gr",
+      "mode": 3,
+      "incipit": "Exsurge, Domine, fer opem",
+      "text_src": "Ps. 43, 26. V. 2",
+      "band": [325, 505],
+      "engraved": true
+    },
+    {
+      "page": 115,
+      "service_part": "of",
+      "incipit": "Exspectans exspectavi",
+      "target_page": 328,
+      "band": [378, 405],
+      "engraved": false
+    },
+    {
+      "page": 115,
+      "service_part": "co",
+      "incipit": "Dominus regit me",
+      "target_page": 365,
+      "band": [378, 405],
+      "engraved": false
+    }
+  ]
+}

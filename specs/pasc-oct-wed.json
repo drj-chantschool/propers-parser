@@ -1,0 +1,62 @@
+{
+  "subsection": "pasc-oct-wed",
+  "label": "Easter Octave — Wednesday (Feria IV infra octavam Paschae)",
+  "lit_epoch_slug": "PASC-OCT-01-4",
+  "wkday": 4,
+  "chants": [
+    {
+      "page": 205,
+      "service_part": "in",
+      "mode": 7,
+      "incipit": "Venite, benedicti",
+      "text_src": "Mt. 25, 34; Ps. 95",
+      "band": [316, 519],
+      "engraved": true
+    },
+    {
+      "page": 206,
+      "service_part": "gr",
+      "mode": 2,
+      "incipit": "Haec dies Dextera",
+      "text_src": "Ps. 117, 16",
+      "band": [145, 443],
+      "engraved": true
+    },
+    {
+      "page": 206,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Surrexit Dominus vere",
+      "text_src": "Lc. 24, 34",
+      "band": [443, 519],
+      "engraved": true
+    },
+    {
+      "page": 202,
+      "service_part": "seq",
+      "incipit": "Victimae paschali laudes",
+      "target_page": 198,
+      "band": [26, 66],
+      "option_txt": "Infra octavam, quando cantatur Alleluia cum suo ℣., addi potest Sequentia ut in Pascha.",
+      "engraved": false
+    },
+    {
+      "page": 207,
+      "service_part": "of",
+      "mode": 8,
+      "incipit": "Portas caeli",
+      "text_src": "Ps. 77, 23. 24. 25",
+      "band": [145, 435],
+      "engraved": true
+    },
+    {
+      "page": 207,
+      "service_part": "co",
+      "mode": 8,
+      "incipit": "Christus resurgens",
+      "text_src": "Rom. 6, 9",
+      "band": [435, 519],
+      "engraved": true
+    }
+  ]
+}

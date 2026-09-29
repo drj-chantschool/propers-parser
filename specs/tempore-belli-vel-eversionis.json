@@ -1,0 +1,75 @@
+{
+  "subsection": "tempore-belli-vel-eversionis",
+  "label": "In Time of War or Civil Disturbance — Tempore belli vel eversionis",
+  "lit_epoch_slug": "tempore-belli-vel-eversionis",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 653,
+      "service_part": "in",
+      "incipit": "Circumdederunt me dolores mortis",
+      "target_page": 117,
+      "band": [273.4, 288.6],
+      "engraved": false
+    },
+    {
+      "page": 653,
+      "service_part": "in",
+      "incipit": "Dicit Dominus: Ego cogito",
+      "target_page": 366,
+      "band": [288.6, 300.7],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 653,
+      "service_part": "in",
+      "incipit": "Reminiscere miserationum tuarum",
+      "target_page": 81,
+      "band": [300.7, 312.85],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 653,
+      "service_part": "gr",
+      "incipit": "Tribulationes cordis mei",
+      "target_page": 81,
+      "band": [312.85, 330.9],
+      "engraved": false
+    },
+    {
+      "page": 653,
+      "service_part": "gr",
+      "incipit": "Tu es Deus qui facis mirabilia",
+      "target_page": 275,
+      "band": [330.9, 354.95],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 653,
+      "service_part": "al",
+      "incipit": "Eripe me de inimicis meis",
+      "target_page": 308,
+      "band": [330.9, 354.95],
+      "engraved": false
+    },
+    {
+      "page": 653,
+      "service_part": "of",
+      "incipit": "Populum humilem salvum facies",
+      "target_page": 302,
+      "band": [330.9, 354.95],
+      "engraved": false
+    },
+    {
+      "page": 653,
+      "service_part": "co",
+      "incipit": "Inclina aurem tuam, accelera",
+      "target_page": 300,
+      "band": [354.95, 379.9],
+      "engraved": false
+    }
+  ]
+}

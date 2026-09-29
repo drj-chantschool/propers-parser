@@ -1,0 +1,54 @@
+{
+  "subsection": "stephen-of-hungary",
+  "label": "St Stephen of Hungary (S. STEPHANI HUNGARIAE, Die 16 augusti)",
+  "lit_epoch_slug": "stephen-of-hungary",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 593,
+      "service_part": "in",
+      "incipit": "In virtute tua ... laetabitur rex",
+      "target_page": 523,
+      "text_src": null,
+      "band": [207.1, 218.1],
+      "engraved": false
+    },
+    {
+      "page": 593,
+      "service_part": "gr",
+      "incipit": "Iustus ut palma",
+      "target_page": 510,
+      "text_src": null,
+      "band": [219.2, 230.2],
+      "engraved": false
+    },
+    {
+      "page": 593,
+      "service_part": "al",
+      "incipit": "Beatus vir qui suffert",
+      "target_page": 511,
+      "text_src": null,
+      "band": [230.8, 241.8],
+      "engraved": false
+    },
+    {
+      "page": 593,
+      "service_part": "of",
+      "incipit": "Veritas mea",
+      "target_page": 483,
+      "text_src": null,
+      "band": [242.3, 253.3],
+      "engraved": false
+    },
+    {
+      "page": 593,
+      "service_part": "co",
+      "incipit": "Beatus servus",
+      "target_page": 491,
+      "text_src": null,
+      "band": [255.1, 266.1],
+      "engraved": false,
+      "notes": "Printed as 'CO. Beatus servus, 491, cum ps. 71*.' — psalm-tone data not modeled."
+    }
+  ]
+}

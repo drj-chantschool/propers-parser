@@ -1,0 +1,143 @@
+{
+  "subsection": "pasc-ad-asc-03",
+  "label": "3rd week of Easter (Hebdomada III Paschae)",
+  "lit_epoch_slug": "PASC-AD_ASC-03",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 219,
+      "service_part": "in",
+      "mode": 8,
+      "incipit": "Iubilate Deo",
+      "text_src": "Ps. 65, 7. 2. 3",
+      "band": [215, 519],
+      "engraved": true
+    },
+    {
+      "page": 220,
+      "service_part": "al1",
+      "mode": 3,
+      "incipit": "Cognoverunt discipuli",
+      "text_src": "Lc. 24, 35",
+      "band": [80, 336],
+      "engraved": true
+    },
+    {
+      "page": 220,
+      "service_part": "al",
+      "mode": 4,
+      "incipit": "Oportebat pati Christum",
+      "text_src": "Lc. 24, 46",
+      "band": [336, 519],
+      "engraved": true
+    },
+    {
+      "page": 221,
+      "service_part": "of",
+      "mode": 4,
+      "incipit": "Lauda, anima mea",
+      "text_src": "Ps. 145, 2",
+      "band": [255, 519],
+      "engraved": true
+    },
+    {
+      "page": 222,
+      "service_part": "co",
+      "mode": 2,
+      "incipit": "Cantate Domino",
+      "text_src": "Ps. 95, 2",
+      "band": [25, 272],
+      "engraved": true
+    },
+    {
+      "page": 220,
+      "service_part": "in",
+      "incipit": "Repleatur os meum",
+      "target_page": 246,
+      "wkday": 4,
+      "band": [82, 106],
+      "engraved": false
+    },
+    {
+      "page": 221,
+      "service_part": "al",
+      "incipit": "Loquebar, Domine",
+      "target_page": 528,
+      "wkday": 2,
+      "band": [200, 255],
+      "engraved": false
+    },
+    {
+      "page": 221,
+      "service_part": "al",
+      "incipit": "In te, Domine, speravi",
+      "target_page": 296,
+      "wkday": 3,
+      "band": [200, 255],
+      "engraved": false
+    },
+    {
+      "page": 221,
+      "service_part": "al",
+      "incipit": "Caro mea",
+      "target_page": 378,
+      "wkday": 6,
+      "band": [200, 255],
+      "engraved": false
+    },
+    {
+      "page": 221,
+      "service_part": "al",
+      "incipit": "Spiritus est qui vivificat",
+      "target_page": 245,
+      "wkday": 7,
+      "band": [237, 255],
+      "engraved": false
+    },
+    {
+      "page": 222,
+      "service_part": "co",
+      "incipit": "Surrexit Dominus",
+      "target_page": 202,
+      "cycle_sun": 1,
+      "band": [272, 300],
+      "engraved": false
+    },
+    {
+      "page": 222,
+      "service_part": "co",
+      "incipit": "Simon Ioannis",
+      "target_page": 574,
+      "cycle_sun": 3,
+      "band": [280, 350],
+      "engraved": false
+    },
+    {
+      "page": 222,
+      "service_part": "co",
+      "incipit": "Video caelos apertos",
+      "target_page": 635,
+      "wkday": 3,
+      "band": [280, 350],
+      "engraved": false
+    },
+    {
+      "page": 222,
+      "service_part": "co",
+      "incipit": "Panis quem ego dedero",
+      "target_page": 322,
+      "wkday": 5,
+      "band": [308, 350],
+      "engraved": false
+    },
+    {
+      "page": 222,
+      "service_part": "co",
+      "incipit": "Qui manducat",
+      "target_page": 383,
+      "wkday": 6,
+      "band": [308, 350],
+      "engraved": false
+    }
+  ]
+}

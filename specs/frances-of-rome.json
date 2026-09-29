@@ -1,0 +1,48 @@
+{
+  "subsection": "frances-of-rome",
+  "label": "S. Franciscae Romanae, Religiosae (Die 9 martii)",
+  "lit_epoch_slug": "frances-of-rome",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 551,
+      "service_part": "in",
+      "incipit": "Cognovi, Domine",
+      "target_page": 525,
+      "band": [434, 445],
+      "engraved": false
+    },
+    {
+      "page": 551,
+      "service_part": "gr",
+      "incipit": "Diffusa est gratia",
+      "target_page": 408,
+      "band": [446, 457],
+      "engraved": false
+    },
+    {
+      "page": 551,
+      "service_part": "al",
+      "incipit": "Specie tua",
+      "target_page": 416,
+      "band": [458, 469],
+      "engraved": false
+    },
+    {
+      "page": 551,
+      "service_part": "of",
+      "incipit": "Diffusa est gratia",
+      "target_page": 421,
+      "band": [470, 481],
+      "engraved": false
+    },
+    {
+      "page": 551,
+      "service_part": "co",
+      "incipit": "Dilexisti iustitiam",
+      "target_page": 506,
+      "band": [482, 493],
+      "engraved": false
+    }
+  ]
+}

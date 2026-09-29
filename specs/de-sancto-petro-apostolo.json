@@ -1,0 +1,16 @@
+{
+  "subsection": "de-sancto-petro-apostolo",
+  "label": "Votive Mass of Saint Peter the Apostle — De sancto Petro apostolo",
+  "lit_epoch_slug": "de-sancto-petro-apostolo",
+  "chants": [
+    {
+      "page": 665,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "Solve, iubente Deo",
+      "band": [228, 505],
+      "engraved": true,
+      "notes": "Ut supra notatur pro festo Cathedrae S. Petri, 548, praeter: this Alleluia replaces the one from the Feb 22 Cathedra Petri Mass (chapter 3, loaded separately); all other parts (in/gr/of/co) of this votive Mass are inherited unchanged from that Mass and are NOT re-modeled here."
+    }
+  ]
+}

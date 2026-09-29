@@ -1,0 +1,120 @@
+{
+  "subsection": "pro-evangelizatione-populorum",
+  "label": "For the Evangelization of Peoples — Pro evangelizatione populorum",
+  "lit_epoch_slug": "pro-evangelizatione-populorum",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 652,
+      "service_part": "in",
+      "incipit": "Omnes gentes, plaudite manibus",
+      "target_page": 297,
+      "band": [55, 68],
+      "engraved": false
+    },
+    {
+      "page": 652,
+      "service_part": "in",
+      "incipit": "Omnis terra adoret te",
+      "target_page": 260,
+      "band": [68, 80],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 652,
+      "service_part": "in",
+      "incipit": "Vocem iucunditatis annuntiate",
+      "target_page": 229,
+      "band": [80, 104],
+      "engraved": false,
+      "option_txt": "Tempore paschali :"
+    },
+    {
+      "page": 652,
+      "service_part": "gr",
+      "incipit": "Domine, Dominus noster",
+      "target_page": 308,
+      "band": [104, 116],
+      "engraved": false
+    },
+    {
+      "page": 652,
+      "service_part": "gr",
+      "incipit": "Timebunt gentes nomen tuum",
+      "target_page": 265,
+      "band": [116, 128],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 652,
+      "service_part": "al",
+      "incipit": "Confitemini et invocate",
+      "target_page": 340,
+      "band": [128, 140],
+      "engraved": false
+    },
+    {
+      "page": 652,
+      "service_part": "al",
+      "incipit": "Dominus regnavit, exsultet terra",
+      "target_page": 266,
+      "band": [140, 152],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 652,
+      "service_part": "al",
+      "incipit": "Laudate Dominum, omnes gentes",
+      "target_page": 273,
+      "band": [152, 164],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 652,
+      "service_part": "al",
+      "incipit": "Omnes gentes, plaudite manibus",
+      "target_page": 298,
+      "band": [164, 176],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 652,
+      "service_part": "al",
+      "incipit": "Timebunt gentes nomen tuum",
+      "target_page": 337,
+      "band": [176, 189],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 652,
+      "service_part": "of",
+      "incipit": "In omnem terram exivit",
+      "target_page": 435,
+      "band": [189, 201],
+      "engraved": false
+    },
+    {
+      "page": 652,
+      "service_part": "co",
+      "incipit": "Data est mihi omnis potestas",
+      "target_page": 213,
+      "band": [201, 213],
+      "engraved": false
+    },
+    {
+      "page": 652,
+      "service_part": "co",
+      "incipit": "Domine, Dominus noster",
+      "target_page": 357,
+      "band": [213, 248],
+      "engraved": false,
+      "option_txt": "Tempore Quadragesimae :"
+    }
+  ]
+}

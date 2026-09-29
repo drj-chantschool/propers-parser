@@ -1,0 +1,41 @@
+{
+  "subsection": "tq-lent-02-4",
+  "label": "Lent — Week 2, Wednesday (Feria Quarta)",
+  "lit_epoch_slug": "TQ-LENT-02-4",
+  "wkday": 4,
+  "chants": [
+    {
+      "page": 93,
+      "service_part": "in",
+      "incipit": "Ne derelinquas me",
+      "target_page": 360,
+      "band": [238, 250],
+      "engraved": false
+    },
+    {
+      "page": 93,
+      "service_part": "gr",
+      "incipit": "Salvum fac populum tuum",
+      "target_page": 354,
+      "band": [246, 263],
+      "engraved": false
+    },
+    {
+      "page": 93,
+      "service_part": "of",
+      "incipit": "Ad te Domine levavi",
+      "target_page": 17,
+      "band": [260, 277],
+      "engraved": false
+    },
+    {
+      "page": 93,
+      "service_part": "co",
+      "mode": 5,
+      "incipit": "Justus Dominus",
+      "text_src": "Ps. 10, 7",
+      "band": [282, 485],
+      "engraved": true
+    }
+  ]
+}

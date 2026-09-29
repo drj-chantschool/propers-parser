@@ -1,0 +1,28 @@
+{
+  "subsection": "com-ded-ipsa",
+  "label": "Anniversary of the Dedication of a Church — in the dedicated church (Gregorian Missal)",
+  "lit_epoch_slug": "COM-DED-IPSA",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 679,
+      "vernacular_text": "How awesome this place is! This is the house of God and the gateway to heaven; and it will be called the courtyard of God. ℣. How lovely is your tabernacle, O Lord of hosts! My soul longs and pines after the courts of the Lord.",
+      "text_src": "Gen 28:17,22; Ps 83",
+      "cycle_sun": null,
+      "option_num": 1,
+      "option_txt": null,
+      "gm_xref_page": null
+    },
+    {
+      "service_part": "gr",
+      "page": 682,
+      "vernacular_text": "This place is the work of God, a mystery surpassing all comprehension, above all reproach. ℣. O God, before whom a choir of Angels stands, answer the prayers of your servants.",
+      "text_src": null,
+      "cycle_sun": null,
+      "option_num": 1,
+      "option_txt": null,
+      "gm_xref_page": null
+    }
+  ]
+}

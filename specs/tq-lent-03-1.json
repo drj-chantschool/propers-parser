@@ -1,0 +1,80 @@
+{
+  "subsection": "tq-lent-03-1",
+  "label": "Lent — 3rd Sunday (Dominica III in Quadragesima)",
+  "lit_epoch_slug": "TQ-LENT-03-1",
+  "wkday": 1,
+  "chants": [
+    {
+      "page": 96,
+      "service_part": "in",
+      "mode": 7,
+      "incipit": "Oculi mei",
+      "text_src": "Ps. 24, 15. 16 et 1-2",
+      "band": [85, 415],
+      "engraved": true
+    },
+    {
+      "page": 96,
+      "service_part": "in",
+      "incipit": "Dum sanctificatus fuero",
+      "target_page": 249,
+      "band": [418, 433],
+      "engraved": false,
+      "option_txt": "Vel:"
+    },
+    {
+      "page": 96,
+      "service_part": "gr",
+      "mode": 3,
+      "incipit": "Exsurge, non praevaleat homo",
+      "text_src": "Ps. 9, 20. V. 4",
+      "band": [434, 519],
+      "engraved": true
+    },
+    {
+      "page": 97,
+      "service_part": "tr",
+      "mode": 8,
+      "incipit": "Ad te levavi oculos meos",
+      "text_src": "Ps. 122, 1-3",
+      "band": [425, 519],
+      "engraved": true
+    },
+    {
+      "page": 99,
+      "service_part": "of",
+      "incipit": "Iustitiae Domini",
+      "target_page": 309,
+      "band": [85, 101],
+      "engraved": false
+    },
+    {
+      "page": 99,
+      "service_part": "co",
+      "mode": 3,
+      "incipit": "Qui biberit aquam",
+      "text_src": "Io. 4, 13. 14",
+      "band": [103, 285],
+      "engraved": true
+    },
+    {
+      "page": 99,
+      "service_part": "co",
+      "mode": 7,
+      "incipit": "Qui biberit aquam (altera melodia)",
+      "text_src": "Io. 4, 13. 14",
+      "band": [297, 470],
+      "engraved": true,
+      "option_txt": "Melodia altera:"
+    },
+    {
+      "page": 99,
+      "service_part": "co",
+      "incipit": "Passer invenit",
+      "target_page": 306,
+      "band": [473, 500],
+      "engraved": false,
+      "option_txt": "Quando legitur aliud Evangelium:"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "subsection": "nat-oct",
+  "label": "Solemnity of Mary, Mother of God",
+  "lit_epoch_slug": "NAT-OCT",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 53,
+      "service_part": "in",
+      "incipit": "Salve, sancta Parens",
+      "target_page": 403,
+      "band": [186, 210],
+      "engraved": false
+    },
+    {
+      "page": 53,
+      "service_part": "in",
+      "incipit": "Lux fulgebit",
+      "target_page": 44,
+      "option_txt": "—",
+      "band": [210, 230],
+      "engraved": false
+    },
+    {
+      "page": 53,
+      "service_part": "gr",
+      "incipit": "Diffusa est gratia",
+      "target_page": 408,
+      "band": [210, 230],
+      "engraved": false
+    },
+    {
+      "page": 53,
+      "service_part": "al",
+      "incipit": "Post partum, Virgo",
+      "target_page": 414,
+      "band": [230, 243],
+      "engraved": false
+    },
+    {
+      "page": 53,
+      "service_part": "al",
+      "incipit": "Multifarie",
+      "target_page": 52,
+      "option_txt": "—",
+      "band": [243, 254],
+      "engraved": false
+    },
+    {
+      "page": 53,
+      "service_part": "of",
+      "incipit": "Felix namque es",
+      "target_page": 422,
+      "band": [254, 267],
+      "engraved": false
+    },
+    {
+      "page": 53,
+      "service_part": "co",
+      "incipit": "Exsulta, filia Sion",
+      "target_page": 47,
+      "band": [267, 309],
+      "engraved": false
+    }
+  ]
+}

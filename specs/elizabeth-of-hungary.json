@@ -1,0 +1,73 @@
+{
+  "subsection": "elizabeth-of-hungary",
+  "label": "S. Elisabeth Hungariae, Religiosae (Die 17 novembris)",
+  "lit_epoch_slug": "elizabeth-of-hungary",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 623,
+      "service_part": "in",
+      "incipit": "Cognovi, Domine",
+      "target_page": 525,
+      "band": [
+        355,
+        372
+      ],
+      "engraved": false,
+      "text_src": null,
+      "notes": "PRINTED chant of the day: p623 prints 'IN. Cognovi, et alii cantus ut supra die 16 novembris.' 17 November prints no page for it; p525 is taken from the 16 November line 'IN. Cognovi, Domine, 525.' 16 November carries two Masses (S. Margaritae Scotiae, then Eodem die S. Gertrudis); the named incipit Cognovi identifies Margaret's, since Gertrude's introit is Dilexisti iustitiam. Ruled by the user 2026-09-05."
+    },
+    {
+      "page": 623,
+      "service_part": "gr",
+      "incipit": "Diffusa est gratia in labiis tuis",
+      "target_page": 408,
+      "band": [
+        355,
+        372
+      ],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Materialized from `margaret-of-scotland` (S. Margaritae Scotiae, 16 November) per the printed rubric ‘IN. Cognovi, et alii cantus ut supra die 16 novembris.’ — this day prints no chant lines of its own. printed_page_num is this day's page 623 (where the rubric is printed); ref_page_num 408 is where the chant is engraved."
+    },
+    {
+      "page": 623,
+      "service_part": "al",
+      "incipit": "Specie tua et pulchritudine tua",
+      "target_page": 416,
+      "band": [
+        355,
+        372
+      ],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Materialized from `margaret-of-scotland` (S. Margaritae Scotiae, 16 November) per the printed rubric ‘IN. Cognovi, et alii cantus ut supra die 16 novembris.’ — this day prints no chant lines of its own. printed_page_num is this day's page 623 (where the rubric is printed); ref_page_num 416 is where the chant is engraved."
+    },
+    {
+      "page": 623,
+      "service_part": "of",
+      "incipit": "Diffusa est gratia in labiis tuis",
+      "target_page": 421,
+      "band": [
+        355,
+        372
+      ],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Materialized from `margaret-of-scotland` (S. Margaritae Scotiae, 16 November) per the printed rubric ‘IN. Cognovi, et alii cantus ut supra die 16 novembris.’ — this day prints no chant lines of its own. printed_page_num is this day's page 623 (where the rubric is printed); ref_page_num 421 is where the chant is engraved."
+    },
+    {
+      "page": 623,
+      "service_part": "co",
+      "incipit": "Dilexisti iustitiam",
+      "target_page": 506,
+      "band": [
+        355,
+        372
+      ],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Materialized from `margaret-of-scotland` (S. Margaritae Scotiae, 16 November) per the printed rubric ‘IN. Cognovi, et alii cantus ut supra die 16 novembris.’ — this day prints no chant lines of its own. printed_page_num is this day's page 623 (where the rubric is printed); ref_page_num 506 is where the chant is engraved."
+    }
+  ]
+}

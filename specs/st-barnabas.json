@@ -1,0 +1,119 @@
+{
+  "subsection": "st-barnabas",
+  "label": "S. Barnabae, Apostoli (Die 11 iunii)",
+  "lit_epoch_slug": "st-barnabas",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 566,
+      "service_part": "in",
+      "incipit": "Mihi autem nimis",
+      "target_page": 425,
+      "band": [
+        423.9,
+        434.4
+      ],
+      "engraved": false,
+      "notes": "p566 prints, after the five default citations, 'T. P., cantus ut in festo S. Matthiae, die 14 maii, 562.' — whole-Mass Paschaltide inheritance from St Matthias (14 May). Per the user's 2026-09-05 ruling the inherited paschal chants are now MATERIALIZED as additional option rows on this day (see the 'T. P.' options below and the part_id=0 MASS.all pointer row)."
+    },
+    {
+      "page": 566,
+      "service_part": "gr",
+      "incipit": "In omnem terram",
+      "target_page": 427,
+      "band": [
+        436.0,
+        446.6
+      ],
+      "engraved": false
+    },
+    {
+      "page": 566,
+      "service_part": "al",
+      "incipit": "Ego vos elegi",
+      "target_page": 429,
+      "band": [
+        448.1,
+        458.6
+      ],
+      "engraved": false,
+      "notes": "Matthias' paschal Alleluia (p562 'AL. Ego vos elegi, 429.') is THIS SAME CHANT (gregobase 1030, chant_group 1030), so the inherited T. P. Alleluia adds no new row: the loader dedups on slot + chant_group ignoring option_num, and a second row would silently overwrite this one. The Paschaltide use is recorded here instead. See the part_id=0 MASS.all pointer row for the rubric."
+    },
+    {
+      "page": 566,
+      "service_part": "of",
+      "incipit": "Constitues eos",
+      "target_page": 434,
+      "band": [
+        460.0,
+        470.0
+      ],
+      "engraved": false
+    },
+    {
+      "page": 566,
+      "service_part": "co",
+      "incipit": "Vos qui secuti estis me",
+      "target_page": 438,
+      "band": [
+        471.0,
+        483.0
+      ],
+      "engraved": false,
+      "option_txt": "V",
+      "notes": "Printed as 'CO. Vos qui secuti estis me, 438, V vel VI, cum ps. 30*.' — this row is option V (gregobase 1028, mode 1). Psalm-tone data (cum ps. 30*) not modeled."
+    },
+    {
+      "page": 566,
+      "service_part": "co",
+      "incipit": "Vos qui secuti estis me dicit Dominus",
+      "target_page": 438,
+      "band": [
+        471.0,
+        483.0
+      ],
+      "engraved": false,
+      "option_txt": "vel VI",
+      "notes": "Printed as 'CO. Vos qui secuti estis me, 438, V vel VI, cum ps. 30*.' — the trailing 'V vel VI' are option markers (the 5th and 6th communio on p438), not modes. This row is option VI; its incipit is extended to the p438 index's full form because the shorter printed form is a prefix of it and would not disambiguate. Psalm-tone data (cum ps. 30*) not modeled."
+    },
+    {
+      "page": 566,
+      "service_part": "in",
+      "incipit": "Vocem iucunditatis",
+      "target_page": 229,
+      "band": [
+        486,
+        500
+      ],
+      "engraved": false,
+      "option_txt": "T. P., cantus ut in festo S. Matthiae, die 14 maii, 562.",
+      "notes": "Materialized from `matthias` (S. Matthiae, 14 May, GR p562 — its default block, which is the paschal one) per the printed rubric ‘T. P., cantus ut in festo S. Matthiae, die 14 maii, 562.’ — an ADDITIONAL Paschaltide option; the day's own default chants above are untouched. printed_page_num is 11 June's page 566; ref_page_num is where the chant is engraved. Matthias' paschal block prints 'IN. Vocem iucunditatis, 229.'"
+    },
+    {
+      "page": 566,
+      "service_part": "of",
+      "incipit": "Repleti sumus",
+      "target_page": 441,
+      "band": [
+        486,
+        500
+      ],
+      "engraved": false,
+      "option_txt": "T. P., cantus ut in festo S. Matthiae, die 14 maii, 562.",
+      "notes": "Materialized from `matthias` (S. Matthiae, 14 May, GR p562 — its default block, which is the paschal one) per the printed rubric ‘T. P., cantus ut in festo S. Matthiae, die 14 maii, 562.’ — an ADDITIONAL Paschaltide option; the day's own default chants above are untouched. printed_page_num is 11 June's page 566; ref_page_num is where the chant is engraved. Matthias' paschal block prints 'OF. Repleti sumus, 441.'"
+    },
+    {
+      "page": 566,
+      "service_part": "co",
+      "incipit": "Ego vos elegi",
+      "target_page": 436,
+      "band": [
+        486,
+        500
+      ],
+      "engraved": false,
+      "option_txt": "T. P., cantus ut in festo S. Matthiae, die 14 maii, 562.",
+      "notes": "Materialized from `matthias` (S. Matthiae, 14 May, GR p562 — its default block, which is the paschal one) per the printed rubric ‘T. P., cantus ut in festo S. Matthiae, die 14 maii, 562.’ — an ADDITIONAL Paschaltide option; the day's own default chants above are untouched. printed_page_num is 11 June's page 566; ref_page_num is where the chant is engraved. Matthias' paschal block prints 'CO. Ego vos elegi, 436.'"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "subsection": "ss-peter-paul",
+  "label": "Saints Peter and Paul, Apostles (SS. PETRI ET PAULI, APOSTOLORUM, Die 29 iunii) — Ad Missam in Die",
+  "lit_epoch_slug": "ss-peter-paul",
+  "chants": [
+    {
+      "page": 575,
+      "service_part": "in",
+      "mode": 3,
+      "incipit": "Nunc scio vere",
+      "text_src": "Act. 12, 11; Ps. 138",
+      "band": [40, 502],
+      "engraved": true
+    },
+    {
+      "page": 576,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "Constitues eos principes",
+      "text_src": "Ps. 44, 17. V. 18",
+      "band": [25, 440],
+      "engraved": true
+    },
+    {
+      "page": 576,
+      "service_part": "al",
+      "mode": 2,
+      "incipit": "Tu es Petrus",
+      "text_src": "Mt. 16, 18",
+      "band": [440, 502],
+      "engraved": true
+    },
+    {
+      "page": 577,
+      "service_part": "of",
+      "incipit": "Constitues eos principes",
+      "target_page": 434,
+      "band": [199, 216],
+      "engraved": false
+    },
+    {
+      "page": 577,
+      "service_part": "co",
+      "mode": 6,
+      "incipit": "Tu es Petrus",
+      "text_src": "Mt. 16, 18",
+      "band": [216, 352],
+      "engraved": true,
+      "notes": "p577 prints below this communion: 'Ps. 79*, 2 ab. 8. 9. 10. 11. 12. 15. 16. 18. 19. 20' - a psalm-tone/verse plan for the communion, not a chant and not a target page; psalm-tone data not modeled."
+    }
+  ]
+}

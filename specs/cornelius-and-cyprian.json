@@ -1,0 +1,50 @@
+{
+  "subsection": "cornelius-and-cyprian",
+  "label": "Sts. Cornelius, Pope, and Cyprian, Bishop, Martyrs (Die 16 septembris)",
+  "lit_epoch_slug": "cornelius-and-cyprian",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 605,
+      "service_part": "in",
+      "incipit": "Clamaverunt iusti",
+      "target_page": 450,
+      "band": [439.7, 451.2],
+      "engraved": false
+    },
+    {
+      "page": 605,
+      "service_part": "gr",
+      "incipit": "Gloriosus Deus in sanctis",
+      "target_page": 456,
+      "band": [452.7, 475.1],
+      "engraved": false,
+      "notes": "GR and AL citation lines share one text block on p605; band spans both."
+    },
+    {
+      "page": 605,
+      "service_part": "al",
+      "incipit": "Corpora sanctorum",
+      "target_page": 459,
+      "band": [452.7, 475.1],
+      "engraved": false,
+      "notes": "GR and AL citation lines share one text block on p605; band spans both."
+    },
+    {
+      "page": 605,
+      "service_part": "of",
+      "incipit": "Mirabilis Deus",
+      "target_page": 469,
+      "band": [476.7, 486.9],
+      "engraved": false
+    },
+    {
+      "page": 605,
+      "service_part": "co",
+      "incipit": "Et si coram hominibus",
+      "target_page": 470,
+      "band": [488.6, 498.8],
+      "engraved": false
+    }
+  ]
+}

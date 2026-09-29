@@ -1,0 +1,48 @@
+{
+  "subsection": "lateran-basilica",
+  "label": "The Dedication of the Lateran Basilica (Die 9 novembris)",
+  "lit_epoch_slug": "lateran-basilica",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 621,
+      "service_part": "in",
+      "incipit": "Deus in loco sancto suo",
+      "target_page": 310,
+      "band": [178, 204.3],
+      "engraved": false
+    },
+    {
+      "page": 621,
+      "service_part": "gr",
+      "incipit": "Laetatus sum",
+      "target_page": 336,
+      "band": [204.3, 217.1],
+      "engraved": false
+    },
+    {
+      "page": 621,
+      "service_part": "al",
+      "incipit": "Bene fundata est domus",
+      "target_page": 399,
+      "band": [217.1, 229.05],
+      "engraved": false
+    },
+    {
+      "page": 621,
+      "service_part": "of",
+      "incipit": "Domine Deus, in simplicitate cordis",
+      "target_page": 401,
+      "band": [229.05, 240.5],
+      "engraved": false
+    },
+    {
+      "page": 621,
+      "service_part": "co",
+      "incipit": "Ierusalem, quae aedificatur",
+      "target_page": 370,
+      "band": [240.5, 260],
+      "engraved": false
+    }
+  ]
+}

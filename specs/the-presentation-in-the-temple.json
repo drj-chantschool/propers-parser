@@ -1,0 +1,159 @@
+{
+  "subsection": "the-presentation-in-the-temple",
+  "label": "The Presentation in the Temple (In Praesentatione Domini, Die 2 februarii)",
+  "lit_epoch_slug": "the-presentation-in-the-temple",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 543,
+      "service_part": "in",
+      "mode": 1,
+      "incipit": "Suscepimus Deus",
+      "text_src": "Ps. 47, 10. 11 et 2",
+      "band": [
+        199,
+        510
+      ],
+      "engraved": true
+    },
+    {
+      "page": 544,
+      "service_part": "in",
+      "incipit": "Ecce advenit",
+      "target_page": 56,
+      "option_txt": "Vel IN.",
+      "band": [
+        83,
+        97
+      ],
+      "engraved": false
+    },
+    {
+      "page": 544,
+      "service_part": "gr",
+      "incipit": "Suscepimus",
+      "target_page": 360,
+      "band": [
+        117,
+        130
+      ],
+      "engraved": false
+    },
+    {
+      "page": 544,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "Senex puerum portabat",
+      "band": [
+        136,
+        386
+      ],
+      "engraved": true
+    },
+    {
+      "page": 544,
+      "service_part": "of",
+      "incipit": "Diffusa est gratia",
+      "target_page": 421,
+      "band": [
+        432,
+        445
+      ],
+      "engraved": false
+    },
+    {
+      "page": 544,
+      "service_part": "co",
+      "mode": 8,
+      "incipit": "Responsum accepit Simeon",
+      "text_src": "Lc. 2, 26",
+      "band": [
+        446,
+        510
+      ],
+      "engraved": true
+    },
+    {
+      "page": 539,
+      "service_part": "candan",
+      "mode": 3,
+      "incipit": "Ecce Dominus noster",
+      "text_src": "Is. 35, 4. 5",
+      "band": [
+        168,
+        300
+      ],
+      "engraved": true
+    },
+    {
+      "page": 539,
+      "service_part": "candan",
+      "incipit": "Lumen ad revelationem gentium",
+      "target_page": 540,
+      "option_txt": "Vel ant.",
+      "band": [
+        309,
+        326
+      ],
+      "engraved": false
+    },
+    {
+      "page": 539,
+      "service_part": "candproc",
+      "mode": null,
+      "incipit": "Procedamus in pace",
+      "text_src": null,
+      "band": [
+        344,
+        502
+      ],
+      "engraved": true
+    },
+    {
+      "page": 540,
+      "service_part": "candan1",
+      "mode": 8,
+      "incipit": "Lumen ad revelationem gentium",
+      "band": [
+        37,
+        362
+      ],
+      "engraved": true
+    },
+    {
+      "page": 540,
+      "service_part": "candan2",
+      "mode": 6,
+      "incipit": "Adorna thalamum tuum, Sion",
+      "band": [
+        372,
+        503
+      ],
+      "engraved": true
+    },
+    {
+      "page": 541,
+      "service_part": "candan3",
+      "mode": 2,
+      "incipit": "Responsum accepit Simeon a Spiritu Sancto",
+      "text_src": "Cf. Lc. 2, 26-29",
+      "band": [
+        323,
+        502
+      ],
+      "engraved": true
+    },
+    {
+      "page": 542,
+      "service_part": "candre",
+      "mode": 2,
+      "incipit": "Obtulerunt pro eo Domino par turturum",
+      "text_src": "Lc. 2, 24. 23. V. 22",
+      "band": [
+        232,
+        505
+      ],
+      "engraved": true
+    }
+  ]
+}

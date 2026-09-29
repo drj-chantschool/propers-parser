@@ -1,0 +1,26 @@
+{
+  "subsection": "com-apost-tp-apost",
+  "label": "Common of Apostles or Martyrs in Paschaltide — Pro Apostolis",
+  "lit_epoch_slug": "COM-APOST-TP-APOST",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 439,
+      "service_part": "co",
+      "incipit": "Data est mihi",
+      "text_src": null,
+      "target_page": 213,
+      "band": [140, 168],
+      "engraved": false
+    },
+    {
+      "page": 439,
+      "service_part": "co",
+      "incipit": "Spiritus Sanctus docebit vos",
+      "text_src": null,
+      "target_page": 232,
+      "band": [169, 206],
+      "engraved": false
+    }
+  ]
+}

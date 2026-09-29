@@ -1,0 +1,76 @@
+{
+  "subsection": "pro-gratiis-deo-reddendis",
+  "label": "For Giving Thanks to God — Pro gratiis Deo reddendis",
+  "lit_epoch_slug": "pro-gratiis-deo-reddendis",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 655,
+      "service_part": "in",
+      "incipit": "Ego autem in Domino speravi",
+      "target_page": 111,
+      "band": [456, 473],
+      "engraved": false
+    },
+    {
+      "page": 655,
+      "service_part": "in",
+      "incipit": "Accipite iucunditatem",
+      "target_page": 243,
+      "band": [473, 500],
+      "engraved": false,
+      "option_txt": "Tempore paschali :"
+    },
+    {
+      "page": 655,
+      "service_part": "gr",
+      "incipit": "Benedicam Dominum",
+      "target_page": 316,
+      "band": [38, 50],
+      "engraved": false
+    },
+    {
+      "page": 656,
+      "service_part": "al",
+      "mode": 7,
+      "incipit": "Exsultabo et laetabor in misericordia tua",
+      "text_src": "Ps. 30, 8",
+      "band": [50, 420],
+      "engraved": true
+    },
+    {
+      "page": 656,
+      "service_part": "al",
+      "incipit": "Venite, exsultemus Domino",
+      "target_page": 324,
+      "band": [420, 465],
+      "engraved": false,
+      "option_txt": "Vel:"
+    },
+    {
+      "page": 656,
+      "service_part": "of",
+      "incipit": "Benedic, anima mea, Domino",
+      "target_page": 362,
+      "band": [465, 480],
+      "engraved": false
+    },
+    {
+      "page": 656,
+      "service_part": "of",
+      "incipit": "Benedicite, gentes, Dominum",
+      "target_page": 231,
+      "band": [480, 505],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 656,
+      "service_part": "co",
+      "incipit": "Tollite hostias et introite",
+      "target_page": 338,
+      "band": [480, 505],
+      "engraved": false
+    }
+  ]
+}

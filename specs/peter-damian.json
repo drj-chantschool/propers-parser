@@ -1,0 +1,49 @@
+{
+  "subsection": "peter-damian",
+  "label": "Peter Damian (S. PETRI DAMIANI, EPISCOPI ET ECCL. DOCTORIS, Die 21 februarii)",
+  "lit_epoch_slug": "peter-damian",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 548,
+      "service_part": "in",
+      "incipit": "Lex Domini irreprehensibilis",
+      "target_page": 86,
+      "band": [205.3, 215.9],
+      "engraved": false
+    },
+    {
+      "page": 548,
+      "service_part": "gr",
+      "incipit": "Beatus vir qui timet",
+      "target_page": 475,
+      "band": [217.6, 240.1],
+      "engraved": false,
+      "notes": "GR and AL citation lines share a single OCR text block on p548 (y217.6-240.1), so the computed bbox unions both lines."
+    },
+    {
+      "page": 548,
+      "service_part": "al",
+      "incipit": "Qui sequitur me",
+      "target_page": 480,
+      "band": [217.6, 240.1],
+      "engraved": false
+    },
+    {
+      "page": 548,
+      "service_part": "of",
+      "incipit": "Inveni David",
+      "target_page": 447,
+      "band": [241.7, 252.1],
+      "engraved": false
+    },
+    {
+      "page": 548,
+      "service_part": "co",
+      "incipit": "Qui vult venire post me",
+      "target_page": 484,
+      "band": [253.9, 264.3],
+      "engraved": false
+    }
+  ]
+}

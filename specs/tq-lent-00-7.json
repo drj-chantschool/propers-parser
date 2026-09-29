@@ -1,0 +1,44 @@
+{
+  "subsection": "tq-lent-00-7",
+  "label": "Lent — Saturday after Ash Wednesday (Sabbato post Cineres)",
+  "lit_epoch_slug": "TQ-LENT-00-7",
+  "wkday": 7,
+  "chants": [
+    {
+      "page": 69,
+      "service_part": "in",
+      "mode": 7,
+      "incipit": "Exaudi nos, Domine",
+      "text_src": "Ps. 68, 17 et 2",
+      "band": [56, 376],
+      "engraved": true,
+      "office_part": "an"
+    },
+    {
+      "page": 69,
+      "service_part": "gr",
+      "mode": 3,
+      "incipit": "Adiutor in opportunitatibus",
+      "text_src": "Ps. 9, 10. 11. V. 19. 20",
+      "band": [377, 506],
+      "engraved": true
+    },
+    {
+      "page": 70,
+      "service_part": "of",
+      "incipit": "Domine, convertere",
+      "target_page": 283,
+      "band": [485, 500],
+      "engraved": false
+    },
+    {
+      "page": 71,
+      "service_part": "co",
+      "mode": 6,
+      "incipit": "Voce mea",
+      "text_src": "Ps. 3, 5. 7",
+      "band": [24, 276],
+      "engraved": true
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "subsection": "ot-ot-07",
+  "label": "7th week of Ordinary Time (Hebdomada VII per annum)",
+  "lit_epoch_slug": "OT-OT-07",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 278,
+      "service_part": "in",
+      "mode": 5,
+      "incipit": "Domine, in tua misericordia",
+      "text_src": "Ps. 12, 6 et 1",
+      "band": [277, 505],
+      "engraved": true
+    },
+    {
+      "page": 279,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "Ego dixi: Domine",
+      "text_src": "Ps. 40, 5. V. 2",
+      "band": [124, 505],
+      "engraved": true
+    },
+    {
+      "page": 280,
+      "service_part": "al",
+      "mode": 2,
+      "incipit": "Verba mea",
+      "text_src": "Ps. 5, 2",
+      "band": [127, 292],
+      "engraved": true
+    },
+    {
+      "page": 280,
+      "service_part": "of",
+      "mode": 5,
+      "incipit": "Intende voci",
+      "text_src": "Ps. 5, 3. 4",
+      "band": [291, 508],
+      "engraved": true
+    },
+    {
+      "page": 281,
+      "service_part": "co",
+      "mode": 2,
+      "incipit": "Narrabo",
+      "text_src": "Ps. 9, 2. 3",
+      "band": [25, 220],
+      "engraved": true
+    },
+    {
+      "page": 280,
+      "service_part": "gr",
+      "incipit": "Iacta cogitatum",
+      "target_page": 285,
+      "wkday": 3,
+      "cycle_wkday": 2,
+      "band": [82, 115],
+      "engraved": false
+    },
+    {
+      "page": 280,
+      "service_part": "gr",
+      "incipit": "Dirigatur",
+      "target_page": 340,
+      "wkday": 7,
+      "cycle_wkday": 2,
+      "band": [107, 127],
+      "engraved": false
+    }
+  ]
+}

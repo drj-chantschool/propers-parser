@@ -1,0 +1,48 @@
+{
+  "subsection": "st-john-damascene",
+  "label": "St. John Damascene (S. Ioannis Damasceni, Presbyteri et Ecclesiae Doctoris, Die 4 decembris)",
+  "lit_epoch_slug": "st-john-damascene",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 627,
+      "service_part": "in",
+      "incipit": "Meditatio cordis mei",
+      "target_page": 103,
+      "band": [226.1, 237.1],
+      "engraved": false
+    },
+    {
+      "page": 627,
+      "service_part": "gr",
+      "incipit": "Os iusti meditabitur",
+      "target_page": 494,
+      "band": [238.2, 249.2],
+      "engraved": false
+    },
+    {
+      "page": 627,
+      "service_part": "al",
+      "incipit": "Iustus non conturbabitur",
+      "target_page": 479,
+      "band": [250.3, 261.3],
+      "engraved": false
+    },
+    {
+      "page": 627,
+      "service_part": "of",
+      "incipit": "Bonum est confiteri",
+      "target_page": 369,
+      "band": [261.8, 272.8],
+      "engraved": false
+    },
+    {
+      "page": 627,
+      "service_part": "co",
+      "incipit": "Narrabo omnia",
+      "target_page": 281,
+      "band": [274.4, 285.4],
+      "engraved": false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "subsection": "matthew",
+  "label": "St. Matthew, Apostle and Evangelist (Die 21 septembris)",
+  "lit_epoch_slug": "matthew",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 606,
+      "service_part": "in",
+      "incipit": "Os iusti meditabitur",
+      "target_page": 494,
+      "band": [326.4, 336.8],
+      "engraved": false
+    },
+    {
+      "page": 606,
+      "service_part": "gr",
+      "incipit": "Beatus vir qui timet",
+      "target_page": 475,
+      "band": [338.5, 348.9],
+      "engraved": false
+    },
+    {
+      "page": 606,
+      "service_part": "al",
+      "incipit": "Te gloriosus",
+      "target_page": 432,
+      "band": [350.6, 360.9],
+      "engraved": false
+    },
+    {
+      "page": 606,
+      "service_part": "of",
+      "incipit": "Posuisti, Domine",
+      "target_page": 482,
+      "band": [362.5, 372.9],
+      "engraved": false
+    },
+    {
+      "page": 606,
+      "service_part": "co",
+      "incipit": "Magna est gloria eius",
+      "target_page": 437,
+      "band": [373.6, 385.0],
+      "engraved": false
+    }
+  ]
+}

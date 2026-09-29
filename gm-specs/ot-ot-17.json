@@ -1,0 +1,65 @@
+{
+  "subsection": "ot-ot-17",
+  "label": "17th Sunday in Ordinary Time (Gregorian Missal)",
+  "lit_epoch_slug": "OT-OT-17",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 509,
+      "vernacular_text": "God is in his holy dwelling place; the God who causes us to dwell together, one at heart, in his house; he himself will give power and strength to his people. ℣. Let God arise, and let his enemies be scattered; and let those who hate him flee before his face.",
+      "text_src": "Ps 67: 6, 7, 36 and 2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 510,
+      "vernacular_text": "In God has my heart placed its trust and I have been helped; and my flesh has flowered anew, and with all my desire I will give thanks unto him. ℣. Unto you, O Lord, do I cry; O my God, do not remain silent, depart not from me.",
+      "text_src": "Ps 27: 7, ℣.1",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 511,
+      "vernacular_text": "The eyes of all look towards you in hope, O Lord; and you give them their food in due season. ℣. You open your hand and fill every living thing with your blessings.",
+      "text_src": "Ps 144: 15, ℣.16",
+      "cycle_sun": 2,
+      "gm_xref_page": 414
+    },
+    {
+      "service_part": "al",
+      "page": 511,
+      "vernacular_text": "Rejoice in honour of God our helper; shout for joy to the God of Jacob; intone a most beautiful psalm with the harp.",
+      "text_src": "Ps 80: 2, 3",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 512,
+      "vernacular_text": "I will extol you, O Lord, for you have drawn me up, and have not allowed my enemies to rejoice over me; O Lord, I called out unto you, and you healed me.",
+      "text_src": "Ps 29: 2, 3",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 513,
+      "vernacular_text": "The kingdom of heaven is like unto a merchant seeking fine pearls; having found one of great worth, he went and sold all that he had, and he bought it.",
+      "text_src": "Mt 13: 45, 46",
+      "cycle_sun": 1
+    },
+    {
+      "service_part": "co",
+      "page": 513,
+      "vernacular_text": "Honour the Lord with your substance and with the first fruits of all your produce; then shall your barns be filled with abundance, and your presses shall run over with wine.",
+      "text_src": "Prov 3: 9, 10",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 514,
+      "vernacular_text": "Ask, and you will receive; seek, and you shall find; knock, and it shall be opened to you; for all who ask, receive, he who seeks, finds, and to him who knocks it shall be opened, alleluia.",
+      "text_src": "Lk 11: 9, 10; cf. Mt 7: 7, 8 and 10: 1",
+      "cycle_sun": 3
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "subsection": "basilicas-of-peter-and-paul",
+  "label": "Dedication of the Basilicas of Saints Peter and Paul (IN DEDICATIONE BASILICARUM SS. PETRI ET PAULI, APOSTOLORUM, Die 18 novembris)",
+  "lit_epoch_slug": "basilicas-of-peter-and-paul",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 623,
+      "service_part": "in",
+      "incipit": "Sapientiam sanctorum",
+      "target_page": 452,
+      "band": [436.0, 448.5],
+      "engraved": false
+    },
+    {
+      "page": 623,
+      "service_part": "gr",
+      "incipit": "Iustorum animae",
+      "target_page": 457,
+      "band": [448.5, 460.5],
+      "engraved": false
+    },
+    {
+      "page": 623,
+      "service_part": "al",
+      "incipit": "Constitues eos principes",
+      "target_page": 429,
+      "band": [460.5, 472.5],
+      "engraved": false
+    },
+    {
+      "page": 623,
+      "service_part": "of",
+      "incipit": "Exsultabunt sancti",
+      "target_page": 466,
+      "band": [472.5, 484.5],
+      "engraved": false
+    },
+    {
+      "page": 623,
+      "service_part": "co",
+      "incipit": "Iustorum animae",
+      "target_page": 470,
+      "band": [484.5, 497.0],
+      "engraved": false
+    }
+  ]
+}

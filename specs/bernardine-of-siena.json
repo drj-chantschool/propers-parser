@@ -1,0 +1,49 @@
+{
+  "subsection": "bernardine-of-siena",
+  "label": "S. Bernardini Senensis, Presbyteri (20 maii)",
+  "lit_epoch_slug": "bernardine-of-siena",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 563,
+      "service_part": "in",
+      "incipit": "Os iusti meditabitur",
+      "target_page": 494,
+      "band": [80.3, 91.0],
+      "engraved": false
+    },
+    {
+      "page": 563,
+      "service_part": "gr",
+      "incipit": "Iustus ut palma",
+      "target_page": 510,
+      "band": [92.5, 103.3],
+      "engraved": false
+    },
+    {
+      "page": 563,
+      "service_part": "al",
+      "incipit": "Beatus vir qui suffert",
+      "target_page": 511,
+      "band": [104.3, 115.0],
+      "engraved": false
+    },
+    {
+      "page": 563,
+      "service_part": "of",
+      "incipit": "Veritas mea",
+      "target_page": 483,
+      "band": [116.4, 127.1],
+      "engraved": false
+    },
+    {
+      "page": 563,
+      "service_part": "co",
+      "incipit": "Beatus servus",
+      "target_page": 491,
+      "band": [128.4, 139.1],
+      "engraved": false,
+      "notes": "Printed as 'CO. Beatus servus, 491, cum ps. 120*.' - psalm-tone plan, not modeled."
+    }
+  ]
+}

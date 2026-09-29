@@ -1,0 +1,57 @@
+{
+  "subsection": "ot-ot-12",
+  "label": "12th Sunday in Ordinary Time (Gregorian Missal)",
+  "lit_epoch_slug": "OT-OT-12",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 481,
+      "vernacular_text": "The Lord is the strength of his people, and the guardian of salvation for his Anointed. Save your people, O Lord, and bless your inheritance; be their guide for ever. ℣. Unto you, O Lord, will I cry; O my God, be not silent with me; if you remain silent, I will become like those who go down into the grave.",
+      "text_src": "Ps 27:8,9 and 1",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 483,
+      "vernacular_text": "Turn back, O Lord, ever so slightly, we beseech you, and consent to be entreated by your servants. ℣. O Lord, you have been unto us a refuge, from age to age.",
+      "text_src": "Ps 89:13, ℣.1",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 483,
+      "vernacular_text": "In you, Lord, do I trust, let me never be put to shame; in your righteousness deliver me and rescue me; lend me your ear and make haste to save me.",
+      "text_src": "Ps 30:2,3",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 484,
+      "vernacular_text": "Render secure my footsteps in your paths so that my feet do not slip; incline your ear and hear my words; display your wonderful mercies O Lord, Saviour of those who place their hope in you.",
+      "text_src": "Ps 16:5,6,7",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 485,
+      "vernacular_text": "\"That which I tell you in the dark, utter in the light\", says the Lord; \"and that which you hear whispered into your ear, proclaim upon the housetops\".",
+      "text_src": "Mt 10:27",
+      "cycle_sun": 1
+    },
+    {
+      "service_part": "co",
+      "page": 486,
+      "vernacular_text": "I shall walk round about his sanctuary, offering a sacrifice of jubilation; I will sing and recite a psalm to the Lord.",
+      "text_src": "Ps 26:6",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 486,
+      "vernacular_text": "If a man wishes to come after me, let him deny himself and take up his cross and follow me.",
+      "text_src": "Mt 16:24",
+      "cycle_sun": 3
+    }
+  ]
+}

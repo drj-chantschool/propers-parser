@@ -1,21 +1,34 @@
 """
-Phase 2: Split each GR chapter into section PDFs.
+Phase 2: Split a chapter PDF into section PDFs, one subdirectory per
+top-level (level-0) heading.
 
-Output layout (within the chapter folder):
-  graduale/1/1_tempus-adventus/0_tempus-adventus.pdf
-  graduale/1/2_tempus-nativitatis/0_tempus-nativitatis.pdf
+Output layout (within the chapter directory):
+  graduale/<N>/1_<slug>/0_<slug>.pdf
+  graduale/<N>/1_<slug>/meta.json
+  graduale/<N>/2_<slug>/0_<slug>.pdf
   ...
 
-Section boundaries are given as (0-indexed page, title) pairs.
-Pages before the first section boundary are prepended to section 1.
+Each 0_<slug>.pdf gets a PDF page-label range so its pages keep displaying
+their original page number from the chapter PDF -- page 1 of
+2_februarius/0_februarius.pdf shows as page 8, its true page in
+3_proprium-de-sanctis.pdf, instead of restarting at 1.
+
+Section boundaries are the level==0 entries of a subsections JSON file
+(produced by detect_subsections.py + review) living in the chapter
+directory. Any pages before the first boundary are prepended to section 1.
+
+Usage:
+  python split_sections.py <chapter_dir> [--subsections subsections_ai.json]
+  python split_sections.py graduale/3
 """
 
+import argparse
 import json
 import re
-import fitz
+import sys
 from pathlib import Path
 
-BASE = Path(__file__).parent
+import fitz
 
 
 def slugify(text: str) -> str:
@@ -24,70 +37,73 @@ def slugify(text: str) -> str:
     return text.strip("-")
 
 
-def save_section(doc: fitz.Document, start: int, end: int, out_path: Path) -> None:
-    """Save pages [start, end) (0-indexed) to out_path."""
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out = fitz.open()
-    out.insert_pdf(doc, from_page=start, to_page=end - 1)
-    out.set_pagelayout("SinglePage")
-    out.save(str(out_path))
-    out.close()
-    print(f"  Wrote {out_path.relative_to(BASE)} ({end - start} pages)")
+def find_chapter_pdf(chapter_dir: Path) -> Path:
+    candidates = [
+        p for p in chapter_dir.glob("*.pdf")
+        if re.match(r"^\d+_", p.name) and not p.name.startswith("0_")
+    ]
+    if len(candidates) != 1:
+        candidates = list(chapter_dir.glob("*.pdf"))
+    if len(candidates) != 1:
+        print(f"ERROR: expected exactly one chapter pdf in {chapter_dir}, found {candidates}")
+        sys.exit(1)
+    return candidates[0]
 
 
-# ---------------------------------------------------------------------------
-# Chapter 1 — Proprium de Tempore
-# Sections identified by manual inspection of 1_proprium-de-tempore.pdf.
-# Page numbers are 1-indexed (as shown in the PDF viewer); converted to
-# 0-indexed internally.
-# ---------------------------------------------------------------------------
+def split_chapter(chapter_dir: Path, subsections_name: str) -> None:
+    subsections_path = chapter_dir / subsections_name
+    entries = json.loads(subsections_path.read_text(encoding="utf-8"))
+    sections = [e for e in entries if e.get("level") == 0]
+    sections.sort(key=lambda e: (e["page"], e.get("y", 0)))
+    if not sections:
+        print(f"ERROR: no level-0 entries found in {subsections_path}")
+        sys.exit(1)
 
-GR_CHAPTER_1_SECTIONS = [
-    (2,   "TEMPUS ADVENTUS"),
-    (25,  "TEMPUS NATIVITATIS"),
-    (43,  "IN EPIPHANIA DOMINI"),
-    (49,  "TEMPUS QUADRAGESIMAE"),
-    (172, "TEMPUS PASCHALE"),
-    (222, "IN ASCENSIONE DOMINI"),
-    (244, "TEMPUS PER ANNUM"),
-    (358, "SOLLEMNITATES DOMINI"),
-]
+    chapter_pdf = find_chapter_pdf(chapter_dir)
+    doc = fitz.open(str(chapter_pdf))
+    n = doc.page_count
 
+    print(f"Splitting {chapter_pdf.name} ({n} pages) into {len(sections)} sections")
+    for idx, s in enumerate(sections):
+        # Prepend any front matter before the first heading to section 1.
+        start = s["page"] if idx > 0 else 1
+        end = sections[idx + 1]["page"] - 1 if idx + 1 < len(sections) else n
+        slug = slugify(s["text"])
+        num = idx + 1
 
-def split_chapter(pdf_path: Path, sections: list, chap_num: int) -> None:
-    doc = fitz.open(str(pdf_path))
-    n = len(doc)
-    print(f"Splitting {pdf_path.name} ({n} pages) into {len(sections)} sections")
-
-    # Convert 1-indexed page numbers to 0-indexed
-    boundaries = [(page - 1, title) for page, title in sections]
-
-    out_root = pdf_path.parent
-
-    for sec_num, (page_idx, title) in enumerate(boundaries, 1):
-        start = page_idx
-        # If this is section 1, include any front-matter pages before it
-        if sec_num == 1:
-            start = 0
-        end = boundaries[sec_num][0] if sec_num < len(boundaries) else n
-
-        slug = slugify(title)
-        section_dir = out_root / f"{sec_num}_{slug}"
+        section_dir = chapter_dir / f"{num}_{slug}"
+        section_dir.mkdir(exist_ok=True)
         out_path = section_dir / f"0_{slug}.pdf"
 
-        print(f"  Section {sec_num}: {title!r} (p{start+1}–{end})")
-        save_section(doc, start, end, out_path)
+        out = fitz.open()
+        out.insert_pdf(doc, from_page=start - 1, to_page=end - 1)
+        out.set_pagelayout("SinglePage")
+        # Page 0 of this split displays as `start`, incrementing from there,
+        # so labels match the original page numbers in chapter_pdf exactly.
+        out.set_page_labels([{"startpage": 0, "prefix": "", "style": "D", "firstpagenum": start}])
+        out.save(str(out_path))
+        out.close()
 
         meta = {
-            "title": title,
-            "source_pdf": pdf_path.name,
-            "page_offset": start + 1,   # 1-indexed page in source PDF
+            "title": s["text"],
+            "source_pdf": chapter_pdf.name,
+            "page_offset": start,  # 1-indexed page in source PDF
         }
         (section_dir / "meta.json").write_text(json.dumps(meta, indent=2))
+
+        print(f"  {num:2d}. {s['text']:<24} p{start}-{end}  ({end - start + 1}pp)  -> {section_dir.name}/0_{slug}.pdf")
 
     doc.close()
 
 
 if __name__ == "__main__":
-    chap1_pdf = BASE / "graduale" / "1" / "1_proprium-de-tempore.pdf"
-    split_chapter(chap1_pdf, GR_CHAPTER_1_SECTIONS, chap_num=1)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("chapter_dir", type=Path)
+    parser.add_argument("--subsections", default="subsections.json")
+    args = parser.parse_args()
+
+    if not args.chapter_dir.is_dir():
+        print(f"ERROR: {args.chapter_dir} is not a directory")
+        sys.exit(1)
+
+    split_chapter(args.chapter_dir, args.subsections)

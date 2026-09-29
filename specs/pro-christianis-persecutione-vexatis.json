@@ -1,0 +1,111 @@
+{
+  "subsection": "pro-christianis-persecutione-vexatis",
+  "label": "For Christians Suffering Persecution — Pro christianis persecutione vexatis",
+  "lit_epoch_slug": "pro-christianis-persecutione-vexatis",
+  "chants": [
+    {
+      "page": 652,
+      "service_part": "in",
+      "incipit": "Exsurge, quare obdormis, Domine",
+      "target_page": 91,
+      "band": [260, 278],
+      "engraved": false
+    },
+    {
+      "page": 652,
+      "service_part": "in",
+      "incipit": "In voluntate tua, Domine",
+      "target_page": 346,
+      "band": [278, 290],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 652,
+      "service_part": "in",
+      "incipit": "Respice, Domine, in testamentum tuum",
+      "target_page": 319,
+      "band": [290, 302],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 652,
+      "service_part": "gr",
+      "incipit": "Respice, Domine, in testamentum tuum",
+      "target_page": 320,
+      "band": [302, 314],
+      "engraved": false
+    },
+    {
+      "page": 652,
+      "service_part": "gr",
+      "incipit": "Sciant gentes quoniam nomen tibi, Deus",
+      "target_page": 88,
+      "band": [314, 326],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 652,
+      "service_part": "al",
+      "incipit": "Domine, Deus meus, in te speravi",
+      "target_page": 282,
+      "band": [326, 338],
+      "engraved": false
+    },
+    {
+      "page": 652,
+      "service_part": "al",
+      "incipit": "Eripe me de inimicis meis",
+      "target_page": 308,
+      "band": [338, 350],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 652,
+      "service_part": "of",
+      "incipit": "Ad te, Domine, levavi animam meam",
+      "target_page": 17,
+      "band": [350, 362],
+      "engraved": false
+    },
+    {
+      "page": 652,
+      "service_part": "of",
+      "incipit": "Populum humilem salvum facies",
+      "target_page": 302,
+      "band": [362, 374],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 652,
+      "service_part": "co",
+      "incipit": "Beati mundo corde",
+      "target_page": 514,
+      "band": [374, 386],
+      "engraved": false,
+      "notes": "GR prints 'cum ps. 33*' after the citation — a psalm-tone plan, not a modeled field."
+    },
+    {
+      "page": 652,
+      "service_part": "co",
+      "incipit": "In salutari tuo anima mea",
+      "target_page": 350,
+      "band": [386, 399],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 652,
+      "service_part": "co",
+      "incipit": "Quod dico vobis in tenebris",
+      "target_page": 472,
+      "band": [399, 416],
+      "engraved": false,
+      "option_txt": "—"
+    }
+  ]
+}

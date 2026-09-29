@@ -1,0 +1,122 @@
+{
+  "subsection": "com-sanct-resp",
+  "label": "Common of Holy Men and Women — Pro iis qui respublicas moderati sunt",
+  "lit_epoch_slug": "COM-SANCT-RESP",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 523,
+      "service_part": "in",
+      "mode": 7,
+      "incipit": "In virtute tua rex",
+      "text_src": "Ps. 20, 2. 3. 4",
+      "band": [354.8, 511],
+      "engraved": true,
+      "notes": "Engraving continues onto p524 (ends '...coronam de lapide pretioso'); band covers the p523 portion only (bbox is a sanity check). Chant is gregobase 20551 ('In virtute tua ...rex', Solesmes 1974, header 'Graduale Romanum, 1974, p. 523'), the 1974 member of chant_group 316: pp523-524 print 'desiderium animae eius tribuisti ei. Ps. Quoniam praevenisti'. NOT 15921 (St-Louis proper: 'desiderium cordis ejus ... non fraudasti eum'), NOT 316 itself ('laetabitur iustus'). Repaired 2026-09-05."
+    },
+    {
+      "page": 524,
+      "service_part": "gr",
+      "incipit": "Domine, praevenisti eum",
+      "target_page": 509,
+      "band": [260, 277],
+      "engraved": false
+    },
+    {
+      "page": 524,
+      "service_part": "gr",
+      "incipit": "Inveni David",
+      "target_page": 445,
+      "band": [277, 306],
+      "engraved": false
+    },
+    {
+      "page": 524,
+      "service_part": "gr",
+      "incipit": "Timebunt gentes",
+      "target_page": 265,
+      "band": [277, 306],
+      "engraved": false
+    },
+    {
+      "page": 524,
+      "service_part": "al",
+      "incipit": "Domine, in virtute tua",
+      "target_page": 292,
+      "band": [320, 339],
+      "engraved": false
+    },
+    {
+      "page": 524,
+      "service_part": "al",
+      "incipit": "Inveni David",
+      "target_page": 446,
+      "band": [339, 351],
+      "engraved": false
+    },
+    {
+      "page": 524,
+      "service_part": "al",
+      "incipit": "Qui posuit fines tuos",
+      "target_page": 364,
+      "band": [351, 363],
+      "engraved": false
+    },
+    {
+      "page": 524,
+      "service_part": "al",
+      "incipit": "Timebunt gentes",
+      "target_page": 337,
+      "band": [363, 383],
+      "engraved": false
+    },
+    {
+      "page": 524,
+      "service_part": "of",
+      "incipit": "Benedictus es ... in labiis",
+      "target_page": 277,
+      "band": [394, 425],
+      "engraved": false
+    },
+    {
+      "page": 524,
+      "service_part": "of",
+      "incipit": "Gloria et honore",
+      "target_page": 434,
+      "band": [394, 425],
+      "engraved": false
+    },
+    {
+      "page": 524,
+      "service_part": "of",
+      "incipit": "Inveni David",
+      "target_page": 447,
+      "band": [425, 446],
+      "engraved": false
+    },
+    {
+      "page": 524,
+      "service_part": "co",
+      "incipit": "Primum quaerite",
+      "target_page": 325,
+      "band": [456, 475],
+      "engraved": false
+    },
+    {
+      "page": 524,
+      "service_part": "co",
+      "incipit": "Quis dabit ex Sion",
+      "target_page": 101,
+      "band": [475, 487],
+      "engraved": false
+    },
+    {
+      "page": 524,
+      "service_part": "co",
+      "incipit": "Servite Domino",
+      "target_page": 68,
+      "band": [487, 505],
+      "engraved": false
+    }
+  ]
+}

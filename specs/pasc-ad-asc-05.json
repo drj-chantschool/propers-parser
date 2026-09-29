@@ -1,0 +1,154 @@
+{
+  "subsection": "pasc-ad-asc-05",
+  "label": "5th week of Easter (Hebdomada V Paschae)",
+  "lit_epoch_slug": "PASC-AD_ASC-05",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 225,
+      "service_part": "in",
+      "mode": 6,
+      "incipit": "Cantate Domino",
+      "text_src": "Ps. 97, 1. 2",
+      "band": [138, 472],
+      "engraved": true
+    },
+    {
+      "page": 225,
+      "service_part": "in",
+      "incipit": "Repleatur os meum laude",
+      "target_page": 246,
+      "wkday": 4,
+      "band": [472, 505],
+      "engraved": false
+    },
+    {
+      "page": 226,
+      "service_part": "al1",
+      "mode": 4,
+      "incipit": "Dextera Dei",
+      "text_src": "Ps. 117, 16",
+      "band": [25, 264],
+      "engraved": true
+    },
+    {
+      "page": 226,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "Christus resurgens",
+      "text_src": "Rom. 6, 9",
+      "wkday": 1,
+      "band": [264, 505],
+      "engraved": true
+    },
+    {
+      "page": 227,
+      "service_part": "al",
+      "incipit": "Spiritus sanctus docebit vos",
+      "target_page": 432,
+      "wkday": 2,
+      "band": [143, 160],
+      "engraved": false
+    },
+    {
+      "page": 227,
+      "service_part": "al",
+      "incipit": "Sancti tui benedicent",
+      "target_page": 463,
+      "wkday": 3,
+      "band": [157, 220],
+      "engraved": false
+    },
+    {
+      "page": 227,
+      "service_part": "al",
+      "incipit": "Laetatus sum",
+      "target_page": 19,
+      "wkday": 4,
+      "band": [157, 220],
+      "engraved": false
+    },
+    {
+      "page": 227,
+      "service_part": "al",
+      "incipit": "Confitemini Domino et invocate",
+      "target_page": 340,
+      "wkday": 5,
+      "band": [157, 220],
+      "engraved": false
+    },
+    {
+      "page": 227,
+      "service_part": "al",
+      "incipit": "Ego vos elegi de mundo",
+      "target_page": 429,
+      "wkday": 6,
+      "band": [157, 220],
+      "engraved": false
+    },
+    {
+      "page": 227,
+      "service_part": "al",
+      "incipit": "Iubilate Deo omnis terra",
+      "target_page": 258,
+      "wkday": 7,
+      "band": [157, 220],
+      "engraved": false
+    },
+    {
+      "page": 227,
+      "service_part": "of",
+      "mode": 1,
+      "incipit": "Iubilate Deo universa terra",
+      "text_src": "Ps. 65, 1. 2. 16",
+      "band": [220, 505],
+      "engraved": true
+    },
+    {
+      "page": 228,
+      "service_part": "co",
+      "mode": 8,
+      "incipit": "Ego sum vitis vera",
+      "text_src": "Io. 15, 5",
+      "band": [188, 373],
+      "engraved": true
+    },
+    {
+      "page": 228,
+      "service_part": "co",
+      "incipit": "Tanto tempore",
+      "target_page": 560,
+      "cycle_sun": 1,
+      "band": [375, 395],
+      "engraved": false
+    },
+    {
+      "page": 228,
+      "service_part": "co",
+      "incipit": "Spiritus sanctus docebit vos",
+      "target_page": 232,
+      "wkday": 2,
+      "band": [388, 432],
+      "engraved": false
+    },
+    {
+      "page": 228,
+      "service_part": "co",
+      "mode": 5,
+      "incipit": "Pacem meam",
+      "text_src": "Io. 14, 27",
+      "wkday": 3,
+      "band": [435, 505],
+      "engraved": true
+    },
+    {
+      "page": 229,
+      "service_part": "co",
+      "incipit": "Ego vos elegi de mundo",
+      "target_page": 436,
+      "wkday": 6,
+      "band": [108, 152],
+      "engraved": false
+    }
+  ]
+}

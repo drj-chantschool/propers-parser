@@ -1,0 +1,44 @@
+{
+  "subsection": "nativity-john-baptist-vigil",
+  "label": "Birth of Saint John the Baptist — Vigil Mass (Gregorian Missal)",
+  "lit_epoch_slug": "nativity-john-baptist-vigil",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 627,
+      "vernacular_text": "Fear not, Zechariah, your prayer has been answered; Elizabeth, your wife, will bear you a son, and you shall call his name John; he will be great before the Lord, and he will be filled with the Holy Spirit even from his mother's womb; and many will rejoice at his birth. ℣. In your strength shall the king rejoice, O Lord, and in your salvation shall he greatly exult.",
+      "text_src": "Lk 1:13,15,14",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 628,
+      "vernacular_text": "There was a man sent from God whose name was John; he came. ℣. To bear witness to the light, to prepare an upright people for the Lord.",
+      "text_src": "Jn 1:6; v.7 & Lk 1:17",
+      "cycle_sun": null,
+      "gm_xref_page": 176
+    },
+    {
+      "service_part": "al",
+      "page": 628,
+      "vernacular_text": "Alleluia. ℣. Blessed is the man who fears the Lord; he shall delight exceedingly in his commandments.",
+      "text_src": "Ps 111:1",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 629,
+      "vernacular_text": "You have crowned him with glory and honour; and you have established him over the work of your hands, O Lord.",
+      "text_src": "Ps 8:6,7",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 630,
+      "vernacular_text": "Great is his glory through your salvation; you have endowed him with glory and much splendour, O Lord.",
+      "text_src": "Ps 20:6",
+      "cycle_sun": null
+    }
+  ]
+}

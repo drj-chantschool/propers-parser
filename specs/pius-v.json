@@ -1,0 +1,56 @@
+{
+  "subsection": "pius-v",
+  "label": "Pius V (S. PII V, PAPAE, Die 30 aprilis)",
+  "lit_epoch_slug": "pius-v",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 557,
+      "service_part": "in",
+      "incipit": "Statuit ei Dominus",
+      "target_page": 445,
+      "text_src": null,
+      "band": [325, 373],
+      "engraved": false,
+      "notes": "All four citation lines (IN/AL/AL vel/OF/CO) on p557 form a single merged OCR text block (y325-373), so every chant of this Mass shares this one band/bbox."
+    },
+    {
+      "page": 557,
+      "service_part": "al",
+      "incipit": "Tu es sacerdos",
+      "target_page": 449,
+      "text_src": null,
+      "band": [325, 373],
+      "engraved": false
+    },
+    {
+      "page": 557,
+      "service_part": "al",
+      "incipit": "Hic est sacerdos",
+      "target_page": 449,
+      "text_src": null,
+      "option_txt": "vel",
+      "band": [325, 373],
+      "engraved": false
+    },
+    {
+      "page": 557,
+      "service_part": "of",
+      "incipit": "Inveni David servum meum",
+      "target_page": 447,
+      "text_src": null,
+      "band": [325, 373],
+      "engraved": false
+    },
+    {
+      "page": 557,
+      "service_part": "co",
+      "incipit": "Fidelis servus et prudens",
+      "target_page": 491,
+      "text_src": null,
+      "band": [325, 373],
+      "engraved": false,
+      "notes": "Printed psalm plan: cum ps. 131*"
+    }
+  ]
+}

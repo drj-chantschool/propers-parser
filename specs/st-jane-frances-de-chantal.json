@@ -1,0 +1,49 @@
+{
+  "subsection": "st-jane-frances-de-chantal",
+  "label": "St. Jane Frances de Chantal (S. IOANNAE FRANCISCAE DE CHANTAL, RELIGIOSAE, Die 12 decembris)",
+  "lit_epoch_slug": "st-jane-frances-de-chantal",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 631,
+      "service_part": "in",
+      "incipit": "Cognovi, Domine",
+      "target_page": 525,
+      "band": [333.2, 344.2],
+      "engraved": false,
+      "notes": "GR prints this Mass at 12 December (general Roman calendar); proper_of_saints (US calendar) dates St Jane Frances de Chantal at 12 August, and its 12-12 row is a different feast (Our Lady of Guadalupe) not printed in the GR. Slug chosen by printed title per producer instruction."
+    },
+    {
+      "page": 631,
+      "service_part": "gr",
+      "incipit": "Diffusa est gratia in labiis tuis",
+      "target_page": 408,
+      "band": [345.3, 356.3],
+      "engraved": false
+    },
+    {
+      "page": 631,
+      "service_part": "al",
+      "incipit": "Specie tua et pulchritudine tua",
+      "target_page": 416,
+      "band": [357.4, 368.4],
+      "engraved": false
+    },
+    {
+      "page": 631,
+      "service_part": "of",
+      "incipit": "Diffusa est gratia in labiis tuis",
+      "target_page": 421,
+      "band": [369.4, 380.4],
+      "engraved": false
+    },
+    {
+      "page": 631,
+      "service_part": "co",
+      "incipit": "Dilexisti iustitiam",
+      "target_page": 506,
+      "band": [381.9, 392.9],
+      "engraved": false
+    }
+  ]
+}

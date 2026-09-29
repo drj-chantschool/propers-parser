@@ -1,0 +1,53 @@
+{
+  "subsection": "nat-day-night",
+  "label": "Christmas — Mass at Night (Ad Missam in Nocte)",
+  "lit_epoch_slug": "NAT-DAY-00-0-night",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 41,
+      "service_part": "in",
+      "mode": 2,
+      "incipit": "Dominus dixit ad me",
+      "text_src": "Ps. 2, 7. V. 1. 2. 8",
+      "band": [195, 519],
+      "engraved": true
+    },
+    {
+      "page": 42,
+      "service_part": "gr",
+      "mode": 2,
+      "incipit": "Tecum principium",
+      "text_src": "Ps. 109, 3. V. 1",
+      "band": [180, 519],
+      "engraved": true
+    },
+    {
+      "page": 43,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Dominus dixit ad me",
+      "text_src": "Ps. 2, 7",
+      "band": [244, 519],
+      "engraved": true
+    },
+    {
+      "page": 44,
+      "service_part": "of",
+      "mode": 4,
+      "incipit": "Laetentur caeli",
+      "text_src": "Ps. 95, 11",
+      "band": [15, 195],
+      "engraved": true
+    },
+    {
+      "page": 44,
+      "service_part": "co",
+      "mode": 6,
+      "incipit": "In splendoribus",
+      "text_src": "Ps. 109, 3",
+      "band": [196, 350],
+      "engraved": true
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "subsection": "rose-of-lima",
+  "label": "St Rose of Lima, Virgin (S. ROSAE DE LIMA, VIRGINIS, Die 23 augusti)",
+  "lit_epoch_slug": "rose-of-lima",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 594,
+      "service_part": "in",
+      "incipit": "Dilexisti iustitiam",
+      "target_page": 498,
+      "text_src": null,
+      "band": [325.4, 336.4],
+      "engraved": false
+    },
+    {
+      "page": 594,
+      "service_part": "gr",
+      "incipit": "Specie tua",
+      "target_page": 411,
+      "text_src": null,
+      "band": [337.5, 348.5],
+      "engraved": false
+    },
+    {
+      "page": 594,
+      "service_part": "al",
+      "incipit": "Adducentur regi",
+      "target_page": 500,
+      "text_src": null,
+      "band": [349.7, 360.7],
+      "engraved": false
+    },
+    {
+      "page": 594,
+      "service_part": "of",
+      "incipit": "Filiae regum",
+      "target_page": 505,
+      "text_src": null,
+      "band": [361.7, 372.7],
+      "engraved": false
+    },
+    {
+      "page": 594,
+      "service_part": "co",
+      "incipit": "Quinque prudentes virgines",
+      "target_page": 507,
+      "text_src": null,
+      "band": [373.5, 384.5],
+      "engraved": false
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "subsection": "tq-lent-05-1",
+  "label": "Lent — 5th Sunday (Dominica V in Quadragesima)",
+  "lit_epoch_slug": "TQ-LENT-05-1",
+  "wkday": 1,
+  "chants": [
+    {
+      "page": 120,
+      "service_part": "in",
+      "mode": 4,
+      "incipit": "Iudica me, Deus",
+      "text_src": "Ps. 42, 1. 2. 3",
+      "band": [65, 500],
+      "engraved": true
+    },
+    {
+      "page": 121,
+      "service_part": "gr",
+      "mode": 3,
+      "incipit": "Eripe me, Domine",
+      "text_src": "Ps. 142, 9. 10. V. Ps. 17, 48. 49",
+      "band": [24, 500],
+      "engraved": true
+    },
+    {
+      "page": 122,
+      "service_part": "tr",
+      "mode": 8,
+      "incipit": "Saepe expugnaverunt",
+      "text_src": "Ps. 128, 1-4",
+      "band": [130, 500],
+      "engraved": true
+    },
+    {
+      "page": 123,
+      "service_part": "of",
+      "mode": 1,
+      "incipit": "Confitebor tibi in toto",
+      "text_src": "Ps. 118, 7. 10. 17. 25",
+      "band": [236, 500],
+      "engraved": true
+    },
+    {
+      "page": 124,
+      "service_part": "co",
+      "mode": 1,
+      "incipit": "Videns Dominus",
+      "text_src": "Io. 11, 33. 35. 43. 41. 39",
+      "band": [38, 297],
+      "engraved": true,
+      "option_txt": "Quando legitur Evangelium de Lazaro:"
+    },
+    {
+      "page": 124,
+      "service_part": "co",
+      "mode": 8,
+      "incipit": "Nemo te condemnavit",
+      "text_src": "Io. 8, 10. 11",
+      "band": [307, 452],
+      "engraved": true,
+      "option_txt": "Quando legitur Evangelium de muliere adultera:"
+    },
+    {
+      "page": 124,
+      "service_part": "co",
+      "incipit": "Qui mihi ministrat",
+      "target_page": 484,
+      "band": [463, 500],
+      "engraved": false,
+      "option_txt": "Quando legitur aliud Evangelium:"
+    }
+  ]
+}

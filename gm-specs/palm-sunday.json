@@ -1,0 +1,78 @@
+{
+  "subsection": "palm-sunday",
+  "label": "Passion (Palm) Sunday (Gregorian Missal)",
+  "lit_epoch_slug": "TQ-HOLYWEEK-00-1",
+  "wkday": 1,
+  "chants": [
+    {
+      "service_part": "palan",
+      "page": 272,
+      "vernacular_text": "Hosanna to the Son of David, the King of Israel. Blessed is he who comes in the name of the Lord. Hosanna in the highest.",
+      "text_src": null,
+      "cycle_sun": null
+    },
+    {
+      "service_part": "palproc",
+      "page": 273,
+      "vernacular_text": "Let us go forth in peace. ℟. In the name of Christ. Amen.",
+      "text_src": null,
+      "cycle_sun": null
+    },
+    {
+      "service_part": "palan1",
+      "page": 274,
+      "vernacular_text": "The children of Jerusalem welcomed Christ the King. They carried olive branches and loudly praised the Lord: \"Hosanna in the highest.\"",
+      "text_src": "Cf Mt 21:9",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "palan2",
+      "page": 274,
+      "vernacular_text": "The children of Jerusalem welcomed Christ the King. They spread their cloaks before him and loudly praised the Lord: \"Hosanna to the Son of David! Blessed is he who comes in the name of the Lord!\"",
+      "text_src": "Cf Mt 21:9",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "palhy",
+      "page": 275,
+      "vernacular_text": "All glory, laud, and honour to thee, Redeemer, King, to whom the lips of children made sweet hosannas ring. 1. Thou art the King of Israel, Thou David's royal Son, who in the Lord's name comest, the King and Blessed One. 2. The company of angels are praising thee on high, and mortal men and all things created make reply. 3. The people of the Hebrews with palms before thee went; our praise and prayers and anthems before thee we present. 4. To thee before thy passion they sang their hymns of praise; to thee now high exalted, our melody we raise. 5. Thou didst accept their praises, accept the prayers we bring, who in all good delightest, Thou good and gracious King.",
+      "text_src": null,
+      "cycle_sun": null
+    },
+    {
+      "service_part": "palre",
+      "page": 277,
+      "vernacular_text": "As the Lord entered the Holy City, the children of the Hebrews proclaimed the resurrection of life, * and, waving olive branches, they loudly praised the Lord: \"Hosanna in the highest.\" ℣. When the people heard that Jesus was entering Jerusalem, they went to meet him * and, waving...",
+      "text_src": null,
+      "cycle_sun": null
+    },
+    {
+      "service_part": "tr",
+      "page": 278,
+      "vernacular_text": "My God, my God, look upon me, why have you forsaken me? ℣. My words of sin have drawn me far from salvation. ℣. O my God, I call by day and you give no reply; I call by night and not without reason. ℣. Yet, you dwell in the sanctuary; you are the praise of Israel. ℣. Our fathers placed their hope in you; they trusted and you delivered them. ℣. They cried out to you and they were saved; they put their hope in you and they were not confounded. ℣. But I am a worm and no man; scorned by men and despised by the people. ℣. All who see me mock at me, they make mouths at me, they wag their heads. ℣. \"He trusted in the Lord; let him deliver him, let him rescue him, for he delights in him.\" ℣. And so they looked and gazed upon me; they divided my garments among themselves, and for my raiment they have cast lots. ℣. Save me from the mouth of the lion; my afflicted soul from the horns of the unicorn. ℣. You who fear the Lord, praise him! All you sons of Jacob, glorify him. ℣. A future generation shall be announced on behalf of the Lord, and the heavens will declare his justice; ℣. Unto a nation yet to be born, and whom the Lord has prepared.",
+      "text_src": "Ps 21:2-9, 18, 19, 22, 24, 32",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr2",
+      "page": 282,
+      "vernacular_text": "Christ became obedient for us unto death, even death on a Cross. ℣. Therefore God has highly exalted him, and bestowed on him the name which is above every name.",
+      "text_src": "Phil 2:8, ℣.9",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 283,
+      "vernacular_text": "My heart awaited reproach and misery; and I hoped for one that would grieve together with me, but there was none; I looked for one who would comfort me, and found no one. For food they gave me gall; in my thirst they gave me vinegar to drink.",
+      "text_src": "Ps 68:21,22",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 285,
+      "vernacular_text": "Father, if this cup cannot pass away unless I drink it, thy will be done.",
+      "text_src": "Mt 26:42",
+      "cycle_sun": null
+    }
+  ]
+}

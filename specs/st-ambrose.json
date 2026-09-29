@@ -1,0 +1,48 @@
+{
+  "subsection": "st-ambrose",
+  "label": "St. Ambrose (S. Ambrosii, Episcopi et Ecclesiae Doctoris, Die 7 decembris)",
+  "lit_epoch_slug": "st-ambrose",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 627,
+      "service_part": "in",
+      "incipit": "In medio Ecclesiae",
+      "target_page": 493,
+      "band": [438.9, 449.9],
+      "engraved": false
+    },
+    {
+      "page": 627,
+      "service_part": "gr",
+      "incipit": "Ecce sacerdos magnus",
+      "target_page": 486,
+      "band": [450.4, 461.4],
+      "engraved": false
+    },
+    {
+      "page": 627,
+      "service_part": "al",
+      "incipit": "Iuravit Dominus",
+      "target_page": 489,
+      "band": [462.9, 473.9],
+      "engraved": false
+    },
+    {
+      "page": 627,
+      "service_part": "of",
+      "incipit": "Veritas mea",
+      "target_page": 483,
+      "band": [475.0, 486.0],
+      "engraved": false
+    },
+    {
+      "page": 627,
+      "service_part": "co",
+      "incipit": "Semel iuravi in sancto meo",
+      "target_page": 492,
+      "band": [486.7, 497.7],
+      "engraved": false
+    }
+  ]
+}

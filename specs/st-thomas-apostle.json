@@ -1,0 +1,49 @@
+{
+  "subsection": "st-thomas-apostle",
+  "label": "S. Thomae, Apostoli (Die 3 iulii)",
+  "lit_epoch_slug": "st-thomas-apostle",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 578,
+      "service_part": "in",
+      "incipit": "Mihi autem",
+      "target_page": 425,
+      "band": [94.8, 105.8],
+      "engraved": false
+    },
+    {
+      "page": 578,
+      "service_part": "gr",
+      "incipit": "Nimis honorati sunt",
+      "target_page": 428,
+      "band": [107.0, 118.0],
+      "engraved": false
+    },
+    {
+      "page": 578,
+      "service_part": "al",
+      "incipit": "Gaudete, iusti",
+      "target_page": 430,
+      "band": [119.1, 130.1],
+      "engraved": false
+    },
+    {
+      "page": 578,
+      "service_part": "of",
+      "incipit": "In omnem terram",
+      "target_page": 435,
+      "band": [131.2, 142.2],
+      "engraved": false
+    },
+    {
+      "page": 578,
+      "service_part": "co",
+      "incipit": "Mitte manum tuam",
+      "target_page": 218,
+      "band": [143.2, 154.2],
+      "engraved": false,
+      "notes": "p578 prints below the CO citation: 'Ps. 117*, 1. 8. 9. 14. 15. 16. 17. 18. 21. 28 / vel ps. 115*, 10. 12. 13. 14. 15. 16 ab. 16 c - 17. 18. 19' — psalm-tone plan, not modeled as chants."
+    }
+  ]
+}

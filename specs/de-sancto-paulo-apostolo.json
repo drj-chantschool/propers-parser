@@ -1,0 +1,48 @@
+{
+  "subsection": "de-sancto-paulo-apostolo",
+  "label": "Votive Mass of Saint Paul the Apostle — De sancto Paulo apostolo",
+  "lit_epoch_slug": "de-sancto-paulo-apostolo",
+  "chants": [
+    {
+      "page": 666,
+      "service_part": "in",
+      "incipit": "Scio cui credidi, et certus sum",
+      "target_page": 535,
+      "band": [55, 85],
+      "engraved": false
+    },
+    {
+      "page": 666,
+      "service_part": "gr",
+      "incipit": "Qui operatus est Petro in apostolatum",
+      "target_page": 536,
+      "band": [55, 85],
+      "engraved": false
+    },
+    {
+      "page": 666,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Sancte Paule apostole",
+      "text_src": null,
+      "band": [92, 296],
+      "engraved": true
+    },
+    {
+      "page": 666,
+      "service_part": "of",
+      "incipit": "Mihi autem nimis honorati sunt",
+      "target_page": 435,
+      "band": [340, 368],
+      "engraved": false
+    },
+    {
+      "page": 666,
+      "service_part": "co",
+      "incipit": "Amen dico vobis : quod vos",
+      "target_page": 436,
+      "band": [340, 368],
+      "engraved": false
+    }
+  ]
+}

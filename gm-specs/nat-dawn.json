@@ -1,0 +1,43 @@
+{
+  "subsection": "nat-dawn",
+  "label": "Christmas — Mass at Dawn (Gregorian Missal)",
+  "lit_epoch_slug": "NAT-DAY-00-0-dawn",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 193,
+      "vernacular_text": "Radiant light will shine upon us today, for the Lord is born unto us. He shall be called Wonderful God, Prince of Peace, Father of the world to come. His reign shall have no end. ℣. The Lord reigns, he is enrobed with majesty; the Lord is clothed with strength, he has girded himself.",
+      "text_src": "Cf. Is 9:2,6; Lk 1:33; Ps 92",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 194,
+      "vernacular_text": "Blessed is he who comes in the name of the Lord. The Lord God is our light. ℣. This is the Lord's doing; it is marvellous in our eyes.",
+      "text_src": "Ps 117:26,27; ℣.23",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 195,
+      "vernacular_text": "The Lord reigns, he has enrobed himself with majesty; the Lord has clothed himself with strength, he has girded himself with power.",
+      "text_src": "Ps 92:1ab",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 196,
+      "vernacular_text": "For it is God who has established the world, it shall never be moved; your throne is established from of old; you are from all eternity.",
+      "text_src": "Ps 92:1c,2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 197,
+      "vernacular_text": "Exult, O daughter of Zion, sing praises, O daughter of Jerusalem; behold, your King is coming, the Holy One, the Saviour of the world.",
+      "text_src": "Zech 9:9",
+      "cycle_sun": null
+    }
+  ]
+}

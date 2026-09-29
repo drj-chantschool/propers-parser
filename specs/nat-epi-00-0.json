@@ -1,0 +1,53 @@
+{
+  "subsection": "nat-epi-00-0",
+  "label": "Epiphany of the Lord",
+  "lit_epoch_slug": "NAT-EPI-00-0",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 56,
+      "service_part": "in",
+      "mode": 2,
+      "incipit": "Ecce advenit",
+      "text_src": "Cf. Mal. 3, 1; 1 Chron. 29, 12; Ps. 71, 1. 10. 11",
+      "band": [95, 505],
+      "engraved": true
+    },
+    {
+      "page": 57,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "Omnes de Saba venient",
+      "text_src": "Is. 60, 6. V. 1",
+      "band": [145, 505],
+      "engraved": true
+    },
+    {
+      "page": 58,
+      "service_part": "al",
+      "mode": 2,
+      "incipit": "Vidimus stellam",
+      "text_src": "Cf. Mt. 2, 2",
+      "band": [27, 245],
+      "engraved": true
+    },
+    {
+      "page": 58,
+      "service_part": "of",
+      "mode": 5,
+      "incipit": "Reges Tharsis",
+      "text_src": "Ps. 71, 10. 11",
+      "band": [245, 505],
+      "engraved": true
+    },
+    {
+      "page": 59,
+      "service_part": "co",
+      "mode": 4,
+      "incipit": "Vidimus stellam",
+      "text_src": "Cf. Mt. 2, 2",
+      "band": [26, 160],
+      "engraved": true
+    }
+  ]
+}

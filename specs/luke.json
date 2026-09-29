@@ -1,0 +1,59 @@
+{
+  "subsection": "luke",
+  "label": "S. Lucae, Evangelistae (Die 18 octobris)",
+  "lit_epoch_slug": "luke",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 617,
+      "service_part": "in",
+      "incipit": "Mihi autem",
+      "target_page": 425,
+      "band": [352.4, 363.4],
+      "engraved": false
+    },
+    {
+      "page": 617,
+      "service_part": "gr",
+      "incipit": "In omnem terram",
+      "target_page": 427,
+      "band": [364.5, 375.5],
+      "engraved": false
+    },
+    {
+      "page": 617,
+      "service_part": "al",
+      "incipit": "Ego vos elegi",
+      "target_page": 429,
+      "band": [376.5, 387.5],
+      "engraved": false
+    },
+    {
+      "page": 617,
+      "service_part": "of",
+      "incipit": "Mihi autem",
+      "target_page": 435,
+      "band": [388.6, 399.6],
+      "engraved": false
+    },
+    {
+      "page": 617,
+      "service_part": "co",
+      "incipit": "Vos qui secuti estis me",
+      "target_page": 438,
+      "band": [398.1, 409.1],
+      "engraved": false,
+      "notes": "Printed citation: 'CO. Vos qui secuti estis me, V vel VI, 438, cum ps. 30*.' The centred roman numerals V and VI on p438 are OPTION MARKERS (the fifth and sixth communio of the Commune Apostolorum extra T.P.), not modes; this row is option V. 'cum ps. 30*' is a psalm-tone plan, not a page or a chant; the target page (438) is the number printed immediately before it."
+    },
+    {
+      "page": 617,
+      "service_part": "co",
+      "incipit": "Vos qui secuti estis me dicit Dominus",
+      "target_page": 438,
+      "band": [398.1, 409.1],
+      "engraved": false,
+      "option_txt": "vel VI",
+      "notes": "This is option VI of the same printed line. p438's two index rows are 'Vos qui secuti estis me' and 'Vos qui secuti estis me... dicit Dominus'; since the shorter is a prefix of the longer, the spec incipit is extended to the full form so it resolves to the mode-II setting (gregobase 97) rather than collapsing onto option V's mode-I setting (gregobase 1028)."
+    }
+  ]
+}

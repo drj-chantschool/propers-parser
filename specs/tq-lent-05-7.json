@@ -1,0 +1,52 @@
+{
+  "subsection": "tq-lent-05-7",
+  "label": "Lent — 5th week, Saturday (Sabbato)",
+  "lit_epoch_slug": "TQ-LENT-05-7",
+  "wkday": 7,
+  "chants": [
+    {
+      "page": 132,
+      "service_part": "in",
+      "mode": 8,
+      "incipit": "Domine, ne longe facias auxilium",
+      "text_src": "Ps. 21, 20. 22 et 2",
+      "band": [409, 505],
+      "engraved": true
+    },
+    {
+      "page": 133,
+      "service_part": "gr",
+      "mode": 4,
+      "incipit": "Tenuisti manum dexteram meam",
+      "text_src": "Ps. 72, 23. 24. V. 1-3",
+      "band": [378, 505],
+      "engraved": true
+    },
+    {
+      "page": 135,
+      "service_part": "gr",
+      "mode": 2,
+      "incipit": "Collegerunt ergo pontifices",
+      "text_src": "Io. 11, 47. 48. 49. 50. 53",
+      "band": [93, 505],
+      "engraved": true,
+      "option_txt": "Vel cantatur pro Graduali:"
+    },
+    {
+      "page": 136,
+      "service_part": "of",
+      "incipit": "Domine, vivifica me",
+      "target_page": 359,
+      "band": [365, 392],
+      "engraved": false
+    },
+    {
+      "page": 136,
+      "service_part": "co",
+      "incipit": "Aufer a me",
+      "target_page": 353,
+      "band": [365, 392],
+      "engraved": false
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "subsection": "de-sancto-ioseph",
+  "label": "Votive Mass of Saint Joseph — De sancto Ioseph",
+  "lit_epoch_slug": "de-sancto-ioseph",
+  "chants": [
+    {
+      "page": 664,
+      "service_part": "co",
+      "incipit": "Fidelis servus et prudens",
+      "target_page": 491,
+      "band": [470.5, 501.7],
+      "engraved": false,
+      "option_txt": "Ut in sollemnitate S. Ioseph, die 19 martii, 552, cum ad libitum:",
+      "notes": "cum ps. 111* (psalm-tone plan, not a modeled field)."
+    }
+  ]
+}

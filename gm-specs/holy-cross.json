@@ -1,0 +1,45 @@
+{
+  "subsection": "holy-cross",
+  "label": "The Triumph of the Cross (Gregorian Missal)",
+  "lit_epoch_slug": "holy-cross",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 660,
+      "gm_xref_page": 286,
+      "vernacular_text": "Let our glory be in the cross of our Lord Jesus Christ; in him we have salvation, life and resurrection; through him we are rescued and set free. ℣. May God have mercy on us and bless us; may he cause his face to shine upon us and may he have mercy on us.",
+      "text_src": "Cf. Gal 6:14; Ps 66",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 661,
+      "gm_xref_page": 282,
+      "vernacular_text": "Christ became obedient for us unto death, even death on a Cross. ℣. Therefore God has highly exalted him, and bestowed on him the name which is above every name.",
+      "text_src": "Phil 2:8, ℣.9",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 661,
+      "vernacular_text": "O precious wood, O precious nails, gently bearing so precious a burden; you alone were worthy to carry the King of heaven, the Lord.",
+      "text_src": null,
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 662,
+      "vernacular_text": "Protect your people, O Lord, by the sign of the holy cross, from the attacks of all enemies; so that our service may be agreeable unto you and our sacrifice acceptable, alleluia.",
+      "text_src": null,
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 663,
+      "vernacular_text": "By the sign of the cross, deliver us from our enemies, O Lord our God.",
+      "text_src": null,
+      "cycle_sun": null
+    }
+  ]
+}

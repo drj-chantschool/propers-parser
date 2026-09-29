@@ -1,0 +1,63 @@
+{
+  "subsection": "archangels",
+  "label": "Sts. Michael, Gabriel and Raphael, Archangels (Die 29 septembris)",
+  "lit_epoch_slug": "archangels",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 607,
+      "service_part": "in",
+      "mode": 3,
+      "incipit": "Benedicite Dominum",
+      "text_src": "Ps. 102, 20",
+      "band": [321, 505],
+      "engraved": true,
+      "notes": "Heading reads 'Antiphona ad introitum III' (III = mode 3). Engraving continues onto p608, where a 'T. P. Alleluia, alleluia.' and a 'Ps. Benedic anima mea Domino: et omnia quae intra me sunt, nomini sancto eius.' verse are printed as part of this antiphon."
+    },
+    {
+      "page": 608,
+      "service_part": "gr",
+      "mode": 3,
+      "incipit": "Benedicite Dominum",
+      "text_src": "Ps. 102, 20. V. 1",
+      "band": [185, 505],
+      "engraved": true
+    },
+    {
+      "page": 609,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Sancte Michael archangele",
+      "band": [234, 475],
+      "engraved": true
+    },
+    {
+      "page": 609,
+      "service_part": "al",
+      "incipit": "Laudate Deum, omnes angeli",
+      "target_page": 262,
+      "option_txt": "Vel ad libitum :",
+      "band": [479.7, 501.4],
+      "engraved": false
+    },
+    {
+      "page": 610,
+      "service_part": "of",
+      "mode": 1,
+      "incipit": "Stetit angelus",
+      "text_src": "Apoc. 8, 3. 4",
+      "band": [41.8, 400],
+      "engraved": true
+    },
+    {
+      "page": 610,
+      "service_part": "co",
+      "mode": 3,
+      "incipit": "Benedicite omnes angeli Domini",
+      "text_src": "Dan. 3, 58",
+      "band": [440, 505],
+      "engraved": true,
+      "notes": "Engraving spans pp. 610-611. Printed below it on p611: 'Cant. Danielis 3, 57. 60a-61a. 62a-63a. 64a-65a. 83. 84a-85a. 86a-87a' and 'Ad libitum, psalmodia IV toni.' -- canticle/psalm-tone plan, not modeled."
+    }
+  ]
+}

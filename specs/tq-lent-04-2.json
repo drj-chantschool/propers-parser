@@ -1,0 +1,43 @@
+{
+  "subsection": "tq-lent-04-2",
+  "label": "Lent — 4th week, Monday (Feria Secunda)",
+  "lit_epoch_slug": "TQ-LENT-04-2",
+  "wkday": 2,
+  "chants": [
+    {
+      "page": 111,
+      "service_part": "in",
+      "mode": 1,
+      "incipit": "Ego autem in Domino speravi",
+      "text_src": "Ps. 30, 7. 8 et 2",
+      "band": [283, 519],
+      "engraved": true
+    },
+    {
+      "page": 112,
+      "service_part": "gr",
+      "mode": 3,
+      "incipit": "Exaltabo te, Domine",
+      "text_src": "Ps. 29, 2. V. 3. 4",
+      "band": [85, 519],
+      "engraved": true
+    },
+    {
+      "page": 113,
+      "service_part": "of",
+      "incipit": "Iubilate Deo omnis terra",
+      "target_page": 259,
+      "band": [284, 300],
+      "engraved": false
+    },
+    {
+      "page": 113,
+      "service_part": "co",
+      "mode": 4,
+      "incipit": "Ab occultis meis",
+      "text_src": "Ps. 18, 13. 14",
+      "band": [303, 519],
+      "engraved": true
+    }
+  ]
+}

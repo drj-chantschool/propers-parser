@@ -1,0 +1,63 @@
+{
+  "subsection": "pasc-pent",
+  "label": "Pentecost Sunday (Dominica Pentecostes — ad Missam in die)",
+  "lit_epoch_slug": "PASC-PENT-08-1",
+  "wkday": 1,
+  "chants": [
+    {
+      "page": 252,
+      "service_part": "in",
+      "mode": 8,
+      "incipit": "Spiritus Domini",
+      "text_src": "Sap. 1, 7; Ps. 67",
+      "band": [88, 444],
+      "engraved": true
+    },
+    {
+      "page": 253,
+      "service_part": "al1",
+      "mode": 4,
+      "incipit": "Emitte Spiritum tuum",
+      "text_src": "Ps. 103, 30",
+      "band": [30, 195],
+      "engraved": true
+    },
+    {
+      "page": 253,
+      "service_part": "al",
+      "mode": 2,
+      "incipit": "Veni, Sancte Spiritus",
+      "text_src": null,
+      "band": [195, 440],
+      "engraved": true
+    },
+    {
+      "page": 253,
+      "service_part": "seq",
+      "mode": 1,
+      "incipit": "Veni, Sancte Spiritus",
+      "text_src": null,
+      "band": [440, 505],
+      "engraved": true
+    },
+    {
+      "page": 255,
+      "service_part": "of",
+      "mode": 4,
+      "incipit": "Confirma hoc, Deus",
+      "text_src": "Ps. 67, 29-30",
+      "band": [222, 505],
+      "engraved": true,
+      "notes": "p255 ends 'offerent reges munera, alleluia' -- must resolve to the CUM-Alleluia engraving (gregobase 361). gregobase also carries a sine-Alleluia form (id 83) that the GR never prints; gr_index_entry row 1495 pointed there until 2026-09-26, so this slot engraved without the alleluia."
+    },
+    {
+      "page": 256,
+      "service_part": "co",
+      "mode": 7,
+      "incipit": "Factus est repente",
+      "text_src": "Ps. 67, 2. 4. 5 abc. 5 d-6. 8. 9. 20. 21. 29. 36",
+      "band": [40, 315],
+      "engraved": true
+    }
+  ]
+}

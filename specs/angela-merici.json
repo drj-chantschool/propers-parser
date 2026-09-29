@@ -1,0 +1,48 @@
+{
+  "subsection": "angela-merici",
+  "label": "Angela Merici (S. ANGELÆ MERICI, VIRGINIS, Die 27 ianuarii)",
+  "lit_epoch_slug": "angela-merici",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 538,
+      "service_part": "in",
+      "incipit": "Dilexisti iustitiam",
+      "target_page": 498,
+      "band": [96, 111],
+      "engraved": false
+    },
+    {
+      "page": 538,
+      "service_part": "gr",
+      "incipit": "Specie tua",
+      "target_page": 411,
+      "band": [109, 123],
+      "engraved": false
+    },
+    {
+      "page": 538,
+      "service_part": "al",
+      "incipit": "Adducentur regi",
+      "target_page": 500,
+      "band": [121, 135],
+      "engraved": false
+    },
+    {
+      "page": 538,
+      "service_part": "of",
+      "incipit": "Filiae regum",
+      "target_page": 505,
+      "band": [133, 147],
+      "engraved": false
+    },
+    {
+      "page": 538,
+      "service_part": "co",
+      "incipit": "Quinque prudentes virgines",
+      "target_page": 507,
+      "band": [145, 165],
+      "engraved": false
+    }
+  ]
+}

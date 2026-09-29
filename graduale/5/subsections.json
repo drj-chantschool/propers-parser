@@ -1,0 +1,65 @@
+[
+  {
+    "page": 2,
+    "y": 26.7,
+    "size": 13.7,
+    "level": 0,
+    "text": "1.  MISSAE IN EXSEQUIIS"
+  },
+  {
+    "page": 10,
+    "y": 191.1,
+    "size": 10.9,
+    "level": 0,
+    "text": "2.  MISSA IN EXSEQUIIS PARVULI BAPTIZATI"
+  },
+  {
+    "page": 11,
+    "y": 47.8,
+    "size": 13.9,
+    "level": 0,
+    "text": "3.  ORDO EXSEQUIARUM"
+  },
+  {
+    "page": 14,
+    "y": 108.7,
+    "size": 9.4,
+    "level": 0,
+    "text": "STATIO PRIMA : IN DOMO DEFUNCTI"
+  },
+  {
+    "page": 17,
+    "y": 44.4,
+    "size": 7.9,
+    "level": 0,
+    "text": "AD PROCESSIONEM AD ECCLESIAM"
+  },
+  {
+    "page": 25,
+    "y": 155.4,
+    "size": 10.2,
+    "level": 0,
+    "text": "STATIO SECUNDA : IN ECCLESIA"
+  },
+  {
+    "page": 25,
+    "y": 253.4,
+    "size": 8.6,
+    "level": 0,
+    "text": "AD ULTIMAM COMMENDATIONEM"
+  },
+  {
+    "page": 31,
+    "y": 111.5,
+    "size": 8.5,
+    "level": 0,
+    "text": "AD PROCESSIONEM AD COEMETERIUM"
+  },
+  {
+    "page": 36,
+    "y": 43.9,
+    "size": 8.9,
+    "level": 0,
+    "text": "STATIO TERTIA  :  AD SEPULCRUM"
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "subsection": "ot-ot-06",
+  "label": "6th Sunday in Ordinary Time (Gregorian Missal)",
+  "lit_epoch_slug": "OT-OT-06",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 452,
+      "vernacular_text": "Be unto me a protecting God and a house of refuge, to save me; for you are my support and my refuge; and for the sake of your name you will lead me and nourish me. ℣. In you O Lord, do I trust; let me never be put to shame; deliver me in your righteousness.",
+      "text_src": "Ps 30:3,4 and 2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 453,
+      "vernacular_text": "You alone are the God who works wonders; you manifested your strength among the nations. ℣. With your arm you delivered your people, the sons of Israel and Joseph.",
+      "text_src": "Ps 76:15, ℣.16",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 454,
+      "vernacular_text": "Sing to the Lord a new song; for the Lord has accomplished wondrous deeds.",
+      "text_src": "Ps 97:1",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 455,
+      "vernacular_text": "Blessed are you, O Lord, teach me your commandments. O Lord, you are blessed, teach me your commandments. With my lips have I declared all the judgments spoken by your mouth.",
+      "text_src": "Ps 118:12,13",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 456,
+      "vernacular_text": "They ate and were fully satisfied; the Lord gave them all that they desired; they were not deprived of their wants.",
+      "text_src": "Ps 77:29,30",
+      "cycle_sun": null
+    }
+  ]
+}

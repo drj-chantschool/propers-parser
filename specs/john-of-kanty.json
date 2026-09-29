@@ -1,0 +1,48 @@
+{
+  "subsection": "john-of-kanty",
+  "label": "S. Ioannis de Kety, Presbyteri (John of Kanty / John Cantius) — Die 23 decembris",
+  "lit_epoch_slug": "john-of-kanty",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 632,
+      "service_part": "in",
+      "incipit": "Dispersit, dedit pauperibus",
+      "target_page": 519,
+      "band": [323.3, 334.3],
+      "engraved": false
+    },
+    {
+      "page": 632,
+      "service_part": "gr",
+      "incipit": "Ego dixi : Domine",
+      "target_page": 279,
+      "band": [335.6, 346.6],
+      "engraved": false
+    },
+    {
+      "page": 632,
+      "service_part": "al",
+      "incipit": "Beatus vir qui timet",
+      "target_page": 511,
+      "band": [347.4, 358.4],
+      "engraved": false
+    },
+    {
+      "page": 632,
+      "service_part": "of",
+      "incipit": "Veritas mea",
+      "target_page": 483,
+      "band": [359.7, 370.7],
+      "engraved": false
+    },
+    {
+      "page": 632,
+      "service_part": "co",
+      "incipit": "Amen dico vobis : quod uni",
+      "target_page": 79,
+      "band": [371.6, 382.6],
+      "engraved": false
+    }
+  ]
+}

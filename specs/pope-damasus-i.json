@@ -1,0 +1,50 @@
+{
+  "subsection": "pope-damasus-i",
+  "label": "Pope Damasus I (S. DAMASI I, PAPAE, Die 11 decembris)",
+  "lit_epoch_slug": "pope-damasus-i",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 631,
+      "service_part": "in",
+      "incipit": "Sacerdotes tui, Domine",
+      "target_page": 485,
+      "band": [211.9, 222.9],
+      "engraved": false
+    },
+    {
+      "page": 631,
+      "service_part": "gr",
+      "incipit": "Ecce sacerdos magnus",
+      "target_page": 486,
+      "band": [223.5, 234.5],
+      "engraved": false
+    },
+    {
+      "page": 631,
+      "service_part": "al",
+      "incipit": "Tu es sacerdos in aeternum",
+      "target_page": 449,
+      "band": [235.6, 246.6],
+      "engraved": false
+    },
+    {
+      "page": 631,
+      "service_part": "of",
+      "incipit": "Inveni David servum meum",
+      "target_page": 447,
+      "band": [247.9, 271.4],
+      "engraved": false,
+      "notes": "OF. and CO. citation lines occupy a single merged OCR text block on p631 (y 247.9-271.4), so both chants share this bbox by necessity; a narrower band would select no block."
+    },
+    {
+      "page": 631,
+      "service_part": "co",
+      "incipit": "Domine, quinque talenta",
+      "target_page": 515,
+      "band": [247.9, 271.4],
+      "engraved": false,
+      "notes": "OF. and CO. citation lines occupy a single merged OCR text block on p631 (y 247.9-271.4), so both chants share this bbox by necessity; a narrower band would select no block."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "subsection": "turibius-of-mongrovejo",
+  "label": "S. Turibii de Mongrovejo, Episcopi (Die 23 martii)",
+  "lit_epoch_slug": "turibius-of-mongrovejo",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 553,
+      "service_part": "in",
+      "incipit": "Dispersit, dedit pauperibus",
+      "target_page": 519,
+      "band": [269, 280],
+      "engraved": false
+    },
+    {
+      "page": 553,
+      "service_part": "gr",
+      "incipit": "Laetatus sum",
+      "target_page": 336,
+      "band": [281, 292],
+      "engraved": false
+    },
+    {
+      "page": 553,
+      "service_part": "of",
+      "incipit": "In te speravi, Domine",
+      "target_page": 322,
+      "band": [293, 304],
+      "engraved": false
+    },
+    {
+      "page": 553,
+      "service_part": "co",
+      "incipit": "Qui mihi ministrat",
+      "target_page": 484,
+      "band": [305, 316],
+      "engraved": false
+    }
+  ]
+}

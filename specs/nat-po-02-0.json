@@ -1,0 +1,50 @@
+{
+  "subsection": "nat-po-02-0",
+  "label": "Second Sunday of Christmas (Dominica Secunda post Nativitatem)",
+  "lit_epoch_slug": "NAT-PO-02-0",
+  "wkday": 1,
+  "chants": [
+    {
+      "page": 53,
+      "service_part": "in",
+      "mode": 8,
+      "incipit": "Dum medium silentium tenerent",
+      "text_src": "Sap. 18, 14-15; Ps. 92",
+      "band": [312, 515],
+      "engraved": true
+    },
+    {
+      "page": 54,
+      "service_part": "gr",
+      "mode": 3,
+      "incipit": "Speciosus forma",
+      "text_src": "Ps. 44, 3 et 2",
+      "band": [227, 515],
+      "engraved": true
+    },
+    {
+      "page": 55,
+      "service_part": "al",
+      "incipit": "Dominus regnavit, decorem",
+      "target_page": 46,
+      "band": [270, 309],
+      "engraved": false
+    },
+    {
+      "page": 55,
+      "service_part": "of",
+      "incipit": "Benedic, anima mea",
+      "target_page": 362,
+      "band": [270, 309],
+      "engraved": false
+    },
+    {
+      "page": 55,
+      "service_part": "co",
+      "incipit": "Domine, Dominus noster",
+      "target_page": 357,
+      "band": [270, 309],
+      "engraved": false
+    }
+  ]
+}

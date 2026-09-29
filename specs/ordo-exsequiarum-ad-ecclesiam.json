@@ -1,0 +1,114 @@
+{
+  "subsection": "ordo-exsequiarum-ad-ecclesiam",
+  "label": "Ordo Exsequiarum — Ad processionem ad ecclesiam",
+  "lit_epoch_slug": "ordo-exsequiarum",
+  "chants": [
+    {
+      "page": 684,
+      "service_part": "preps1",
+      "mode": null,
+      "incipit": "Laetatus sum in eo quod dixerunt mihi",
+      "band": [95, 502],
+      "engraved": true,
+      "unmatched": true,
+      "original_text": "℣.1 Lætátus sum in eo quod dixérunt mihi: ℟. In domum Dómini lætántes íbimus. ℣.2 Stantes iam sunt pedes nostri, * in portis tuis, Ierúsalem. ℟. In domum Dómini.",
+      "notes": "Psalmus 121, responsorial psalm for the procession to the church (1974 Ordo Exsequiarum). GR prints no mode. Vv. 3-9 follow in text, sung to the same tone, each with the response In domum Domini. Verified absent from gregobase in any form — no 'Psalmus 121' entry exists at all."
+    },
+    {
+      "page": 685,
+      "service_part": "preps1",
+      "mode": null,
+      "incipit": "Laetatus sum in eo quod dixerunt mihi",
+      "band": [28, 182],
+      "engraved": true,
+      "unmatched": true,
+      "option_txt": "Vel, pro opportunitate, cum responso Allelúia, ut sequitur :",
+      "original_text": "℣.1 Lætátus sum in eo quod dixérunt mihi: * «In domum Dómini íbimus». ℟. Allelúia, allelúia. ℣.2 et seq. ut supra.",
+      "notes": "Alternate Allelúia response for the same Psalmus 121 (option 2 of preps1, printed at the top of p685 under the 'Vel' rubric). Not in gregobase (see preps1 primary)."
+    },
+    {
+      "page": 685,
+      "service_part": "preps2",
+      "mode": null,
+      "incipit": "In convertendo Dominus captivitatem Sion",
+      "band": [186, 500],
+      "engraved": true,
+      "unmatched": true,
+      "original_text": "℣.1 In converténdo Dóminus captivitátem Sion. ℟. Facti sumus sicut consoláti. ℣.2 Tunc replétum est gáudio os nostrum: * et lingua nostra exsultatióne. ℟. Facti sumus.",
+      "notes": "Psalmus 125, responsorial psalm for the procession to the church. GR prints no mode. Vv. 3-8 follow in text (vv. 6-8 on p686), each with the response Facti sumus. Gregobase 11252 'Psalmus 125' sets a different response and verse division — not a match. A further Allelúia-response alternate for this psalm on p686 is HELD BACK pending a user ruling, deliberately not in this spec."
+    },
+    {
+      "page": 686,
+      "service_part": "preps2",
+      "mode": null,
+      "incipit": "In convertendo Dominus captivitatem Sion",
+      "band": [110, 315],
+      "engraved": true,
+      "unmatched": true,
+      "option_txt": "Vel cum responso Allelúia, ut sequitur :",
+      "original_text": "Cantor: ℣.1 In converténdo Dóminus captivitátem Sion: ℟. (Schola vel omnes) Allelúia. Cantor: facti sumus quasi somniántes. ℟. (Omnes) Allelúia. ℣. 2 et seq. ut supra.",
+      "notes": "Alternate Allelúia response for the same Psalmus 125 (option 2 of preps2), p686. Sung three ways — Cantor / Schola vel omnes / Omnes — as printed. Its verse text matches gregobase 11252 (Simplex 'Psalmus 125', mode 1, ps) exactly, but 11252 is a bare psalm verse carrying NO Allelúia response, so it is a different item; user ruled 2026-09-03 to load this unmatched."
+    },
+    {
+      "page": 686,
+      "service_part": "prean1",
+      "mode": 3,
+      "incipit": "Placebo Domino",
+      "text_src": "Ps. 114, 9",
+      "band": [349, 426],
+      "engraved": true,
+      "notes": "Antiphon I. Sung with Psalmus 114, pointed to the psalm tone engraved beneath the antiphon (verses continue onto p687)."
+    },
+    {
+      "page": 687,
+      "service_part": "prean2",
+      "mode": 2,
+      "incipit": "Redemptor meus vivit",
+      "text_src": null,
+      "band": [265, 385],
+      "engraved": true,
+      "notes": "Antiphon II. Sung with Psalmus 115, pointed to the psalm tone engraved beneath the antiphon (verses continue onto p688). No scripture citation is printed for this antiphon."
+    },
+    {
+      "page": 688,
+      "service_part": "prean3",
+      "mode": 1,
+      "incipit": "Exsultabunt Domino",
+      "text_src": "Ps. 50, 10",
+      "band": [252, 330],
+      "engraved": true,
+      "notes": "Antiphon III. Sung with Psalmus 50, pointed to the psalm tone engraved beneath the antiphon (verses continue onto p689)."
+    },
+    {
+      "page": 689,
+      "service_part": "prean4",
+      "mode": 2,
+      "incipit": "Audivi vocem de caelo",
+      "text_src": "Apoc. 14, 13",
+      "band": [292, 425],
+      "engraved": true,
+      "notes": "Antiphon IV. Sung with Psalmus 120, pointed to the psalm tone engraved beneath the antiphon (verses continue onto p690). The antiphon's own engraving runs two staves on this page (Beati mortui... / qui in Domino moriuntur)."
+    },
+    {
+      "page": 690,
+      "service_part": "prean5",
+      "mode": 8,
+      "incipit": "Qui habitas in caelis",
+      "text_src": null,
+      "band": [309, 386],
+      "engraved": true,
+      "notes": "Antiphon V. Sung with Psalmus 122, pointed to the psalm tone engraved beneath the antiphon (verses continue onto p691). No scripture citation is printed for this antiphon."
+    },
+    {
+      "page": 691,
+      "service_part": "prean6",
+      "mode": 1,
+      "incipit": "Qui exspectant Dominum",
+      "text_src": null,
+      "band": [139, 259],
+      "engraved": true,
+      "office_part": "of",
+      "notes": "Antiphon VI. Sung with Psalmus 131, pointed to the psalm tone engraved beneath the antiphon (verses continue onto p692, ending just above the STATIO SECUNDA heading at y=155.4). office_part='of' because gregobase carries this chant only as id 15499 (Graduale Simplex, mode 1, office_part 'of') — same text and mode, already grouped — so the default antiphona lookup finds nothing; this is a per-chant KIND override, not a claim about the slot. No scripture citation is printed for this antiphon."
+    }
+  ]
+}

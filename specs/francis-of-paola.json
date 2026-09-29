@@ -1,0 +1,65 @@
+{
+  "subsection": "francis-of-paola",
+  "label": "Francis of Paola (S. FRANCISCI DE PAOLA, EREMITAE, Die 2 aprilis)",
+  "lit_epoch_slug": "francis-of-paola",
+  "chants": [
+    {
+      "page": 554,
+      "service_part": "in",
+      "incipit": "Iustus ut palma",
+      "text_src": null,
+      "target_page": 508,
+      "band": [121, 145],
+      "engraved": false,
+      "notes": "IN and GR citation lines share one OCR text block on p554 (y121.8-144.7); band must include the block's centre, so bbox covers the shared block (both rows get the same bbox)."
+    },
+    {
+      "page": 554,
+      "service_part": "gr",
+      "incipit": "Os iusti meditabitur",
+      "text_src": null,
+      "target_page": 494,
+      "band": [121, 145],
+      "engraved": false
+    },
+    {
+      "page": 554,
+      "service_part": "al1",
+      "incipit": "Beatus vir qui timet",
+      "text_src": null,
+      "target_page": 511,
+      "band": [165, 177],
+      "option_txt": "Tempore paschali omittitur Graduale, et eius loco dicitur :",
+      "engraved": false,
+      "notes": "Paschaltide replacement for the Gradual cited above (Os iusti meditabitur, p494); modeled at al1 (the Gradual's slot) per the rubric's 'eius loco dicitur'."
+    },
+    {
+      "page": 554,
+      "service_part": "al1",
+      "incipit": "Iustus germinabit",
+      "text_src": null,
+      "target_page": 496,
+      "band": [165, 177],
+      "option_txt": "vel",
+      "engraved": false
+    },
+    {
+      "page": 554,
+      "service_part": "of",
+      "incipit": "Desiderium animae eius",
+      "text_src": null,
+      "target_page": 518,
+      "band": [184, 195],
+      "engraved": false
+    },
+    {
+      "page": 554,
+      "service_part": "co",
+      "incipit": "Amen dico vobis : quod vos",
+      "text_src": null,
+      "target_page": 436,
+      "band": [196, 207],
+      "engraved": false
+    }
+  ]
+}

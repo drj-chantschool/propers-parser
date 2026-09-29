@@ -1,0 +1,52 @@
+{
+  "subsection": "st-cecilia",
+  "label": "St. Cecilia (S. CAECILIAE, VIRGINIS ET MARTYRIS, Die 22 novembris)",
+  "lit_epoch_slug": "st-cecilia",
+  "chants": [
+    {
+      "page": 624,
+      "service_part": "in",
+      "incipit": "Loquebar de testimoniis tuis",
+      "target_page": 526,
+      "text_src": null,
+      "band": [181.6, 192.6],
+      "engraved": false
+    },
+    {
+      "page": 624,
+      "service_part": "gr",
+      "incipit": "Audi, filia, et vide",
+      "target_page": 406,
+      "text_src": null,
+      "band": [193.5, 204.5],
+      "engraved": false
+    },
+    {
+      "page": 624,
+      "service_part": "al",
+      "incipit": "Quinque prudentes virgines",
+      "target_page": 502,
+      "text_src": null,
+      "band": [205.6, 216.6],
+      "engraved": false
+    },
+    {
+      "page": 624,
+      "service_part": "of",
+      "incipit": "Afferentur... proximae",
+      "target_page": 504,
+      "text_src": null,
+      "band": [217.7, 228.7],
+      "engraved": false
+    },
+    {
+      "page": 624,
+      "service_part": "co",
+      "incipit": "Confundantur superbi",
+      "target_page": 529,
+      "text_src": null,
+      "band": [229.8, 240.8],
+      "engraved": false
+    }
+  ]
+}

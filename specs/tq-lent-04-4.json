@@ -1,0 +1,41 @@
+{
+  "subsection": "tq-lent-04-4",
+  "label": "Lent — 4th week, Wednesday (Feria Quarta)",
+  "lit_epoch_slug": "TQ-LENT-04-4",
+  "wkday": 4,
+  "chants": [
+    {
+      "page": 115,
+      "service_part": "in",
+      "mode": 5,
+      "incipit": "Exaudi, Deus, orationem meam",
+      "text_src": "Ps. 54, 2. 3. 4",
+      "band": [419, 505],
+      "engraved": true
+    },
+    {
+      "page": 116,
+      "service_part": "gr",
+      "incipit": "Venite, filii",
+      "target_page": 298,
+      "band": [261, 296],
+      "engraved": false
+    },
+    {
+      "page": 116,
+      "service_part": "of",
+      "incipit": "Benedicite, gentes",
+      "target_page": 231,
+      "band": [261, 296],
+      "engraved": false
+    },
+    {
+      "page": 116,
+      "service_part": "co",
+      "incipit": "Laetabimur in salutari tuo",
+      "target_page": 359,
+      "band": [261, 296],
+      "engraved": false
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "subsection": "ot-ot-18",
+  "label": "18th week of Ordinary Time (Hebdomada XVIII per annum)",
+  "lit_epoch_slug": "OT-OT-18",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 315,
+      "service_part": "in",
+      "mode": 7,
+      "incipit": "Deus, in adiutorium",
+      "text_src": "Ps. 69, 2. 3. 4",
+      "band": [191, 489],
+      "engraved": true
+    },
+    {
+      "page": 316,
+      "service_part": "gr",
+      "mode": 7,
+      "incipit": "Benedicam Dominum",
+      "text_src": "Ps. 33, 2. V. 3",
+      "band": [25, 505],
+      "engraved": true
+    },
+    {
+      "page": 317,
+      "service_part": "al",
+      "mode": 3,
+      "incipit": "Domine, Deus salutis meae",
+      "text_src": "Ps. 87, 2",
+      "band": [100, 357],
+      "engraved": true
+    },
+    {
+      "page": 317,
+      "service_part": "of",
+      "mode": 8,
+      "incipit": "Precatus est Moyses",
+      "text_src": "Cf. Ex. 32, 11. 12. 13. 14",
+      "band": [378, 505],
+      "engraved": true
+    },
+    {
+      "page": 319,
+      "service_part": "co",
+      "mode": 5,
+      "incipit": "Panem de caelo",
+      "text_src": "Sap. 16, 20",
+      "band": [55, 320],
+      "engraved": true
+    },
+    {
+      "page": 315,
+      "service_part": "in",
+      "incipit": "Sitientes",
+      "target_page": 114,
+      "cycle_sun": 1,
+      "band": [489, 501],
+      "engraved": false
+    },
+    {
+      "page": 317,
+      "service_part": "gr",
+      "incipit": "Oculi omnium",
+      "target_page": 343,
+      "cycle_sun": 1,
+      "band": [39, 75],
+      "engraved": false
+    },
+    {
+      "page": 317,
+      "service_part": "gr",
+      "incipit": "Tu es Deus",
+      "target_page": 275,
+      "wkday": 6,
+      "cycle_wkday": 1,
+      "band": [39, 75],
+      "engraved": false
+    },
+    {
+      "page": 317,
+      "service_part": "gr",
+      "incipit": "Adiutor in opportunitatibus",
+      "target_page": 69,
+      "wkday": 7,
+      "cycle_wkday": 2,
+      "band": [39, 75],
+      "engraved": false
+    },
+    {
+      "page": 317,
+      "service_part": "al",
+      "incipit": "Tu es Petrus",
+      "target_page": 576,
+      "wkday": 5,
+      "band": [356, 381],
+      "engraved": false
+    },
+    {
+      "page": 319,
+      "service_part": "of",
+      "incipit": "Sanctificavit Moyses",
+      "target_page": 338,
+      "cycle_sun": 3,
+      "band": [40, 53],
+      "engraved": false
+    },
+    {
+      "page": 319,
+      "service_part": "co",
+      "incipit": "Qui vult venire post me",
+      "target_page": 484,
+      "wkday": 6,
+      "band": [321, 345],
+      "engraved": false
+    }
+  ]
+}

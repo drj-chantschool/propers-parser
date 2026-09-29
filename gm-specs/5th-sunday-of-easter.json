@@ -1,0 +1,50 @@
+{
+  "subsection": "5th-sunday-of-easter",
+  "label": "5th Sunday of Easter (Gregorian Missal)",
+  "lit_epoch_slug": "PASC-AD_ASC-05",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 368,
+      "vernacular_text": "Sing to the Lord a new song, alleluia; for the Lord has accomplished wondrous deeds, alleluia; he has revealed his justice in the sight of the Gentiles, alleluia, alleluia. ℣. His right hand and his holy arm have given him victory.",
+      "text_src": "Ps 97:1,2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al1",
+      "page": 369,
+      "vernacular_text": "The right hand of the Lord has done valiantly; the right hand of the Lord has lifted me up.",
+      "text_src": "Ps 117:16",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 370,
+      "vernacular_text": "Christ has been raised from the dead and will never die again; death no longer has dominion over him.",
+      "text_src": "Rom 6:9",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 371,
+      "vernacular_text": "Shout joyfully to God, all the earth; shout with joy to God, all the earth; sing a psalm in honour of his name; come and hear, all you who fear God, and I will tell you what great things the Lord has done for my soul, alleluia.",
+      "text_src": "Ps 65:1,2,16",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 373,
+      "vernacular_text": "I am the true vine, and you are the branches; he who abides in me and I in him, he it is who bears much fruit, alleluia, alleluia.",
+      "text_src": "Jn 15:5",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 372,
+      "vernacular_text": "Have I been with you so long, and yet you do not know me? Philip, he who sees me, sees the Father. Do you not believe that I am in the Father, and the Father in me? Alleluia, alleluia.",
+      "text_src": "Jn 14:9",
+      "cycle_sun": 1
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "subsection": "thomas-becket",
+  "label": "Thomas Becket (S. Thomae Becket, Episcopi et Martyris, Die 29 decembris)",
+  "lit_epoch_slug": "thomas-becket",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 639,
+      "service_part": "in",
+      "incipit": "Loquebar de testimoniis tuis",
+      "target_page": 526,
+      "band": [172.6, 183.6],
+      "engraved": false
+    },
+    {
+      "page": 639,
+      "service_part": "gr",
+      "incipit": "Ecce sacerdos magnus",
+      "target_page": 486,
+      "band": [184.6, 195.6],
+      "engraved": false
+    },
+    {
+      "page": 639,
+      "service_part": "al",
+      "incipit": "Ego sum pastor bonus",
+      "target_page": 223,
+      "band": [196.8, 207.8],
+      "engraved": false
+    },
+    {
+      "page": 639,
+      "service_part": "of",
+      "incipit": "Posuisti, Domine",
+      "target_page": 482,
+      "band": [208.6, 219.6],
+      "engraved": false
+    },
+    {
+      "page": 639,
+      "service_part": "co",
+      "incipit": "Servite Domino",
+      "target_page": 68,
+      "band": [220.7, 231.7],
+      "engraved": false,
+      "notes": "Printed as 'Servite Domino, 68, cum ps. 2, 1. 2. 3. 4. 5. 6. 10' -- psalm-tone data not modeled."
+    }
+  ]
+}

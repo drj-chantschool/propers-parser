@@ -1,0 +1,47 @@
+{
+  "subsection": "de-beata-maria-virgine-post-pentecosten-a",
+  "label": "Votive Mass of the BVM — Ordinary Time after Pentecost, form A",
+  "lit_epoch_slug": "de-beata-maria-virgine-post-pentecosten-a",
+  "chants": [
+    {
+      "page": 663,
+      "service_part": "in",
+      "incipit": "Salve, sancta Parens",
+      "target_page": 403,
+      "band": [157, 169],
+      "engraved": false
+    },
+    {
+      "page": 663,
+      "service_part": "gr",
+      "incipit": "Diffusa est gratia in labiis tuis",
+      "target_page": 408,
+      "band": [169, 181],
+      "engraved": false
+    },
+    {
+      "page": 663,
+      "service_part": "al",
+      "incipit": "Virga Iesse floruit",
+      "target_page": 416,
+      "band": [181, 193],
+      "engraved": false
+    },
+    {
+      "page": 663,
+      "service_part": "of",
+      "incipit": "Ave, Maria, gratia plena",
+      "target_page": 419,
+      "band": [193, 205],
+      "engraved": false
+    },
+    {
+      "page": 663,
+      "service_part": "co",
+      "incipit": "Beata viscera Mariae Virginis",
+      "target_page": 423,
+      "band": [205, 217],
+      "engraved": false
+    }
+  ]
+}

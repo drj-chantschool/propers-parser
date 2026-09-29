@@ -1,0 +1,49 @@
+{
+  "subsection": "guardian-angels",
+  "label": "SS. Angelorum Custodum (The Holy Guardian Angels), Die 2 octobris",
+  "lit_epoch_slug": "guardian-angels",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 612,
+      "service_part": "in",
+      "incipit": "Benedicite Dominum",
+      "target_page": 607,
+      "band": [232, 246],
+      "engraved": false
+    },
+    {
+      "page": 612,
+      "service_part": "gr",
+      "incipit": "Angelis suis mandavit de te",
+      "target_page": 72,
+      "band": [245, 258],
+      "engraved": false
+    },
+    {
+      "page": 612,
+      "service_part": "al",
+      "mode": 4,
+      "incipit": "Benedicite Domino",
+      "text_src": "Ps. 102, 21",
+      "band": [258, 475],
+      "engraved": true
+    },
+    {
+      "page": 612,
+      "service_part": "of",
+      "incipit": "Immittet angelus Domini",
+      "target_page": 325,
+      "band": [477, 490],
+      "engraved": false
+    },
+    {
+      "page": 612,
+      "service_part": "co",
+      "incipit": "Benedicite, omnes angeli",
+      "target_page": 610,
+      "band": [489, 503],
+      "engraved": false
+    }
+  ]
+}

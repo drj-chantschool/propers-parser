@@ -1,0 +1,41 @@
+{
+  "subsection": "tq-lent-04-5",
+  "label": "Lent — 4th week, Thursday (Feria Quinta)",
+  "lit_epoch_slug": "TQ-LENT-04-5",
+  "wkday": 5,
+  "chants": [
+    {
+      "page": 116,
+      "service_part": "in",
+      "incipit": "Laetetur cor",
+      "target_page": 268,
+      "band": [340, 353],
+      "engraved": false
+    },
+    {
+      "page": 116,
+      "service_part": "gr",
+      "incipit": "Respice, Domine",
+      "target_page": 320,
+      "band": [353, 389],
+      "engraved": false
+    },
+    {
+      "page": 116,
+      "service_part": "of",
+      "incipit": "Precatus est Moyses",
+      "target_page": 317,
+      "band": [353, 389],
+      "engraved": false
+    },
+    {
+      "page": 116,
+      "service_part": "co",
+      "incipit": "Domine, memorabor",
+      "text_src": "cum ps. 70, 1. 2. 3. 5. 6. 12. 14. 23",
+      "target_page": 332,
+      "band": [353, 401],
+      "engraved": false
+    }
+  ]
+}

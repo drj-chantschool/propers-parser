@@ -1,0 +1,53 @@
+{
+  "subsection": "ann-and-joachim",
+  "label": "SS. Ioachim et Annae, Parentum B. Mariae V. (Die 26 iulii)",
+  "lit_epoch_slug": "ann-and-joachim",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 581,
+      "service_part": "in",
+      "incipit": "Sapientiam sanctorum",
+      "target_page": 452,
+      "band": [204.6, 227.5],
+      "engraved": false,
+      "notes": "IN. and GR. citation lines are a single merged OCR block (y 204.6-227.5); band is shared with the GR row."
+    },
+    {
+      "page": 581,
+      "service_part": "gr",
+      "incipit": "Exsultabunt sancti",
+      "target_page": 455,
+      "band": [204.6, 227.5],
+      "engraved": false,
+      "notes": "IN. and GR. citation lines are a single merged OCR block (y 204.6-227.5); band is shared with the IN row."
+    },
+    {
+      "page": 581,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "O Ioachim sancte",
+      "text_src": null,
+      "band": [228.0, 455.0],
+      "engraved": true
+    },
+    {
+      "page": 581,
+      "service_part": "of",
+      "incipit": "Laetamini in Domino",
+      "target_page": 468,
+      "band": [462.5, 485.8],
+      "engraved": false,
+      "notes": "OF. and the first line of CO. are a single merged OCR block (y 462.5-485.8); band is shared with the CO row."
+    },
+    {
+      "page": 581,
+      "service_part": "co",
+      "incipit": "Ierusalem, surge",
+      "target_page": 20,
+      "band": [462.5, 498.0],
+      "engraved": false,
+      "notes": "Printed as 'Ierusalem, surge, 20, cum ps. 127*, 1. 2. 3 ab. 3 cd. 4. 5. 6' - psalm-tone plan, not modeled. The OF and CO citation lines share one merged OCR block."
+    }
+  ]
+}

@@ -14,7 +14,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 16,1,left,95,811,449,831,introitus,2,Clamaverunt iusti,450
 17,1,left,95,841,517,866,introitus,5,Cogitationes Cordis eius,384
 18,1,left,95,871,516,896,introitus,3,"Cognovi, Domine",525
-19,1,left,95,901,517,926,introitus,3,Confesio,586
+19,1,left,95,901,517,926,introitus,3,Confessio,586
 20,1,left,97,962,518,986,introitus,1,Da pacem,336
 21,1,left,95,991,518,1016,introitus,4,De necessitatibus meis,84
 22,1,left,97,1022,518,1046,introitus,1,De ventre matris meae,570
@@ -27,7 +27,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 29,1,left,98,1232,451,1252,introitus,1,Dicit Dominus : Sermones mei,398
 29,1,left,98,1232,451,1252,introitus,1,Dicit Dominus : Sermones mei,624
 31,1,left,97,1292,519,1316,introitus,3,Dignus est Agnus,388
-32,1,left,97,1322,519,1347,introitus,8,Dilexiti,498
+32,1,left,97,1322,519,1347,introitus,8,Dilexisti,498
 33,1,left,97,1352,521,1377,introitus,3,"Dispersit, dedit pauperibus",519
 34,1,left,97,1383,520,1407,introitus,5,"Domine, in tua misericordia",278
 35,1,left,98,1412,520,1437,introitus,8,"Domine, ne longe facias",132
@@ -56,7 +56,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 61,1,right,558,1021,977,1045,introitus,1,"Exaudi, Domine tibi dixit",241
 62,1,right,556,1051,979,1076,introitus,7,"Exaudi nos, Domine",69
 63,1,right,556,1082,980,1106,introitus,4,Exaudivit,239
-64,1,right,559,1112,980,1135,introitus,1,Exclaamaverunt,559
+64,1,right,559,1112,980,1135,introitus,1,Exclamaverunt,559
 65,1,right,557,1141,980,1166,introitus,7,Exspecta Dominum,126
 66,1,right,557,1172,977,1194,introitus,6,Exsultate Deo,311
 67,1,right,557,1201,981,1226,introitus,2,"Exsurge, Domine",106
@@ -68,7 +68,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 73,1,right,561,1442,915,1462,introitus,1,Gaudeamus Mariae Assumptione,591
 75,2,left,98,115,450,135,introitus,1,Gaudeamus Mariae festivitate vel solemnitate,405
 77,2,left,98,174,451,195,introitus,1,Gaudeamus Sanctorum omnium,619
-79,2,left,96,235,517,260,introitus,5,Gaudens gaudebo,628
+79,2,left,96,235,517,260,introitus,3,Gaudens gaudebo,628
 80,2,left,99,265,516,285,introitus,1,Gaudete in Domino,21
 81,2,left,97,326,517,350,introitus,6,Hodie scietis,38
 82,2,left,97,386,518,410,introitus,3,In Deo laudabo,100
@@ -87,7 +87,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 95,2,left,97,778,519,802,introitus,4,"Iudica, Domine",150
 96,2,left,97,808,519,831,introitus,4,"Iudica me, Deus",120
 97,2,left,98,838,518,862,introitus,7,Iudicant sancti,425
-98,2,left,98,868,519,892,introitus,6,Iusi epulentur,450
+98,2,left,98,868,519,892,introitus,6,Iusti epulentur,450
 99,2,left,100,898,518,922,introitus,1,"Iustus es, Domine",332
 100,2,left,100,928,519,953,introitus,1,Iustus ut palma,508
 101,2,left,99,990,520,1014,introitus,8,Laetabitur iustus,473
@@ -142,7 +142,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 150,2,right,561,1291,977,1315,introitus,1,Salus autem,451
 151,2,right,558,1322,979,1346,introitus,4,Salus populi,339
 152,2,right,558,1351,979,1375,introitus,2,"Salve, sancta Parens",403
-153,2,right,559,1381,980,1406,introitus,3,Sanci tui,440
+153,2,right,559,1381,980,1406,introitus,3,Sancti tui,440
 154,2,right,562,1411,980,1435,introitus,1,Sapientiam sanctorum,452
 155,2,right,561,1446,980,1465,introitus,1,Scio cui credidi,535
 156,2,right,559,1471,981,1495,introitus,3,Si iniquitates,350
@@ -215,7 +215,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 221,3,right,558,854,975,878,graduale,3,"Eripe me, Domine",121
 222,3,right,559,884,975,909,graduale,5,Esto mihi,301
 223,3,right,558,913,976,937,graduale,5,Ex Sion,18
-224,3,right,558,944,976,968,graduale,3,Exalabo te,112
+224,3,right,558,944,976,968,graduale,3,Exaltabo te,112
 225,3,right,558,972,976,997,graduale,5,Exaltent eum,548
 226,3,right,557,1004,976,1027,graduale,2,"Excita, Domine",33
 227,3,right,559,1031,977,1058,graduale,5,Exiit sermo,636
@@ -307,7 +307,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 314,4,right,557,1349,977,1374,alleluia,4,Benedicite Domino,612
 315,4,right,557,1379,977,1404,alleluia,8,"Benedictus es, Domine",375
 316,4,right,558,1410,978,1434,alleluia,2,Benedictus qui venit,59
-317,4,right,557,1470,977,1494,alleluia,7,Candor est lucis aeterne,585
+317,4,right,557,1470,977,1494,alleluia,7,Candor est lucis aeternae,585
 318,5,left,97,115,518,139,alleluia,1,Cantate Domino,330
 319,5,left,97,141,450,173,alleluia,1,Cantate Domino (altera melodia),276
 321,5,left,95,205,516,231,alleluia,7,Caro mea,378
@@ -352,7 +352,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 363,5,right,555,144,978,169,alleluia,7,Exivi a Patre,230
 364,5,right,555,175,978,200,alleluia,7,Exsultabo et laetabor,656
 365,5,right,555,205,977,229,alleluia,7,Exsultate Deo,312
-366,5,right,556,266,977,291,alleluia,8,Fac nos innocuaam,558
+366,5,right,556,266,977,291,alleluia,8,Fac nos innocuam,558
 367,5,right,556,296,978,319,alleluia,4,Fecisti viriliter,866
 368,5,right,556,326,978,350,alleluia,8,"Felix es, sacra Virgo",414
 369,5,right,558,356,977,380,alleluia,1,Franciscus pauper,613
@@ -383,7 +383,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 394,5,right,556,1230,978,1254,alleluia,4,"Laudate, pueri",215
 395,5,right,556,1260,978,1284,alleluia,7,Levita Laurentius,588
 396,5,right,559,1290,976,1314,alleluia,1,Loquebantur,431
-397,5,right,557,1320,979,1344,alleluia,2,Loquear,528
+397,5,right,557,1320,979,1344,alleluia,2,"Loquebar, Domine",528
 398,5,right,557,1381,980,1406,alleluia,7,Magnus Dominus,302
 399,5,right,557,1411,981,1436,alleluia,2,Magnus sanctus Paulus,537
 400,5,right,558,1441,981,1466,alleluia,5,"Memento, Domine, David",490
@@ -410,7 +410,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 421,6,left,95,832,517,856,alleluia,4,Qui posuit fines,364
 422,6,left,95,862,517,886,alleluia,2,Qui sequitur me,480
 423,6,left,97,892,516,916,alleluia,1,Qui timent Dominum,352
-424,6,left,95,918,517,951,alleluia,7,Quinque prudentes virgines —,502
+424,6,left,95,918,517,951,alleluia,7,Quinque prudentes virgines,502
 425,6,left,96,952,517,976,alleluia,7,Quoniam Deus,327
 426,6,left,96,1018,517,1042,alleluia,2,Redemptionem,223
 427,6,left,98,1048,517,1072,alleluia,1,Regnavit Dominus,242
@@ -423,7 +423,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 434,6,left,100,1294,521,1318,alleluia,1,Senex puerum portabat,544
 435,6,left,99,1324,521,1348,alleluia,7,Sollemnitas,597
 436,6,left,101,1354,520,1378,alleluia,1,"Solve, iubente Deo",665
-437,6,left,100,1384,522,1409,alleluia,8,Speie tua,416
+437,6,left,100,1384,522,1409,alleluia,8,Specie tua,416
 438,6,left,100,1414,522,1438,alleluia,8,Spiritus est qui vivificat,245
 439,6,left,100,1444,523,1468,alleluia,8,Spiritus Sanctus docebit,432
 440,6,left,100,1474,523,1494,alleluia,2,Stabat sancta Maria,602
@@ -433,7 +433,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 445,6,right,554,235,975,254,alleluia,8,Surrexit Dominus vere,206
 446,6,right,554,295,975,319,alleluia,8,Tanto tempore,560
 447,6,right,554,325,973,349,alleluia,7,Te decet hynnus,305
-448,6,right,554,355,974,380,alleluia,5,Te glorious,432
+448,6,right,554,355,974,380,alleluia,5,Te gloriosus,432
 449,6,right,554,385,974,410,alleluia,5,Te martyrum,465
 450,6,right,556,416,975,440,alleluia,1,Timebunt gentes,337
 451,6,right,554,446,974,470,alleluia,3,Tollite iugum meum,385
@@ -504,7 +504,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 522,7,right,553,415,975,435,offertorium,8,Benedixerunt eam,866
 523,7,right,553,445,975,469,offertorium,8,Bonum est confiteri,369
 523,7,right,553,445,975,469,offertorium,8,Bonum est confiteri,270
-524,7,right,553,505,975,532,offertorium,4,Confesio,589
+524,7,right,553,505,975,532,offertorium,4,Confessio,589
 525,7,right,552,536,974,561,offertorium,4,"Confirma hoc, Deus",255
 526,7,right,552,566,975,591,offertorium,6,Confitebor Domino,240
 527,7,right,554,596,975,622,offertorium,1,"Confitebor tibi, Domine",123
@@ -513,7 +513,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 530,7,right,554,687,976,712,offertorium,3,Constitues eos,434
 531,7,right,555,716,976,741,offertorium,1,Custodi me,154
 532,7,right,553,778,976,803,offertorium,2,De profundis,368
-533,7,right,553,808,976,833,offertorium,6,Desiderium animae eius,5518
+533,7,right,553,808,976,833,offertorium,6,Desiderium animae eius,518
 534,7,right,554,839,976,863,offertorium,2,"Deus, Deus meus",224
 535,7,right,554,867,977,892,offertorium,8,Deus enim firmavit,46
 536,7,right,555,898,977,923,offertorium,3,"Deus, tu convertens",20
@@ -532,9 +532,9 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 552,7,right,559,1408,981,1433,offertorium,8,Elegerunt Apostoli,634
 553,7,right,559,1438,981,1463,offertorium,8,Emitte Spiritum tuum,250
 554,7,right,559,1469,981,1493,offertorium,7,Eripe me Deus,129
-555,8,left,96,110,516,134,offertorium,3,Eripe me Domine,1550
+555,8,left,96,110,516,134,offertorium,3,Eripe me Domine,151
 556,8,left,96,140,517,163,offertorium,6,Erit vobis,213
-557,8,left,96,170,517,193,offertorium,2,Exalabo te,313
+557,8,left,96,170,517,193,offertorium,2,Exaltabo te,313
 558,8,left,97,200,451,223,offertorium,8,"Exaudi, Deus, orationem meam",100
 560,8,left,96,260,517,284,offertorium,5,Exspectans exspectavi,328
 561,8,left,97,289,517,313,offertorium,3,Exsulta satis,28
@@ -561,8 +561,8 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 582,8,left,95,1010,517,1036,offertorium,4,Iustitiae Domini,309
 583,8,left,97,1040,517,1065,offertorium,1,Iustorum animae,468
 584,8,left,95,1071,518,1096,offertorium,4,Iustus ut palma,497
-585,8,left,98,1130,518,1155,offertorium,1,Laetamini (sine alleluia),468
-586,8,left,97,1162,517,1186,offertorium,1,Laetamini (cum alleluia),443
+585,8,left,98,1130,518,1155,offertorium,1,Laetamini in Domino (sine alleluia),468
+586,8,left,97,1162,517,1186,offertorium,1,Laetamini in Domino (cum alleluia),443
 587,8,left,95,1192,518,1215,offertorium,4,Laetentur caeli,44
 588,8,left,95,1222,515,1246,offertorium,4,"Lauda, anima mea",221
 589,8,left,95,1252,518,1272,offertorium,2,Laudate Dominum,110
@@ -572,7 +572,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 593,8,left,96,1402,518,1427,offertorium,3,Mihi autem nimis,435
 594,8,left,96,1432,519,1456,offertorium,8,Mirabilis Deus,469
 595,8,left,96,1462,518,1486,offertorium,8,Miserere mihi,92
-596,8,right,556,109,975,135,offertorium,8,Oraio ma,513
+596,8,right,556,109,975,135,offertorium,8,Oratio mea,513
 597,8,right,555,139,977,165,offertorium,4,Oravi Deum meum,334
 598,8,right,555,200,976,224,offertorium,4,Perfice gressus meos,273
 599,8,right,556,230,976,254,offertorium,5,Populum humilem,302
@@ -635,7 +635,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 658,9,left,97,908,518,932,communio,6,"Domine, quis habitabit",102
 659,9,left,100,934,519,966,communio,1,Dominus dabit benignitatem,17
 660,9,left,98,968,451,987,communio,2,Dominus firmamentum meum,290
-662,9,left,98,1028,519,1052,communio,2,Dominus regit mne,365
+662,9,left,98,1028,519,1052,communio,2,Dominus regit me,365
 663,9,left,99,1058,519,1081,communio,3,Dominus virtutum,108
 664,9,left,99,1088,519,1112,communio,5,Domus mea,402
 665,9,left,100,1118,520,1141,communio,8,Dum venerit Paraclitus,233
@@ -648,7 +648,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 672,9,left,100,1370,521,1394,communio,4,Erubescant et conturbentur,85
 673,9,left,101,1399,522,1424,communio,7,Erubescant et revereantur,152
 674,9,left,103,1430,523,1453,communio,1,Et si coram hominibus,470
-675,9,left,101,1459,522,1483,communio,2,Exiit sermno,637
+675,9,left,101,1459,522,1483,communio,2,Exiit sermo,637
 676,9,right,552,110,974,137,communio,4,"Exsulta, filia Sion",47
 677,9,right,552,139,973,163,communio,6,Exsultavit ut gigas,28
 678,9,right,553,199,974,226,communio,7,Factus est repente,256
@@ -658,7 +658,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 682,9,right,555,319,975,344,communio,1,"Florete, flores",614
 683,9,right,554,348,975,373,communio,3,Frumentum Christi sum,617
 684,9,right,556,408,975,434,communio,1,"Gaudete, iusti",442
-685,9,right,555,439,974,463,communio,8,Glorioa,631
+685,9,right,555,439,974,463,communio,8,Gloriosa,631
 686,9,right,555,469,975,493,communio,3,Gustate et videte,303
 687,9,right,555,530,976,553,communio,8,Hoc corpus,170
 688,9,right,555,560,977,583,communio,6,Honora Dominum,314
@@ -733,7 +733,7 @@ id,page_idx,column,bbox_x1,bbox_y1,bbox_x2,bbox_y2,chant_type,mode,incipit,page
 763,10,right,557,350,979,374,communio,4,Si ambulavero,867
 764,10,right,557,380,978,406,communio,7,Si consurrexistis,205
 765,10,right,557,410,978,435,communio,7,Signa,437
-766,10,right,558,440,978,465,communio,8,Simile est regnum celorum,519
+766,10,right,558,440,978,465,communio,8,Simile est regnum caelorum,519
 767,10,right,556,470,978,496,communio,6,Simon Ioannis,574
 768,10,right,557,501,977,525,communio,8,Spiritus qui a Patre procedit,233
 769,10,right,557,531,977,555,communio,8,Spiritus Sanctus docebit vos,232

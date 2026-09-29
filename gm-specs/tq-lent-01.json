@@ -1,0 +1,43 @@
+{
+  "subsection": "tq-lent-01",
+  "label": "1st Sunday of Lent (Gregorian Missal)",
+  "lit_epoch_slug": "TQ-LENT-01-1",
+  "wkday": 1,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 238,
+      "vernacular_text": "When he calls to me, I will answer him; I will rescue him and honour him; with long life will I satisfy him. ℣. He who abides in the shelter of the Most High, shall remain under the protection of the God of Heaven.",
+      "text_src": "Ps 90:15,16 and 1",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 239,
+      "vernacular_text": "To his Angels he has given a commandment concerning you, to keep you in all your ways. ℣. On their hands they will bear you up, lest you dash your foot against a stone.",
+      "text_src": "Ps 90:11-12",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "tr",
+      "page": 240,
+      "vernacular_text": "He who abides in the shelter of the Most High, shall remain under the protection of the Lord of Heaven. ℣. He shall say to the Lord: \"You are my protector and my refuge;\" my God, in whom I trust. ℣. For he has set me free from the snare of the fowler, and from cutting words. ℣. He will conceal you with his pinions, and under his wings you will find refuge. ℣. His faithfulness will shield you as with a buckler, you will not suffer the terrors of the night. ℣. You shall fear neither the arrow that flies by day, nor the conspiracy that stalks in the darkness, nor destruction, nor the demon of noonday. ℣. A thousand will fall at your side, and ten thousand at your right, but you shall remain unharmed. ℣. For to his Angels he has given a commandment concerning you, to keep you in all your ways. ℣. In their hands they will bear you up, lest you dash your foot against a stone. ℣. On the asp and the basilisk you will tread and trample the lion and the dragon. ℣. Because he has put his hope in me I will deliver him; I will protect him, because he knows my name. ℣. He shall call out to me, and I shall answer him: I am with him in tribulation. ℣. I will rescue him and honour him; with long days will I satisfy him; and I shall let him see my saving power.",
+      "text_src": "Ps 90:1-7 and 11-16",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 244,
+      "vernacular_text": "The Lord will overshadow you with his pinions, and you will find refuge under his wings. His faithfulness will encompass you with a shield.",
+      "text_src": "Ps 90:4-5",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 245,
+      "vernacular_text": "He will overshadow you with his pinions, and you will find refuge under his wings. His faithfulness will encompass you with a shield.",
+      "text_src": "Ps 90:4-5",
+      "cycle_sun": null
+    }
+  ]
+}

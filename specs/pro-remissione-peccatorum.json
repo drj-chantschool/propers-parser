@@ -1,0 +1,97 @@
+{
+  "subsection": "pro-remissione-peccatorum",
+  "label": "For the Forgiveness of Sins — Pro remissione peccatorum",
+  "lit_epoch_slug": "pro-remissione-peccatorum",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 657,
+      "service_part": "in",
+      "incipit": "Misereris omnium, Domine",
+      "target_page": 62,
+      "band": [116.2, 134.8],
+      "engraved": false
+    },
+    {
+      "page": 657,
+      "service_part": "in",
+      "incipit": "Respice in me, et miserere mei",
+      "target_page": 284,
+      "band": [134.8, 146.7],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 657,
+      "service_part": "gr",
+      "incipit": "Propitius esto, Domine",
+      "target_page": 288,
+      "band": [146.7, 170.85],
+      "engraved": false,
+      "notes": "OCR merges this GR line with the following AL primary line into one text block; band spans both, so the two rows share a bbox (expected — see specs/README.md 'Shared lines')."
+    },
+    {
+      "page": 657,
+      "service_part": "al",
+      "incipit": "Deus iudex iustus, fortis",
+      "target_page": 286,
+      "band": [146.7, 170.85],
+      "engraved": false
+    },
+    {
+      "page": 657,
+      "service_part": "al",
+      "incipit": "Propitius esto, Domine",
+      "target_page": 345,
+      "band": [170.85, 194.95],
+      "engraved": false,
+      "option_txt": "—",
+      "notes": "OCR merges this AL alternate line with the following OF primary line into one text block; band spans both, so the two rows share a bbox (expected)."
+    },
+    {
+      "page": 657,
+      "service_part": "of",
+      "incipit": "Domine, exaudi orationem meam",
+      "target_page": 156,
+      "band": [170.85, 194.95],
+      "engraved": false
+    },
+    {
+      "page": 657,
+      "service_part": "of",
+      "incipit": "Illumina oculos meos",
+      "target_page": 290,
+      "band": [194.95, 219.05],
+      "engraved": false,
+      "option_txt": "—",
+      "notes": "OCR merges this OF alternate line with the following CO primary line into one text block; band spans both, so the two rows share a bbox (expected)."
+    },
+    {
+      "page": 657,
+      "service_part": "co",
+      "incipit": "Dico vobis, gaudium est",
+      "target_page": 387,
+      "band": [194.95, 219.05],
+      "engraved": false
+    },
+    {
+      "page": 657,
+      "service_part": "co",
+      "incipit": "Illumina faciem tuam",
+      "target_page": 271,
+      "band": [219.05, 231.1],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 657,
+      "service_part": "co",
+      "incipit": "Petite",
+      "target_page": 314,
+      "band": [231.1, 250.0],
+      "engraved": false,
+      "option_txt": "—",
+      "notes": "Printed citation reads 'Petite et accipietis, 314 (in Quadr. 83)'. Target page 314's index glosses this chant as 'Petite (cum alleluia)' (also has a distinct communio 'Honora Dominum' on the same page), so the incipit here is truncated to the common prefix to disambiguate. Same citation reused at p. 314's own listing and at pro-quacumque-necessitate (p. 655), where it is also cited during Lent at p. 83."
+    }
+  ]
+}

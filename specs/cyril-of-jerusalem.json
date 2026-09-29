@@ -1,0 +1,42 @@
+{
+  "subsection": "cyril-of-jerusalem",
+  "label": "S. Cyrilli Hierosolymitani, Episcopi et Ecclesiae Doctoris (Die 18 martii)",
+  "lit_epoch_slug": "cyril-of-jerusalem",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 552,
+      "service_part": "in",
+      "incipit": "Sitientes, venite ad aquas",
+      "target_page": 114,
+      "band": [216, 264],
+      "engraved": false,
+      "notes": "p552's four citation lines (IN/GR/OF/CO for S. Cyrilli) are merged by fitz into one OCR text block, y216-264; band is shared across all four rows as a sanity check, not a precise crop."
+    },
+    {
+      "page": 552,
+      "service_part": "gr",
+      "incipit": "Sacerdotes eius",
+      "target_page": 488,
+      "band": [216, 264],
+      "engraved": false
+    },
+    {
+      "page": 552,
+      "service_part": "of",
+      "incipit": "Iustus ut palma",
+      "target_page": 497,
+      "band": [216, 264],
+      "engraved": false
+    },
+    {
+      "page": 552,
+      "service_part": "co",
+      "incipit": "Beatus servus",
+      "target_page": 491,
+      "band": [216, 264],
+      "engraved": false,
+      "notes": "Printed 'cum ps. 32*' is a psalm-tone plan, not a page/chant; target_page stays 491 (the cited communio page)."
+    }
+  ]
+}

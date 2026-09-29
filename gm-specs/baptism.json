@@ -1,0 +1,63 @@
+{
+  "subsection": "baptism",
+  "label": "Baptism of the Lord (Gregorian Missal)",
+  "lit_epoch_slug": "NAT-BAPT",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 221,
+      "vernacular_text": "You have loved justice and hated iniquity; therefore God, your God, has anointed you with the oil of gladness above your companions. ℣. My heart overflows with a goodly theme; I address my works to the King.",
+      "text_src": "Ps 44:8 and 2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 223,
+      "vernacular_text": "Blessed be the Lord, the God of Israel, who alone accomplishes great wonders from all eternity. ℣. Let the mountains receive peace for the people, and the hills justice.",
+      "text_src": "Ps 71:18; v.3",
+      "cycle_sun": null,
+      "option_num": 1
+    },
+    {
+      "service_part": "gr",
+      "page": 224,
+      "vernacular_text": "You have loved justice and hated iniquity. ℣. Therefore God, your God, has anointed you with the oil of gladness.",
+      "text_src": "Ps 44:8",
+      "cycle_sun": null,
+      "option_num": 2,
+      "option_txt": "Or:"
+    },
+    {
+      "service_part": "al",
+      "page": 224,
+      "vernacular_text": "Blessed is he who comes in the name of the Lord. The Lord God is our light.",
+      "text_src": "Ps 117:26",
+      "cycle_sun": null,
+      "option_num": 1
+    },
+    {
+      "service_part": "al",
+      "page": 225,
+      "vernacular_text": "I have found David my servant; with my holy oil have I anointed him.",
+      "text_src": "Ps 88:21",
+      "cycle_sun": null,
+      "option_num": 2,
+      "option_txt": "Or:"
+    },
+    {
+      "service_part": "of",
+      "page": 226,
+      "vernacular_text": "Blessed is he who comes in the name of the Lord. We bless you from the house of the Lord; the Lord God is our light, alleluia, alleluia.",
+      "text_src": "Ps 117:26, 27",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 227,
+      "vernacular_text": "As for all of you who have been baptised in Christ, you have put on Christ, alleluia.",
+      "text_src": "Gal 3:27",
+      "cycle_sun": null
+    }
+  ]
+}

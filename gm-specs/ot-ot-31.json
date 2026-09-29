@@ -1,0 +1,58 @@
+{
+  "subsection": "ot-ot-31",
+  "label": "31st Sunday in Ordinary Time (Gregorian Missal)",
+  "lit_epoch_slug": "OT-OT-31",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 581,
+      "vernacular_text": "Abandon me not, O Lord my God, do not depart from me; come to my assistance, O Lord, mainstay of my deliverance. ℣. O Lord, do not rebuke me in your anger; chastise me not in your wrath.",
+      "text_src": "Ps 37:22, 23 and 2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "in",
+      "page": 581,
+      "vernacular_text": "Your mercy extends to all things, O Lord, and you despise none of the things you have made. You overlook the sins of men for the sake of repentance. You grant them your pardon, because you are the Lord our God. ℣. Be merciful to me, O God, be merciful to me, for my soul confides in you.",
+      "text_src": "Wis 11:24-25, 27; Ps 56",
+      "cycle_sun": 3,
+      "gm_xref_page": 229
+    },
+    {
+      "service_part": "gr",
+      "page": 582,
+      "vernacular_text": "We have received your mercy, O God, in the midst of your temple; even as your name, so does your praise extend to the ends of the earth. ℣. All that we have heard, we have now seen, in the city of our God, on his holy mountain.",
+      "text_src": "Ps 47:10, 11, ℣.9",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 583,
+      "vernacular_text": "By the Word of the Lord, the heavens were established, and all the power therein by the Spirit of his mouth.",
+      "text_src": "Ps 32:6",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 583,
+      "vernacular_text": "O Lord, how good and delightful your Spirit is in us!",
+      "text_src": "Wis 12:1",
+      "cycle_sun": 3
+    },
+    {
+      "service_part": "of",
+      "page": 584,
+      "vernacular_text": "Bless the Lord, O my soul, and forget not all his benefits; and your youth shall be renewed like the eagle's.",
+      "text_src": "Ps 102:2, 5",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 585,
+      "vernacular_text": "You have made known unto me the ways of life; you will fill me with joy at the sight of your countenance, O Lord.",
+      "text_src": "Ps 15:11",
+      "cycle_sun": null
+    }
+  ]
+}

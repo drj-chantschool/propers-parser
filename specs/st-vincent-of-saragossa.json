@@ -1,0 +1,48 @@
+{
+  "subsection": "st-vincent-of-saragossa",
+  "label": "St. Vincent of Saragossa (S. VINCENTII, DIACONI ET MARTYRIS, Die 22 ianuarii)",
+  "lit_epoch_slug": "st-vincent-of-saragossa",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 534,
+      "service_part": "in",
+      "incipit": "Laetabitur iustus in Domino",
+      "target_page": 473,
+      "band": [431, 448],
+      "engraved": false
+    },
+    {
+      "page": 534,
+      "service_part": "gr",
+      "incipit": "Posuisti, Domine",
+      "target_page": 477,
+      "band": [448, 460],
+      "engraved": false
+    },
+    {
+      "page": 534,
+      "service_part": "al",
+      "incipit": "Laetabitur iustus in Domino",
+      "target_page": 479,
+      "band": [460, 473],
+      "engraved": false
+    },
+    {
+      "page": 534,
+      "service_part": "of",
+      "incipit": "Gloria et honore coronasti eum",
+      "target_page": 434,
+      "band": [473, 485],
+      "engraved": false
+    },
+    {
+      "page": 534,
+      "service_part": "co",
+      "incipit": "Qui vult venire post me",
+      "target_page": 484,
+      "band": [485, 505],
+      "engraved": false
+    }
+  ]
+}

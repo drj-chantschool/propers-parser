@@ -1,0 +1,354 @@
+{
+  "subsection": "pasc-post-asc-07",
+  "label": "7th week of Easter (Hebdomada VII Paschae)",
+  "lit_epoch_slug": "PASC-POST_ASC-07",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 241,
+      "service_part": "in",
+      "mode": 1,
+      "incipit": "Exaudi, Domine, vocem meam",
+      "text_src": "Ps. 26, 7. 8. 9 et 1",
+      "band": [167, 505],
+      "engraved": true,
+      "wkday": 1
+    },
+    {
+      "page": 242,
+      "service_part": "al1",
+      "mode": 1,
+      "incipit": "Regnavit Dominus",
+      "text_src": "Ps. 46, 9",
+      "band": [26, 207],
+      "engraved": true,
+      "wkday": 1
+    },
+    {
+      "page": 242,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "Non vos relinquam",
+      "text_src": "Io. 14, 18",
+      "band": [207, 505],
+      "engraved": true,
+      "wkday": 1
+    },
+    {
+      "page": 243,
+      "service_part": "al",
+      "incipit": "Exivi a Patre",
+      "target_page": 230,
+      "cycle_sun": 1,
+      "band": [24, 50],
+      "engraved": false,
+      "wkday": 1
+    },
+    {
+      "page": 243,
+      "service_part": "of",
+      "incipit": "Ascendit Deus",
+      "target_page": 237,
+      "band": [46, 70],
+      "engraved": false,
+      "wkday": 1
+    },
+    {
+      "page": 243,
+      "service_part": "co",
+      "mode": 4,
+      "incipit": "Pater, cum essem",
+      "text_src": "Io. 17, 12. 13. 15",
+      "band": [70, 354],
+      "engraved": true,
+      "wkday": 1
+    },
+    {
+      "page": 243,
+      "service_part": "in",
+      "mode": 4,
+      "incipit": "Accipite iucunditatem",
+      "text_src": "4 Esdr. 2, 36. 37 ; Ps. 77",
+      "band": [376, 505],
+      "engraved": true,
+      "wkdays": [2, 5]
+    },
+    {
+      "page": 244,
+      "service_part": "al",
+      "incipit": "Spiritus Sanctus docebit vos",
+      "target_page": 432,
+      "band": [255, 293],
+      "engraved": false,
+      "wkdays": [2, 5]
+    },
+    {
+      "page": 244,
+      "service_part": "of",
+      "incipit": "Lauda, anima mea",
+      "target_page": 221,
+      "band": [255, 293],
+      "engraved": false,
+      "wkdays": [2, 5]
+    },
+    {
+      "page": 244,
+      "service_part": "co",
+      "incipit": "Spiritus qui a Patre procedit",
+      "target_page": 233,
+      "band": [255, 293],
+      "engraved": false,
+      "wkdays": [2, 5]
+    },
+    {
+      "page": 244,
+      "service_part": "in",
+      "mode": 3,
+      "incipit": "Deus, dum egredereris",
+      "text_src": "Cf. Ps. 67, 8-9. 20 et 2",
+      "band": [319, 505],
+      "engraved": true,
+      "wkdays": [3, 6]
+    },
+    {
+      "page": 245,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Spiritus est qui vivificat",
+      "text_src": "Io. 6, 64",
+      "band": [182, 347],
+      "engraved": true,
+      "wkdays": [3, 6]
+    },
+    {
+      "page": 245,
+      "service_part": "of",
+      "mode": 2,
+      "incipit": "Meditabor",
+      "text_src": "Ps. 118, 47. 48",
+      "band": [395, 520],
+      "engraved": true,
+      "wkdays": [3, 6]
+    },
+    {
+      "page": 246,
+      "service_part": "co",
+      "incipit": "Spiritus sanctus docebit vos",
+      "target_page": 232,
+      "band": [173, 196],
+      "engraved": false,
+      "wkday": 3
+    },
+    {
+      "page": 246,
+      "service_part": "co",
+      "incipit": "Simon Ioannis",
+      "target_page": 574,
+      "band": [196, 220],
+      "engraved": false,
+      "wkday": 6
+    },
+    {
+      "page": 246,
+      "service_part": "in",
+      "mode": 3,
+      "incipit": "Repleatur os meum",
+      "text_src": "Ps. 70, 8. 23 et 1-2",
+      "band": [262, 505],
+      "engraved": true,
+      "wkdays": [4, 7]
+    },
+    {
+      "page": 247,
+      "service_part": "al",
+      "incipit": "Non vos relinquam orphanos",
+      "target_page": 242,
+      "band": [151, 165],
+      "engraved": false,
+      "wkdays": [4, 7]
+    },
+    {
+      "page": 247,
+      "service_part": "of",
+      "incipit": "Ascendit Deus",
+      "target_page": 237,
+      "band": [173, 187],
+      "engraved": false,
+      "wkdays": [4, 7]
+    },
+    {
+      "page": 247,
+      "service_part": "co",
+      "incipit": "Pater, cum essem cum eis",
+      "target_page": 243,
+      "band": [197, 210],
+      "engraved": false,
+      "wkday": 4
+    },
+    {
+      "page": 247,
+      "service_part": "co",
+      "incipit": "Spiritus ubi vult spirat",
+      "target_page": 218,
+      "band": [209, 246],
+      "engraved": false,
+      "wkday": 7
+    },
+
+    {
+      "page": 247,
+      "service_part": "in",
+      "incipit": "Viri Galilaei",
+      "target_page": 235,
+      "band": [305, 335],
+      "engraved": false,
+      "wkday": 1,
+      "option_txt": "Quando sollemnitas Ascensionis Domini in dominicam sequentem transfertur:"
+    },
+    {
+      "page": 247,
+      "service_part": "al1",
+      "incipit": "Ascendit Deus",
+      "target_page": 236,
+      "band": [305, 335],
+      "engraved": false,
+      "wkday": 1,
+      "option_txt": "Quando sollemnitas Ascensionis Domini in dominicam sequentem transfertur:"
+    },
+    {
+      "page": 247,
+      "service_part": "al",
+      "incipit": "Dominus in Sina",
+      "target_page": 236,
+      "band": [305, 335],
+      "engraved": false,
+      "wkday": 1,
+      "option_txt": "Quando sollemnitas Ascensionis Domini in dominicam sequentem transfertur:"
+    },
+    {
+      "page": 247,
+      "service_part": "co",
+      "incipit": "Data est mihi",
+      "target_page": 213,
+      "band": [305, 335],
+      "engraved": false,
+      "wkday": 1,
+      "cycle_sun": 1,
+      "option_txt": "Quando sollemnitas Ascensionis Domini in dominicam sequentem transfertur:"
+    },
+    {
+      "page": 247,
+      "service_part": "co",
+      "incipit": "Signa",
+      "target_page": 437,
+      "band": [305, 335],
+      "engraved": false,
+      "wkday": 1,
+      "cycle_sun": 2,
+      "option_txt": "Quando sollemnitas Ascensionis Domini in dominicam sequentem transfertur:"
+    },
+    {
+      "page": 247,
+      "service_part": "co",
+      "incipit": "Psallite Domino",
+      "target_page": 238,
+      "band": [305, 335],
+      "engraved": false,
+      "wkday": 1,
+      "cycle_sun": 3,
+      "option_txt": "Quando sollemnitas Ascensionis Domini in dominicam sequentem transfertur:"
+    },
+
+    {
+      "page": 247,
+      "service_part": "in",
+      "incipit": "Exaudi, Domine, vocem meam",
+      "target_page": 241,
+      "band": [341, 371],
+      "engraved": false,
+      "wkday": 2,
+      "option_txt": "Quando sollemnitas Ascensionis Domini in dominicam sequentem transfertur:"
+    },
+    {
+      "page": 247,
+      "service_part": "al1",
+      "incipit": "Regnavit Dominus",
+      "target_page": 242,
+      "band": [341, 371],
+      "engraved": false,
+      "wkday": 2,
+      "option_txt": "Quando sollemnitas Ascensionis Domini in dominicam sequentem transfertur:"
+    },
+    {
+      "page": 247,
+      "service_part": "al",
+      "incipit": "Non vos relinquam",
+      "target_page": 242,
+      "band": [341, 371],
+      "engraved": false,
+      "wkday": 2,
+      "option_txt": "Quando sollemnitas Ascensionis Domini in dominicam sequentem transfertur:"
+    },
+    {
+      "page": 247,
+      "service_part": "of",
+      "incipit": "Ascendit Deus",
+      "target_page": 237,
+      "band": [341, 371],
+      "engraved": false,
+      "wkday": 2,
+      "option_txt": "Quando sollemnitas Ascensionis Domini in dominicam sequentem transfertur:"
+    },
+    {
+      "page": 247,
+      "service_part": "co",
+      "incipit": "Pater, cum essem",
+      "target_page": 243,
+      "band": [341, 371],
+      "engraved": false,
+      "wkday": 2,
+      "option_txt": "Quando sollemnitas Ascensionis Domini in dominicam sequentem transfertur:"
+    },
+
+    {
+      "page": 247,
+      "service_part": "in",
+      "incipit": "Exaudivit",
+      "target_page": 239,
+      "band": [377, 407],
+      "engraved": false,
+      "wkday": 3,
+      "option_txt": "Quando sollemnitas Ascensionis Domini in dominicam sequentem transfertur:"
+    },
+    {
+      "page": 247,
+      "service_part": "al",
+      "incipit": "Confitemini quoniam bonus",
+      "target_page": 239,
+      "band": [377, 407],
+      "engraved": false,
+      "wkday": 3,
+      "option_txt": "Quando sollemnitas Ascensionis Domini in dominicam sequentem transfertur:"
+    },
+    {
+      "page": 247,
+      "service_part": "of",
+      "incipit": "Confitebor Domino",
+      "target_page": 240,
+      "band": [377, 407],
+      "engraved": false,
+      "wkday": 3,
+      "option_txt": "Quando sollemnitas Ascensionis Domini in dominicam sequentem transfertur:"
+    },
+    {
+      "page": 247,
+      "service_part": "co",
+      "incipit": "Non vos relinquam orphanos",
+      "target_page": 232,
+      "band": [377, 407],
+      "engraved": false,
+      "wkday": 3,
+      "option_txt": "Quando sollemnitas Ascensionis Domini in dominicam sequentem transfertur:"
+    }
+  ]
+}

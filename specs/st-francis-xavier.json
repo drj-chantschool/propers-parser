@@ -1,0 +1,49 @@
+{
+  "subsection": "st-francis-xavier",
+  "label": "St. Francis Xavier (S. Francisci Xavier, Presbyteri) - Die 3 decembris",
+  "lit_epoch_slug": "st-francis-xavier",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 627,
+      "service_part": "in",
+      "incipit": "Loquebar de testimoniis tuis",
+      "target_page": 526,
+      "band": [97.6, 108.6],
+      "engraved": false
+    },
+    {
+      "page": 627,
+      "service_part": "gr",
+      "incipit": "Iustus ut palma florebit",
+      "target_page": 510,
+      "band": [110.1, 121.1],
+      "engraved": false
+    },
+    {
+      "page": 627,
+      "service_part": "al",
+      "incipit": "Laudate Dominum",
+      "target_page": 273,
+      "band": [122.6, 133.6],
+      "engraved": false
+    },
+    {
+      "page": 627,
+      "service_part": "of",
+      "incipit": "Veritas mea",
+      "target_page": 483,
+      "band": [134.4, 145.4],
+      "engraved": false
+    },
+    {
+      "page": 627,
+      "service_part": "co",
+      "incipit": "Signa",
+      "target_page": 437,
+      "band": [146.4, 170.0],
+      "engraved": false,
+      "notes": "Printed as 'Signa, 437, cum ps. 95*, 1. 2. 3. 4. 5. 7-8 a. 8 b-9 a. 11-12 a. 13 cd' - psalm-tone data not modeled."
+    }
+  ]
+}

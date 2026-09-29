@@ -1,0 +1,66 @@
+{
+  "subsection": "de-beata-maria-virgine-post-pentecosten-b",
+  "label": "Votive Mass of the BVM — Ordinary Time after Pentecost, form B",
+  "lit_epoch_slug": "de-beata-maria-virgine-post-pentecosten-b",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 663,
+      "service_part": "in",
+      "incipit": "Vultum tuum deprecabuntur",
+      "target_page": 404,
+      "band": [244.05, 259.25],
+      "engraved": false
+    },
+    {
+      "page": 663,
+      "service_part": "gr",
+      "incipit": "Audi, filia, et vide",
+      "target_page": 406,
+      "band": [259.25, 271.35],
+      "engraved": false
+    },
+    {
+      "page": 663,
+      "service_part": "gr",
+      "incipit": "Propter veritatem",
+      "target_page": 410,
+      "band": [271.35, 283.4],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 663,
+      "service_part": "al",
+      "incipit": "Specie tua et pulchritudine tua",
+      "target_page": 416,
+      "band": [283.4, 295.4],
+      "engraved": false
+    },
+    {
+      "page": 663,
+      "service_part": "of",
+      "incipit": "Ave, Maria, gratia plena",
+      "target_page": 419,
+      "band": [295.4, 307.45],
+      "engraved": false
+    },
+    {
+      "page": 663,
+      "service_part": "of",
+      "incipit": "Beata es, Virgo Maria",
+      "target_page": 420,
+      "band": [307.45, 319.4],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 663,
+      "service_part": "co",
+      "incipit": "Diffusa est gratia in labiis tuis",
+      "target_page": 423,
+      "band": [319.4, 337.45],
+      "engraved": false
+    }
+  ]
+}

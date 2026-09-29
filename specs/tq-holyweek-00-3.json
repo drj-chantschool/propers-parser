@@ -1,0 +1,43 @@
+{
+  "subsection": "tq-holyweek-00-3",
+  "label": "Holy Week — Tuesday (Feria Tertia)",
+  "lit_epoch_slug": "TQ-HOLYWEEK-00-3",
+  "wkday": 3,
+  "chants": [
+    {
+      "page": 152,
+      "service_part": "in",
+      "incipit": "Nos autem gloriari",
+      "target_page": 162,
+      "band": [421, 440],
+      "engraved": false
+    },
+    {
+      "page": 152,
+      "service_part": "gr",
+      "mode": 3,
+      "incipit": "Ego autem",
+      "text_src": "Ps. 34, 13. V. 1-2",
+      "band": [441, 501],
+      "engraved": true
+    },
+    {
+      "page": 154,
+      "service_part": "of",
+      "mode": 1,
+      "incipit": "Custodi me",
+      "text_src": "Ps. 139, 5",
+      "band": [27, 197],
+      "engraved": true
+    },
+    {
+      "page": 154,
+      "service_part": "co",
+      "mode": 5,
+      "incipit": "Adversum me",
+      "text_src": "Ps. 68, 13. 14",
+      "band": [198, 505],
+      "engraved": true
+    }
+  ]
+}

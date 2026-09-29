@@ -1,0 +1,111 @@
+{
+  "subsection": "de-ss-ma-eucharistia",
+  "label": "Votive Mass of the Most Holy Eucharist — De Ss.ma Eucharistia",
+  "lit_epoch_slug": "de-ss-ma-eucharistia",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 658,
+      "service_part": "in",
+      "incipit": "Cibavit eos ex adipe frumenti",
+      "target_page": 377,
+      "band": [214, 227],
+      "engraved": false,
+      "option_txt": "Extra tempus Quadragesimae:"
+    },
+    {
+      "page": 658,
+      "service_part": "in",
+      "incipit": "Omnis terra adoret te",
+      "target_page": 260,
+      "band": [239, 251],
+      "engraved": false,
+      "option_txt": "Tempore Quadragesimae:"
+    },
+    {
+      "page": 658,
+      "service_part": "in",
+      "incipit": "Venite, adoremus Deum",
+      "target_page": 271,
+      "band": [251, 263],
+      "engraved": false,
+      "option_txt": "Tempore Quadragesimae:"
+    },
+    {
+      "page": 658,
+      "service_part": "gr",
+      "incipit": "Oculi omnium in te sperant",
+      "target_page": 343,
+      "band": [263, 275],
+      "engraved": false
+    },
+    {
+      "page": 658,
+      "service_part": "al",
+      "incipit": "Caro mea vere est cibus",
+      "target_page": 378,
+      "band": [275, 287],
+      "engraved": false
+    },
+    {
+      "page": 658,
+      "service_part": "tr",
+      "incipit": "Ab ortu solis",
+      "target_page": 163,
+      "band": [287, 299],
+      "engraved": false
+    },
+    {
+      "page": 658,
+      "service_part": "of",
+      "incipit": "Portas caeli aperuit Dominus",
+      "target_page": 207,
+      "band": [299, 311],
+      "engraved": false
+    },
+    {
+      "page": 658,
+      "service_part": "of",
+      "incipit": "Sanctificavit Moyses",
+      "target_page": 338,
+      "band": [323, 335],
+      "engraved": false,
+      "option_txt": "Tempore Quadragesimae:"
+    },
+    {
+      "page": 658,
+      "service_part": "co",
+      "incipit": "Qui manducat carnem meam",
+      "target_page": 383,
+      "band": [335, 347],
+      "engraved": false
+    },
+    {
+      "page": 658,
+      "service_part": "gr",
+      "incipit": "Iuravit Dominus",
+      "target_page": 486,
+      "band": [380, 392],
+      "engraved": false,
+      "option_txt": "Haec Missa dicitur etiam tamquam Missa votiva de D. N. Iesu Christo summo et aeterno sacerdote, praeter:"
+    },
+    {
+      "page": 658,
+      "service_part": "al",
+      "incipit": "Iuravit Dominus",
+      "target_page": 489,
+      "band": [380, 392],
+      "engraved": false,
+      "option_txt": "Haec Missa dicitur etiam tamquam Missa votiva de D. N. Iesu Christo summo et aeterno sacerdote, praeter:"
+    },
+    {
+      "page": 658,
+      "service_part": "co",
+      "incipit": "Hoc corpus, quod pro vobis tradetur",
+      "target_page": 170,
+      "band": [392, 404],
+      "engraved": false,
+      "option_txt": "Haec Missa dicitur etiam tamquam Missa votiva de D. N. Iesu Christo summo et aeterno sacerdote, praeter:"
+    }
+  ]
+}

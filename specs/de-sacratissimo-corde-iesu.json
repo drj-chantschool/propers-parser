@@ -1,0 +1,114 @@
+{
+  "subsection": "de-sacratissimo-corde-iesu",
+  "label": "Votive Mass of the Sacred Heart of Jesus — De sacratissimo Corde Iesu",
+  "lit_epoch_slug": "de-sacratissimo-corde-iesu",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 660,
+      "service_part": "in",
+      "incipit": "Cogitationes Cordis eius",
+      "target_page": 384,
+      "band": [60, 74],
+      "engraved": false
+    },
+    {
+      "page": 660,
+      "service_part": "gr",
+      "incipit": "Dulcis et rectus Dominus",
+      "target_page": 384,
+      "band": [74, 98],
+      "engraved": false,
+      "notes": "Printed citation reads 'GR. ... 38.' but p.38 is the Christmas Vigil introit (Hodie scietis) and does not contain this Gradual; p.384 (Sacratissimi Cordis Iesu, Feria VI post dom. II post Pentecosten) engraves both this Introit (Cogitationes Cordis eius) and this Gradual (GR. I Dulcis et rectus Dominus). '38.' is almost certainly a print/scan error for '384.' -- modeled with target_page 384, confirmed by vision on both p.38 and p.384."
+    },
+    {
+      "page": 660,
+      "service_part": "al",
+      "incipit": "Ego sum pastor bonus",
+      "target_page": 223,
+      "band": [74, 98],
+      "engraved": false
+    },
+    {
+      "page": 660,
+      "service_part": "al",
+      "incipit": "Tollite iugum meum",
+      "target_page": 385,
+      "band": [98, 109],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 660,
+      "service_part": "al",
+      "incipit": "Venite ad me, omnes",
+      "target_page": 619,
+      "band": [110, 122],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 660,
+      "service_part": "tr",
+      "incipit": "Domine, non secundum peccata nostra",
+      "target_page": 64,
+      "band": [122, 146],
+      "engraved": false
+    },
+    {
+      "page": 660,
+      "service_part": "of",
+      "incipit": "Improperium exspectavit",
+      "target_page": 386,
+      "band": [122, 146],
+      "engraved": false
+    },
+    {
+      "page": 660,
+      "service_part": "of",
+      "incipit": "Benedic, anima mea",
+      "target_page": 362,
+      "band": [147, 170],
+      "engraved": false,
+      "option_txt": "Tempore paschali :",
+      "notes": "Printed 'cum alleluia' after the citation -- a rubric that this chant is sung together with its Alleluia in Paschaltide; performance note, not a modeled field."
+    },
+    {
+      "page": 660,
+      "service_part": "co",
+      "incipit": "Dico vobis, gaudium est",
+      "target_page": 387,
+      "band": [171, 182],
+      "engraved": false
+    },
+    {
+      "page": 660,
+      "service_part": "co",
+      "incipit": "Unus militum lancea latus eius aperuit",
+      "target_page": 387,
+      "band": [183, 194],
+      "engraved": false,
+      "option_txt": "—"
+    },
+    {
+      "page": 660,
+      "service_part": "co",
+      "incipit": "Ego sum pastor bonus",
+      "target_page": 224,
+      "band": [195, 218],
+      "engraved": false,
+      "option_txt": "Tempore paschali :"
+    },
+    {
+      "page": 660,
+      "service_part": "co",
+      "mode": 6,
+      "incipit": "Mitte manum tuam in latus meum",
+      "text_src": "Io. 20, 27",
+      "band": [222, 410],
+      "engraved": true,
+      "option_txt": "Vel:",
+      "notes": "cum ps. 117*, 1. 8. 9. 14. 15. 16. 17. 18. 21. 28. -- psalm-tone plan, not modeled as a separate field."
+    }
+  ]
+}

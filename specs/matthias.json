@@ -1,0 +1,87 @@
+{
+  "subsection": "matthias",
+  "label": "S. Matthiae, Apostoli (Die 14 maii)",
+  "lit_epoch_slug": "matthias",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 562,
+      "service_part": "in",
+      "incipit": "Vocem iucunditatis",
+      "target_page": 229,
+      "band": [192, 205],
+      "engraved": false
+    },
+    {
+      "page": 562,
+      "service_part": "al",
+      "incipit": "Ego vos elegi",
+      "target_page": 429,
+      "band": [205, 216],
+      "engraved": false,
+      "notes": "The Extra tempus paschale block repeats this same alleluia ('AL. Ego vos elegi, ut supra.', p562) — the same chant on the same target page 429 (gregobase 1030). The loader dedups on slot + chant_group and ignores option_num, so a second row would collapse onto this one; the repetition is recorded here instead of as a separate row."
+    },
+    {
+      "page": 562,
+      "service_part": "of",
+      "incipit": "Repleti sumus",
+      "target_page": 441,
+      "band": [216, 228],
+      "engraved": false
+    },
+    {
+      "page": 562,
+      "service_part": "co",
+      "incipit": "Ego vos elegi",
+      "target_page": 436,
+      "band": [228, 241],
+      "engraved": false
+    },
+    {
+      "page": 562,
+      "service_part": "in",
+      "incipit": "Mihi autem",
+      "target_page": 425,
+      "band": [258, 271],
+      "engraved": false,
+      "option_txt": "Extra tempus paschale :"
+    },
+    {
+      "page": 562,
+      "service_part": "gr",
+      "incipit": "Nimis honorati sunt",
+      "target_page": 428,
+      "band": [271, 283],
+      "engraved": false,
+      "option_txt": "Extra tempus paschale :"
+    },
+    {
+      "page": 562,
+      "service_part": "of",
+      "incipit": "Constitues eos",
+      "target_page": 434,
+      "band": [294, 307],
+      "engraved": false,
+      "option_txt": "Extra tempus paschale :"
+    },
+    {
+      "page": 562,
+      "service_part": "co",
+      "incipit": "Vos qui secuti estis me",
+      "target_page": 438,
+      "band": [307, 319],
+      "engraved": false,
+      "option_txt": "Extra tempus paschale :"
+    },
+    {
+      "page": 562,
+      "service_part": "co",
+      "incipit": "Vos qui secuti estis me dicit Dominus",
+      "target_page": 438,
+      "band": [307, 319],
+      "engraved": false,
+      "option_txt": "vel VI",
+      "notes": "Printed citation: 'CO. Vos qui secuti estis me, 438, V vel VI.' The centred roman numerals V and VI on p438 are OPTION MARKERS (the fifth and sixth communio of the Commune Apostolorum extra T.P.), not modes; the two settings are mode I (Ps. 125*) and mode II (Ps. 18*). This row is option VI, whose engraved text ends '...iudicantes duodecim tribus Israel, dicit Dominus'; the spec incipit is extended to that full form so it resolves to the mode-II setting rather than the mode-I one."
+    }
+  ]
+}

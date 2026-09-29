@@ -1,0 +1,40 @@
+{
+  "subsection": "tq-lent-03-5",
+  "label": "Lent — 3rd week, Thursday (Feria Quinta)",
+  "lit_epoch_slug": "TQ-LENT-03-5",
+  "wkday": 5,
+  "chants": [
+    {
+      "page": 105,
+      "service_part": "in",
+      "incipit": "Salus populi",
+      "target_page": 339,
+      "band": [122, 157],
+      "engraved": false
+    },
+    {
+      "page": 105,
+      "service_part": "gr",
+      "incipit": "Beata gens",
+      "target_page": 333,
+      "band": [122, 157],
+      "engraved": false
+    },
+    {
+      "page": 105,
+      "service_part": "of",
+      "incipit": "Si ambulavero",
+      "target_page": 341,
+      "band": [122, 157],
+      "engraved": false
+    },
+    {
+      "page": 105,
+      "service_part": "co",
+      "incipit": "Tu mandasti",
+      "target_page": 342,
+      "band": [158, 182],
+      "engraved": false
+    }
+  ]
+}

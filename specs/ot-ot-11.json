@@ -1,0 +1,91 @@
+{
+  "subsection": "ot-ot-11",
+  "label": "11th week of Ordinary Time (Hebdomada XI per annum)",
+  "lit_epoch_slug": "OT-OT-11",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 291,
+      "service_part": "in",
+      "mode": 4,
+      "incipit": "Exaudi, Domine, vocem meam",
+      "text_src": "Ps. 26, 7. 9 et 1",
+      "band": [220, 505],
+      "engraved": true
+    },
+    {
+      "page": 292,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "Protector noster",
+      "text_src": "Ps. 83, 10. V. 9",
+      "band": [23, 360],
+      "engraved": true
+    },
+    {
+      "page": 292,
+      "service_part": "al",
+      "mode": 6,
+      "incipit": "Domine, in virtute tua",
+      "text_src": "Ps. 20, 1",
+      "band": [385, 505],
+      "engraved": true
+    },
+    {
+      "page": 293,
+      "service_part": "of",
+      "mode": 1,
+      "incipit": "Benedicam Dominum",
+      "text_src": "Ps. 15, 7. 8",
+      "band": [285, 505],
+      "engraved": true
+    },
+    {
+      "page": 294,
+      "service_part": "co",
+      "mode": 7,
+      "incipit": "Unam petii",
+      "text_src": "Ps. 26, 4",
+      "band": [138, 328],
+      "engraved": true
+    },
+    {
+      "page": 292,
+      "service_part": "gr",
+      "incipit": "Bonum est confiteri",
+      "target_page": 327,
+      "cycle_sun": 2,
+      "band": [358, 390],
+      "engraved": false
+    },
+    {
+      "page": 292,
+      "service_part": "gr",
+      "incipit": "Beatus vir qui timet",
+      "target_page": 475,
+      "wkday": 4,
+      "cycle_wkday": 1,
+      "band": [358, 390],
+      "engraved": false
+    },
+    {
+      "page": 293,
+      "service_part": "al",
+      "incipit": "Beatus vir qui timet",
+      "target_page": 511,
+      "wkday": 4,
+      "cycle_wkday": 1,
+      "band": [255, 285],
+      "engraved": false
+    },
+    {
+      "page": 294,
+      "service_part": "co",
+      "incipit": "Primum quaerite",
+      "target_page": 325,
+      "wkday": 7,
+      "band": [333, 367],
+      "engraved": false
+    }
+  ]
+}

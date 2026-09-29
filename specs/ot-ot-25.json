@@ -1,0 +1,131 @@
+{
+  "subsection": "ot-ot-25",
+  "label": "25th week of Ordinary Time (Hebdomada XXV per annum)",
+  "lit_epoch_slug": "OT-OT-25",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 339,
+      "service_part": "in",
+      "mode": 4,
+      "incipit": "Salus populi",
+      "text_src": "Cf. Ps. 35, 10. 40. 21; Ps. 77",
+      "band": [185, 519],
+      "engraved": true
+    },
+    {
+      "page": 340,
+      "service_part": "gr",
+      "mode": 7,
+      "incipit": "Dirigatur",
+      "text_src": "Ps. 140, 2",
+      "band": [0, 328],
+      "engraved": true
+    },
+    {
+      "page": 340,
+      "service_part": "al",
+      "mode": 2,
+      "incipit": "Confitemini et invocate",
+      "text_src": "Ps. 104, 1",
+      "band": [360, 519],
+      "engraved": true
+    },
+    {
+      "page": 341,
+      "service_part": "of",
+      "mode": 8,
+      "incipit": "Si ambulavero",
+      "text_src": "Ps. 137, 7",
+      "band": [168, 519],
+      "engraved": true
+    },
+    {
+      "page": 342,
+      "service_part": "co",
+      "mode": 5,
+      "incipit": "Tu mandasti",
+      "text_src": "Ps. 118, 4. 5",
+      "band": [20, 242],
+      "engraved": true
+    },
+    {
+      "page": 340,
+      "service_part": "gr",
+      "incipit": "Prope est Dominus",
+      "target_page": 35,
+      "cycle_sun": 1,
+      "band": [328, 382],
+      "engraved": false
+    },
+    {
+      "page": 340,
+      "service_part": "gr",
+      "incipit": "Quis sicut Dominus",
+      "target_page": 269,
+      "cycle_sun": 3,
+      "band": [328, 382],
+      "engraved": false
+    },
+    {
+      "page": 340,
+      "service_part": "gr",
+      "incipit": "Laetatus sum",
+      "target_page": 336,
+      "cycle_wkday": 1,
+      "wkday": 3,
+      "band": [328, 382],
+      "engraved": false
+    },
+    {
+      "page": 340,
+      "service_part": "gr",
+      "incipit": "Domine, refugium",
+      "target_page": 347,
+      "cycle_wkday": 2,
+      "wkday": 5,
+      "band": [328, 382],
+      "engraved": false
+    },
+    {
+      "page": 340,
+      "service_part": "gr",
+      "incipit": "Domine, refugium",
+      "target_page": 347,
+      "cycle_wkday": 2,
+      "wkday": 7,
+      "band": [328, 382],
+      "engraved": false
+    },
+    {
+      "page": 341,
+      "service_part": "al",
+      "incipit": "Laetatus sum",
+      "target_page": 19,
+      "cycle_wkday": 1,
+      "wkday": 3,
+      "band": [130, 168],
+      "engraved": false
+    },
+    {
+      "page": 341,
+      "service_part": "al",
+      "incipit": "Domine, refugium",
+      "target_page": 321,
+      "cycle_wkday": 2,
+      "wkday": 5,
+      "band": [130, 168],
+      "engraved": false
+    },
+    {
+      "page": 341,
+      "service_part": "al",
+      "incipit": "Domine, refugium",
+      "target_page": 321,
+      "cycle_wkday": 2,
+      "wkday": 7,
+      "band": [130, 168],
+      "engraved": false
+    }
+  ]
+}

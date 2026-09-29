@@ -1,0 +1,41 @@
+{
+  "subsection": "tq-lent-02-2",
+  "label": "Lent — Week 2, Monday (Feria Secunda)",
+  "lit_epoch_slug": "TQ-LENT-02-2",
+  "wkday": 2,
+  "chants": [
+    {
+      "page": 91,
+      "service_part": "in",
+      "mode": 2,
+      "incipit": "Redime me",
+      "text_src": "Ps. 25, 11, 12 et 1",
+      "band": [66, 358],
+      "engraved": true
+    },
+    {
+      "page": 91,
+      "service_part": "gr",
+      "incipit": "Propitius esto",
+      "target_page": 288,
+      "band": [359, 397],
+      "engraved": false
+    },
+    {
+      "page": 91,
+      "service_part": "of",
+      "incipit": "Benedicam Dominum",
+      "target_page": 293,
+      "band": [359, 397],
+      "engraved": false
+    },
+    {
+      "page": 91,
+      "service_part": "co",
+      "incipit": "Domine Dominus noster",
+      "target_page": 357,
+      "band": [359, 397],
+      "engraved": false
+    }
+  ]
+}

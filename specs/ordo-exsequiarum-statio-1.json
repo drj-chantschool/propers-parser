@@ -1,0 +1,43 @@
+{
+  "subsection": "ordo-exsequiarum-statio-1",
+  "label": "Ordo Exsequiarum — Statio prima : in domo defuncti",
+  "lit_epoch_slug": "ordo-exsequiarum",
+  "chants": [
+    {
+      "page": 681,
+      "service_part": "st1ps1",
+      "mode": null,
+      "incipit": "De profundis clamavi ad te Domine",
+      "text_src": null,
+      "band": [160, 415],
+      "engraved": true,
+      "unmatched": true,
+      "original_text": "℣. 1 De profundis clamavi ad te, Dómine : ℟. Dómine, exaudi vocem meam. ℣. 2 Fiant aures tuæ intendéntes, * in vocem deprecatiónis meæ. ℟. Dómine.",
+      "notes": "Psalmus 129. GR prints no mode. Verses 3ff are cited to p678 ('℣. 3 et sequentes, 678.'), the vigil setting of the same psalm under the antiphon Apud Dominum misericordia. Not in gregobase in any edition — chant_uuid NULL."
+    },
+    {
+      "page": 681,
+      "service_part": "st1ps2",
+      "mode": null,
+      "incipit": "Dominus pascit me",
+      "text_src": null,
+      "band": [425, 500],
+      "engraved": true,
+      "unmatched": true,
+      "original_text": "℣. 1 Dóminus pascit me, * et nihil mihi déerit. ℟. In loco páscuæ ibi me collocávit. ℣. 2 Super aquas quiétis edúxit me, ánimam meam refécit. ℟. In loco. ℣. 3 Dedúxit me … nomen suum. ℣. 4 … quóniam tu mecum es.",
+      "notes": "Psalmus 22, engraved p681-682 (band boxes its start on p681). GR prints no mode. Page rubric: 'Versiculi impares in primo tenore (ut) cantantur; pares autem in secundo (sol).' Not gregobase rb 9104 (different ℟) nor an 2938 (an antiphon) — chant_uuid NULL."
+    },
+    {
+      "page": 683,
+      "service_part": "st1ps3",
+      "mode": null,
+      "incipit": "Misericordias Domini",
+      "text_src": null,
+      "band": [40, 290],
+      "engraved": true,
+      "unmatched": true,
+      "original_text": "℣. 1 Misericórdias Dómini ℟. In ætérnum cantábo. ℣. 2 In generatiónem et generatiónem * annuntiábo veritátem tuam in ore meo. ℟. In ætérnum cantábo.",
+      "notes": "Psalmus 88. GR prints no mode. Not gregobase rb 4015, which sets the whole phrase as one melismatic refrain ('ij.') rather than the GR's ℣./℟. split over a simple tone — chant_uuid NULL."
+    }
+  ]
+}

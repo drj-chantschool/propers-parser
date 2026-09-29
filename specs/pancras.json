@@ -1,0 +1,94 @@
+{
+  "subsection": "pancras",
+  "label": "Die 12 maii, Eodem die — S. Pancratii, Martyris",
+  "lit_epoch_slug": "pancras",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 561,
+      "service_part": "in",
+      "incipit": "Ecce oculi Domini",
+      "target_page": 439,
+      "text_src": null,
+      "band": [472, 485],
+      "engraved": false
+    },
+    {
+      "page": 561,
+      "service_part": "al",
+      "incipit": "Laudate, pueri",
+      "target_page": 215,
+      "text_src": null,
+      "band": [485, 497],
+      "engraved": false
+    },
+    {
+      "page": 562,
+      "service_part": "of",
+      "incipit": "Confitebuntur caeli",
+      "target_page": 441,
+      "text_src": null,
+      "band": [36, 49],
+      "engraved": false
+    },
+    {
+      "page": 562,
+      "service_part": "co",
+      "incipit": "Ego sum vitis vera",
+      "target_page": 228,
+      "text_src": null,
+      "band": [49, 61],
+      "engraved": false
+    },
+    {
+      "page": 562,
+      "service_part": "in",
+      "incipit": "Laetabitur iustus",
+      "target_page": 473,
+      "text_src": null,
+      "option_txt": "Extra tempus paschale :",
+      "band": [78, 92],
+      "engraved": false
+    },
+    {
+      "page": 562,
+      "service_part": "gr",
+      "incipit": "Iustus cum ceciderit",
+      "target_page": 476,
+      "text_src": null,
+      "option_txt": "Extra tempus paschale :",
+      "band": [92, 103],
+      "engraved": false
+    },
+    {
+      "page": 562,
+      "service_part": "al",
+      "incipit": "Qui sequitur me",
+      "target_page": 480,
+      "text_src": null,
+      "option_txt": "Extra tempus paschale :",
+      "band": [103, 115],
+      "engraved": false
+    },
+    {
+      "page": 562,
+      "service_part": "of",
+      "incipit": "Posuisti, Domine",
+      "target_page": 482,
+      "text_src": null,
+      "option_txt": "Extra tempus paschale :",
+      "band": [115, 127],
+      "engraved": false
+    },
+    {
+      "page": 562,
+      "service_part": "co",
+      "incipit": "Qui mihi ministrat",
+      "target_page": 484,
+      "text_src": null,
+      "option_txt": "Extra tempus paschale :",
+      "band": [127, 140],
+      "engraved": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "subsection": "com-mart-xtp-presb",
+  "label": "Common of Martyrs outside Paschaltide — Pro presbyteris",
+  "lit_epoch_slug": "COM-MART-XTP-PRESB",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 447,
+      "service_part": "in",
+      "mode": 6,
+      "incipit": "Sacerdotes Dei",
+      "text_src": "Dan. 3, 84. 87 et 57",
+      "band": [396.5, 519.3],
+      "engraved": true
+    },
+    {
+      "page": 448,
+      "service_part": "in",
+      "mode": 2,
+      "incipit": "Sacerdotes eius",
+      "text_src": "Ps. 131, 16 et 1",
+      "band": [255, 519.3],
+      "engraved": true
+    },
+    {
+      "page": 449,
+      "service_part": "al",
+      "mode": 2,
+      "incipit": "Hic est sacerdos",
+      "text_src": null,
+      "band": [44.5, 250],
+      "engraved": true
+    },
+    {
+      "page": 449,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Tu es sacerdos",
+      "text_src": "Ps. 109, 4",
+      "band": [252, 505],
+      "engraved": true
+    }
+  ]
+}

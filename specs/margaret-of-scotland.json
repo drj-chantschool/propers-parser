@@ -1,0 +1,52 @@
+{
+  "subsection": "margaret-of-scotland",
+  "label": "Margaret of Scotland (S. Margaritae Scotiae, Die 16 novembris)",
+  "lit_epoch_slug": "margaret-of-scotland",
+  "chants": [
+    {
+      "page": 623,
+      "service_part": "in",
+      "incipit": "Cognovi, Domine",
+      "target_page": 525,
+      "band": [128.1, 139.1],
+      "engraved": false,
+      "text_src": null
+    },
+    {
+      "page": 623,
+      "service_part": "gr",
+      "incipit": "Diffusa est gratia in labiis tuis",
+      "target_page": 408,
+      "band": [140.2, 151.2],
+      "engraved": false,
+      "text_src": null
+    },
+    {
+      "page": 623,
+      "service_part": "al",
+      "incipit": "Specie tua et pulchritudine tua",
+      "target_page": 416,
+      "band": [152.2, 163.2],
+      "engraved": false,
+      "text_src": null
+    },
+    {
+      "page": 623,
+      "service_part": "of",
+      "incipit": "Diffusa est gratia in labiis tuis",
+      "target_page": 421,
+      "band": [164.4, 175.4],
+      "engraved": false,
+      "text_src": null
+    },
+    {
+      "page": 623,
+      "service_part": "co",
+      "incipit": "Dilexisti iustitiam",
+      "target_page": 506,
+      "band": [176.2, 187.2],
+      "engraved": false,
+      "text_src": null
+    }
+  ]
+}

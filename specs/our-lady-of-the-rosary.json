@@ -1,0 +1,63 @@
+{
+  "subsection": "our-lady-of-the-rosary",
+  "label": "B. Mariae Virginis a Rosario (Our Lady of the Rosary), Die 7 octobris",
+  "lit_epoch_slug": "our-lady-of-the-rosary",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 614,
+      "service_part": "in",
+      "incipit": "Vultum tuum deprecabuntur",
+      "target_page": 404,
+      "band": [264, 279],
+      "engraved": false
+    },
+    {
+      "page": 614,
+      "service_part": "gr",
+      "incipit": "Propter veritatem",
+      "target_page": 410,
+      "band": [277, 302],
+      "engraved": false,
+      "notes": "gr and al share one merged text block on p614 (y278.7-301.1); band given covers the merged block, do not subdivide."
+    },
+    {
+      "page": 614,
+      "service_part": "al",
+      "incipit": "Felix es, sacra Virgo",
+      "target_page": 414,
+      "band": [277, 302],
+      "engraved": false,
+      "notes": "p414 holds two alleluias (Post partum, Virgo m4; Felix es, sacra Virgo m8) - this is the latter, gregobase 481."
+    },
+    {
+      "page": 614,
+      "service_part": "of",
+      "incipit": "Ave, Maria, gratia plena",
+      "target_page": 419,
+      "band": [301, 314],
+      "engraved": false,
+      "notes": "Index at p419 reads 'Ave, Maria... et benedictus' (disambiguator vs. plain 'Ave, Maria' at p630); kept the printed incipit from p614 as-is. p419 has a single of entry so it resolves correctly to gregobase 843."
+    },
+    {
+      "page": 614,
+      "service_part": "co",
+      "mode": 1,
+      "incipit": "Florete flores quasi lilium",
+      "text_src": "Sir. 39, 19",
+      "band": [314, 505],
+      "engraved": true,
+      "notes": "Engraving spans pp. 614-615. Printed below it on p615: 'Ps. 44*, 2 ab. 10 b. 11. 12. 13. 14. 15. 16' - psalm-tone plan for this communion, not modeled."
+    },
+    {
+      "page": 615,
+      "service_part": "co",
+      "incipit": "Ecce Virgo concipiet",
+      "target_page": 37,
+      "band": [122, 140],
+      "engraved": false,
+      "option_txt": "Ad libitum :",
+      "notes": "Printed as 'CO. Ecce Virgo concipiet, 37, cum ps. 44*, ut supra.' - psalm-tone plan re-using the Ps. 44* verse list printed above; not modeled. ('ut supra' here is a psalm back-reference, not a Mass-inheritance rubric.)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "subsection": "isidore",
+  "label": "Isidore of Seville (S. ISIDORI, EPISCOPI ET ECCLESIAE DOCTORIS, Die 4 aprilis)",
+  "lit_epoch_slug": "isidore",
+  "chants": [
+    {
+      "page": 554,
+      "service_part": "in",
+      "incipit": "Meditatio cordis mei",
+      "target_page": 103,
+      "band": [266, 289],
+      "engraved": false,
+      "notes": "IN. and GR. citation lines share one merged text block on p554 (y266-289); both rows share this bbox because the block's single center point can't be split between two bands."
+    },
+    {
+      "page": 554,
+      "service_part": "gr",
+      "incipit": "Sacerdotes eius induam",
+      "target_page": 488,
+      "band": [266, 289],
+      "engraved": false
+    },
+    {
+      "page": 554,
+      "service_part": "al1",
+      "incipit": "Iuravit Dominus",
+      "target_page": 489,
+      "band": [310, 321],
+      "option_txt": "Tempore paschali :",
+      "engraved": false,
+      "notes": "Printed as a single AL line after IN+GR with no engraved Gradual on this page; in Paschaltide the Alleluia replaces the Gradual cited above it, so this fills the Gradual's slot (al1, part_id 20) rather than the ordinary al slot. Same construct as Die 2 aprilis (S. Francisci de Paola) on this page, spelled out in full there."
+    },
+    {
+      "page": 554,
+      "service_part": "al1",
+      "incipit": "Amavit eum",
+      "target_page": 495,
+      "band": [310, 321],
+      "option_txt": "vel",
+      "engraved": false
+    },
+    {
+      "page": 554,
+      "service_part": "of",
+      "incipit": "Iustus ut palma",
+      "target_page": 497,
+      "band": [328, 339],
+      "engraved": false
+    },
+    {
+      "page": 554,
+      "service_part": "co",
+      "incipit": "Fidelis servus",
+      "target_page": 491,
+      "band": [340, 351],
+      "engraved": false,
+      "notes": "Printed psalm plan: cum ps. 118*"
+    }
+  ]
+}

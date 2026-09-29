@@ -1,0 +1,44 @@
+{
+  "subsection": "adv-ii-wkday3-fer3",
+  "label": "Feria III — Tuesday (In ultimis feriis, a die 17 ad 24 decembris)",
+  "lit_epoch_slug": "ADV-II",
+  "wkday": 3,
+  "chants": [
+    {
+      "page": 27,
+      "service_part": "in",
+      "mode": 2,
+      "incipit": "Veni et ostende nobis",
+      "text_src": "Ps. 79, 4. 2",
+      "band": [50, 270],
+      "engraved": true
+    },
+    {
+      "page": 27,
+      "service_part": "gr",
+      "mode": 2,
+      "incipit": "A summo caelo",
+      "text_src": "Ps. 18, 7. V. 2",
+      "band": [270, 520],
+      "engraved": true
+    },
+    {
+      "page": 28,
+      "service_part": "of",
+      "mode": 3,
+      "incipit": "Exsulta satis",
+      "text_src": "Zach. 9, 9",
+      "band": [200, 435],
+      "engraved": true
+    },
+    {
+      "page": 28,
+      "service_part": "co",
+      "mode": 6,
+      "incipit": "Exsultavit ut gigas",
+      "text_src": "Ps. 18, 6. 7",
+      "band": [430, 520],
+      "engraved": true
+    }
+  ]
+}

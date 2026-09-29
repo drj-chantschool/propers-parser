@@ -1,0 +1,112 @@
+{
+  "subsection": "ot-ot-10",
+  "label": "10th week of Ordinary Time (Hebdomada X per annum)",
+  "lit_epoch_slug": "OT-OT-10",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 288,
+      "service_part": "in",
+      "mode": 2,
+      "incipit": "Dominus illuminatio mea",
+      "text_src": "Ps. 26, 1. 2. 3",
+      "band": [57, 375],
+      "engraved": true
+    },
+    {
+      "page": 288,
+      "service_part": "in",
+      "incipit": "Si iniquitates",
+      "target_page": 350,
+      "cycle_sun": 2,
+      "wkday": 1,
+      "band": [373, 395],
+      "engraved": false
+    },
+    {
+      "page": 288,
+      "service_part": "gr",
+      "mode": 5,
+      "incipit": "Propitius esto",
+      "text_src": "Ps. 78, 9 c. 10 a. V. 9 ab",
+      "band": [393, 505],
+      "engraved": true
+    },
+    {
+      "page": 289,
+      "service_part": "gr",
+      "incipit": "Exaltabo te",
+      "target_page": 112,
+      "cycle_sun": 3,
+      "wkday": 1,
+      "band": [280, 310],
+      "engraved": false
+    },
+    {
+      "page": 289,
+      "service_part": "gr",
+      "incipit": "Benedicam Dominum",
+      "target_page": 316,
+      "wkday": 2,
+      "cycle_wkday": 1,
+      "band": [310, 335],
+      "engraved": false
+    },
+    {
+      "page": 289,
+      "service_part": "gr",
+      "incipit": "Iacta cogitatum tuum",
+      "target_page": 285,
+      "wkday": 3,
+      "cycle_wkday": 2,
+      "band": [310, 335],
+      "engraved": false
+    },
+    {
+      "page": 289,
+      "service_part": "al",
+      "mode": 7,
+      "incipit": "Deus, qui sedes",
+      "text_src": "Ps. 9, 5. 10",
+      "band": [333, 505],
+      "engraved": true
+    },
+    {
+      "page": 290,
+      "service_part": "of",
+      "mode": 4,
+      "incipit": "Illumina oculos meos",
+      "text_src": "Ps. 12, 4. 5",
+      "band": [195, 435],
+      "engraved": true
+    },
+    {
+      "page": 290,
+      "service_part": "co",
+      "mode": 2,
+      "incipit": "Dominus firmamentum meum",
+      "text_src": "Ps. 17, 3",
+      "band": [435, 505],
+      "engraved": true
+    },
+    {
+      "page": 291,
+      "service_part": "co",
+      "incipit": "Quicumque fecerit",
+      "target_page": 515,
+      "cycle_sun": 2,
+      "wkday": 1,
+      "band": [160, 200],
+      "engraved": false
+    },
+    {
+      "page": 291,
+      "service_part": "co",
+      "incipit": "Beati mundo corde",
+      "target_page": 514,
+      "wkday": 2,
+      "band": [160, 200],
+      "engraved": false
+    }
+  ]
+}

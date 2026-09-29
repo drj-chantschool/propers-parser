@@ -1,0 +1,44 @@
+{
+  "subsection": "tq-lent-03-7",
+  "label": "Lent — 3rd week, Saturday (Sabbato)",
+  "lit_epoch_slug": "TQ-LENT-03-7",
+  "wkday": 7,
+  "chants": [
+    {
+      "page": 106,
+      "service_part": "in",
+      "office_part": "an",
+      "mode": 2,
+      "incipit": "Exsurge Domine, adiuva nos et libera nos",
+      "text_src": "Ps. 43, 26 et 2. 5. 9",
+      "band": [102, 505],
+      "engraved": true
+    },
+    {
+      "page": 107,
+      "service_part": "gr",
+      "mode": 8,
+      "incipit": "Deus exaudi orationem meam",
+      "text_src": "Ps. 53, 4. V. 3",
+      "band": [80, 505],
+      "engraved": true
+    },
+    {
+      "page": 108,
+      "service_part": "of",
+      "incipit": "Domine, convertere",
+      "target_page": 283,
+      "band": [85, 98],
+      "engraved": false
+    },
+    {
+      "page": 108,
+      "service_part": "co",
+      "mode": 3,
+      "incipit": "Dominus virtutum ipse est Rex gloriae",
+      "text_src": "Ps. 23, 10",
+      "band": [98, 227],
+      "engraved": true
+    }
+  ]
+}

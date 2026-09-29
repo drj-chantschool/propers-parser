@@ -1,0 +1,52 @@
+{
+  "subsection": "all-saints",
+  "label": "All Saints (Die 1 novembris, Omnium Sanctorum)",
+  "lit_epoch_slug": "all-saints",
+  "chants": [
+    {
+      "page": 619,
+      "service_part": "in",
+      "mode": 1,
+      "incipit": "Gaudeamus Sanctorum omnium",
+      "text_src": "Ps. 32",
+      "band": [100, 432],
+      "engraved": true,
+      "notes": "Printed incipit: 'Gaudeamus omnes in Domino... sub honore sanctorum omnium'. gregobase only catalogs this melody as ellipsis-form disambiguators shared across feasts (Reginae, Thomae, Assumptione...). gr_index_entry's curated 'Gaudeamus Sanctorum omnium' is All Saints' correct disambiguator -> id 752 (Solesmes); used verbatim here."
+    },
+    {
+      "page": 619,
+      "service_part": "gr",
+      "incipit": "Timete Dominum, omnes sancti",
+      "target_page": 458,
+      "band": [434, 444],
+      "engraved": false
+    },
+    {
+      "page": 619,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Venite ad me",
+      "text_src": "Mt. 11, 28",
+      "band": [445, 519],
+      "engraved": true,
+      "notes": "Engraving continues onto p620 (jubilus + full verse 'Venite ad me omnes qui laboratis, et onerati estis: et ego reficiam vos'); band here only crops this page's portion (mode label + opening) since the index row (page 619) anchors identity."
+    },
+    {
+      "page": 620,
+      "service_part": "of",
+      "incipit": "Iustorum animae",
+      "target_page": 468,
+      "band": [281, 296],
+      "engraved": false
+    },
+    {
+      "page": 620,
+      "service_part": "co",
+      "incipit": "Beati mundo corde",
+      "target_page": 514,
+      "band": [293, 304],
+      "engraved": false,
+      "notes": "GR p620 prints 'Ps. 125*, 1. 2 ab. 2 cd. 3. 4. 5. 6 ab. 6 cd' in its own block immediately below this citation (y 296.4-317.7) - a psalm-tone plan, not a chant, not a target page, not modeled."
+    }
+  ]
+}

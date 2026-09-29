@@ -1,0 +1,111 @@
+{
+  "subsection": "ot-ot-27",
+  "label": "27th week of Ordinary Time (Hebdomada XXVII per annum)",
+  "lit_epoch_slug": "OT-OT-27",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 346,
+      "service_part": "in",
+      "mode": 4,
+      "incipit": "In voluntate tua",
+      "text_src": "Esth. 13, 9. 10. 17. Ps. 118",
+      "band": [342, 505],
+      "engraved": true
+    },
+    {
+      "page": 347,
+      "service_part": "gr",
+      "mode": 2,
+      "incipit": "Domine, refugium",
+      "text_src": "Ps. 89, 1. V. 2",
+      "band": [330, 505],
+      "engraved": true
+    },
+    {
+      "page": 348,
+      "service_part": "al",
+      "mode": 2,
+      "incipit": "In exitu Israel",
+      "text_src": "Ps. 113, 1",
+      "band": [312, 505],
+      "engraved": true
+    },
+    {
+      "page": 349,
+      "service_part": "of",
+      "mode": 2,
+      "incipit": "Vir erat",
+      "text_src": "Iob. 1 et 2, 7",
+      "band": [155, 505],
+      "engraved": true
+    },
+    {
+      "page": 350,
+      "service_part": "co",
+      "mode": 1,
+      "incipit": "In salutari tuo",
+      "text_src": "Ps. 118, 81. 84. 86",
+      "band": [88, 345],
+      "engraved": true
+    },
+    {
+      "page": 347,
+      "service_part": "in",
+      "incipit": "De ventre matris meae",
+      "target_page": 570,
+      "wkday": 3,
+      "cycle_wkday": 2,
+      "option_txt": "Ad libitum:",
+      "band": [298, 335],
+      "engraved": false
+    },
+    {
+      "page": 348,
+      "service_part": "gr",
+      "incipit": "Qui operatus est",
+      "target_page": 536,
+      "wkday": 4,
+      "cycle_wkday": 2,
+      "band": [295, 330],
+      "engraved": false
+    },
+    {
+      "page": 349,
+      "service_part": "al",
+      "incipit": "Laudate Dominum",
+      "target_page": 273,
+      "wkday": 4,
+      "cycle_wkday": 2,
+      "band": [133, 160],
+      "engraved": false
+    },
+    {
+      "page": 350,
+      "service_part": "co",
+      "incipit": "Optimam partem",
+      "target_page": 507,
+      "wkday": 3,
+      "band": [343, 380],
+      "engraved": false
+    },
+    {
+      "page": 350,
+      "service_part": "co",
+      "incipit": "Petite",
+      "target_page": 314,
+      "wkday": 5,
+      "band": [343, 380],
+      "engraved": false
+    },
+    {
+      "page": 350,
+      "service_part": "co",
+      "incipit": "Beata viscera",
+      "target_page": 423,
+      "wkday": 7,
+      "band": [368, 405],
+      "engraved": false
+    }
+  ]
+}

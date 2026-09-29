@@ -1,0 +1,81 @@
+{
+  "subsection": "sacratissimi-cordis-jesu",
+  "label": "Sacratissimi Cordis Jesu — Most Sacred Heart of Jesus",
+  "lit_epoch_slug": "OT-FOL-00-3",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 384,
+      "service_part": "in",
+      "mode": 5,
+      "incipit": "Cogitationes Cordis eius",
+      "text_src": "Ps. 32, 11. 19 et 1",
+      "band": [95, 435],
+      "engraved": true
+    },
+    {
+      "page": 384,
+      "service_part": "gr",
+      "mode": 1,
+      "incipit": "Dulcis et rectus Dominus",
+      "text_src": "Ps. 24, 8. 9",
+      "band": [430, 519],
+      "engraved": true
+    },
+    {
+      "page": 385,
+      "service_part": "al",
+      "mode": 3,
+      "incipit": "Tollite iugum meum",
+      "text_src": "Mt. 11, 29",
+      "band": [270, 519],
+      "engraved": true
+    },
+    {
+      "page": 386,
+      "service_part": "al",
+      "incipit": "Venite ad me",
+      "target_page": 619,
+      "option_txt": "Ad libitum :",
+      "band": [200, 225],
+      "engraved": false
+    },
+    {
+      "page": 386,
+      "service_part": "of",
+      "mode": 8,
+      "incipit": "Improperium exspectavit",
+      "text_src": "Ps. 68, 21",
+      "band": [221, 519],
+      "engraved": true
+    },
+    {
+      "page": 387,
+      "service_part": "co",
+      "mode": 7,
+      "incipit": "Unus militum",
+      "text_src": "Io. 19, 34",
+      "band": [26, 178],
+      "engraved": true
+    },
+    {
+      "page": 387,
+      "service_part": "co",
+      "incipit": "Gustate et videte",
+      "target_page": 303,
+      "option_txt": "Ad libitum :",
+      "band": [178, 220],
+      "engraved": false
+    },
+    {
+      "page": 387,
+      "service_part": "co",
+      "mode": 5,
+      "incipit": "Dico vobis Gaudium",
+      "text_src": "Lc. 15, 10",
+      "option_txt": "vel :",
+      "band": [217, 360],
+      "engraved": true
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "subsection": "st-paulinus-of-nola",
+  "label": "Die 22 iunii — S. Paulini Nolani, Episcopi",
+  "lit_epoch_slug": "st-paulinus-of-nola",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 567,
+      "service_part": "in",
+      "incipit": "Sacerdotes tui",
+      "target_page": 485,
+      "band": [438.3, 449.0],
+      "engraved": false
+    },
+    {
+      "page": 567,
+      "service_part": "gr",
+      "incipit": "Ecce sacerdos magnus",
+      "target_page": 486,
+      "band": [450.4, 460.9],
+      "engraved": false
+    },
+    {
+      "page": 567,
+      "service_part": "al",
+      "incipit": "Tu es sacerdos",
+      "target_page": 449,
+      "band": [462.3, 472.8],
+      "engraved": false
+    },
+    {
+      "page": 567,
+      "service_part": "of",
+      "incipit": "Inveni David",
+      "target_page": 447,
+      "band": [474.0, 485.0],
+      "engraved": false
+    },
+    {
+      "page": 567,
+      "service_part": "co",
+      "incipit": "Fidelis servus",
+      "target_page": 491,
+      "band": [486.0, 498.0],
+      "engraved": false,
+      "notes": "Printed as 'CO. Fidelis servus, 491, cum ps. 131*.' — psalm-tone data not modeled."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "subsection": "tq-lent-02-1",
+  "label": "Lent — 2nd Sunday (Dominica II in Quadragesima)",
+  "lit_epoch_slug": "TQ-LENT-02-1",
+  "wkday": 1,
+  "chants": [
+    {
+      "page": 88,
+      "service_part": "in",
+      "mode": 3,
+      "incipit": "Tibi dixit cor meum",
+      "text_src": "Ps. 26, 8, 9 et 1",
+      "band": [147, 372],
+      "engraved": true
+    },
+    {
+      "page": 88,
+      "service_part": "in",
+      "incipit": "Reminiscere",
+      "target_page": 81,
+      "band": [372, 391],
+      "engraved": false,
+      "option_txt": "Vel:"
+    },
+    {
+      "page": 88,
+      "service_part": "gr",
+      "mode": 1,
+      "incipit": "Sciant gentes",
+      "text_src": "Ps. 82, 19. 14",
+      "band": [384, 519],
+      "engraved": true
+    },
+    {
+      "page": 89,
+      "service_part": "tr",
+      "mode": 8,
+      "incipit": "Commovisti",
+      "text_src": "Ps. 59, 4. 6",
+      "band": [320, 519],
+      "engraved": true
+    },
+    {
+      "page": 90,
+      "service_part": "of",
+      "incipit": "Meditabor",
+      "target_page": 356,
+      "band": [341, 361],
+      "engraved": false
+    },
+    {
+      "page": 90,
+      "service_part": "co",
+      "mode": 1,
+      "incipit": "Visionem",
+      "text_src": "Mt. 17, 9",
+      "band": [358, 519],
+      "engraved": true
+    }
+  ]
+}

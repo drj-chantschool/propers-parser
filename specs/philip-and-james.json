@@ -1,0 +1,44 @@
+{
+  "subsection": "philip-and-james",
+  "label": "SS. Philippi et Iacobi, Apostolorum (Die 3 maii)",
+  "lit_epoch_slug": "philip-and-james",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 559,
+      "service_part": "in",
+      "mode": 1,
+      "incipit": "Exclamaverunt",
+      "text_src": "Neh. vel 2 Esdr. 9, 27; Ps. 32",
+      "band": [425, 505],
+      "engraved": true
+    },
+    {
+      "page": 560,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Tanto tempore",
+      "text_src": "Io. 14, 9",
+      "band": [225, 413],
+      "engraved": true
+    },
+    {
+      "page": 560,
+      "service_part": "of",
+      "incipit": "Confitebuntur caeli",
+      "target_page": 441,
+      "band": [420, 436],
+      "engraved": false
+    },
+    {
+      "page": 560,
+      "service_part": "co",
+      "mode": 4,
+      "incipit": "Tanto tempore",
+      "text_src": "Io. 14, 9",
+      "band": [440, 505],
+      "engraved": true,
+      "notes": "Psalm-tone plan printed under the communio on p561: 'Ps. 32*, 1. 2. 3. 6. 12. 13. 18 (Differentia : f)'."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "subsection": "ot-ot-06",
+  "label": "6th week of Ordinary Time (Hebdomada VI per annum)",
+  "lit_epoch_slug": "OT-OT-06",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 275,
+      "service_part": "in",
+      "mode": 6,
+      "incipit": "Esto mihi",
+      "text_src": "Ps. 30, 3. 4 et 2",
+      "band": [50, 382],
+      "engraved": true
+    },
+    {
+      "page": 275,
+      "service_part": "gr",
+      "mode": 3,
+      "incipit": "Tu es Deus",
+      "text_src": "Ps. 76, 15. V. 16",
+      "band": [382, 505],
+      "engraved": true
+    },
+    {
+      "page": 276,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "Cantate Domino",
+      "text_src": "Ps. 97, 7",
+      "band": [379, 505],
+      "engraved": true
+    },
+    {
+      "page": 277,
+      "service_part": "of",
+      "mode": 3,
+      "incipit": "Benedictus es in labiis meis",
+      "text_src": "Ps. 118, 12. 13",
+      "band": [178, 505],
+      "engraved": true
+    },
+    {
+      "page": 278,
+      "service_part": "co",
+      "mode": 1,
+      "incipit": "Manducaverunt",
+      "text_src": "Ps. 77, 29. 30",
+      "band": [26, 222],
+      "engraved": true
+    },
+    {
+      "page": 276,
+      "service_part": "gr",
+      "incipit": "Beata gens",
+      "target_page": 333,
+      "wkday": 6,
+      "cycle_wkday": 1,
+      "band": [330, 382],
+      "engraved": false
+    },
+    {
+      "page": 276,
+      "service_part": "gr",
+      "incipit": "Beatus vir qui timet",
+      "target_page": 475,
+      "wkday": 6,
+      "cycle_wkday": 2,
+      "band": [330, 382],
+      "engraved": false
+    },
+    {
+      "page": 277,
+      "service_part": "al",
+      "incipit": "Beatus vir qui timet",
+      "target_page": 511,
+      "wkday": 6,
+      "cycle_wkday": 2,
+      "band": [143, 175],
+      "engraved": false
+    },
+    {
+      "page": 278,
+      "service_part": "co",
+      "incipit": "Qui vult venire",
+      "target_page": 484,
+      "wkday": 6,
+      "band": [222, 264],
+      "engraved": false
+    },
+    {
+      "page": 278,
+      "service_part": "co",
+      "incipit": "Visionem quam vidistis",
+      "target_page": 90,
+      "wkday": 7,
+      "band": [222, 264],
+      "engraved": false
+    }
+  ]
+}

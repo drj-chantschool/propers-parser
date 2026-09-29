@@ -1,0 +1,43 @@
+{
+  "subsection": "ss-peter-paul-vigil",
+  "label": "Saints Peter & Paul — Vigil Mass (Gregorian Missal)",
+  "lit_epoch_slug": "ss-peter-paul-vigil",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 636,
+      "vernacular_text": "The Lord said unto Peter: \"When you were young, you girded yourself and walked where you would; but when you are old, you will stretch forth your hands, and another will gird you and lead you where you do not wish to go.\" This he said to signify by what death he was to glorify God. ℣. The heavens declare the glory of God; and the firmament proclaims the work of his hands.",
+      "text_src": "Jn 21:18,19; Ps 18",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 637,
+      "vernacular_text": "Their voice has gone forth into all the earth; and their words unto the ends of the world. ℣. The heavens declare the glory of God; and the firmament proclaims the work of his hands.",
+      "text_src": "Ps 18:5, v.2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 638,
+      "vernacular_text": "You will make them princes over all the earth; they will keep the memorial of your name, O Lord.",
+      "text_src": "Ps 44:17,18",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 639,
+      "vernacular_text": "But in my eyes your friends are made exceedingly honorable, O God; their strength has been greatly reinforced.",
+      "text_src": "Ps 138:17",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 640,
+      "vernacular_text": "\"Simon, son of John, do you love me more than these?\" — \"Lord, you know all things, you know, O Lord, that I do love you!\"",
+      "text_src": "Jn 21:15,17",
+      "cycle_sun": null
+    }
+  ]
+}

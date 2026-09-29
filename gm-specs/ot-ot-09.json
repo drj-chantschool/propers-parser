@@ -1,0 +1,62 @@
+{
+  "subsection": "ot-ot-09",
+  "label": "9th Sunday in Ordinary Time (Gregorian Missal)",
+  "lit_epoch_slug": "OT-OT-09",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 465,
+      "vernacular_text": "Look upon me and have mercy on me, O Lord; for I am abandoned and destitute; consider my abjection and my labour, and forgive me all my sins, my dear God. ℣. Unto you, O Lord, have I lifted up my soul; O my God, I trust in you; let me not be put to shame.",
+      "text_src": "Ps 24:16,18 and 1-2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 466,
+      "vernacular_text": "Cast your cares upon the Lord, and he shall sustain you. ℣. When I cried out to the Lord, he heeded my call against my assailants.",
+      "text_src": "Ps 54:23, ℣.17a,18b,19a",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 466,
+      "vernacular_text": "Be unto me a protecting God, and a house of refuge, to save me. ℣. My God, in you do I trust; O Lord, let me never be put to shame.",
+      "text_src": "Ps 70:3, ℣.1",
+      "cycle_sun": 1,
+      "gm_xref_page": 493
+    },
+    {
+      "service_part": "al",
+      "page": 467,
+      "vernacular_text": "God is a just judge, strong and patient. Could he remain in anger continually?",
+      "text_src": "Ps 7:12",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 468,
+      "vernacular_text": "Let those who know your name trust in you, O Lord; for you do not abandon those who seek you. Sing psalms to the Lord who dwells in Zion; for he does not forget the cry of the poor.",
+      "text_src": "Ps 9:11,12,13",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 469,
+      "vernacular_text": "I have called out because you hear me, O God; incline your ear and hear my words.",
+      "text_src": "Ps 16:6",
+      "cycle_sun": null,
+      "option_num": 1
+    },
+    {
+      "service_part": "co",
+      "page": 470,
+      "vernacular_text": "Amen I say to you, whatever you ask in your prayers, believe that you shall receive it, and it shall be granted unto you.",
+      "text_src": "Mk 11:24",
+      "cycle_sun": null,
+      "option_num": 2,
+      "option_txt": "Or:",
+      "gm_xref_page": 596
+    }
+  ]
+}

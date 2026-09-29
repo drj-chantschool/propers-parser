@@ -1,0 +1,48 @@
+{
+  "subsection": "presentation-of-mary",
+  "label": "Presentation of Mary (IN PRAESENTATIONE B. MARIAE VIRGINIS, Die 21 novembris)",
+  "lit_epoch_slug": "presentation-of-mary",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 624,
+      "service_part": "in",
+      "incipit": "Vultum tuum deprecabuntur",
+      "target_page": 404,
+      "band": [73.7, 84.7],
+      "engraved": false
+    },
+    {
+      "page": 624,
+      "service_part": "gr",
+      "incipit": "Concupivit rex decorem tuum",
+      "target_page": 408,
+      "band": [85.6, 96.6],
+      "engraved": false
+    },
+    {
+      "page": 624,
+      "service_part": "al",
+      "incipit": "Adorabo ad templum",
+      "target_page": 270,
+      "band": [97.8, 108.8],
+      "engraved": false
+    },
+    {
+      "page": 624,
+      "service_part": "of",
+      "incipit": "Afferentur... post eam",
+      "target_page": 505,
+      "band": [109.8, 120.8],
+      "engraved": false
+    },
+    {
+      "page": 624,
+      "service_part": "co",
+      "incipit": "Diffusa est gratia in labiis tuis",
+      "target_page": 423,
+      "band": [121.8, 132.8],
+      "engraved": false
+    }
+  ]
+}

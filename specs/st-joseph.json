@@ -1,0 +1,58 @@
+{
+  "subsection": "st-joseph",
+  "label": "Saint Joseph, Spouse of the Blessed Virgin Mary (S. IOSEPH, SPONSI B. MARIAE VIRGINIS, Die 19 martii)",
+  "lit_epoch_slug": "st-joseph",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 552,
+      "service_part": "in",
+      "incipit": "Iustus ut palma",
+      "target_page": 508,
+      "band": [320, 355],
+      "engraved": false
+    },
+    {
+      "page": 552,
+      "service_part": "gr",
+      "incipit": "Domine, praevenisti eum",
+      "target_page": 509,
+      "band": [320, 355],
+      "engraved": false
+    },
+    {
+      "page": 552,
+      "service_part": "tr",
+      "incipit": "Beatus vir qui timet",
+      "target_page": 481,
+      "band": [355, 366],
+      "engraved": false
+    },
+    {
+      "page": 552,
+      "service_part": "of",
+      "incipit": "Veritas mea",
+      "target_page": 483,
+      "band": [366, 382],
+      "engraved": false
+    },
+    {
+      "page": 552,
+      "service_part": "co",
+      "mode": 7,
+      "incipit": "Ioseph, fili David, noli timere accipere Mariam coniugem tuam",
+      "text_src": "Mt. 1, 20",
+      "band": [382, 507],
+      "engraved": true
+    },
+    {
+      "page": 553,
+      "service_part": "co",
+      "incipit": "Fili, quid fecisti",
+      "target_page": 51,
+      "band": [178, 199],
+      "engraved": false,
+      "option_txt": "Quando legitur Evangelium Ibant parentes Iesu:"
+    }
+  ]
+}

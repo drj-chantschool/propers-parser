@@ -1,0 +1,23 @@
+[
+  {
+    "page": 1,
+    "y": 123.8,
+    "size": 8.8,
+    "level": 0,
+    "text": "Pro Apostolis"
+  },
+  {
+    "page": 1,
+    "y": 208.2,
+    "size": 8.8,
+    "level": 0,
+    "text": "Pro pluribus Apostolis vel martyribus"
+  },
+  {
+    "page": 4,
+    "y": 368.2,
+    "size": 8.9,
+    "level": 0,
+    "text": "Pro uno Apostolo vel martyre"
+  }
+]

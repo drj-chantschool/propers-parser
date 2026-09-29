@@ -1,0 +1,41 @@
+{
+  "subsection": "tq-lent-02-7",
+  "label": "Lent — Week 2, Saturday (Sabbato)",
+  "lit_epoch_slug": "TQ-LENT-02-7",
+  "wkday": 7,
+  "chants": [
+    {
+      "page": 95,
+      "service_part": "in",
+      "incipit": "Intret oratio mea",
+      "target_page": 363,
+      "band": [330, 366],
+      "engraved": false
+    },
+    {
+      "page": 95,
+      "service_part": "gr",
+      "incipit": "Bonum est confiteri",
+      "target_page": 327,
+      "band": [330, 366],
+      "engraved": false
+    },
+    {
+      "page": 95,
+      "service_part": "of",
+      "incipit": "Illumina oculos meos",
+      "target_page": 290,
+      "band": [330, 366],
+      "engraved": false
+    },
+    {
+      "page": 95,
+      "service_part": "co",
+      "mode": 8,
+      "incipit": "Oportet te",
+      "text_src": "Lc. 15, 32",
+      "band": [367, 519],
+      "engraved": true
+    }
+  ]
+}

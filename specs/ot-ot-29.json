@@ -1,0 +1,91 @@
+{
+  "subsection": "ot-ot-29",
+  "label": "29th week of Ordinary Time (Hebdomada XXIX per annum)",
+  "lit_epoch_slug": "OT-OT-29",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 354,
+      "service_part": "in",
+      "mode": 3,
+      "incipit": "Ego clamavi",
+      "text_src": "Ps. 16, 6. 8 et 1",
+      "band": [65, 436],
+      "engraved": true
+    },
+    {
+      "page": 354,
+      "service_part": "gr",
+      "mode": 7,
+      "incipit": "Salvum fac populum",
+      "text_src": "Ps. 27, 9. V. 1",
+      "band": [436, 505],
+      "engraved": true
+    },
+    {
+      "page": 355,
+      "service_part": "al",
+      "mode": 8,
+      "incipit": "Lauda, anima mea",
+      "text_src": "Ps. 115, 2",
+      "band": [434, 505],
+      "engraved": true
+    },
+    {
+      "page": 356,
+      "service_part": "of",
+      "mode": 2,
+      "incipit": "Meditabor",
+      "text_src": "Ps. 118, 47. 48",
+      "band": [287, 505],
+      "engraved": true
+    },
+    {
+      "page": 357,
+      "service_part": "co",
+      "mode": 2,
+      "incipit": "Domine, Dominus noster",
+      "text_src": "Ps. 8, 2ab",
+      "band": [20, 215],
+      "engraved": true
+    },
+    {
+      "page": 355,
+      "service_part": "gr",
+      "incipit": "Laetatus sum",
+      "target_page": 336,
+      "wkday": 7,
+      "cycle_wkday": 2,
+      "band": [410, 434],
+      "engraved": false
+    },
+    {
+      "page": 356,
+      "service_part": "al",
+      "incipit": "Laetatus sum",
+      "target_page": 19,
+      "wkday": 7,
+      "cycle_wkday": 2,
+      "band": [265, 288],
+      "engraved": false
+    },
+    {
+      "page": 357,
+      "service_part": "co",
+      "incipit": "Beatus servus",
+      "target_page": 491,
+      "wkday": 3,
+      "band": [215, 248],
+      "engraved": false
+    },
+    {
+      "page": 357,
+      "service_part": "co",
+      "incipit": "Fidelis servus",
+      "target_page": 491,
+      "wkday": 4,
+      "band": [215, 248],
+      "engraved": false
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "subsection": "tq-lent-05-5",
+  "label": "Lent — 5th week, Thursday (Feria Quinta)",
+  "lit_epoch_slug": "TQ-LENT-05-5",
+  "wkday": 5,
+  "chants": [
+    {
+      "page": 130,
+      "service_part": "in",
+      "incipit": "Omnia quae fecisti",
+      "target_page": 342,
+      "band": [145.7, 162.2],
+      "engraved": false
+    },
+    {
+      "page": 130,
+      "service_part": "gr",
+      "incipit": "Esto mihi",
+      "target_page": 301,
+      "band": [157.8, 174.3],
+      "engraved": false
+    },
+    {
+      "page": 130,
+      "service_part": "of",
+      "incipit": "Super flumina Babylonis",
+      "target_page": 345,
+      "band": [169.7, 186.2],
+      "engraved": false
+    },
+    {
+      "page": 130,
+      "service_part": "co",
+      "incipit": "Memento verbi tui",
+      "target_page": 346,
+      "band": [181.8, 198.2],
+      "engraved": false
+    }
+  ]
+}

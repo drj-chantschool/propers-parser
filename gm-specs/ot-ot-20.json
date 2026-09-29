@@ -1,0 +1,67 @@
+{
+  "subsection": "ot-ot-20",
+  "label": "20th Sunday in Ordinary Time (Gregorian Missal)",
+  "lit_epoch_slug": "OT-OT-20",
+  "wkday": null,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 527,
+      "vernacular_text": "Behold, O God our protector, and consider the face of your Anointed; for one day in your house is better than a thousand elsewhere. ℣. How lovely is your tabernacle, O Lord of hosts! My soul longs and pines after the courts of the Lord.",
+      "text_src": "Ps 83:10, 11 and 2, 3",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 528,
+      "vernacular_text": "It is better to confide in the Lord than to have confidence in man. ℣. Better is it to trust in the Lord than to trust in princes.",
+      "text_src": "Ps 117:8 ℣.9",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 529,
+      "vernacular_text": "Come, let us sing to the Lord; let us make a joyful noise unto God our Saviour.",
+      "text_src": "Ps 94:1",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 529,
+      "vernacular_text": "My flesh is the true food, my blood is the true drink; he who eats my flesh and drinks my blood abides in me, and I in him.",
+      "text_src": "Jn 6:56, 57",
+      "cycle_sun": 2,
+      "gm_xref_page": 415
+    },
+    {
+      "service_part": "of",
+      "page": 530,
+      "vernacular_text": "The Angel of the Lord shall encamp round about those who fear him and shall deliver them; taste and see how good the Lord is.",
+      "text_src": "Ps 33:8, 9",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 530,
+      "vernacular_text": "My house will be called a house of prayer, says the Lord; everyone who asks here, will receive, and he who seeks, will find, and to him who knocks, it will be opened.",
+      "text_src": "Mt 21:13",
+      "cycle_sun": 1,
+      "gm_xref_page": 686
+    },
+    {
+      "service_part": "co",
+      "page": 530,
+      "vernacular_text": "He who eats my flesh and drinks my blood, abides in me, and I in him, says the Lord.",
+      "text_src": "Jn 6:57",
+      "cycle_sun": 2,
+      "gm_xref_page": 423
+    },
+    {
+      "service_part": "co",
+      "page": 531,
+      "vernacular_text": "Seek first the kingdom of God, and all the rest will be given to you in addition, says the Lord.",
+      "text_src": "Mt 6:33",
+      "cycle_sun": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "subsection": "patrick-of-ireland",
+  "label": "S. Patricii, Episcopi (Die 17 martii)",
+  "lit_epoch_slug": "patrick-of-ireland",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 552,
+      "service_part": "in",
+      "incipit": "Statuit ei Dominus",
+      "target_page": 445,
+      "band": [91, 102],
+      "engraved": false
+    },
+    {
+      "page": 552,
+      "service_part": "gr",
+      "incipit": "Ecce sacerdos magnus",
+      "target_page": 486,
+      "band": [103, 114],
+      "engraved": false
+    },
+    {
+      "page": 552,
+      "service_part": "of",
+      "incipit": "Inveni David",
+      "target_page": 447,
+      "band": [115, 126],
+      "engraved": false
+    },
+    {
+      "page": 552,
+      "service_part": "co",
+      "incipit": "Fidelis servus et prudens",
+      "target_page": 491,
+      "band": [126, 139],
+      "engraved": false,
+      "notes": "Printed as 'Fidelis servus et prudens, 491, cum ps. 131*.' — psalm-tone data not modeled."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "subsection": "john-baptist-de-la-salle",
+  "label": "S. Ioannis Baptistae de la Salle, Presbyteri (Die 7 aprilis) — Cantus ut supra, die 5 aprilis",
+  "lit_epoch_slug": "john-baptist-de-la-salle",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 555,
+      "service_part": "in",
+      "incipit": "Os iusti meditabitur",
+      "target_page": 494,
+      "band": [
+        86,
+        104
+      ],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Materialized from `vincent-ferrer` (S. Vincentii Ferrer, 5 April) per the printed rubric ‘Cantus ut supra, die 5 aprilis.’ — this day prints no chant lines of its own. printed_page_num is this day's page 555 (where the rubric is printed); ref_page_num 494 is where the chant is engraved."
+    },
+    {
+      "page": 555,
+      "service_part": "gr",
+      "incipit": "Iustus ut palma",
+      "target_page": 510,
+      "band": [
+        86,
+        104
+      ],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Materialized from `vincent-ferrer` (S. Vincentii Ferrer, 5 April) per the printed rubric ‘Cantus ut supra, die 5 aprilis.’ — this day prints no chant lines of its own. printed_page_num is this day's page 555 (where the rubric is printed); ref_page_num 510 is where the chant is engraved."
+    },
+    {
+      "page": 555,
+      "service_part": "al1",
+      "incipit": "Beatus vir qui suffert",
+      "target_page": 511,
+      "band": [
+        86,
+        104
+      ],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Materialized from `vincent-ferrer` (S. Vincentii Ferrer, 5 April) per the printed rubric ‘Cantus ut supra, die 5 aprilis.’ — this day prints no chant lines of its own. printed_page_num is this day's page 555 (where the rubric is printed); ref_page_num 511 is where the chant is engraved. al1 (the Gradual's slot) because 5 April prints this Alleluia in place of the Gradual in Paschaltide.",
+      "option_txt": "Tempore paschali :"
+    },
+    {
+      "page": 555,
+      "service_part": "al1",
+      "incipit": "Amavit eum",
+      "target_page": 495,
+      "band": [
+        86,
+        104
+      ],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Materialized from `vincent-ferrer` (S. Vincentii Ferrer, 5 April) per the printed rubric ‘Cantus ut supra, die 5 aprilis.’ — this day prints no chant lines of its own. printed_page_num is this day's page 555 (where the rubric is printed); ref_page_num 495 is where the chant is engraved.",
+      "option_txt": "vel"
+    },
+    {
+      "page": 555,
+      "service_part": "of",
+      "incipit": "Veritas mea",
+      "target_page": 483,
+      "band": [
+        86,
+        104
+      ],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Materialized from `vincent-ferrer` (S. Vincentii Ferrer, 5 April) per the printed rubric ‘Cantus ut supra, die 5 aprilis.’ — this day prints no chant lines of its own. printed_page_num is this day's page 555 (where the rubric is printed); ref_page_num 483 is where the chant is engraved."
+    },
+    {
+      "page": 555,
+      "service_part": "co",
+      "incipit": "Beatus servus",
+      "target_page": 491,
+      "band": [
+        86,
+        104
+      ],
+      "engraved": false,
+      "text_src": null,
+      "notes": "Materialized from `vincent-ferrer` (S. Vincentii Ferrer, 5 April) per the printed rubric ‘Cantus ut supra, die 5 aprilis.’ — this day prints no chant lines of its own. printed_page_num is this day's page 555 (where the rubric is printed); ref_page_num 491 is where the chant is engraved. 5 April's line reads 'cum ps. 120*'; the psalm plan is not modeled."
+    }
+  ]
+}

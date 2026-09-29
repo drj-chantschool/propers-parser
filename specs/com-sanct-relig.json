@@ -1,0 +1,189 @@
+{
+  "subsection": "com-sanct-relig",
+  "label": "Common of Holy Men and Women — Pro religiosis",
+  "lit_epoch_slug": "COM-SANCT-RELIG",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 516,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "Iustus ut palma",
+      "text_src": "Ps. 91, 13",
+      "band": [431, 505],
+      "engraved": true
+    },
+    {
+      "page": 517,
+      "service_part": "al",
+      "mode": 1,
+      "incipit": "O quam bonus",
+      "text_src": "Sap. 12, 1",
+      "band": [277, 505],
+      "engraved": true
+    },
+    {
+      "page": 518,
+      "service_part": "of",
+      "mode": 6,
+      "incipit": "Desiderium animae eius",
+      "text_src": "Ps. 20, 3. 4",
+      "band": [205, 485],
+      "engraved": true
+    },
+    {
+      "page": 519,
+      "service_part": "co",
+      "mode": 8,
+      "incipit": "Simile est regnum caelorum",
+      "text_src": "Mt. 13, 45. 46",
+      "band": [132, 388],
+      "engraved": true
+    },
+    {
+      "page": 516,
+      "service_part": "in",
+      "incipit": "Ego autem sicut oliva",
+      "target_page": 424,
+      "band": [220, 231],
+      "engraved": false
+    },
+    {
+      "page": 516,
+      "service_part": "in",
+      "incipit": "Laetetur cor quaerentium Dominum",
+      "target_page": 357,
+      "band": [232, 243],
+      "engraved": false
+    },
+    {
+      "page": 516,
+      "service_part": "in",
+      "incipit": "Tibi dixit cor meum",
+      "target_page": 88,
+      "band": [244, 255],
+      "engraved": false
+    },
+    {
+      "page": 516,
+      "service_part": "in",
+      "incipit": "Repleatur os meum",
+      "target_page": 246,
+      "option_txt": "Tempore paschali :",
+      "band": [260, 283],
+      "engraved": false
+    },
+    {
+      "page": 516,
+      "service_part": "gr",
+      "incipit": "Beatus vir qui timet Dominum",
+      "target_page": 475,
+      "band": [316, 327],
+      "engraved": false
+    },
+    {
+      "page": 516,
+      "service_part": "gr",
+      "incipit": "Ecce quam bonum",
+      "target_page": 351,
+      "band": [328, 339],
+      "engraved": false
+    },
+    {
+      "page": 516,
+      "service_part": "gr",
+      "incipit": "Unam petii a Domino",
+      "target_page": 358,
+      "band": [340, 351],
+      "engraved": false
+    },
+    {
+      "page": 516,
+      "service_part": "gr",
+      "incipit": "Venite, filii, audite me",
+      "target_page": 298,
+      "band": [352, 363],
+      "engraved": false
+    },
+    {
+      "page": 516,
+      "service_part": "al",
+      "incipit": "Domine, dilexi decorem",
+      "target_page": 400,
+      "band": [397, 419],
+      "engraved": false
+    },
+    {
+      "page": 516,
+      "service_part": "al",
+      "incipit": "Iustus germinabit sicut lilium",
+      "target_page": 496,
+      "band": [397, 419],
+      "engraved": false
+    },
+    {
+      "page": 518,
+      "service_part": "al",
+      "incipit": "Qui sequitur me",
+      "target_page": 480,
+      "band": [140, 152],
+      "engraved": false
+    },
+    {
+      "page": 518,
+      "service_part": "of",
+      "incipit": "Bonum est confiteri",
+      "target_page": 369,
+      "band": [185, 196],
+      "engraved": false
+    },
+    {
+      "page": 518,
+      "service_part": "of",
+      "incipit": "Exspectans exspectavi",
+      "target_page": 328,
+      "band": [489, 500],
+      "engraved": false
+    },
+    {
+      "page": 519,
+      "service_part": "co",
+      "incipit": "Amen dico vobis : quod vos",
+      "target_page": 436,
+      "band": [66, 77],
+      "engraved": false
+    },
+    {
+      "page": 519,
+      "service_part": "co",
+      "incipit": "Beati mundo corde",
+      "target_page": 514,
+      "band": [78, 89],
+      "engraved": false
+    },
+    {
+      "page": 519,
+      "service_part": "co",
+      "incipit": "Gustate et videte",
+      "target_page": 303,
+      "band": [90, 101],
+      "engraved": false
+    },
+    {
+      "page": 519,
+      "service_part": "co",
+      "incipit": "Optimam partem",
+      "target_page": 507,
+      "band": [102, 114],
+      "engraved": false
+    },
+    {
+      "page": 519,
+      "service_part": "co",
+      "incipit": "Qui vult venire post me",
+      "target_page": 484,
+      "band": [114, 125],
+      "engraved": false
+    }
+  ]
+}

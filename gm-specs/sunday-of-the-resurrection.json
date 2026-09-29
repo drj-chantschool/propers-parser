@@ -1,0 +1,50 @@
+{
+  "subsection": "sunday-of-the-resurrection",
+  "label": "Sunday of the Resurrection — Easter Sunday (Gregorian Missal)",
+  "lit_epoch_slug": "PASC-OCT-01-1-day",
+  "wkday": 1,
+  "chants": [
+    {
+      "service_part": "in",
+      "page": 349,
+      "vernacular_text": "I am risen, and I am always with you, alleluia; you have placed your hand upon me, alleluia; your wisdom has been shown to be most wonderful, alleluia, alleluia. ℣. O Lord, you have searched me and known me; you know when I sit down and when I rise up.",
+      "text_src": "Ps 138:18,5,6 and 1-2",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "gr",
+      "page": 350,
+      "vernacular_text": "This is the day that the Lord has made; let us rejoice and be glad in it. ℣. Praise the Lord, for he is good, for his mercy endures forever.",
+      "text_src": "Ps 117:24 and 1",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "al",
+      "page": 351,
+      "vernacular_text": "Christ, our paschal lamb, has been sacrificed.",
+      "text_src": "1 Cor 5:7",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "seq",
+      "page": 351,
+      "vernacular_text": "To the Paschal Victim, Christians, offer a sacrifice of praise. The Lamb has ransomed his sheep; the innocent Christ has reconciled sinners with the Father. Death and life confronted each other in a prodigious battle; the Prince of life who died, now lives and reigns. \"Tell us, Mary, what did you see upon the way?\" \"I saw the sepulchre of the living Christ; I saw the glory of the Risen One. I saw the angels, his witnesses, the shroud and the garments. Christ, my Hope, is risen; he will go before his own into Galilee.\" We know that Christ is truly risen from the dead; O Victorious King, have mercy on us.",
+      "text_src": null,
+      "cycle_sun": null
+    },
+    {
+      "service_part": "of",
+      "page": 353,
+      "vernacular_text": "The earth trembled and was still, when God arose in judgment, alleluia.",
+      "text_src": "Ps 75:9,10",
+      "cycle_sun": null
+    },
+    {
+      "service_part": "co",
+      "page": 354,
+      "vernacular_text": "Christ, our Paschal Lamb, has been sacrificed, alleluia; therefore, let us keep the feast by sharing the unleavened bread of uprightness and truth, alleluia, alleluia, alleluia.",
+      "text_src": "1 Cor 5:7,8",
+      "cycle_sun": null
+    }
+  ]
+}

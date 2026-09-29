@@ -1,0 +1,16 @@
+{
+  "subsection": "nat-io-01-4-communio",
+  "label": "December 29 — Communion override",
+  "lit_epoch_slug": "NAT-IO-01-4",
+  "wkday": null,
+  "chants": [
+    {
+      "page": 53,
+      "service_part": "co",
+      "incipit": "Responsum",
+      "target_page": 544,
+      "band": [88, 128],
+      "engraved": false
+    }
+  ]
+}

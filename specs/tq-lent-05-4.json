@@ -1,0 +1,43 @@
+{
+  "subsection": "tq-lent-05-4",
+  "label": "Lent — 5th week, Wednesday (Feria Quarta)",
+  "lit_epoch_slug": "TQ-LENT-05-4",
+  "wkday": 4,
+  "chants": [
+    {
+      "page": 128,
+      "service_part": "in",
+      "mode": 3,
+      "incipit": "Liberator meus",
+      "text_src": "Ps. 17, 48. 49 et 2. 3",
+      "band": [180, 502],
+      "engraved": true
+    },
+    {
+      "page": 129,
+      "service_part": "gr",
+      "incipit": "Benedictus es, Domine",
+      "target_page": 372,
+      "band": [30, 50],
+      "engraved": false
+    },
+    {
+      "page": 129,
+      "service_part": "of",
+      "mode": 7,
+      "incipit": "Eripe me de inimicis, Deus meus",
+      "text_src": "Ps. 58, 2",
+      "band": [48, 328],
+      "engraved": true
+    },
+    {
+      "page": 129,
+      "service_part": "co",
+      "mode": 8,
+      "incipit": "Lavabo inter innocentes",
+      "text_src": "Ps. 25, 6. 7",
+      "band": [328, 500],
+      "engraved": true
+    }
+  ]
+}

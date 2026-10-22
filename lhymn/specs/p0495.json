@@ -1,0 +1,28 @@
+{
+ "page": "495",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > FERIA SEXTA IN PASSIONE DOMINI > Post priorem lectionem: Sicut ovis (R.IV, begun p494) running to its final double bar on p495",
+ "context_out": "RESPONSORIA > FERIA SEXTA IN PASSIONE DOMINI > Post alteram lectionem: Tenebrae factae sunt (R.VII, begun p495, ends at final double bar p496 'Et inclinato.'); on p496 'vel: Caligaverunt oculi mei (R.V)' is engraved with its own drop cap and is assigned by p496",
+ "continues": {"from_page": "494", "incipit": "Sicut ovis ad occisionem"},
+ "rows": [
+  {
+   "incipit": "Tenebrae factae sunt",
+   "kind": "engraved",
+   "mode": "VII",
+   "lit_epoch_slug": "TQ-HOLYWEEK-00-6",
+   "service": "OFFREAD",
+   "part": "resp2",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "FERIA SEXTA IN PASSIONE DOMINI; Post alteram lectionem: cf. Mt 27, 45-46, Io 19, 20 V. Lc 23, 46"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Top of p495 is the end of Sicut ovis (assigned p494), recorded in continues only.",
+  "Tenebrae factae sunt runs onto p496 (final double bar after 'Et inclinato.'). p496 then prints 'vel: Caligaverunt oculi mei' (R.V, cf. Iob 16,16 et Lam 1,12) fully engraved with a drop cap: assigned by p496, not here (README quirk). No cross-book cue seen on p495/p496 top."
+ ]
+}

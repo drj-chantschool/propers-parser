@@ -1,0 +1,12 @@
+{
+ "page": "529",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > HYMNUS TE DEUM > Tonus antiquus (H.III&IV), begun p527, mid-text at 'Patris. Iudex crederis esse venturus' (running head 'Tonus antiquus').",
+ "context_out": "RESPONSORIA > HYMNUS TE DEUM > Tonus antiquus continues: p529 ends at 'Miserere nostri, Domine,'; chant ends at final double bar p530 ('non confundar in aeternum'). Below it p530 opens 'Tonus recentior' (H.III, 'Te Deum laudamus'), a separate engraved option for the p530 producer (option_num 2).",
+ "continues": {"from_page": "527", "incipit": "Te Deum laudamus"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Whole page is the middle of the Te Deum tonus antiquus; no drop-cap, no new chant, no xref. Assigned on p527.", "The pilcrow before 'Salvum fac populum tuum' marks the start of the 'Ultima pars hymni ad libitum omitti potest' section (rubric printed p527); part of the same chant, not separately modeled."]
+}

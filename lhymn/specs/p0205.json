@@ -1,0 +1,32 @@
+{
+ "page": "205",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Friday wk I&III > LAUDS Aeterna caeli gloria running over from p204.",
+ "context_out": "Friday wk I&III > VESPERS Plasmator hominis (H.D) complete on p205.",
+ "continues": {
+  "from_page": "204",
+  "incipit": "Aeterna caeli gloria"
+ },
+ "rows": [
+  {
+   "incipit": "Plasmator hominis Deus",
+   "kind": "engraved",
+   "mode": "D",
+   "lit_epoch_slug": null,
+   "wknum_mod_2": 1,
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": 6,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD VESPERAS",
+   "index_row_id": 5397
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

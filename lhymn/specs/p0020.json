@@ -1,0 +1,15 @@
+{
+ "page": "20",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "TEMPUS NATIVITATIS › I. Usque ad sollemnitatem Epiphaniae › AD OFFICIUM LECTIONIS › rubric 'In sollemnitate' › hymn Candor aeternae Deitatis (H.I) begun at foot of p19.",
+ "context_out": "TEMPUS NATIVITATIS › I. Usque ad sollemnitatem Epiphaniae › AD OFFICIUM LECTIONIS › hymn Candor aeternae Deitatis (H.I) runs through stanza 4 at foot of p20 and ends on p21 (stanza 5, Amen). Then on p21 the rubric 'Alter tonus ad libitum pro diebus infra octavam' introduces a second melody (H.IV) of Candor aeternae, begun p21 (belongs to p21's producer).",
+ "continues": {"from_page": "19", "incipit": "Candor aeternae Deitatis"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Page holds only stanzas 1-4 (middle) of Candor aeternae Deitatis H.I; stanza 5 and Amen are on top of p21.",
+  "p21 prints 'Alter tonus ad libitum pro diebus infra octavam' with a full H.IV engraving of Candor aeternae; it begins on p21, so is not assigned here."
+ ]
+}

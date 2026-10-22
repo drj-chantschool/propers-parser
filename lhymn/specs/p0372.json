@@ -1,0 +1,66 @@
+{
+ "page": "372",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "S. Ioseph Opificis; Lauds on p371.",
+ "context_out": "Die 3 maii SS. Philippi et Iacobi > AD OFFICIUM LECTIONIS > Philippe summae (H.III) stanza 1 on p372; text ends p373. Then 12 May Nereus & Achilleus, Pancras; 14 May Matthias (p373).",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Te Ioseph celebrent",
+   "kind": "xref",
+   "mode": "I",
+   "lit_epoch_slug": "st-joseph-the-worker",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD VESPERAS: Hymnus Te Ioseph celebrent, p. 355.",
+   "ref_page": 355,
+   "chant_uuid": "gregobase:20562"
+  },
+  {
+   "incipit": "Philippe summae honoribus",
+   "kind": "engraved",
+   "mode": "III",
+   "lit_epoch_slug": "philip-and-james",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "De Communi Apostolorum tempore paschali, p. 266, praeter sequentia: AD OFFICIUM LECTIONIS"
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "athanasius",
+   "common_slug": "COM-PAST-UNO-EPISC",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301."
+  },
+  {
+   "lit_epoch_slug": "athanasius",
+   "common_slug": "COM-DOCT",
+   "common_page": 301,
+   "ref_option": 2,
+   "option_txt": "vel doctorum Ecclesiae",
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301."
+  },
+  {
+   "lit_epoch_slug": "philip-and-james",
+   "common_slug": "COM-APOST",
+   "common_page": 266,
+   "ref_option": 1,
+   "rubric": "De Communi Apostolorum tempore paschali, p. 266, praeter sequentia:"
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Philip & James: the LH COM-APOST (p266) carries its own Tempore paschali options, so the printed tempore paschali points to COM-APOST itself. Proper here is OFFREAD only (p373 holds no further Philip & James proper).",
+  "Te Ioseph celebrent xref p355 → 20562 (LH p355), explicit below."
+ ]
+}

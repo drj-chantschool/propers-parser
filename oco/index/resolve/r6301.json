@@ -1,0 +1,4 @@
+{"row_id": 6301, "verdict": "link", "chant_uuid": "gregobase:10855", "chant_group_id": 10855,
+ "evidence": "p605 L.1 'Auribus percipite, qui habitatis orbem.' mode E, Ps 48,2; CAO 1533; PM 122. Engraving contour on 'Au-ri-bus per-ci-pi-te' = high, same, down, up, down, lowest, up matches Verona gabc h h g h f e g; 'qui ha-bi-ta(fe)-tis or-bem' f g h fe f hi g matches (ends g, doxology E u o u a e). No other Auribus percipite antiphon in gregobase (9511/16596 are the unrelated responsory 'Auribus percipe Domine'). Candidate not from a cited edition (no source rows) but is the only one with mode E and the same neumes.",
+ "rejected": [{"chant_uuid": "gregobase:18497", "why": "Cisterciensis 1955, mode 8, different opening (j j i, 'per' up to j) and cadence; different melody"}],
+ "assignment": null, "index_fix": null, "question": null}

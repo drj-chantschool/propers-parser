@@ -1,0 +1,56 @@
+{
+ "page": "430",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Mense septembris; Nativity BVM ended p429.",
+ "context_out": "Die 13 septembris S. Ioannis Chrysostomi (Memoria) > LAUDS+VESPERS Laude te cives complete on p430.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Laude te cives superi coronant",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "st-john-chrysostom",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS ET AD VESPERAS"
+  },
+  {
+   "incipit": "Laude te cives superi coronant",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "st-john-chrysostom",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS ET AD VESPERAS"
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "st-john-chrysostom",
+   "common_slug": "COM-PAST-UNO-EPISC",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301, praeter sequentia:"
+  },
+  {
+   "lit_epoch_slug": "st-john-chrysostom",
+   "common_slug": "COM-DOCT",
+   "common_page": 301,
+   "ref_option": 2,
+   "option_txt": "vel doctorum Ecclesiae",
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301, praeter sequentia:"
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Printed Memoria = MEMORIAL."
+ ]
+}

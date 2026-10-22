@@ -1,0 +1,71 @@
+MISS p1225 id 357 'Alleluia Christum ascendentem': text not on target p341
+MISS p1225 id 358 'Alleluia Christum qui putari': text not on target p772
+MISS p1225 id 375 'Cristum regem qui suam': text not on target p860
+MISS p1227 id 431 'Visitationem Virginis': text not on target p1026
+MISS p1230 id 528 'Alma Redemptoris': text not on target p689
+MISS p1231 id 529 'Alma Redemptoris': text not on target p689
+MISS p1231 id 536 'Amen a. d. tibi': text not on target p288
+MISS p1231 id 537 'Amen a. d. vobis Non Moyses': text not on target p301
+MISS p1231 id 538 'Amen a. d. vobis Non Moyses': text not on target p301
+MISS p1231 id 539 'Amen a. d. vobis Non Moyses': text not on target p301
+MISS p1231 id 540 'Amen a. d. vobis Qui credit': text not on target p291
+MISS p1231 id 541 'Amen a. d. vobis Qui non': text not on target p308
+MISS p1231 id 542 'Amen a. d. vobis Qui non': text not on target p308
+MISS p1231 id 543 'Amen a. d. vobis quia': text not on target p338
+MISS p1231 id 544 'Amen a. d. vobis Si quid': text not on target p350
+MISS p1231 id 545 'Amen a. d. vobis Si quid': text not on target p350
+MISS p1231 id 546 'Amen a. d. vobis Si quis': text not on target p1128
+MISS p1231 id 558 'Angeli Domini Domino': text not on target p898
+MISS p1234 id 648 'Ave Regina cælorum': text not on target p691
+MISS p1234 id 649 'Ave Regina cælorum': text not on target p691
+MISS p1234 id 662 'Beata es Virgo Maria, quæ omnium': text not on target p990
+MISS p1238 id 790 'Caritas Pater es': text not on target p515
+MISS p1240 id 836 'Cognovit eum Dominus': text not on target p1071
+MISS p1240 id 837 'Cognovit eum Dominus': text not on target p1071
+MISS p1240 id 838 'Cognovit eum Dominus': text not on target p1071
+MISS p1240 id 839 'Cognovit eum Dominus': text not on target p1071
+MISS p1251 id 1231 'Ecce ego vobiscum': text not on target p1018
+MISS p1252 id 1275 'Eduxit Deus populum': text not on target p584
+MISS p1260 id 1537 'Gaude et lætare filia Sion 1': text not on target p27
+MISS p1262 id 1589 'Hic accipiet': text not on target p1147
+MISS p1262 id 1590 'Hic accipiet': text not on target p1147
+MISS p1262 id 1591 'Hic accipiet': text not on target p1147
+MISS p1267 id 1764 'In prasepio': text not on target p106
+MISS p1267 id 1773 'In spiritu humilitatis': text not on target p148
+MISS p1269 id 1823 'Introeuntes': text not on target p274
+MISS p1269 id 1832 'Ioannes est nomen': text not on target p799
+MISS p1269 id 1834 'Ioannes vocabitur': text not on target p796
+MISS p1270 id 1886 'Isti sunt viri sancti et': text not on target p765
+MISS p1270 id 1887 'Isti sunt viri sancti et': text not on target p765
+MISS p1271 id 1911 'Iuste iudicate': text not on target p662
+MISS p1283 id 2307 'Omnes sancti': text not on target p1022
+MISS p1283 id 2308 'Omnes sancti': text not on target p1022
+MISS p1283 id 2309 'Omnes sancti': text not on target p1022
+MISS p1292 id 2612 'Regina cæli': text not on target p695
+MISS p1292 id 2613 'Regina cæli': text not on target p695
+MISS p1292 id 2614 'Regina cæli': text not on target p695
+MISS p1293 id 2656 'Rubum quem viderat': text not on target p92
+MISS p1294 id 2681 'Salve Regina': text not on target p692
+MISS p1294 id 2682 'Salve Regina': text not on target p692
+MISS p1299 id 2844 'Simon loannis diligis': text not on target p804
+MISS p1300 id 2905 'Sub tuum præsidium': text not on target p695
+MISS p1305 id 3060 'Venditum iustum': text not on target p584
+MISS p1310 id 3235 'Ave Maria': text not on target p1047
+MISS p1310 id 3237 'Ave Maria... all.': text not on target p1047
+MISS p1311 id 3252 'Christus dilexit V/ Et fecit nos': text not on target p531
+MISS p1312 id 3290 'Exaltabo te V/ Convertisti': text not on target p1165
+MISS p1312 id 3291 'Exaltabo te V/ Nec delectasti': text not on target p947
+MISS p1312 id 3297 'Exsultent iusti soll.': text not on target p919
+MISS p1312 id 3298 'Exsultent iusti simpl': text not on target p1121
+MISS p1313 id 3311 'Hæc dies simpl.': text not on target p264
+MISS p1313 id 3325 'In manus tuas 2': text not on target p685; found on p[686, 684]
+MISS p1313 id 3326 'In manus tuas 3': text not on target p685; found on p[686, 684]
+MISS p1314 id 3346 'Lætamini simpl.': text not on target p1034
+MISS p1314 id 3347 'Lætamini soll.': text not on target p925
+MISS p1315 id 3399 'Spiritus Paraclitus simpl.': text not on target p348
+MISS p1315 id 3400 'Spiritus Paraclitus soll.': text not on target p362
+MISS p1316 id 3406 'Surrexit de sepulcro': text not on target p282
+MISS p1316 id 3417 'Verbum caro V/ Et de plenitudine': text not on target p77
+MISS p1316 id 3418 'Verbum caro V/ Hoc erat': text not on target p761
+
+{"pages": 103, "rows": 3422, "last_id": 3422, "misses": 69, "problems": 0}

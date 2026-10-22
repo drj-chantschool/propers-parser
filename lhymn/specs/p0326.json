@@ -1,0 +1,27 @@
+{
+ "page": "326",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "COM-SANCT-RELIG > AD LAUDES MATUTINAS: hymn O Redemptoris pietas colenda (began p325) continues with stanza 4 end, 5, Amen.",
+ "context_out": "COM-SANCT-RELIG > AD II VESPERAS: hymn Laeti colentes (H.IV) begins p326, runs over to p327 (stanzas 2-6) and ends there with Amen; nothing vel follows.",
+ "continues": {"from_page": "325", "incipit": "O Redemptoris pietas colenda"},
+ "rows": [
+  {
+   "lit_epoch_slug": "COM-SANCT-RELIG",
+   "wkday": null,
+   "incipit": "Laeti colentes",
+   "kind": "engraved",
+   "mode": "IV",
+   "service": "VESPERS",
+   "part": "hymn",
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD II VESPERAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Laeti colentes runs over to p327 (final double bar and Amen there); p327 top is its continuation. I Vespers and OFFREAD uses are xrefs already on p324/p325."
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "page": "503",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > DOMINICA PENTECOSTES > 'Post priorem lectionem:' R.II Repleti sunt omnes (begun p502) ends at top of p503 ('Et convenit.').",
+ "context_out": "RESPONSORIA > DOMINICA PENTECOSTES > 'Post alteram lectionem:' R.III Dum complerentur dies Pentecostes, begun p503, ends p504 ('Tamquam.'). p504 then prints heading SANCTISSIMAE TRINITATIS with R.I Te sanctum Dominum (for the p504 producer).",
+ "continues": {"from_page": "502", "incipit": "Repleti sunt omnes"},
+ "rows": [
+  {
+   "incipit": "Dum complerentur dies Pentecostes",
+   "kind": "engraved",
+   "mode": "III",
+   "lit_epoch_slug": "PASC-PENT-08-1",
+   "service": "OFFREAD",
+   "part": "resp2",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "DOMINICA PENTECOSTES; Post alteram lectionem: Act 2, 1-2 V. cf. Io 20, 19"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Dum complerentur runs onto p504 (ends 'Tamquam.' at final double bar); no trailing vel/xref line, no cross-book cue."]
+}

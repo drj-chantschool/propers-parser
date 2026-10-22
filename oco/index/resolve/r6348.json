@@ -1,0 +1,6 @@
+{"row_id": 6348, "verdict": "link", "chant_uuid": "gregobase:11135", "chant_group_id": null,
+ "evidence": "p642 L.2 'Beati qui ambulant in lege tua, Domine.' 8g, c3 clef, ref Ps 118,1; CAO 1589 (no PM). Engraving opens low f, d-e, e then rising liquescent f-g-h, h, g-h, f; Euouae h h g h f e. 11135 (Verona, c3) matches note for note: f de e fgwh h gh f / e f e f ed / ef f e, Euouae h h g h f e. 19537 (Nabc) has the identical melody but sits in group 18040.",
+ "rejected": [{"chant_uuid": "gregobase:18040", "why": "PM 261 melody, c4 opening g gj h (rising), different neumes; this is r6349's chant (Beati qui ambulant 2)"},
+  {"chant_uuid": "gregobase:11136", "why": "8g-g, c4 g gj h = same melody as 18040, not the engraving"},
+  {"chant_uuid": "gregobase:19537", "why": "Nabc transcription with the same melody as 11135 but grouped under 18040 (apparent grouping error); 11135 is the plain-gabc version"}],
+ "assignment": null, "index_fix": null, "question": null}

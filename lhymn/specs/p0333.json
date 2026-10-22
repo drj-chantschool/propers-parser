@@ -1,0 +1,55 @@
+{
+ "page": "333",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "OFFICIUM DEFUNCTORUM > AD LAUDES MATUTINAS ended on p332.",
+ "context_out": "OFFICIUM DEFUNCTORUM > AD HORAM MEDIAM: hymn Qui lacrimatus Lazarum (H.VIII) st. 1-4 here; st. 5 variants (pro uno/una/pluribus) and final Amen on p334; AD VESPERAS (Immensae rex potentiae, H.II) begins p334.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Qui lacrimatus Lazarum",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "officium-defunctorum",
+   "service": "TERCE",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Quando tres Horae minores dicuntur, potest adhiberi ad Tertiam: prima, quarta et quinta stropha; ad Sextam: secunda, quarta et quinta; ad Nonam: tertia, quarta et quinta.",
+   "notes": "Text variants printed for other subjects (pro uno/una/pluribus or feminine forms); same melody."
+  },
+  {
+   "incipit": "Qui lacrimatus Lazarum",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "officium-defunctorum",
+   "service": "SEXT",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Quando tres Horae minores dicuntur, potest adhiberi ad Tertiam: prima, quarta et quinta stropha; ad Sextam: secunda, quarta et quinta; ad Nonam: tertia, quarta et quinta.",
+   "notes": "Text variants printed for other subjects (pro uno/una/pluribus or feminine forms); same melody."
+  },
+  {
+   "incipit": "Qui lacrimatus Lazarum",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "officium-defunctorum",
+   "service": "NONE",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Quando tres Horae minores dicuntur, potest adhiberi ad Tertiam: prima, quarta et quinta stropha; ad Sextam: secunda, quarta et quinta; ad Nonam: tertia, quarta et quinta.",
+   "notes": "Text variants printed for other subjects (pro uno/una/pluribus or feminine forms); same melody."
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Rubric: one hymn, stanzas assigned per hour (Terce 1,4,5; Sext 2,4,5; None 3,4,5) when three minor Hours are said; modeled as the same hymn on TERCE/SEXT/NONE.",
+  "Director, user rulings 2026-10-15: text-only variants (one chant) kept as one row; variants described in notes (ruling 1)"
+ ]
+}

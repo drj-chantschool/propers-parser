@@ -1,0 +1,61 @@
+{
+ "page": "344",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "PROPRIUM DE SANCTIS > IANUARIUS > after Die 25 ianuarii (Conversio S. Pauli, p343 ended with Vespers hymn Excelsam Pauli); p344 opens with Die 26 ianuarii.",
+ "context_out": "PROPRIUM DE SANCTIS > IANUARIUS > Die 31 ianuarii S. Ioannis Bosco, Memoria, De Communi line only. No chant runs over. Next page p345 begins FEBRUARIUS, Die 2 februarii In Praesentatione Domini.",
+ "continues": null,
+ "rows": [],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "sts-timothy-and-titus",
+   "common_slug": "COM-PAST-PLUR",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289."
+  },
+  {
+   "lit_epoch_slug": "angela-merici",
+   "common_slug": "COM-VIRG-UNA",
+   "common_page": 305,
+   "ref_option": 1,
+   "rubric": "De Communi virginum, p. 305, vel sanctarum mulierum, p. 318."
+  },
+  {
+   "lit_epoch_slug": "angela-merici",
+   "common_slug": "COM-SANCT-MULIER-UNA",
+   "common_page": 318,
+   "ref_option": 2,
+   "rubric": "De Communi virginum, p. 305, vel sanctarum mulierum, p. 318.",
+   "option_txt": "vel de Communi sanctarum mulierum"
+  },
+  {
+   "lit_epoch_slug": "thomas-aquinas",
+   "common_slug": "COM-DOCT",
+   "common_page": 301,
+   "ref_option": 1,
+   "rubric": "De Communi doctorum Ecclesiae, p. 301."
+  },
+  {
+   "lit_epoch_slug": "don-bosco",
+   "common_slug": "COM-PAST-UNO-PRESB",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289, vel sanctorum virorum, p. 311."
+  },
+  {
+   "lit_epoch_slug": "don-bosco",
+   "common_slug": "COM-SANCT-VIR-UNO",
+   "common_page": 311,
+   "ref_option": 2,
+   "rubric": "De Communi pastorum, p. 289, vel sanctorum virorum, p. 311.",
+   "option_txt": "vel de Communi sanctorum virorum"
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Page has no engraved chants; four saints, each with only a De Communi line.",
+  "Narrowest sub-Commons chosen: Timothy & Titus (two bishops) COM-PAST-PLUR; Angela Merici (one virgin) COM-VIRG-UNA / COM-SANCT-MULIER-UNA; Thomas Aquinas (presbyter & doctor, only doctors cited) COM-DOCT; John Bosco (presbyter) COM-PAST-UNO-PRESB / COM-SANCT-VIR-UNO.",
+  "Angela Merici (Die 27) has proper_of_saints rank_code UNDETERMINED and the page prints no Memoria marker; Timothy/Titus, Aquinas, Bosco are MEMORIAL and match the printed Memoria."
+ ]
+}

@@ -1,0 +1,8 @@
+{"row_id": 6436, "verdict": "link", "chant_uuid": "gregobase:10690", "chant_group_id": null,
+ "evidence": "p611 antiphon 3 (Feria IV Vespers, ref 'Sap 7,26; AS 840'), 4*e, 'Candor est lucis ætérnæ et spéculum sine mácula. Euouae'. Same single engraving as sibling r6435 (2H4 V 3). gabc 10690: c4 Can(fe) dor(de) est(e) * lu(f) cis(dc) æ(de) tér(df) næ(e) et(ef) spé(g) cu(g) lum(gf) si(g) ne(ghg) má(e) cu(de) la(e); Euouae g g h f g e - matches note by note. Rejections as in r6435 (4106/2041/6290/12737 differ in opening, má or Euouae). No edition source tie to OCO. LPS: no reason printed; 4H4 = wkday 4, wknum_mod_4 0 (psalter week IV), separate unit sharing engraving.",
+ "rejected": [
+  {"chant_uuid": "gregobase:4106", "why": "AM 1934, group 2041: Euouae and 'et spé' differ from engraving"},
+  {"chant_uuid": "gregobase:2041", "why": "group 2041: opens eg fe, má(fe), different Euouae"},
+  {"chant_uuid": "gregobase:6290", "why": "group 6290: opens eg fe, má(fe); no Euouae"},
+  {"chant_uuid": "gregobase:12737", "why": "group 6290: opens eg fe, má(fe)"}],
+ "assignment": null, "index_fix": null, "question": null}

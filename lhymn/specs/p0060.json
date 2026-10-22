@@ -1,0 +1,46 @@
+{
+ "page": "60",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "TQ-HOLYWEEK (II. HEBDOMADA SANCTA; 'A I Vesperis dominicae in Palmis de Passione Domini usque ad Nonam feriae V Hebdomadae sanctae inclusive') > AD VESPERAS: Vexilla regis prodeunt (H.I) stanzas 5-7 + Amen at top of p60.",
+ "context_out": "Same section/hour. Vel ad libitum Vexilla regis (vetus editio vaticana, H.I) begins mid-page 60 (first stanza engraved) and its remaining stanzas run as text on p61, ending 'Te, fons salutis Trinitas ... Amen'. p61 then has AD INVITATORIUM (Christum Dominum, ut supra, p. 52) and AD OFFICIUM LECTIONIS Pange lingua (H.I).",
+ "continues": {
+  "from_page": "58",
+  "incipit": "Vexilla regis prodeunt"
+ },
+ "rows": [
+  {
+   "incipit": "Vexilla regis prodeunt",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "TQ-HOLYWEEK",
+   "service": "VESPERS1",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "Vel ad libitum, secundum veterem editionem vaticanam",
+   "rubric": "Vel ad libitum, secundum veterem editionem vaticanam: (governing rule: A I Vesperis dominicae in Palmis de Passione Domini usque ad Nonam feriae V Hebdomadae sanctae inclusive. AD VESPERAS)"
+  },
+  {
+   "incipit": "Vexilla regis prodeunt",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "TQ-HOLYWEEK",
+   "service": "VESPERS",
+   "part": "hymn",
+   "option_num": 2,
+   "option_txt": "Vel ad libitum, secundum veterem editionem vaticanam",
+   "rubric": "Vel ad libitum, secundum veterem editionem vaticanam: (governing rule: A I Vesperis dominicae in Palmis de Passione Domini usque ad Nonam feriae V Hebdomadae sanctae inclusive. AD VESPERAS)",
+   "wkday": null
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Top of p60 is the end of the p58 Vexilla regis (stanza 5 end, 6, 7, Amen): listed in continues only.",
+  "Stanza 6 carries a variant line 'Die 14 septembris: in hac triumphi gloria' (Exaltation of the Cross); text variant, no row. Repeated as 'die 14 septembris' in the p61 text version of the vetus hymn too.",
+  "Scope of the vetus alternative copied from p58 rows: VESPERS1 wkday 1, VESPERS wkdays [1,2,3,4], option 2. Old Vatican text 'qua vita mortem'; expected gregobase 2120 (index row 5526).",
+  "The vetus hymn's remaining stanzas are printed as plain text on p61 (not a separate chant).",
+  "Re-scoped per intake_queue #2 (user, 2026-10-18): Holy Week rows are TQ-HOLYWEEK subseason defaults (no weekday scoping); Good Friday 'Omnia sicut in hebdomada sancta' inherits them."
+ ]
+}

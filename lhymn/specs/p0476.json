@@ -1,0 +1,57 @@
+{
+ "page": "476",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Immaculate Conception > VESPERS1/VESPERS Praeclara custos running over from p475.",
+ "context_out": "Immaculate Conception > OFFREAD Te dicimus praeconio (H.VIII) begins p476, continues p477.",
+ "continues": {
+  "from_page": "475",
+  "incipit": "Praeclara custos virginum"
+ },
+ "rows": [
+  {
+   "incipit": "Immaculatam Conceptionem Virginis Mariae",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "immaculate-conception",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM",
+   "index_row_id": 5581
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 133,
+   "mode": null,
+   "lit_epoch_slug": "immaculate-conception",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Ps. Venite, p. 133."
+  },
+  {
+   "incipit": "Te dicimus praeconio",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "immaculate-conception",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD OFFICIUM LECTIONIS",
+   "index_row_id": 5481
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

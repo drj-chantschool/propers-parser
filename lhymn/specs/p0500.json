@@ -1,0 +1,24 @@
+{
+ "page": "500",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > SABBATO SANCTO > vel: Ecce quomodo moritur iustus ended on p499. p500 opens new heading TEMPORE PASCHALI",
+ "context_out": "RESPONSORIA > TEMPORE PASCHALI (PASC). R.III Virtute magna (p500, complete) with 'Vel:' R.V Ego sum vitis vera (Io 15, 1.5.9) begun p500, ends p501 ('Qui.'). p501 then has a second 'Vel:' engraved R.III Ego rogabo Patrem (Io 14, 16-17), which begins on p501 and runs on",
+ "continues": null,
+ "rows": [
+  {"incipit": "Virtute magna reddebant Apostoli", "kind": "engraved", "mode": "III",
+   "lit_epoch_slug": "PASC", "service": "OFFREAD", "part": "resp",
+   "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "TEMPORE PASCHALI; Act 4, 33.31"},
+  {"incipit": "Ego sum vitis vera", "kind": "engraved", "mode": "V",
+   "lit_epoch_slug": "PASC", "service": "OFFREAD", "part": "resp",
+   "wkday": null, "option_num": 2, "option_txt": "Vel",
+   "rubric": "TEMPORE PASCHALI; Vel: Io 15, 1.5.9"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Ego sum vitis vera is fully engraved with drop cap (begins p500, ends p501); option 2.",
+  "p501 continues Ego sum vitis vera and then prints a further engraved 'Vel:' Ego rogabo Patrem (R.III), for the p501 producer (option 3)."
+ ]
+}

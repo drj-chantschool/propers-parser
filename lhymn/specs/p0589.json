@@ -1,0 +1,18 @@
+{
+ "page": "589",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Mense augusti > Die 20 augusti S. Bernardi > AD LAUDES MATUTINAS hymn Magno receptans pectore (H.III) from p588, stanza 5 doxology + Amen at top of p589.",
+ "continues": {"from_page": "588", "incipit": "Magno receptans pectore"},
+ "rows": [
+  {"incipit": "Bernardus doctor inclitus", "kind": "engraved", "mode": "II", "lit_epoch_slug": "bernard-of-clairvaux", "service": "VESPERS", "part": "hymn", "wkday": null, "option_num": 2, "option_txt": "Ad libitum pro Congregatione solesmensi",
+   "rubric": "AD VESPERAS. Ad libitum pro Congregatione solesmensi:"}
+ ],
+ "common_refs": [],
+ "context_out": "Mense augusti > Die 20 augusti S. Bernardi > AD VESPERAS hymn Bernardus doctor inclitus (H.II) begun on p589 (stanzas 2-5 as text); its last stanza 'Summae Deus potentiae ... Amen' prints at top of p590. Then p590: Die 25 augusti S. Ludovici, Regis (C.S.G.).",
+ "questions": [],
+ "flags": [
+  "Bernard's VESPERS.hymn opt1 (Bernarde gemma caelitus, xref p418) is loaded from p587; this Congregatione-solesmensi alternative is option 2, matching p565 (Hugo pius pater) handling.",
+  "Hymn runs over to p590: final stanza 'Summae Deus potentiae' + Amen printed at the top of p590; p590 producer lists it in continues. Nothing else (no vel/ad libitum line) follows it on p590 before Die 25 augusti."
+ ]
+}

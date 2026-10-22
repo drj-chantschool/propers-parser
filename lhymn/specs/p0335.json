@@ -1,0 +1,14 @@
+{
+ "page": "335",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "OFFICIUM DEFUNCTORUM > AD VESPERAS: hymn Immensae rex potentiae (H.II), st. 1 begun at bottom of p334, continues here.",
+ "context_out": "OFFICIUM DEFUNCTORUM > AD VESPERAS: hymn Immensae rex potentiae st. 1-5 end here (double bar after st. 5); st. 6 variants (Pro uno defuncto / Pro una defuncta / Pro pluribus, Amen) printed on p336.",
+ "continues": {"from_page": "334", "incipit": "Immensae rex potentiae"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Page holds only st. 1 (end), 2, 3, 4, 5 of Immensae rex potentiae, begun on p334; no new chant begins here. St. 6 variants on p336 are covered by p334's question."
+ ]
+}

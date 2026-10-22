@@ -1,0 +1,12 @@
+{
+ "page": "276",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum › COMMUNE MARTYRUM PRO PLURIBUS MARTYRIBUS (COM-MART-PLUR) › AD LAUDES MATUTINAS: hymn Aeterna Christi munera (H.VIII), begun p275, runs over (stanza 2 end, stanzas 3-6, start of 7).",
+ "context_out": "COM-MART-PLUR › AD LAUDES MATUTINAS: Aeterna Christi munera still open at foot of p276 (stanza 7 Te nunc, Redemptor ... iungas); ends on p277 ('precantes servulos in sempiterna saecula. Amen.'). p277 then has AD II VESPERAS: hymn Sanctorum meritis (H.II, with pro sanctis mulieribus Hae quas variant), the target of p273's I Vespers xref.",
+ "continues": {"from_page": "275", "incipit": "Aeterna Christi munera (LAUDS hymn, stanzas 2-7; ends p277)"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Entire page is the middle of Aeterna Christi munera (assigned on p275). No drop-cap, no rubric, no xref on page."]
+}

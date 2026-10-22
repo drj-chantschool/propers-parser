@@ -1,0 +1,4 @@
+{"row_id": 6310, "verdict": "link", "chant_uuid": "gregobase:3300", "chant_group_id": null,
+ "evidence": "Engraving is the first 'Vel:' item at the bottom of p691 (continues top of p692 'stum exora'), m6, ref line 'CAO 1542; AM 175 & 179' (solemn = AM 175). 3300 'Ave Regina caelorum (monasticum)' Solesmes 1934 is tied to AM p175 (source 7), c2 gabc, text 'Ave Regina cælorum * Ave Domina Angelorum: Salve radix ... Christum exora', same structure; group 3300 (singleton). Simple setting [simpl.] is the p692 engraving (Ma2b / r6311, = 18333, AM p179).",
+ "rejected": [{"chant_uuid": "gregobase:2602", "why": "LU 1961 solemn, same text/mode, different neume grouping and cadences (not the AM 1934 edition cited)"}, {"chant_uuid": "gregobase:18333", "why": "AM p179 simple tone (c4), belongs to Ma2b row r6311"}, {"chant_uuid": "gregobase:2153", "why": "simple tone"}],
+ "assignment": null, "index_fix": null, "question": null}

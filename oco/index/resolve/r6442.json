@@ -1,0 +1,4 @@
+{"row_id": 6442, "verdict": "link", "chant_uuid": "gregobase:10781", "chant_group_id": null,
+ "evidence": "p665 L.1 'Cantábo et psalmum dicam Dómino.' 8g, Ps 26,6, tr. man.; gregobase 10781 (Verona, mode 8, an, group 10781) gabc g j i | g i j h h i h g, Euouae j j i j h g matches engraving contour syllable by syllable. Only gregobase chant with this text; no CAO/ref line printed, no source tie to OCO.",
+ "rejected": [{"chant_uuid": "gregobase:794", "why": "'Cantabo Domino' mode 2, different text (Ex 15)"}],
+ "assignment": null, "index_fix": null, "question": null}

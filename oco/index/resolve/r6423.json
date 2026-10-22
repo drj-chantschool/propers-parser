@@ -1,0 +1,28 @@
+{
+ "row_id": 6423,
+ "verdict": "link",
+ "chant_uuid": "gregobase:10723",
+ "chant_group_id": null,
+ "evidence": "p638 L.1 'Benedixisti, Domine, terram tuam.' 6f, ref Ps 84,2; CAO 1733; PM 191. Engraved c4 f f g a | sti = clivis g-f | g, fe, d, f g | g f; Euouae f f d (g a) g f. Both group-10723 members (10723 Verona 'Be(f)ne(f)di(g)xi(h)sti(gf) Do(g)mi(fe)ne(d) ter(f)ram(g) tu(g)am(f)' and 20422 Solesmes 1981, same notes) match every syllable and the Euouae. DIRECTOR: 20422 has a single f' on 'sti' (not the gf clivis engraved), so only 10723 matches every syllable -> link 10723, not group.",
+ "rejected": [
+  {
+   "chant_uuid": "gregobase:7791",
+   "why": "own group, no mode; 'sti' is a single f, engraving has a two-note clivis g-f"
+  },
+  {
+   "chant_uuid": "gregobase:6400",
+   "why": "long mode-7 form, different melody"
+  },
+  {
+   "chant_uuid": "gregobase:11790",
+   "why": "long mode-7 form, different melody"
+  },
+  {
+   "chant_uuid": "gregobase:20422",
+   "why": "Solesmes 1981, group 10723: 'sti' single f', engraving has clivis gf (director)"
+  }
+ ],
+ "assignment": null,
+ "index_fix": null,
+ "question": null
+}

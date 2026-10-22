@@ -1,0 +1,7 @@
+{
+    "row_id":  5779,
+    "verdict":  "option",
+    "option_txt":  "Alia melodia (LHym 437)",
+    "evidence":  "p887 (Die 15: Beatae Mariae Virginis Perdolentis) lists one hymn per hour: \u0027Off. lect. H Stabat Mater (LHym 434)\u0027, \u0027Laudes H Eia Mater (LHym 436)\u0027. No \u0027Vel/Alia melodia\u0027 rubric; p890 is antiphons only. Sibling row 5778 (notes LHym 436, gregobase:17970 mode 2) is the page\u0027s Lauds hymn; this row says LHym 437 (gregobase:17969 mode 6), which the page does not print, so no rubric makes it an alternative. Index number 437 vs page 436 mismatch. | intake_queue #26 (user, 2026-10-21): load as option 2 — the index assigns the second melody to 15/9 L; the page simply does not repeat it.",
+    "question":  null
+}

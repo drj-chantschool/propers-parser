@@ -1,0 +1,114 @@
+{
+ "pipeline": "book-batch",
+ "book": "OCO",
+ "category": "modeling",
+ "topic_key": "oco-code-H-TSN",
+ "priority": 3,
+ "title": "OCO index: day H with hour T / S / N and place 1-3",
+ "prompt": "Legend: H = 'Cotidie Hebd. I-IV Psalterii' (every day). Nine rows give Terce, Sext and None three antiphons each (1-3), e.g. the complementary psalmody pp699-701. Today TERCE/SEXT/NONE have only one part 'ant'; MIDDAY has ant1-3 (your ruling: hora media = MIDDAY). 9 index row(s). Examples: #485 'Adiutorium nostrum' H|S|2 p637; #641 'Auxilium meum' H|T|2 p623; #681 'Beati omnes' H|N|3 p674; #763 'Benefac Domine' H|S|3 p700; #825 'Clamavi' H|T|1 p664; #1477 'Facti sumus' H|N|1 p645. Legend OCO pp1210-1213 does not define this code. Rows with it are held: the mapper (oco/oco_sigla.py) gives no lit_part_sources target, so identity can load but the assignment waits. Answer = what the code means and where the chant goes (service.part, epoch, option_txt). Carry-out: add the rule to oco_sigla.py, re-run oco/load_oco_lps.py, record it in oco/specs/README.md 'User rulings'.",
+ "pages": [
+  {
+   "book": "OCO",
+   "page": "637",
+   "note": "'Adiutorium nostrum' H|S|2"
+  },
+  {
+   "book": "OCO",
+   "page": "623",
+   "note": "'Auxilium meum' H|T|2"
+  },
+  {
+   "book": "OCO",
+   "page": "674",
+   "note": "'Beati omnes' H|N|3"
+  },
+  {
+   "book": "OCO",
+   "page": "700",
+   "note": "'Benefac Domine' H|S|3"
+  },
+  {
+   "book": "OCO",
+   "page": "664",
+   "note": "'Clamavi' H|T|1"
+  },
+  {
+   "book": "OCO",
+   "page": "645",
+   "note": "'Facti sumus' H|N|1"
+  }
+ ],
+ "options": [
+  {
+   "label": "add TERCE/SEXT/NONE ant1-3",
+   "detail": "new service_part rows TERCE.ant1-3, SEXT.ant1-3, NONE.ant1-3 (schema change, maintenance.md); load on the null psalter epoch with no wkday (every day).",
+   "recommended": true
+  },
+  {
+   "label": "load to MIDDAY.ant1-3 with option_txt",
+   "detail": "option_txt 'Ad Tertiam' / 'Ad Sextam' / 'Ad Nonam' — no new parts."
+  }
+ ],
+ "refs": [
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 6147
+   },
+   "note": "Adiutorium nostrum"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 6303
+   },
+   "note": "Auxilium meum"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 6343
+   },
+   "note": "Beati omnes"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 6425
+   },
+   "note": "Benefac Domine"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 6487
+   },
+   "note": "Clamavi"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 7139
+   },
+   "note": "Facti sumus"
+  }
+ ],
+ "context": [
+  {
+   "label": "Sigla legend",
+   "path": "OCO pp1210-1213"
+  },
+  {
+   "label": "Mapper",
+   "path": "propers-parser/oco/oco_sigla.py"
+  },
+  {
+   "label": "Contract",
+   "path": "propers-parser/oco/specs/README.md"
+  }
+ ],
+ "blocks": [
+  "OCO:idx:oco-code-H-TSN"
+ ],
+ "raised_by": "book-intake director, OCO 2026-10-20"
+}

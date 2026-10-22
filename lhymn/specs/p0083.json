@@ -1,0 +1,27 @@
+{
+ "page": "83",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Tempus paschale I (Usque ad Ascensionem Domini) > AD LAUDES MATUTINAS > hymn Aurora lucis rutilat (H.VIII) running over from p82 (stanzas 2-4 and doxology as text).",
+ "context_out": "Tempus paschale I > AD LAUDES MATUTINAS > Ad libitum in feriis post octavam Paschae hymn Chorus novae Hierusalem (H.I), stanzas 1-3 on p83, runs over p84, ends on p85 (saecula. Amen). AD TERTIAM begins on p85 (H.I Iam surgit hora tertia).",
+ "continues": {"from_page": "82", "incipit": "Aurora lucis rutilat"},
+ "rows": [
+  {
+   "incipit": "Chorus novae Ierusalem",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "PASC-AD_ASC",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkdays": [2,3,4,5,6,7],
+   "option_num": 2,
+   "option_txt": "Ad libitum in feriis post octavam Paschae",
+   "rubric": "Ad libitum in feriis post octavam Paschae"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Chorus novae Hierusalem runs over p84 and ends on p85 (final double bar, Amen). AD TERTIAM on p85 is not this page's."
+ ]
+}

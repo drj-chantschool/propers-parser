@@ -1,0 +1,71 @@
+{
+ "page": "472",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Cecilia: Common only (p471).",
+ "context_out": "Andrew > LAUDS Captator olim piscium complete on p472. p473 begins December.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Captator olim piscium",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "andrew-the-apostle",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS",
+   "index_row_id": 5174
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "clement-i",
+   "common_slug": "COM-MART-UNO",
+   "common_page": 280,
+   "ref_option": 1,
+   "rubric": "De Communi unius martyris, p. 280, vel pastorum, p. 289."
+  },
+  {
+   "lit_epoch_slug": "clement-i",
+   "common_slug": "COM-PAST-UNO-PAPA",
+   "common_page": 289,
+   "ref_option": 2,
+   "rubric": "De Communi unius martyris, p. 280, vel pastorum, p. 289.",
+   "option_txt": "vel pastorum"
+  },
+  {
+   "lit_epoch_slug": "columban",
+   "common_slug": "COM-PAST-UNO-PRESB",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289, vel sanctorum virorum: pro religiosis, p. 324."
+  },
+  {
+   "lit_epoch_slug": "columban",
+   "common_slug": "COM-SANCT-RELIG",
+   "common_page": 324,
+   "ref_option": 2,
+   "rubric": "De Communi pastorum, p. 289, vel sanctorum virorum: pro religiosis, p. 324.",
+   "option_txt": "vel sanctorum virorum: pro religiosis"
+  },
+  {
+   "lit_epoch_slug": "andrew-the-apostle",
+   "common_slug": "COM-APOST",
+   "common_page": 266,
+   "ref_option": 1,
+   "rubric": "De Communi Apostolorum, p. 266, praeter sequentia:",
+   "skip_slots": [
+    "LAUDS.hymn"
+   ]
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Clement I is a pope → COM-PAST-UNO-PAPA for the \"vel pastorum\" option.",
+  "Columban (abbot): the pastors Common has stanza variants only pro papa/episcopo/presbytero; Columban was a priest-abbot → COM-PAST-UNO-PRESB (COM-PAST-UNO alone lacks OFFREAD/LAUDS); OSB copy of Columban was loaded separately from the OSB Proprium."
+ ]
+}

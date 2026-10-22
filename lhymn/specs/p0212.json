@@ -1,0 +1,34 @@
+{
+ "page": "212",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Sunday wk II&IV > OFFREAD opt 2 Salve dies running over from p211.",
+ "context_out": "Sunday wk II&IV > LAUDS Ecce iam noctis (H.IV) begins p212, continues p213.",
+ "continues": {
+  "from_page": "211",
+  "incipit": "Salve dies dierum gloria"
+ },
+ "rows": [
+  {
+   "incipit": "Ecce iam noctis tenuatur umbra",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": null,
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": 1,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS",
+   "index_row_id": 5239,
+   "wknum_mod_2": 0
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Rubric \"Non dicitur Amen in fine.\" closes Salve dies (performance note for the p210 chant; no slot).",
+  "Neume check: 19480 headers cite \"Liber Hymnarius, 1983, p. 212\" (dry-run LH p- display miss); opening e-f-e-de-e matches the engraving."
+ ]
+}

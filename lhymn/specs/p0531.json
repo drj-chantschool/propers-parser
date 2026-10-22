@@ -1,0 +1,12 @@
+{
+ "page": "531",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > HYMNUS TE DEUM > Tonus recentior (H.III) begun p530, running head 'Tonus recentior'. Page opens mid-text at 'Sanctus, Sanctus Dominus Deus Sabaoth'.",
+ "context_out": "RESPONSORIA > HYMNUS TE DEUM > Tonus recentior continues over p532 (running head 'Te Deum'; p532 ends at 'et laudamus nomen tuum in saeculum') and p533 where the final double bar is (per p530 spec). Nothing begins on p531 or p532.",
+ "continues": {"from_page": "530", "incipit": "Te Deum laudamus"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Page is the middle of the Te Deum tonus recentior (Sanctus ... 'non horruisti'); no drop-cap, no rubric, no xref. p532 also pure continuation (Virginis uterum ... in saeculum)."]
+}

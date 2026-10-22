@@ -1,0 +1,8 @@
+{"row_id": 6128, "verdict": "link", "chant_uuid": "gregobase:10872", "chant_group_id": null,
+ "evidence": "p586 L.1 'Ad te de luce * vigilo, Deus. Euouae' 7a CAO 1253, SHORT form; 10872 (Verona, grp 10872) c3 e g h i i, vi(liquescent i) g f, De-us e e, Euouae i i j i h gf matches the engraving's neumes and low cadence; TOC Lauds Sabbato fits 1H7 L 1",
+ "rejected": [{"chant_uuid": "gregobase:13162", "why": "same group but long form (continues 'ut videam'), cadence De(hh)us g not e e"},
+  {"chant_uuid": "gregobase:19644", "why": "long form with alleluia, cadence g"},
+  {"chant_uuid": "gregobase:11116", "why": "long form CAO 1254"},
+  {"chant_uuid": "gregobase:9785", "why": "long form, AM 1934"},
+  {"chant_uuid": "gregobase:5192", "why": "long form, Dominican"}],
+ "assignment": null, "index_fix": null, "question": null}

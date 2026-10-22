@@ -1,0 +1,10 @@
+{"page":"11","page_kind":"assign","jurisdiction":"UNIVERSAL",
+"context_in":"TEMPUS ADVENTUS › II. Post diem 16 decembris › AD INVITATORIUM › Die 24 decembris: end of Hodie scietis (A.E) from p. 10, then its Ps. Venite p. 168 cue (both assigned on p. 10)",
+"context_out":"TEMPUS ADVENTUS › II. Post diem 16 decembris › In Officio dominicali et feriali, a die 17 usque ad I Vesperas Nativitatis exclusive › AD LAUDES MATUTINAS: Magnis prophetae vocibus (H.D) begins on p. 11 (stanza 1 first line), ends on p. 12 (final double bar, stanzas 2-5 + Amen as text). Then AD TERTIAM on p. 12 (Certum tenentes ordinem, H.IV).",
+"continues":{"from_page":"10","incipit":"Hodie scietis quia veniet Dominus (end of antiphon) and its Ps. Venite, p. 168 cue"},
+"rows":[
+{"incipit":"Veni redemptor gentium","kind":"engraved","mode":"II","lit_epoch_slug":"ADV-II","service":"OFFREAD","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD OFFICIUM LECTIONIS (Post diem 16 decembris)"},
+{"incipit":"Magnis prophetae vocibus venire Christum nuntiant","kind":"engraved","mode":"D","lit_epoch_slug":"ADV-II","service":"LAUDS","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD LAUDES MATUTINAS (Post diem 16 decembris)"}
+],
+"common_refs":[],"questions":[],
+"flags":["No melody-substitution rubric on p. 11 or p. 12.","Magnis prophetae runs p. 11 -> p. 12 (final double bar after 'gratia', stanzas 2-5 + Amen as text); read p. 12, nothing follows it before AD TERTIAM.","Rows placed on ADV-II with wkday null per brief (section rule 'a die 17 usque ad I Vesperas Nativitatis exclusive' from p. 9/10)."]}

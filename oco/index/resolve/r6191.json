@@ -1,0 +1,10 @@
+{"row_id": 6191, "verdict": "link", "chant_uuid": "gregobase:16751", "chant_group_id": null,
+ "evidence": "Engraved on p690 (not p689; p689 holds only the solemn tone, ref 'CAO 1356; AM 173 & 178', under 'Antiphonae finales ad Beatam Mariam Virginem'), labelled '[simpl.]', mode 5, C clef, no flat: 'Alma * Redemptoris Mater, quae pervia caeli porta manes, et stella maris, succurre cadenti, surgere qui curat populo; tu quae genuisti, natura mirante, tuum sanctum Genitorem, Virgo prius ac posterius, Gabriele ab ore sumens illud Ave, peccatorum miserere.' Opening neumes low-then-rising (c ef gh, g) with Re-demptoris on a repeated g, matching 16751 'Alma Redemptoris (tonus simplex)' c4 'AL(c!ef!gh)ma(g.) * Red(g)emp(g)to(h)ris(i)'; 16751 is tied to AM 1934 p178, the simple-tone page cited by OCO. Label for director: '[simpl.]', modus 5 -> option_txt 'Tonus simplex (modus 5)'. Solemn tone (r6190, cb3 'AL(d.0f!gwhh...') is different melody.",
+ "rejected": [
+  {"chant_uuid": "gregobase:1851", "why": "Same simple-tone melody (Solesmes 1961, LU p277, own group 1851) with near-identical neumes; not tied to AM, differs only in episema/capitals. Equally valid fallback."},
+  {"chant_uuid": "gregobase:11798", "why": "Same gabc as 1851 (simple tone) but mapped to chant_group 2238, the solemn group - group map looks wrong; do not link"},
+  {"chant_uuid": "gregobase:15264", "why": "Simplex gabc (Dominican/other, source 8 p475) but in solemn group 2238; same melody, not AM-tied"},
+  {"chant_uuid": "gregobase:2238", "why": "solemn tone (cb3), is r6190"}],
+ "assignment": null,
+ "index_fix": {"column": "page", "from": "689", "to": "690", "why": "p689 shows only the solemn Alma Redemptoris (ends at 'et'); the '[simpl.]' simple-tone engraving starts on p690"},
+ "question": null}

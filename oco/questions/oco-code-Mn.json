@@ -1,0 +1,114 @@
+{
+ "pipeline": "book-batch",
+ "book": "OCO",
+ "category": "modeling",
+ "topic_key": "oco-code-Mn",
+ "priority": 3,
+ "title": "OCO index place code M1 / M2 / M3 (Vespers)",
+ "prompt": "Vespers counterpart of B1/B2/B3, same dates (16/10, 9/10, 12/5, 25/5 …), sometimes with TP / TpA. 33 index row(s). Examples: #2525 'Qui sequitur me' 12/5|V|M2TpA p215; #1600 'Hic est vere martyr... alleluia.' 12/5|V|M2TP p1062; #2695 'Sancti mei' 12/5|V|M1TpA p1027; #2884 'Stabunt iusti' 12/5|V|M1TP p1045; #1455 'Exsultavit cor... et exaltatum' 16/10|V|M2 p1146; #2064 'Mensuram bonam' 16/10|V|M1 p1159. Legend OCO pp1210-1213 does not define this code. Rows with it are held: the mapper (oco/oco_sigla.py) gives no lit_part_sources target, so identity can load but the assignment waits. Answer = what the code means and where the chant goes (service.part, epoch, option_txt). Carry-out: add the rule to oco_sigla.py, re-run oco/load_oco_lps.py, record it in oco/specs/README.md 'User rulings'.",
+ "pages": [
+  {
+   "book": "OCO",
+   "page": "215",
+   "note": "'Qui sequitur me' 12/5|V|M2TpA"
+  },
+  {
+   "book": "OCO",
+   "page": "1062",
+   "note": "'Hic est vere martyr... alleluia.' 12/5|V|M2TP"
+  },
+  {
+   "book": "OCO",
+   "page": "1027",
+   "note": "'Sancti mei' 12/5|V|M1TpA"
+  },
+  {
+   "book": "OCO",
+   "page": "1045",
+   "note": "'Stabunt iusti' 12/5|V|M1TP"
+  },
+  {
+   "book": "OCO",
+   "page": "1146",
+   "note": "'Exsultavit cor... et exaltatum' 16/10|V|M2"
+  },
+  {
+   "book": "OCO",
+   "page": "1159",
+   "note": "'Mensuram bonam' 16/10|V|M1"
+  }
+ ],
+ "options": [
+  {
+   "label": "n-th saint of the date",
+   "detail": "M1 = Magnificat antiphon of the first saint of the date, M2 of the second …; LPS → VESPERS.antM on that saint's epoch.",
+   "recommended": true
+  },
+  {
+   "label": "alternative antiphons",
+   "detail": "two alternatives for the same office → VESPERS.antM options 1/2."
+  }
+ ],
+ "refs": [
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 8187
+   },
+   "note": "Qui sequitur me"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 7262
+   },
+   "note": "Hic est vere martyr... alleluia."
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 8357
+   },
+   "note": "Sancti mei"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 8546
+   },
+   "note": "Stabunt iusti"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 7117
+   },
+   "note": "Exsultavit cor... et exaltatum"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 7726
+   },
+   "note": "Mensuram bonam"
+  }
+ ],
+ "context": [
+  {
+   "label": "Sigla legend",
+   "path": "OCO pp1210-1213"
+  },
+  {
+   "label": "Mapper",
+   "path": "propers-parser/oco/oco_sigla.py"
+  },
+  {
+   "label": "Contract",
+   "path": "propers-parser/oco/specs/README.md"
+  }
+ ],
+ "blocks": [
+  "OCO:idx:oco-code-Mn"
+ ],
+ "raised_by": "book-intake director, OCO 2026-10-20"
+}

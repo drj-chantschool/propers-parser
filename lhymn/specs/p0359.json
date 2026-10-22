@@ -1,0 +1,17 @@
+{
+ "page": "359",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Die 19 martii S. Ioseph (st-joseph) > AD LAUDES MATUTINAS > Caelitum, Ioseph, decus (H.I) running over from p358.",
+ "context_out": "S. Ioseph > AD LAUDES MATUTINAS > Caelitum, Ioseph, decus ends on p359 (stanzas 2 end-5, Amen, final double bar). Nothing else on p359.",
+ "continues": {
+  "from_page": "358",
+  "incipit": "Caelitum Ioseph decus"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "p359 holds only stanzas 2 end to 5 and Amen of Caelitum, Ioseph, decus; no drop-cap, no rubric. Written by the director from the rendered page."
+ ]
+}

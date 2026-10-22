@@ -1,0 +1,17 @@
+{
+  "page": "253",
+  "page_kind": "assign",
+  "jurisdiction": "UNIVERSAL",
+  "context_in": "Communia Sanctorum › (p. 252 ended Commune Dedicationis ecclesiae) › title COMMUNE BEATAE MARIAE VIRGINIS printed at top of p. 253 › AD I VESPERAS.",
+  "context_out": "Commune BMV › AD I VESPERAS: hymn Maria quae mortalium (H.II, stanzas 1-6 + doxology, Amen) runs over onto p. 254 and ends there at its final double bar; p. 254 then opens AD INVITATORIUM (Christum Mariae Filium, A.V, Ps. Venite p. 146), which begins on p. 254.",
+  "continues": null,
+  "rows": [
+    {"incipit": "Maria quae mortalium", "kind": "engraved", "mode": "II",
+     "lit_epoch_slug": "COM-BMV", "service": "VESPERS1", "part": "hymn",
+     "wkday": null, "option_num": 1, "option_txt": null,
+     "rubric": "AD I VESPERAS"}
+  ],
+  "common_refs": [],
+  "questions": [],
+  "flags": ["Heading is 'AD I VESPERAS' only (no 'et II'), so only a VESPERS1 row; II Vespers hymn presumably printed later (not on p253).", "Hymn spans pp. 253-254 (read p254: ends with Amen at double bar). Invitatory Christum Mariae Filium begins p254, not assigned here.", "No melody-substitution rubric on p253."]
+}

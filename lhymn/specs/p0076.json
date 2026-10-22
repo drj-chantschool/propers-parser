@@ -1,0 +1,28 @@
+{
+ "page": "76",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Tempus paschale > I. Usque ad Ascensionem Domini > AD VESPERAS; hymn Ad cenam Agni providi ended on p75. No new hour heading on p76.",
+ "context_out": "Tempus paschale I > AD VESPERAS > Ad libitum in feriis post octavam Paschae hymn O rex aeterne Domine (H.IV), stanzas 1-4 on p76, ends with Amen at bottom of p77 (7 stanzas + doxology). AD COMPLETORIUM begins on p77 (H.I Iesu redemptor saeculi).",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "O rex aeterne Domine",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "PASC-AD_ASC",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkdays": [2,3,4,5,6,7],
+   "option_num": 2,
+   "option_txt": "Ad libitum in feriis post octavam Paschae",
+   "rubric": "Ad libitum in feriis post octavam Paschae"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "No hour heading printed on p76; the Ad libitum hymn follows Ad cenam Agni (AD VESPERAS, p74-75), so it is modeled as VESPERS.hymn option 2 per director instruction. PASC-AD_ASC only (post-octave), ferias 2-7.",
+  "Hymn runs onto p77 (stanzas 4 end-7, doxology, Amen); p77 producer should list it in continues. AD COMPLETORIUM on p77 is not this page's."
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "page": "222",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Weekdays wk II&IV > NONE In feriis Ternis horarum running over from p221.",
+ "context_out": "End of the weeks II&IV Middle Hour; p223 continues Monday.",
+ "continues": {
+  "from_page": "221",
+  "incipit": "Ternis horarum terminis"
+ },
+ "rows": [
+  {
+   "incipit": "Ternis horarum terminis",
+   "kind": "engraved",
+   "mode": "VIII",
+   "option_num": 1,
+   "option_txt": "In memoriis",
+   "rubric": "AD NONE. In memoriis",
+   "index_row_id": 5504,
+   "lit_epoch_slug": "OT-OT",
+   "service": "NONE",
+   "part": "hymn",
+   "wkday": null,
+   "wknum_mod_2": 0,
+   "rank_codes": [
+    "MEMORIAL",
+    "OPTIONAL_MEMORIAL"
+   ]
+  },
+  {
+   "incipit": "Rerum Deus tenax vigor",
+   "kind": "xref",
+   "ref_page": 194,
+   "mode": null,
+   "option_num": 2,
+   "option_txt": "Vel ad libitum",
+   "rubric": "Vel ad libitum hymnus Rerum ..., p. 194 [In memoriis tone]",
+   "index_row_id": 5442,
+   "lit_epoch_slug": "OT-OT",
+   "service": "NONE",
+   "part": "hymn",
+   "wkday": null,
+   "wknum_mod_2": 0,
+   "rank_codes": [
+    "MEMORIAL",
+    "OPTIONAL_MEMORIAL"
+   ]
+  },
+  {
+   "incipit": "Ternis horarum terminis",
+   "kind": "engraved",
+   "mode": "VIII",
+   "option_num": 1,
+   "option_txt": "In festis",
+   "rubric": "AD NONE. In festis",
+   "index_row_id": 5505,
+   "lit_epoch_slug": "OT-OT",
+   "service": "NONE",
+   "part": "hymn",
+   "wkday": null,
+   "wknum_mod_2": 0,
+   "rank_codes": [
+    "FEAST",
+    "FEAST_OF_THE_LORD"
+   ]
+  },
+  {
+   "incipit": "Rerum Deus tenax vigor",
+   "kind": "xref",
+   "ref_page": 194,
+   "mode": null,
+   "option_num": 2,
+   "option_txt": "Vel ad libitum",
+   "rubric": "Vel ad libitum hymnus Rerum ..., p. 194 [In festis tone]",
+   "index_row_id": 5443,
+   "lit_epoch_slug": "OT-OT",
+   "service": "NONE",
+   "part": "hymn",
+   "wkday": null,
+   "wknum_mod_2": 0,
+   "rank_codes": [
+    "FEAST",
+    "FEAST_OF_THE_LORD"
+   ]
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Ad-lib Rerum Deus modeled per tier per user ruling 2026-10-17.",
+  "User ruling 2026-10-17b: all Ordinary Time Middle Hour hymns → lit_epoch_slug OT-OT with rank set (SUNDAY / WEEKDAY / MEMORIAL+OPTIONAL_MEMORIAL / FEAST+FEAST_OF_THE_LORD / SOLEMNITY), no wkday; per tier 4 rows: wknum_mod_2=1 → opt1 weeks I&III text, opt2 II&IV text; wknum_mod_2=0 → the reverse; each in the tier's tone. Printed \"tonus ut supra/infra\" pointers are subsumed by the engraved row of the same slot."
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "page": "603",
+ "page_kind": "continuation_only",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum > Pro monasterio S. Petri de Solesmis > S. Iuliani (julian-of-le-mans-osb) > AD VESPERAS > Lux tibi currit (H.I) running over from p602.",
+ "context_out": "Pro monasterio S. Petri de Solesmis > S. Iuliani > Lux tibi currit ends on p603 (stanza 1 end, text stanzas 2-6 with doxology Summa laus Patri, Amen); a horizontal rule follows and the rest of the page is blank.",
+ "continues": {
+  "from_page": "602",
+  "incipit": "Lux tibi currit"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "p603 holds only the end of Lux tibi currit (no drop-cap, no rubric), then a closing rule. Written by the director from the rendered page."
+ ]
+}

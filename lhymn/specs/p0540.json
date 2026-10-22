@@ -1,0 +1,21 @@
+{
+ "page": "540",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Commune ss. monachorum & monialium (COM-MON) > AD LAUDES hymn Salvete cedri Libani ended on p539.",
+ "context_out": "Proprium monasticum O.S.B. > COM-MON > AD VESPERAS > Fratres corona caelica (H.VIII) runs over from stanza 5 to p541, ending at the final Amen (no vel line). Below it on p541 the Sanctorale begins: Die 2 ianuarii, SS. Basilii Magni & Gregorii Nazianzeni (Memoria), De Communi pastorum p. 289 vel doctorum Ecclesiae p. 301, praeter hymnum sequentem (hymn on p542).",
+ "continues": null,
+ "rows": [
+  {"incipit": "Fratres corona caelica", "kind": "engraved", "mode": "VIII",
+   "lit_epoch_slug": "COM-MON", "service": "VESPERS", "part": "hymn",
+   "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "AD VESPERAS"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Heading is plain AD VESPERAS (not AD I ET II), so only a VESPERS row; no VESPERS1.",
+  "Hymn runs stanza 5 onward on p541 (read); ends at final Amen, no vel/Ad libitum line, no pro monialibus alternative on pp540-541.",
+  "p541 foot starts the Sanctorale (2 Jan Basil & Gregory Nazianzen); belongs to p541's producer."
+ ]
+}

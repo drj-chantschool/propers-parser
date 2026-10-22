@@ -1,0 +1,12 @@
+{
+ "page": "59",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "TQ-HOLYWEEK (II. HEBDOMADA SANCTA; 'A I Vesperis dominicae in Palmis de Passione Domini usque ad Nonam feriae V Hebdomadae sanctae inclusive') > AD VESPERAS: Vexilla regis prodeunt (H.I) begun at foot of p58.",
+ "context_out": "Same. Vexilla regis continues through stanzas 2-5 on p59 and ends on p60 (stanzas 6-7 + Amen); p60 then has an engraved 'Vel ad libitum, secundum veterem editionem vaticanam:' Vexilla regis (H.I), assigned by p60.",
+ "continues": {"from_page": "58", "incipit": "Vexilla regis prodeunt"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Whole page is stanzas 2-5 of Vexilla regis (tibulo; 2. Quo vulneratus ... 5. Salve, ara ... et mor-); no drop-cap, no rubric, nothing begins here."]
+}

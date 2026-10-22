@@ -1,0 +1,14 @@
+{
+ "page": "336",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "OFFICIUM DEFUNCTORUM > AD VESPERAS: hymn Immensae rex potentiae (H.II), st. 1-5 on p334-335; st. 6 variants follow.",
+ "context_out": "OFFICIUM DEFUNCTORUM ends here (final double bar after Pro pluribus Amen). Next page p337 is the title page PROPRIUM DE SANCTIS.",
+ "continues": {"from_page": "334", "incipit": "Immensae rex potentiae"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Page holds only the st. 6 variants of Immensae rex potentiae (Pro uno defuncto: Tuumque voca famulum; Pro una defuncta: Tuamque voca famulam; Pro pluribus: Fratres et omnes advoca), each with Amen. Chant began on p334; covered by p334's question. No new chant, no rubric other than the three Pro ... labels."
+ ]
+}

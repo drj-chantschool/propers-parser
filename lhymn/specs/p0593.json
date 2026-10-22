@@ -1,0 +1,23 @@
+{
+ "page": "593",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Mense septembris > Die 3 septembris S. Gregorii Magni, Festum > De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301, praeter sequentia:",
+ "context_out": "Mense septembris > Die 3 septembris S. Gregorii Magni > AD LAUDES MATUTINAS xref p. 427 (last item). Vespers hymn Sol mundo fundens begins on p594.",
+ "continues": null,
+ "rows": [
+  {"incipit": "Doctor insignis venerande praesul", "kind": "engraved", "mode": "VIII", "lit_epoch_slug": "gregory-the-great", "service": "VIGILIAE", "part": "hymn", "wkday": null,
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301, praeter sequentia: AD VIGILIAS"},
+  {"incipit": "Anglorum iam apostolus", "kind": "xref", "ref_page": 427, "lit_epoch_slug": "gregory-the-great", "service": "LAUDS", "part": "hymn", "wkday": null,
+   "rubric": "AD LAUDES MATUTINAS: Hymnus Anglorum iam apostolus, p. 427."}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "common_refs for gregory-the-great are on p592 (skip_slots VIGILIAE.hymn, LAUDS.hymn); not repeated.",
+  "Heading 'praeter sequentia' (no ad libitum) = plain replace; no after_common.",
+  "Rank: p592 printed Festum vs universal MEMORIAL; DIRECTOR OSB rank-override row already flagged on p592.",
+  "Neume check done (LH p- ties): 20241 GABC (c4 ghg e f g g, h f h j ih, g. cadence) matches the p593 engraving; 20223 GABC (f ffe d e g gh f e) matches the p427 engraving. Index rows 5233/5142 on p593/p427.",
+  "Ad Vesperas hymn Sol mundo fundens radios (H.IV) is printed on p594 and belongs to the p594 spec."
+ ]
+}

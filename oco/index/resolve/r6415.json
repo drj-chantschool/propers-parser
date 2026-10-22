@@ -1,0 +1,4 @@
+{"row_id": 6415, "verdict": "link", "chant_uuid": "gregobase:11065", "chant_group_id": null,
+ "evidence": "p645 Feria V Off. lect. no.2 'Benedictus * Dominus in aeternum. Euouae' m6f, ref Ps 88,53; CAO 1721; PM 207. Engraved f g h f | g fe d f g g f ; Euouae h h f gh g f. 11065 (Verona) 'Be(f)ne(g)di(h)ctus(f) Do(g)mi(fe)nus(d) in(f) ae(g)ter(g)num(f)' with single-note 'di' (h), Euouae identical. 18537 (Cistercian 1955, group 1969) has 'dic(gh) tus(gf)' and 'nus(dc)', not engraved.",
+ "rejected": [{"chant_uuid": "gregobase:18537", "why": "Cistercian 1955: di-c gh and tus gf (two-note groups) and nus dc, engraving has single notes there; other group 1969 members (9129, 1969, 9967, 10368, 12989) have the long text 'Deus meus' / 'susceptor meus', so group verdict not applicable"}],
+ "assignment": null, "index_fix": null, "question": null}

@@ -1,0 +1,3 @@
+{"row_id": 5793, "verdict": "option", "option_txt": "Quando officium dicitur noctu vel summo mane",
+ "evidence": "p618 (Feria VI, Off. lect. H): rubric 'Quando officium dicitur noctu vel summo mane: Galli cantu (LHym 234)' followed by 'Quando officium dicitur diurno tempore: Adesto rerum conditor (LHym 235)'. Galli cantu is the night/early-morning alternative; the other is the day alternative (presumably option 1 gregobase:16749 = Adesto; director should confirm which is opt 1 and give it the 'diurno tempore' txt if its option_txt is empty).",
+ "question": null}

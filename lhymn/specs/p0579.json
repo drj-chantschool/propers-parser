@@ -1,0 +1,49 @@
+{
+ "page": "579",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense iulii > (p578 ended with Die 19 iunii S. Romualdi, De Communi sanctorum monachorum p. 537; nothing carried over).",
+ "continues": null,
+ "context_out": "Die 9 iulii B.M.V. Matris Providentiae (C.S., Memoria) > AD LAUDES MATUTINAS hymn Virgo Dei Genetrix runs over to p580 (stanza 4 and Amen), then p580 prints AD VESPERAS 'Hymnus O quam glorifica, p. 420', then Die 11 iulii S. Benedicti.",
+ "rows": [
+  {
+   "incipit": "Virgo Dei Genetrix",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "bmv-mater-providentiae-osb",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "De Communi B. Mariae Virginis, p. 253, praeter sequentia: AD LAUDES MATUTINAS",
+   "verified_despite": [
+    "GABC text starts"
+   ],
+   "notes": "C.S. (Solesmes congregation only). Hymn ends on p580 (stanza 4, Amen)."
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "bmv-mater-providentiae-osb",
+   "common_slug": "COM-BMV",
+   "common_page": 253,
+   "ref_option": 1,
+   "rubric": "De Communi B. Mariae Virginis, p. 253, praeter sequentia:",
+   "skip_slots": [
+    "VESPERS.hymn"
+   ]
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "C.S. beside title scopes this entry to the Solesmes congregation only.",
+  "verified_despite: GABC spells Genitrix vs printed Genetrix (spelling only); mode II, hy, words match; no LH page tie in gregobase but index row 5530 is on p579.",
+  "Index row 5530 lists Virgo Dei genetrix on p579 as resolved_with_difficulty (gregobase:3320); verify the dry-run identity.",
+  "p580 prints AD VESPERAS 'Hymnus O quam glorifica, p. 420' for this memoria; it is a new heading printed on p580, so left to the p580 producer (not a vel/ad libitum line).",
+  "Memoria rank is the printed marker; the memorial's rank_code will come from the new epoch.",
+  "No Ad Vigilias printed on this page.",
+  "Director: created OSB epoch bmv-mater-providentiae-osb (9 July, C.S., MEMORIAL, common_of COM-BMV). Accepted 3320 (mode 2, source 10 p181) despite no LH tie: it is the only mode-II candidate (16742/18440 are a different mode-1 melody), and its text differs from the page only in the spelling 'Genitrix' vs 'Genetrix'.",
+  "Director: skip_slots set on common_refs for slots this saint fills with propers on other pages (derived from the specs)."
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "page": "210",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Sunday wk II&IV > OFFREAD opt 1 Mediae noctis running over from p209.",
+ "context_out": "Sunday wk II&IV > OFFREAD opt 2 Salve dies (VII) begins p210, continues p211.",
+ "continues": {
+  "from_page": "209",
+  "incipit": "Mediae noctis tempus est"
+ },
+ "rows": [
+  {
+   "incipit": "Salve dies dierum gloria",
+   "kind": "engraved",
+   "mode": "VII",
+   "lit_epoch_slug": null,
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": 1,
+   "option_num": 2,
+   "option_txt": "Quando Officium lectionis dicitur diurno tempore",
+   "rubric": "II. Quando Officium lectionis dicitur diurno tempore:",
+   "index_row_id": 5453,
+   "wknum_mod_2": 0
+  },
+  {
+   "incipit": "Dies aetasque ceteris",
+   "kind": "xref",
+   "ref_page": 183,
+   "mode": null,
+   "lit_epoch_slug": null,
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": 1,
+   "option_num": 3,
+   "option_txt": "Quando Officium lectionis dicitur diurno tempore (loco Salve dies)",
+   "rubric": "(Loco sequentis, dici potest hymnus Dies aetasque, p. 183)",
+   "wknum_mod_2": 0,
+   "index_row_id": 5228
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "\"Loco sequentis\" alternative to the diurnal hymn Salve dies modeled as OFFREAD opt 3 xref → p183 Dies aetasque, option_txt marks it as a substitute for opt 2."
+ ]
+}

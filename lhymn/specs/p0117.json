@@ -1,0 +1,15 @@
+{
+ "page": "117",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Sollemnitates Domini per annum > (p116: Corpus Christi Lauds hymn finished). New section: Feria VI post dominicam II post Pentecosten, SACRATISSIMI CORDIS IESU (Sollemnitas) = OT-FOL-00-3.",
+ "context_out": "Sacratissimi Cordis Iesu > AD I ET II VESPERAS > Auctor beate saeculi (H.I) stanzas 1-4 on p117, runs over onto p118 (stanzas 4 end-6, Amen, final double bar on p118; no vel/ad libitum line follows). Then AD INVITATORIUM Cor Iesu amore nostri (p118, its own drop-cap).",
+ "continues": null,
+ "rows": [
+  {"incipit": "Auctor beate saeculi", "kind": "engraved", "mode": "I", "lit_epoch_slug": "OT-FOL-00-3", "service": "VESPERS1", "part": "hymn", "wkday": null, "option_num": 1, "option_txt": null, "verified_despite": ["GABC text starts"], "rubric": "Feria VI post dominicam II post Pentecosten. SACRATISSIMI CORDIS IESU. Sollemnitas. AD I ET II VESPERAS"},
+  {"incipit": "Auctor beate saeculi", "kind": "engraved", "mode": "I", "lit_epoch_slug": "OT-FOL-00-3", "service": "VESPERS", "part": "hymn", "wkday": null, "option_num": 1, "option_txt": null, "verified_despite": ["GABC text starts"], "rubric": "Feria VI post dominicam II post Pentecosten. SACRATISSIMI CORDIS IESU. Sollemnitas. AD I ET II VESPERAS"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["verified_despite: gregobase 10383 CHECK is only the GABC drop-cap markup (AUctor); text, mode I, hy and LH p117 tie all match. ", "Hymn runs over to p118 (stanzas 4-6, Amen); p118 also holds the Cor Iesu invitatory (assigned by p118's producer)."]
+}

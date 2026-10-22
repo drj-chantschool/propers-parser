@@ -1,0 +1,28 @@
+{
+ "row_id": 6431,
+ "verdict": "link",
+ "chant_uuid": "gregobase:11113",
+ "chant_group_id": null,
+ "evidence": "p552 (Dominica I, Hor. med. Tertia) 'Bonum est sperare in Domino quam sperare in principibus.' 8g, ref 'Ps 117,9; CAO 1745; AM 372'. Engraving: BO f, num fg, est g, spe g ra h re g, in ge~, Do fgh mi fe no d | quam f spe gh ra h re g-hji-jkj | in hf~ (liquescent) prin hh ci g pi fg bus g || Euouae j j i j h g. 17986 (AM 1934 p372, cantus 001745) matches note for note incl. 'in' hf~ and 'prin hh / pi fg'; only its Euouae ends 'ghg' vs a single g engraved (minor). Group 7090 members differ so a group verdict is not valid: 13252 and 7090 have 'cipibus g g' (no fg), 7090 also has 'in' h without hf~ and no Euouae. DIRECTOR: engraving Euouae ends on a single g (j j i j h g); 17986 ends e.(ghg), 11113 (Verona) ends e.(g) and matches every syllable (prin hh, pi fg, in hf~) -> link 11113 (AM 372 cited, but the engraving follows the Verona termination).",
+ "rejected": [
+  {
+   "chant_uuid": "gregobase:13252",
+   "why": "Solesmes LA 1960; 'prin h ci g pi g bus g' (engraving has pi fg)"
+  },
+  {
+   "chant_uuid": "gregobase:7090",
+   "why": "Dominican; 'in' h (no hf~), 'pi g'"
+  },
+  {
+   "chant_uuid": "gregobase:15042",
+   "why": "Solesmes with tied sources 17/59, not the cited AM 372; same neumes as 11113 variant, not cited"
+  },
+  {
+   "chant_uuid": "gregobase:17986",
+   "why": "AM 1934 p372 (cited): Euouae last syllable ghg, engraving single g (director)"
+  }
+ ],
+ "assignment": null,
+ "index_fix": null,
+ "question": null
+}

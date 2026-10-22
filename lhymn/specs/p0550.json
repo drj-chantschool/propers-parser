@@ -1,0 +1,19 @@
+{
+ "page": "550",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense februarii > Die 10 februarii S. Scholasticae, virginis (Festum), De Communi virginum p. 305 praeter sequentia > AD VIGILIAS hymn Hymnis angelicis ended on p549.",
+ "context_out": "Same > AD LAUDES MATUTINAS hymn Quae flos amoenus (H.III), stanzas 1-5 here, stanza 5 'Columba' runs onto p551 (stanza 6, Amen). Then AD VESPERAS (Te, beata sponsa Christi, H.II) begins on p551.",
+ "continues": null,
+ "rows": [
+  {"incipit": "Quae flos amoenus", "kind": "engraved", "mode": "III", "lit_epoch_slug": "st-scholastica", "service": "LAUDS", "part": "hymn", "wkday": null, "option_num": 1, "option_txt": null, "allow_unresolved": true,
+   "rubric": "AD LAUDES MATUTINAS (under De Communi virginum, p. 305, praeter sequentia:)"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "allow_unresolved: LH index row 5410 'Quae flos amoenus' m3 (Novus, OSB) is match_status unmatched with no chant_uuid, and gregobase has no chant with this incipit (searched amoen/amoe/Scholastica); chant is engraved on p550 (verified visually).",
+  "Hymn runs onto p551 (stanza 6 and Amen; read p551). Nothing follows it before AD VESPERAS (p551, not assigned here).",
+  "Rank: printed OSB rank 'Festum' vs universal MEMORIAL for st-scholastica is the rank-override question already open on p548; not repeated."
+ ]
+}

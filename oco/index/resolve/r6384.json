@@ -1,0 +1,4 @@
+{"row_id": 6384, "verdict": "link", "chant_uuid": "gregobase:11077", "chant_group_id": null,
+ "evidence": "p661 Feria II Ol ant2: 'Benedicam Domino * qui mihi tribuit intellectum. E u o u a e' mode 2d, CAO 1687; gregobase 11077 (Verona, m2, f3 clef) same text incl. short form, gabc contour f fc e f | h g f * e f g h g fe f h g f, euouae h h h g ef f matches engraving (high Do-mi-no after rise, low-note after asterisk, 3 equal-pitch EUOUAE). Only chant with this text/mode; own group 11077; no sources recorded. Other 'Benedicam Dominum' chants are different text (modes 1,6,7).",
+ "rejected": [{"chant_uuid": "gregobase:143", "why": "'Benedicam Dominum, qui mihi tribuit intellectum' is the mode-1 offertory (Ps 15), different melody/mode"}],
+ "assignment": null, "index_fix": null, "question": null}

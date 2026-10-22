@@ -1,0 +1,30 @@
+{
+ "page": "120",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Sacratissimi Cordis Iesu (OT-FOL-00-3) > AD OFFICIUM LECTIONIS > Cor, arca legem continens running over from p119.",
+ "context_out": "Sacratissimi Cordis Iesu > AD LAUDES MATUTINAS > Iesu, auctor clementiae (H.III) stanzas 1-2 begin on p120 and run over to p121.",
+ "continues": {
+  "from_page": "119",
+  "incipit": "Cor arca legem continens"
+ },
+ "rows": [
+  {
+   "incipit": "Iesu auctor clementiae",
+   "kind": "engraved",
+   "mode": "III",
+   "lit_epoch_slug": "OT-FOL-00-3",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page. Cor arca legem ends on p120 (stanzas 5 end-6, Amen); no row."
+ ]
+}

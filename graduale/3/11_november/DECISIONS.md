@@ -140,7 +140,7 @@ not apply here. The target formulary `missa-pro-defunctis` is already loaded sep
 GR chapter 5).
 
 **Minor flag, no action taken.** There is **no spec file** for this row —
-`propers-parser/specs/all-souls-day.json` does not exist, so the row cannot be re-verified with the
+`propers-parser/graduale/specs/all-souls-day.json` does not exist, so the row cannot be re-verified with the
 loader and cannot be idempotently reloaded. Every other November slug has one. Worth creating for
 consistency, but I did not invent a spec for a row I did not author.
 

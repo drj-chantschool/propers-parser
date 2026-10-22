@@ -1,0 +1,31 @@
+{
+ "page": "320",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "COM-SANCT-MULIER > AD OFFICIUM LECTIONIS > Pro pluribus sanctis mulieribus: Hae feminae laudabiles (H.II, began p319) runs over, stanzas 2-4 and Amen at top of p320.",
+ "context_out": "COM-SANCT-MULIER > AD LAUDES MATUTINAS > Pro una sancta muliere: Nobilem Christi famulam (H.II) begins p320, stanzas 2-3 on p320, 3-4 and Amen on p321; then 'Pro pluribus sanctis mulieribus' Nobiles Christi famulas (H.II) begins p321.",
+ "continues": {
+  "from_page": "319",
+  "incipit": "Hae feminae laudabiles"
+ },
+ "rows": [
+  {
+   "lit_epoch_slug": "COM-SANCT-MULIER-UNA",
+   "wkday": null,
+   "incipit": "Nobilem Christi famulam",
+   "kind": "engraved",
+   "mode": "II",
+   "service": "LAUDS",
+   "part": "hymn",
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS. Pro una sancta muliere"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Nobilem Christi famulam runs over to p321 (stanzas 3-4 as text under notation, ends Amen); nothing vel/ad libitum follows on p321. The 'Pro pluribus' Lauds hymn Nobiles Christi famulas begins on p321 (its page's row).",
+  "Director, user rulings 2026-10-15: row 1 'Pro una sancta muliere' → COM-SANCT-MULIER-UNA"
+ ]
+}

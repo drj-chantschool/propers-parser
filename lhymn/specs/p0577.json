@@ -1,0 +1,14 @@
+{
+ "page": "577",
+ "page_kind": "continuation_only",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense iunii > Die 5 iunii S. Bonifatii (Memoria) > De Communi unius martyris p. 280 vel pastorum p. 289, praeter sequentia > AD VIGILIAS > Ad libitum pro Congregatione solesmensi: hymn Praesulis exsultans (begun p576) continues at stanza 3 end.",
+ "continues": {"from_page": "576", "incipit": "Praesulis exsultans"},
+ "context_out": "Same: Praesulis exsultans ends on p577 with Amen; nothing printed after it. Next page p578 opens AD LAUDES MATUTINAS ET AD VESPERAS (hymn Sint tibi laudis, H.VIII, begins p578).",
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "p577 holds only stanzas 4-7, doxology and Amen of Praesulis exsultans (begun p576); no chant begins here. Boniface common_refs are on p576. Lauds/Vespers hymn Sint tibi laudis starts on p578."
+ ]
+}

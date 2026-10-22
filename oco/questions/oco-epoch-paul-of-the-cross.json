@@ -1,0 +1,63 @@
+{
+ "pipeline": "book-batch",
+ "book": "OCO",
+ "category": "structural",
+ "topic_key": "oco-epoch-paul-of-the-cross",
+ "priority": 3,
+ "title": "No lit_epoch for S. Paulus a Cruce (19 Oct) — OCO assigns him antiphons",
+ "prompt": "OCO's TOC has 'Die 19: Ss. Ioannis de Brebeuf, Isaac Jogues et sociorum' and 'Vel: S. Pauli a Cruce' (p918). proper_of_saints (UNIVERSAL) has only john-de-brebeuf-isaac-jogues-and-companions on 19/10, so Paul of the Cross's rows (index 19/10 B2 'Nos autem gloriari' p879, M2 'Mihi vivere' p223) have no slug. Create the epoch (slug 'paul-of-the-cross', optional memorial, 19 Oct, UNIVERSAL) or keep these rows unassigned? Carry-out: insert proper_of_saints + lit_epoch, re-run oco/load_oco_lps.py.",
+ "pages": [
+  {
+   "book": "OCO",
+   "page": "918",
+   "note": "TOC Vel: S. Pauli a Cruce"
+  },
+  {
+   "book": "OCO",
+   "page": "879",
+   "note": "B2 Nos autem gloriari"
+  },
+  {
+   "book": "OCO",
+   "page": "223",
+   "note": "M2 Mihi vivere"
+  }
+ ],
+ "options": [
+  {
+   "label": "Create the epoch",
+   "detail": "paul-of-the-cross, OPTIONAL_MEMORIAL, 19/10, UNIVERSAL (Roman Calendar)",
+   "recommended": true
+  },
+  {
+   "label": "Leave unassigned",
+   "detail": "identity loads, no lit_part_sources rows"
+  }
+ ],
+ "refs": [
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 7889
+   },
+   "note": "Nos autem gloriari"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 7734
+   },
+   "note": "Mihi vivere"
+  }
+ ],
+ "context": [
+  {
+   "label": "TOC matcher",
+   "path": "propers-parser/oco/oco_toc.py"
+  }
+ ],
+ "blocks": [
+  "OCO:idx:19/10"
+ ],
+ "raised_by": "book-intake director, OCO 2026-10-20"
+}

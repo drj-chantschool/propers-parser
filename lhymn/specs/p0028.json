@@ -1,0 +1,9 @@
+{"page":"28","page_kind":"assign","jurisdiction":"UNIVERSAL",
+"context_in":"TEMPUS NATIVITATIS > Dominica infra octavam Nativitatis, SANCTAE FAMILIAE (NAT-IO-01-0) > after AD INVITATORIUM (p27). No chant continues from p27.",
+"context_out":"Sanctae Familiae (NAT-IO-01-0) > AD OFFICIUM LECTIONIS: Dulce fit nobis memorare (H.VIII), stanzas 1-4 on p28, stanza 5 + Amen on p29; no vel/noctu/interdiu alternative. Then on p29: AD LAUDES MATUTINAS begins with Christe splendor Patris (H.VIII), runs over to p30 (assigned on p29).",
+"continues":null,
+"rows":[
+{"incipit":"Dulce fit nobis memorare","kind":"engraved","mode":"VIII","lit_epoch_slug":"NAT-IO-01-0","service":"OFFREAD","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD OFFICIUM LECTIONIS"}
+],
+"common_refs":[],"questions":[],
+"flags":["Hymn runs onto p29 (stanza 5 + doxology Amen), read p29; no vel/Ad libitum/noctu-interdiu alternative and no melody-substitution rubric. Lauds hymn Christe splendor Patris begins on p29."]}

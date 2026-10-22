@@ -1,0 +1,26 @@
+{
+ "page": "367",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "S. Marci > AD LAUDES ET AD VESPERAS > Mentibus laetis (H.VIII) running over from p366.",
+ "context_out": "Die 28 aprilis S. Petri Chanel, presbyteri & martyris > De Communi unius martyris, p. 280. No chant runs over.",
+ "continues": {
+  "from_page": "366",
+  "incipit": "Mentibus laetis"
+ },
+ "rows": [],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "peter-chanel",
+   "common_slug": "COM-MART-UNO",
+   "common_page": 280,
+   "ref_option": 1,
+   "rubric": "De Communi unius martyris, p. 280."
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Mentibus laetis ends on p367 (Amen); no row. Peter Chanel chosen by printed title (louis-de-montfort also 28 Apr, not printed here)."
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "page": "380",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Sanctorale > Mense iunii; Ephrem p379.",
+ "context_out": "Die 11 iunii S. Barnabae > LAUDS+VESPERS Barnabae clarum (H.VIII) begins p380, continues p381.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "O vir beate Apostolis",
+   "kind": "xref",
+   "mode": null,
+   "lit_epoch_slug": "st-barnabas",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD OFFICIUM LECTIONIS: Hymnus O vir beate, Apostolis, p. 365.",
+   "ref_page": 365
+  },
+  {
+   "incipit": "Barnabae clarum colimus tropaeum",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "st-barnabas",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS ET AD VESPERAS"
+  },
+  {
+   "incipit": "Barnabae clarum colimus tropaeum",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "st-barnabas",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS ET AD VESPERAS"
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "st-barnabas",
+   "common_slug": "COM-APOST",
+   "common_page": 266,
+   "ref_option": 1,
+   "rubric": "De Communi Apostolorum, p. 266, praeter sequentia:"
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Printed Memoria."
+ ]
+}

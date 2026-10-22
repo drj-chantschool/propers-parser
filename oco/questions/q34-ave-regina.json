@@ -1,0 +1,8 @@
+{"pipeline": "book-batch", "book": "OCO", "category": "modeling", "topic_key": "oco-code-Ma-no-day", "priority": 2,
+ "title": "Final Marian antiphons Ma1–Ma4 have no day code: where do they load?",
+ "prompt": "Also Ave Regina caelorum Ma2 (gregobase:3300 solemn, AM 175, p691) and Ma2b (gregobase:18333 simple tone, AM 179, p692), with identities committed. Their LPS is skipped for the same reason ('no day code').",
+ "raised_by": "book-batch OCO index-rows batch 3, 2026-10-22",
+ "pages": [{"book": "OCO", "page": "691", "note": "Ave Regina solemn (Ma2), 'Vel:'"}, {"book": "OCO", "page": "692", "note": "Ave Regina [simpl.] (Ma2b)"}],
+ "blocks": ["OCO:r6310", "OCO:r6311"],
+ "options": [{"key": "A", "label": "see the existing question", "recommended": true}],
+ "context": {"files": ["oco/index/resolve/r6310.json", "oco/index/resolve/r6311.json"]}}

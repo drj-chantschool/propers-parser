@@ -1,0 +1,55 @@
+{
+ "page": "484",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "John the Apostle > LAUDS complete on p483.",
+ "context_out": "Holy Innocents > OFFREAD Hymnum canentes (H.IV) begins p484, continues p485.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Christum natum qui Innocentes coronavit martyres",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "holy-innocents",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM",
+   "index_row_id": 5555
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 141,
+   "mode": null,
+   "lit_epoch_slug": "holy-innocents",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Ps. Venite, p. 141."
+  },
+  {
+   "incipit": "Hymnum canentes martyrum",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "holy-innocents",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD OFFICIUM LECTIONIS",
+   "index_row_id": 5278
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Holy Innocents: no \"De Communi\" line printed; only the propers on pp484-485 are modeled. A.IV* → IV."
+ ]
+}

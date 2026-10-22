@@ -1,0 +1,21 @@
+{
+ "page": "600",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Mense novembris > Die 22 novembris S. Caeciliae, virginis et martyris (C.S., Memoria) > Hymni ad libitum > AD LAUDES MATUTINAS hymn 'Nunc ad coronas' (begun p599) continues.",
+ "context_out": "Same saint > AD VESPERAS hymn 'Salveto corpus martyris' complete with doxology 'Te sponse Iesu' on p600; page ends. p601 starts a new heading (Die 24 novembris S. Columbani).",
+ "continues": {"from_page": "599", "incipit": "Nunc ad coronas pergite"},
+ "rows": [
+  {"incipit": "Salveto corpus martyris", "kind": "engraved", "mode": "VIII",
+   "lit_epoch_slug": "st-cecilia", "service": "VESPERS", "part": "hymn", "wkday": null,
+   "after_common": true, "allow_unresolved": true, "option_txt": "Hymni ad libitum (C.S.)",
+   "rubric": "S. Caeciliae, virginis & martyris C.S. Memoria. Hymni ad libitum: AD VESPERAS"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Page holds only the Lauds hymn's end (continues) and the Vespers hymn Salveto corpus martyris; Columbani etc. are on p601.",
+  "allow_unresolved: LH index row 5456 (Salveto, corpus, m8, p600) is unmatched and gregobase has no Salveto chant. The engraved melody is the same as p599 Nunc ad coronas (gregobase 9423) but the text differs, so no chant_uuid is linked.",
+  "Same pattern as p599: C.S. ad libitum hymn, after_common, option_txt per ruling 5. Printed Memoria agrees with UNIVERSAL st-cecilia: no OSB rank override."
+ ]
+}

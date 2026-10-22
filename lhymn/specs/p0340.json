@@ -1,0 +1,54 @@
+{
+ "page": "340",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "PROPRIUM DE SANCTIS > IANUARIUS > (p339 ended after Eodem die 20 ianuarii, S. Sebastiani). No chant open.",
+ "context_out": "PROPRIUM DE SANCTIS > IANUARIUS > Die 21 ianuarii, S. Agnetis > AD OFFICIUM LECTIONIS hymn Igne divini ends with Amen on p340. p341 opens with AD LAUDES MATUTINAS ET AD VESPERAS (hymn Agnes beatae virginis, H.VIII) for Agnes.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Igne divini radians amoris",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "st-agnes",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD OFFICIUM LECTIONIS"
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "st-agnes",
+   "common_slug": "COM-MART-UNO-VIRG",
+   "common_page": 280,
+   "ref_option": 1,
+   "rubric": "De Communi unius martyris, p. 280, vel virginum, p. 305.",
+   "skip_slots": [
+    "LAUDS.hymn",
+    "VESPERS.hymn"
+   ]
+  },
+  {
+   "lit_epoch_slug": "st-agnes",
+   "common_slug": "COM-VIRG-UNA",
+   "common_page": 305,
+   "ref_option": 2,
+   "rubric": "De Communi unius martyris, p. 280, vel virginum, p. 305.",
+   "option_txt": "vel de Communi virginum",
+   "skip_slots": [
+    "LAUDS.hymn",
+    "VESPERS.hymn"
+   ]
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Printed rank Memoria matches proper_of_saints st-agnes MEMORIAL.",
+  "Slug st-agnes matched by date 21 Jan and printed title S. Agnetis, virginis & martyris (only row for that date).",
+  "Proper Officium lectionis hymn printed with no 'praeter hymnum' rubric; modeled as explicit row, other slots from common_refs. Laudes/Vespers hymn Agnes beatae (index row 5137) is on p341 and belongs to p341's spec.",
+  "Director: skip_slots LAUDS/VESPERS.hymn added after p341 (Agnes beatae) was produced; reloaded with --prune."
+ ]
+}

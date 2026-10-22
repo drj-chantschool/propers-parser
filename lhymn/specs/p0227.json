@@ -1,0 +1,33 @@
+{
+ "page": "227",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Tuesday wk II&IV > LAUDS Aeterne lucis conditor running over from p226.",
+ "context_out": "Tuesday wk II&IV > VESPERS Sator princepsque temporum complete on p227.",
+ "continues": {
+  "from_page": "226",
+  "incipit": "Aeterne lucis conditor"
+ },
+ "rows": [
+  {
+   "incipit": "Sator princepsque temporum",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": null,
+   "wknum_mod_2": 0,
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": 3,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD VESPERAS",
+   "index_row_id": 5459
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "\"AD HORAM MEDIAM. Ut supra in feria II, p. 219.\" adds no rows: OT Middle Hour hymns are modeled once on OT-OT by rank (user ruling 2026-10-17b)."
+ ]
+}

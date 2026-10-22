@@ -1,0 +1,14 @@
+{
+ "page": "327",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "COM-SANCT-RELIG > AD II VESPERAS: hymn Laeti colentes (H.IV, began p326) continues mid-stanza 2.",
+ "context_out": "COM-SANCT-RELIG > AD II VESPERAS: hymn Laeti colentes ends at final double bar with Amen at foot of p327; nothing vel follows. p328 begins OFFICIUM DEFUNCTORUM (officium-defunctorum).",
+ "continues": {"from_page": "326", "incipit": "Laeti colentes"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Whole page is stanzas 2-6 and Amen of Laeti colentes (began p326, assigned there). No new chant begins on p327; Pro religiosis Common ends here."
+ ]
+}

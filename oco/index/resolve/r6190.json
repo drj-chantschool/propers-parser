@@ -1,0 +1,6 @@
+{"row_id": 6190, "verdict": "link", "chant_uuid": "gregobase:8146", "chant_group_id": null,
+ "evidence": "p689 'Alma Redemptoris Mater, quae pervia caeli porta manes, et...' mode 5, ref 'CAO 1356; AM 173 & 178', Antiphonae finales ad BMV, clef c-flat. 8146 (AM 1934 p173, cb3 solemn tone) gabc opens low d f g h i j k ... 'Ma-ter' descent, same as engraving's long melismatic opening on 'Al-ma' and 'pervia'; the simple tone (c4, Al(c ef gh) ma(g) Re(g)dem(g)) is AM p178 = 16751 (r6191). No seasonal rubric on page; no assignment.",
+ "rejected": [{"chant_uuid": "gregobase:16751", "why": "AM p178 simple tone, c4 syllabic opening (row 6191 Ma1b)"},
+  {"chant_uuid": "gregobase:11878", "why": "Solesmes 1961/LA solemn melody in group 2238 mixed with simple versions; not tied to AM 173 cited by the ref line"},
+  {"chant_uuid": "gregobase:15264", "why": "Simplex"}],
+ "assignment": null, "index_fix": null, "question": null}

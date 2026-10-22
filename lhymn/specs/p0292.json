@@ -1,0 +1,32 @@
+{
+ "page": "292",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum > COMMUNE PASTORUM (COM-PAST) > AD OFFICIUM LECTIONIS > 'Pro uno pastore' > hymn Christe pastorum caput (H.III), begun p290, running through p291; p292 opens mid stanza 4.",
+ "context_out": "COM-PAST > AD OFFICIUM LECTIONIS > 'Pro pluribus pastoribus' hymn Dum sacerdotum celebrant fideles (H.III) begun p292 (stanza 1, start of stanza 2), runs onto p293 (stanzas 2-5, Amen, final double bar). p293 then prints AD LAUDES MATUTINAS > 'Pro uno pastore' hymn Inclitus rector pater atque prudens (H.VIII), begins p293.",
+ "continues": {
+  "from_page": "290",
+  "incipit": "Christe pastorum caput atque princeps (H.III): end of stanza 4, stanza 5 (Aequa laus summum celebret), Amen"
+ },
+ "rows": [
+  {
+   "incipit": "Dum sacerdotum celebrant fideles",
+   "kind": "engraved",
+   "mode": "III",
+   "lit_epoch_slug": "COM-PAST-PLUR",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Pro pluribus pastoribus"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Top of p292 is the end of Christe pastorum caput (assigned p290); in continues only.",
+  "Dum sacerdotum runs p292-p293 (final double bar + Amen at foot of stanza 5 on p293); nothing vel/ad libitum follows it before AD LAUDES MATUTINAS.",
+  "Director, user rulings 2026-10-15: row 1 'Pro pluribus pastoribus' → COM-PAST-PLUR"
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "page": "266",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum › new Common: COMMUNE APOSTOLORUM (COM-APOST) begins at top of p266 (after end of COM-BMV-SAB on p265).",
+ "context_out": "COM-APOST › AD INVITATORIUM complete (three antiphons, all engraved on p266). p267 opens AD OFFICIUM LECTIONIS: 'In Quadragesima et in tempore paschali, ut in Proprio de sanctis. In aliis temporibus:' then hymn O sempiternae curiae (H.III), which begins on p267 and runs over (not assigned here).",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Exsultet",
+   "kind": "xref",
+   "ref_page": 270,
+   "lit_epoch_slug": "COM-APOST",
+   "service": "VESPERS1",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD I VESPERAS: Hymnus Exsultet, ut ad II Vesperas, p. 270."
+  },
+  {
+   "incipit": "Regem Apostolorum Dominum",
+   "kind": "engraved",
+   "mode": "III",
+   "lit_epoch_slug": "COM-APOST",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM"
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 135,
+   "mode": "III",
+   "lit_epoch_slug": "COM-APOST",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Ps. Venite, p. 135."
+  },
+  {
+   "incipit": "Regem Apostolorum Dominum",
+   "kind": "engraved",
+   "mode": "IV*",
+   "lit_epoch_slug": "COM-APOST",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "vel",
+   "rubric": "Vel:"
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 141,
+   "mode": "IV*",
+   "lit_epoch_slug": "COM-APOST",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "vel",
+   "rubric": "Ps. Venite, p. 141."
+  },
+  {
+   "incipit": "Regem Apostolorum Dominum",
+   "kind": "engraved",
+   "mode": "VI*",
+   "lit_epoch_slug": "COM-APOST",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 3,
+   "option_txt": "Tempore paschali",
+   "rubric": "Tempore paschali",
+   "chant_uuid": "local:ace4e9ac-e943-4e88-b43c-4dfa345782da"
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 154,
+   "mode": "VI*",
+   "lit_epoch_slug": "COM-APOST",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 3,
+   "option_txt": "Tempore paschali",
+   "rubric": "Ps. Venite, p. 154."
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "All three Regem Apostolorum antiphons are fully engraved with own drop caps on p266, so they are assigned here (p248/249 pattern). The hymn O sempiternae curiae begins on p267 and is the p267 producer's.",
+  "VESPERS1.hymn is a one-line xref to p270 (Exsultet, as at II Vespers).",
+  "2026-10-16: T.P. Regem Apostolorum assigned to placeholder local_chants ace4e9ac-e943-4e88-b43c-4dfa345782da (README ruling 2026-10-16 #1)."
+ ]
+}

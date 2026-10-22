@@ -1,0 +1,3 @@
+{"row_id": 6007, "verdict": "option", "option_txt": "Alia melodia (LHym 60)",
+ "evidence": "Hymn index p1224 (image confirmed) lists 'Vexilla regis 1' (6Q 14/9, V, LHym 58) and 'Vexilla regis 2' (6Q 14/9, V, LHym 60): same text, two melodies. Body pages p221, p248 (Holy Week) and p877, p884 (Holy Cross 14/9) name only 'Vexilla regis (LHym 58)'; LHym 60 is not named on any page. Index-only second melody rule (intake #26): option 1 held by gregobase:10579 (LHym 58), this row gregobase:12999 loads as 'Alia melodia (LHym 60)'. Applies to both targets (TQ-HOLYWEEK VESPERS.hymn and holy-cross VESPERS.hymn), since both already hold option 1 = gregobase:10579 and the index entry is a single 6Q 14/9 V row covering the hymn on each.",
+ "question": null}

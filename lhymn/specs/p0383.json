@@ -1,0 +1,18 @@
+{
+ "page": "383",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Nativity of John the Baptist > VESPERS1/VESPERS Ut queant laxis running over from p382.",
+ "context_out": "Ut queant laxis continues onto p384 (stanza 5 end onward).",
+ "continues": {
+  "from_page": "382",
+  "incipit": "Ut queant laxis"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "p383 holds only stanzas 1 end to 5 of Ut queant laxis; no drop-cap."
+ ]
+}

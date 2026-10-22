@@ -1,0 +1,10 @@
+{"page":"56","page_kind":"assign","jurisdiction":"UNIVERSAL",
+"context_in":"TQ-LENT > AD LAUDES MATUTINAS > In Officio dominicali: Precemur omnes cernui, stanza 5 and Amen at top of p56.",
+"context_out":"TQ-LENT > AD TERTIAM: Dei fide qua vivimus (H.II) begins p56, runs onto p57 (final bar and stanzas 2-4 + doxology on p57). p57 then prints AD SEXTAM (Qua Christus hora sitiit, H.II) and AD NONAM (Ternis ter horis, H.II), both begin on p57.",
+"continues":{"from_page":"55","incipit":"Precemur omnes cernui"},
+"rows":[
+{"incipit":"Iam Christe sol iustitiae","kind":"engraved","mode":"D","lit_epoch_slug":"TQ-LENT","service":"LAUDS","part":"hymn","wkdays":[2,3,4,5,6,7],"option_num":1,"option_txt":null,"rubric":"AD LAUDES MATUTINAS. In Officio feriali"},
+{"incipit":"Dei fide qua vivimus","kind":"engraved","mode":"II","lit_epoch_slug":"TQ-LENT","service":"TERCE","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD TERTIAM"}
+],
+"common_refs":[],"questions":[],
+"flags":["Mode of Iam Christe printed H.D (D); given as 'D'.","Dei fide qua vivimus runs onto p57; its Sext and None hymns begin on p57, not assigned here."]}

@@ -1,0 +1,16 @@
+{
+ "page": "115",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Ss.mi Corporis & Sanguinis Christi (OT-FOL-00-2) > AD OFFICIUM LECTIONIS > Sacris sollemniis (H.I) running over from p114 (stanza 5 end, stanza 6, Amen).",
+ "context_out": "Ss.mi Corporis & Sanguinis Christi > AD LAUDES MATUTINAS > Verbum supernum prodiens (H.VIII) stanzas 1-2 on p115, runs over onto p116 (stanzas 3-6, Amen, final double bar). Nothing follows it on p116.",
+ "continues": {"from_page": "113", "incipit": "Sacris sollemniis"},
+ "rows": [
+  {"incipit": "Verbum supernum prodiens nec Patris linquens dexteram", "kind": "engraved", "mode": "VIII",
+   "lit_epoch_slug": "OT-FOL-00-2", "service": "LAUDS", "part": "hymn", "wkday": null,
+   "option_num": 1, "option_txt": null, "rubric": "AD LAUDES MATUTINAS"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Sacris sollemniis (OFFREAD) ends on p115 (stanza 6, Amen); no drop-cap, so only in continues. Verbum supernum (Corpus Christi text, 'nec Patris linquens dexteram') ends on p116; no vel/ad libitum line follows."]
+}

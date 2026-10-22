@@ -1,0 +1,9 @@
+{"page":"46","page_kind":"assign","jurisdiction":"UNIVERSAL",
+"context_in":"In Baptismate Domini NAT-BAPT-01-0 > AD OFFICIUM LECTIONIS: end of hymn Implente munus debitum (H.I), stanzas 4-5 and Amen (assigned p45).",
+"context_out":"In Baptismate Domini NAT-BAPT-01-0 > AD LAUDES MATUTINAS: hymn Iesus refulsit omnium (H.IV) begun p46, stanzas 3-6 and Amen on p47. p47 then has AD II VESPERAS: 'Hymnus ut supra ad Officium lectionis, p. 45.' (begins p47, not assigned here).",
+"continues":{"from_page":"45","incipit":"Implente munus debitum (stanzas 4-5, Amen)"},
+"rows":[
+{"incipit":"Iesus refulsit omnium","kind":"engraved","mode":"IV","lit_epoch_slug":"NAT-BAPT-01-0","service":"LAUDS","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD LAUDES MATUTINAS"}
+],
+"common_refs":[],"questions":[],
+"flags":["Hymn runs onto p47 (stanzas 3-6, Amen); no vel/ad lib line follows. p47 has AD II VESPERAS xref to p45 hymn, assigned by p47."]}

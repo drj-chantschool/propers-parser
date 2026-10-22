@@ -1,0 +1,90 @@
+{
+ "page": "530",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > HYMNUS TE DEUM > Tonus antiquus (H.III&IV, begun p527) ends at top of p530 ('Miserere nostri ... non confundar in aeternum'). Running head 'Te Deum'.",
+ "context_out": "RESPONSORIA > HYMNUS TE DEUM > Tonus recentior (H.III) begins p530 and runs over p531, p532, ending at final double bar p533 ('non confundar in aeternum'); nothing follows it on p533 (rest of page blank).",
+ "continues": {
+  "from_page": "527",
+  "incipit": "Te Deum laudamus"
+ },
+ "rows": [
+  {
+   "incipit": "Te Deum laudamus",
+   "kind": "engraved",
+   "service": "OFFREAD",
+   "part": "tedeum",
+   "option_num": 2,
+   "option_txt": "Tonus recentior",
+   "index_row_id": 5480,
+   "lit_epoch_slugs": [
+    "ADV",
+    "NAT",
+    "PASC",
+    "OT"
+   ],
+   "wkday": 1,
+   "rubric": "Diebus dominicis extra Quadragesimam, infra octavas Nativitatis et Paschae, atque in sollemnitatibus et festis. [Sundays outside Lent]"
+  },
+  {
+   "incipit": "Te Deum laudamus",
+   "kind": "engraved",
+   "service": "OFFREAD",
+   "part": "tedeum",
+   "option_num": 2,
+   "option_txt": "Tonus recentior",
+   "index_row_id": 5480,
+   "lit_epoch_slugs": [
+    "NAT-DAY",
+    "NAT-IO",
+    "NAT-OCT",
+    "PASC-OCT"
+   ],
+   "wkday": null,
+   "rubric": "Diebus dominicis extra Quadragesimam, infra octavas Nativitatis et Paschae, atque in sollemnitatibus et festis. [octaves of Christmas and Easter]"
+  },
+  {
+   "incipit": "Te Deum laudamus",
+   "kind": "engraved",
+   "service": "OFFREAD",
+   "part": "tedeum",
+   "option_num": 2,
+   "option_txt": "Tonus recentior",
+   "index_row_id": 5480,
+   "lit_epoch_slugs": [
+    "NAT-EPI-00-0",
+    "PASC-ASC-06-5"
+   ],
+   "wkday": null,
+   "rubric": "Diebus dominicis extra Quadragesimam, infra octavas Nativitatis et Paschae, atque in sollemnitatibus et festis. [weekday solemnities ranked PRINCIPAL_TEMPORAL]"
+  },
+  {
+   "incipit": "Te Deum laudamus",
+   "kind": "engraved",
+   "service": "OFFREAD",
+   "part": "tedeum",
+   "option_num": 2,
+   "option_txt": "Tonus recentior",
+   "index_row_id": 5480,
+   "lit_epoch_slug": null,
+   "universal": true,
+   "wkday": null,
+   "rank_codes": [
+    "SOLEMNITY",
+    "PROPER_SOLEMNITY",
+    "FEAST",
+    "FEAST_OF_THE_LORD",
+    "PROPER_FEAST"
+   ],
+   "rubric": "Diebus dominicis extra Quadragesimam, infra octavas Nativitatis et Paschae, atque in sollemnitatibus et festis. [solemnities and feasts, any season]"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Top of p530 (3 lines, 'miserere nostri ... non confundar in aeternum') is the end of the tonus antiquus begun p527; in continues.",
+  "Tonus recentior (H.III) = OFFREAD.tedeum option 2, same scope rows as p527. Chant read through p533 final double bar; no vel/xref follows.",
+  "Index row 5480 -> gregobase:16704 (GR 1974 p841 m3) per director; see dry-run for edition/LH-tie check.",
+  "Resolved by intake_queue #3 (user, 2026-10-18): scope uses the new rank-only universal row form (README 'User rulings 2026-10-18'); edition accepted. Sundays on season slugs (Lent omitted); octaves on NAT-DAY/IO/OCT + PASC-OCT; Epiphany and Ascension (PRINCIPAL_TEMPORAL, not covered by a rank row) as explicit epoch rows; universal rank row for SOLEMNITY/PROPER_SOLEMNITY/FEAST/FEAST_OF_THE_LORD/PROPER_FEAST. 'Ultima pars hymni ad libitum omitti potest' noted, not modeled (user OK)."
+ ]
+}

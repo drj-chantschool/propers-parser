@@ -1,0 +1,14 @@
+{"page":"9","page_kind":"assign","jurisdiction":"UNIVERSAL",
+"context_in":"TEMPUS ADVENTUS › new section II. POST DIEM 16 DECEMBRIS (opens on this page) › rubric 'In Officio dominicali et feriali, a die 17 usque ad I Vesperas Nativitatis exclusive, dicitur:'",
+"context_out":"TEMPUS ADVENTUS › II. Post diem 16 decembris › AD COMPLETORIUM: Christe qui splendor et dies (H.IV) begun on p. 9 (2 lines of music), runs over onto p. 10 (stanzas 2-5 + doxology Amen as text, ends top of p. 10). p. 10 then opens AD INVITATORIUM (In dominica Prope est iam Dominus A.IV*, Ps. p. 141; In feriis A.VI, Ps. p. 149; Die 24 decembris Hodie scietis A.E).",
+"continues":null,
+"rows":[
+{"incipit":"Verbum salutis omnium","kind":"engraved","mode":"IV","lit_epoch_slug":"ADV-II","service":"VESPERS1","part":"hymn","wkday":1,"option_num":1,"option_txt":null,
+ "rubric":"In Officio dominicali et feriali, a die 17 usque ad I Vesperas Nativitatis exclusive, dicitur: AD VESPERAS"},
+{"incipit":"Verbum salutis omnium","kind":"engraved","mode":"IV","lit_epoch_slug":"ADV-II","service":"VESPERS","part":"hymn","wkday":null,"option_num":1,"option_txt":null,
+ "rubric":"In Officio dominicali et feriali, a die 17 usque ad I Vesperas Nativitatis exclusive, dicitur: AD VESPERAS"},
+{"incipit":"Christe qui splendor et dies","kind":"engraved","mode":"IV","lit_epoch_slug":"ADV-II","service":"COMPLINE","part":"hymn","wkday":null,"option_num":1,"option_txt":null,
+ "rubric":"In Officio dominicali et feriali, a die 17 usque ad I Vesperas Nativitatis exclusive, dicitur: AD COMPLETORIUM"}
+],
+"common_refs":[],"questions":[],
+"flags":["Plain AD VESPERAS under 'Officio dominicali et feriali' rule (covers 4th Sunday of Advent): emitted VESPERS1 (wkday 1) and VESPERS (wkday null), mirroring p3.","Christe qui splendor runs over onto p. 10 (stanzas 2-5 + doxology as text); owned by this page.","No melody-substitution rubric ('in tono hymni X') on p. 9."]}

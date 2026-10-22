@@ -1,0 +1,66 @@
+{
+ "page": "407",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Ignatius > LAUDS/VESPERS complete on p406.",
+ "context_out": "Die 6 augusti Transfiguratio (Festum) > VESPERS1 xref O nata lux p409 (if Sunday); INVITATORY begins p408.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "O nata lux",
+   "kind": "xref",
+   "ref_page": 409,
+   "mode": null,
+   "lit_epoch_slug": "transfiguration",
+   "service": "VESPERS1",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": "Quando festum occurrit die dominica",
+   "rubric": "AD I VESPERAS (quando festum occurit die dominica). Hymnus O nata lux, ut ad II Vesperas, p. 409."
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "alphonsus-liguori",
+   "common_slug": "COM-PAST-UNO-EPISC",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301."
+  },
+  {
+   "lit_epoch_slug": "alphonsus-liguori",
+   "common_slug": "COM-DOCT",
+   "common_page": 301,
+   "ref_option": 2,
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301.",
+   "option_txt": "vel doctorum Ecclesiae"
+  },
+  {
+   "lit_epoch_slug": "eusebius-of-vercelli",
+   "common_slug": "COM-PAST-UNO-EPISC",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289."
+  },
+  {
+   "lit_epoch_slug": "john-vianney",
+   "common_slug": "COM-PAST-UNO-PRESB",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289."
+  },
+  {
+   "lit_epoch_slug": "basilica-of-mary-major",
+   "common_slug": "COM-BMV",
+   "common_page": 253,
+   "ref_option": 1,
+   "rubric": "De Communi B. Mariae Virginis, p. 253."
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "peter-julian-eymard (2 Aug, in DB) is not printed in the LH; no rows for it."
+ ]
+}

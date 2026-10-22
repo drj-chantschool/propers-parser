@@ -1,0 +1,6 @@
+{"row_id": 6349, "verdict": "link", "chant_uuid": "gregobase:18040", "chant_group_id": null,
+ "evidence": "p563 Hor. med. 'Ut in feria II' option 1: 'Beati qui ambulant in lege tua, Domine. Euouae' m8g, ref Ps 118,1; CAO 1589; PM 261. Engraving c4 opening g gj h g h g h, cadence ...h g g matches 18040 (c4 g gj h g h g h ... Domine g, Euouae j j i j h g; tied to PM 1981 p261, cantusid 1589). TOC L3 Feria III p560 fits 1H3 Hm.",
+ "rejected": [{"chant_uuid": "gregobase:11136", "why": "Verona m8g-g, same c4 melody but no source/cantusid, own group 11136; cited PM edition preferred"},
+ {"chant_uuid": "gregobase:11135", "why": "Verona m8g-a, c3 f de e ... different (lower) melody"},
+ {"chant_uuid": "gregobase:19537", "why": "Nabc transposition (c3 f de e) in same group 18040, no edition link; 18040 is the cited PM 1981 edition"}],
+ "assignment": null, "index_fix": null, "question": null}

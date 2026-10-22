@@ -1,0 +1,3 @@
+{"row_id": 5948, "verdict": "option", "option_txt": "Quando officium dicitur diurno tempore",
+ "evidence": "p590 (image confirmed): Off. lect. H rubric 'Quando officium dicitur noctu vel summo mane: Mediæ noctis (LHym 209)' then 'Quando officium dicitur diurno tempore: Salve dies (LHym 210) vel Dies ætasque (LHym 183)'. gregobase:4610 = 'Mediae noctis' mode 2 (the noctu option); this row's gregobase:10458 = 'Salve dies dierum' mode 7. 'Dies ætasque' (LHym 183) has an index row (i1217.json id 105, gregobase:15628) but coded 1.3H1 Ol, NOT 2.4H1 Ol, so no 2.4H1 Ol row for the 'vel' alternative; director to decide.",
+ "question": null}

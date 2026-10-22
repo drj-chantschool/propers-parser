@@ -1,0 +1,17 @@
+{
+ "page": "114",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Ss.mi Corporis & Sanguinis Christi (OT-FOL-00-2) > AD OFFICIUM LECTIONIS > Sacris sollemniis (H.I) running over from p113.",
+ "context_out": "Ss.mi Corporis & Sanguinis Christi > AD OFFICIUM LECTIONIS > Sacris sollemniis continues onto p115 (stanza 5 end, 6, Amen), then AD LAUDES MATUTINAS begins on p115.",
+ "continues": {
+  "from_page": "113",
+  "incipit": "Sacris sollemniis"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "p114 holds only stanzas 2 end to 5 of Sacris sollemniis (stanza 5 = Panis angelicus, sung within the hymn; no drop-cap, so no row). Written by the director from the rendered page."
+ ]
+}

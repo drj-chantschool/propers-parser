@@ -1,0 +1,3 @@
+{"row_id": 5867, "verdict": "option", "option_txt": "Quando officium dicitur noctu vel summo mane",
+ "evidence": "p572 (Feria V, Off. lect. H): rubric 'Quando officium dicitur noctu vel summo mane: Nox atra rerum (LHym 201)' then 'Quando officium dicitur diurno tempore: Christe precamur adnuas (LHym 201)'. Nox atra rerum is the night/early-morning alternative; the other is the day alternative (option 1 gregobase:15621 presumably Christe precamur; director should confirm and give it 'Quando officium dicitur diurno tempore' if its option_txt is empty). Note both hymns share LHym 201 in the book. p1220 hymn index also lists it.",
+ "question": null}

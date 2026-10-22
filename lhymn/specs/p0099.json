@@ -1,0 +1,32 @@
+{
+ "page": "99",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Dominica Pentecostes (PASC-PENT-08-1) > AD OFFICIUM LECTIONIS > Lux iucunda (H.VII) running over from p98 (stanza 3 onward).",
+ "context_out": "Dominica Pentecostes > AD LAUDES MATUTINAS > Beata nobis gaudia (H.I) stanza 1 engraved on p99, runs over p100 (stanzas 1-5) and p101 (stanzas 5-7, Amen, final double bar). AD TERTIAM begins on p101.",
+ "continues": {
+  "from_page": "98",
+  "incipit": "Lux iucunda lux insignis"
+ },
+ "rows": [
+  {
+   "incipit": "Beata nobis gaudia",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "PASC-PENT-08-1",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Lux iucunda (stanzas 3-6) ends on p99 at 'plena nobis gaudia' with rubric 'Non dicitur Amen in fine' (no Amen; no row). No vel/ad libitum follows.",
+  "Beata nobis gaudia runs p99-p101; ends with Amen on p101 and no vel/ad libitum line. AD TERTIAM (Iam Christus astra) begins on p101, not assigned here.",
+  "Neume check: chosen gregobase:17804 (Solesmes 2019, mode 1, remark 'Liber Hymnarius 2019 ed., pp. 99-100') has no LH-1983 page tie. Compared to the p99/p100 engraving: opening phrase 'Beata nobis gaudia' = two low notes (c d), rise, then the d-h-i podatus-cluster and a reciting-level run on h matching GABC '(cd)(dh!iv)(h)(h)(hg)(gh)(g)(gf)'; first-line cadence 'redúxit órbita' descending to low c-d and 'in discípulos' ending d c / c d match '(dc)(cd)'. Melody and text agree; no mismatch."
+ ]
+}

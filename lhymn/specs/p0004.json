@@ -1,0 +1,13 @@
+{"page":"4","page_kind":"assign","jurisdiction":"UNIVERSAL",
+"context_in":"TEMPUS ADVENTUS › I. Usque ad diem 16 decembris › end of AD VESPERAS (Conditor alme siderum, completed on p. 3); p. 4 opens with the heading AD COMPLETORIUM",
+"context_out":"TEMPUS ADVENTUS › I. Usque ad diem 16 decembris › AD INVITATORIUM › In feriis (Regem venturum, mode VI, whose Ps. Venite p. 149 cue is printed on top of p. 5); p. 5 then starts AD OFFICIUM LECTIONIS (Verbum supernum prodiens, H.II) which runs onto p. 6",
+"continues":null,
+"rows":[
+{"incipit":"Te lucis ante terminum","kind":"engraved","mode":"IV","lit_epoch_slug":"ADV-I","service":"COMPLINE","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD COMPLETORIUM"},
+{"incipit":"Regem venturum Dominum","kind":"engraved","mode":"V","lit_epoch_slug":"ADV-I","service":"INVITATORY","part":"invan","wkday":1,"option_num":1,"option_txt":null,"rubric":"AD INVITATORIUM. In dominica"},
+{"incipit":"Venite exsultemus","kind":"xref","ref_page":146,"mode":null,"lit_epoch_slug":"ADV-I","service":"INVITATORY","part":"invps","wkday":1,"option_num":1,"option_txt":null,"rubric":"Ps. Venite, p. 146."},
+{"incipit":"Regem venturum Dominum","kind":"engraved","mode":"VI","lit_epoch_slug":"ADV-I","service":"INVITATORY","part":"invan","wkdays":[2,3,4,5,6,7],"option_num":1,"option_txt":null,"rubric":"AD INVITATORIUM. In feriis"},
+{"incipit":"Venite exsultemus","kind":"xref","ref_page":149,"mode":null,"lit_epoch_slug":"ADV-I","service":"INVITATORY","part":"invps","wkdays":[2,3,4,5,6,7],"option_num":1,"option_txt":null,"rubric":"Ps. Venite, p. 149. (printed at top of p. 5)"}
+],
+"common_refs":[],"questions":[],
+"flags":["Compline hymn Te lucis placed on ADV-I with wkday null (every day of the section); no section rubric is printed on p. 4 itself.","Feriis invitatory psalm cue (p. 149) is printed on p. 5 and owned by this page."]}

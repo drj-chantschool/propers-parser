@@ -1,0 +1,12 @@
+{"page":"3","page_kind":"assign","jurisdiction":"UNIVERSAL",
+"context_in":"Proprium de tempore, after blank p. 2; section title TEMPUS ADVENTUS › I. Usque ad diem 16 decembris (opens on this page)",
+"context_out":"TEMPUS ADVENTUS › I. Usque ad diem 16 decembris › AD VESPERAS › rubric 'In Officio dominicali et feriali, a I Vesperis dominicae I Adventus usque ad diem 16 decembris inclusive'; Conditor alme siderum ends on this page (p. 4 opens with AD COMPLETORIUM, Te lucis); no chant running over",
+"continues":null,
+"rows":[
+{"incipit":"Conditor alme siderum","kind":"engraved","mode":"IV","lit_epoch_slug":"ADV-I","service":"VESPERS1","part":"hymn","wkday":1,"option_num":1,"option_txt":null,
+ "rubric":"In Officio dominicali et feriali, a I Vesperis dominicae I Adventus usque ad diem 16 decembris inclusive:"},
+{"incipit":"Conditor alme siderum","kind":"engraved","mode":"IV","lit_epoch_slug":"ADV-I","service":"VESPERS","part":"hymn","wkday":null,"option_num":1,"option_txt":null,
+ "rubric":"In Officio dominicali et feriali, a I Vesperis dominicae I Adventus usque ad diem 16 decembris inclusive:"}
+],
+"common_refs":[],"questions":[],
+"flags":["Plain AD VESPERAS under a 'a I Vesperis dominicae ... usque ad' rule: emitted VESPERS1 (wkday 1, I Vespers of Advent I Sunday) and VESPERS (section-wide, wkday null)."]}

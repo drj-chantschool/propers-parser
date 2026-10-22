@@ -1,0 +1,17 @@
+{
+ "page": "482",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "John the Apostle > OFFREAD Virginis virgo running over from p481.",
+ "context_out": "Virginis virgo ends on p482; p483 begins the Holy Innocents.",
+ "continues": {
+  "from_page": "481",
+  "incipit": "Virginis virgo venerande custos"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

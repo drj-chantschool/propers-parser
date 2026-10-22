@@ -1,0 +1,64 @@
+{
+ "page": "92",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Tempus paschale II > Ab Ascensione Domini > AD INVITATORIUM (p91 ended with In sollemnitate Ascensionis invitatory); p92 opens with heading 'In Officio dominicali et feriali'.",
+ "context_out": "Tempus paschale II > AD OFFICIUM LECTIONIS > Aeterne rex altissime (H.VIII) runs over p93 to its Amen at the top-half of p94 (no vel/ad libitum follows); p94 then prints AD LAUDES MATUTINAS Optatus votis omnium (H.I).",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Christum Dominum qui Sanctum",
+   "kind": "engraved",
+   "mode": "6*",
+   "index_row_id": 5550,
+   "allow_unresolved": true,
+   "lit_epoch_slugs": [
+    "PASC-ASC",
+    "PASC-POST_ASC"
+   ],
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "In Officio dominicali et feriali"
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 154,
+   "lit_epoch_slugs": [
+    "PASC-ASC",
+    "PASC-POST_ASC"
+   ],
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Ps. Venite, p. 154. (In Officio dominicali et feriali)"
+  },
+  {
+   "incipit": "Aeterne rex altissime",
+   "kind": "engraved",
+   "mode": "VIII",
+   "index_row_id": 5135,
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD OFFICIUM LECTIONIS",
+   "lit_epoch_slugs": [
+    "PASC-ASC",
+    "PASC-POST_ASC"
+   ]
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Invitatory Christum Dominum qui Sanctum (A.VI*) is index row 5550 (unmatched, chant_uuid NULL, notes printed mode 6*); no gregobase chant exists for it (searched incipit and text), so allow_unresolved with row NULL.",
+  "Director: OFFREAD Aeterne rex altissime has no day rubric under section II 'ab Ascensione', so it is season-wide on PASC-ASC + PASC-POST_ASC (which includes Ascension day), not the Ascension day slug only."
+ ]
+}

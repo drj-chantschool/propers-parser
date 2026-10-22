@@ -1,0 +1,29 @@
+{
+ "page": "315",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia > COMMUNE SANCTORUM VIRORUM (COM-SANCT-VIR) > AD LAUDES MATUTINAS ended on p314; p315 opens AD II VESPERAS, Pro uno sancto.",
+ "context_out": "COM-SANCT-VIR > AD II VESPERAS > Pro uno sancto: Iesu, redemptor omnium (H.VIII) begins p315, stanzas 5-6 and Amen run over onto p316 (final double bar after Amen on p316). Next on p316: 'Pro pluribus sanctis' Inclitos Christi famulos (H.II).",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Iesu redemptor omnium perpes corona caelitum",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "COM-SANCT-VIR-UNO",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD II VESPERAS. Pro uno sancto"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Hymn runs over to p316 (stanzas 5-6 + Amen); read p316: nothing vel/ad libitum follows it, the next chant there is Pro pluribus sanctis, which begins on p316.",
+  "Not the Christmas hymn Iesu, redemptor omnium, quem lucis ante originem; this is the confessors' hymn, 2nd line 'perpes corona caelitum'.",
+  "Director, user rulings 2026-10-15: row 1 'Pro uno sancto' → COM-SANCT-VIR-UNO"
+ ]
+}

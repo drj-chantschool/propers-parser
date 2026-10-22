@@ -1,0 +1,78 @@
+{
+ "pipeline": "book-batch",
+ "book": "OCO",
+ "category": "modeling",
+ "topic_key": "oco-code-Ma5",
+ "priority": 3,
+ "title": "OCO index place code Ma5 / Ma5b / Ma5c (Regina caeli)",
+ "prompt": "Ma1-Ma4 (with hour C) are the four Marian antiphons after Compline (Alma, Ave Regina, Salve, Sub tuum) and load to COMPLINE.antMar. Ma5/Ma5b/Ma5c are three Regina caeli settings, p696, indexed with day TP and hour V (not C). Note the legend's 'Ma' = Magnificat anno A, a different code. 3 index row(s). Examples: #2612 'Regina cæli' TP|V|Ma5 p696; #2613 'Regina cæli' TP|V|Ma5b p696; #2614 'Regina cæli' TP|V|Ma5c p696. Legend OCO pp1210-1213 does not define this code. Rows with it are held: the mapper (oco/oco_sigla.py) gives no lit_part_sources target, so identity can load but the assignment waits. Answer = what the code means and where the chant goes (service.part, epoch, option_txt). Carry-out: add the rule to oco_sigla.py, re-run oco/load_oco_lps.py, record it in oco/specs/README.md 'User rulings'.",
+ "pages": [
+  {
+   "book": "OCO",
+   "page": "696",
+   "note": "'Regina cæli' TP|V|Ma5"
+  },
+  {
+   "book": "OCO",
+   "page": "696",
+   "note": "'Regina cæli' TP|V|Ma5b"
+  },
+  {
+   "book": "OCO",
+   "page": "696",
+   "note": "'Regina cæli' TP|V|Ma5c"
+  }
+ ],
+ "options": [
+  {
+   "label": "Compline Marian antiphon, TP",
+   "detail": "hour V is a misprint for C: COMPLINE.antMar on PASC; Ma5 option 1, Ma5b/Ma5c further options ('Alia melodia').",
+   "recommended": true
+  },
+  {
+   "label": "also after Vespers",
+   "detail": "as above, plus VESPERS.antMar (needs a new service_part — schema change)."
+  }
+ ],
+ "refs": [
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 8274
+   },
+   "note": "Regina cæli"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 8275
+   },
+   "note": "Regina cæli"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 8276
+   },
+   "note": "Regina cæli"
+  }
+ ],
+ "context": [
+  {
+   "label": "Sigla legend",
+   "path": "OCO pp1210-1213"
+  },
+  {
+   "label": "Mapper",
+   "path": "propers-parser/oco/oco_sigla.py"
+  },
+  {
+   "label": "Contract",
+   "path": "propers-parser/oco/specs/README.md"
+  }
+ ],
+ "blocks": [
+  "OCO:idx:oco-code-Ma5"
+ ],
+ "raised_by": "book-intake director, OCO 2026-10-20"
+}

@@ -1,0 +1,38 @@
+{
+ "page": "553",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense februarii > Eodem die 11 februarii B. Mariae Virginis de Lourdes (C.S.G.), De Communi B.M.V. p.253 praeter sequentia > AD VIGILIAS hymn Te dicimus praeconio (H.II), stanzas 4-7 and doxology on p553 top.",
+ "context_out": "Same > AD LAUDES MATUTINAS hymn Aurora soli praevia (H.II) complete on p553 (doxology Deo Patri sit gloria, Amen). Next p554 opens AD VESPERAS Omnis expertem maculae Mariam (H.IV), which belongs to the p554 spec.",
+ "continues": {
+  "from_page": "552",
+  "incipit": "Te dicimus praeconio"
+ },
+ "rows": [
+  {
+   "incipit": "Aurora soli praevia",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "our-lady-of-lourdes",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "De Communi Beatae Mariae Virginis, p. 253, praeter sequentia: AD LAUDES MATUTINAS",
+   "index_row_id": 5155,
+   "verified_despite": [
+    "spec incipit 'Aurora soli praevia'"
+   ]
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Te dicimus praeconio (began p552) ends here (stanzas Sontes Adami... through doxology Deo Patri sit gloria, Amen); not a row.",
+  "Lourdes is C.S.G.-scoped; used universal slug our-lady-of-lourdes (see p552 flags). Common ref and Vigils question already on p552, not repeated.",
+  "Page foot of p554 (AD VESPERAS Omnis expertem) is not assigned here.",
+  "Director: spec uses the printed incipit 'Aurora soli praevia' with index_row_id 5155. The index row misspells it 'Aurora solis praevia'; logged as an INDEX note.",
+  "Director: the remaining CHECK is the comparison failing to fold the accented ligature 'ǽ' in GABC 'prǽvia'. Words, mode II and office-part all match the page."
+ ]
+}

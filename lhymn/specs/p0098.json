@@ -1,0 +1,22 @@
+{
+ "page": "98",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Tempus paschale > Dominica Pentecostes (Sollemnitas, PASC-PENT-08-1); p97 ended Compline hymn at final double bar.",
+ "context_out": "Dominica Pentecostes > AD OFFICIUM LECTIONIS > Lux iucunda (H.VII) stanzas 1-3 engraved on p98, runs over to p99 (stanzas 3-6, ends 'plena nobis gaudia', rubric 'Non dicitur Amen in fine', no vel/ad libitum). p99 then opens AD LAUDES MATUTINAS (Beata nobis gaudia, H.I).",
+ "continues": null,
+ "rows": [
+  {"incipit": "Alleluia Spiritus Domini replevit orbem terrarum", "kind": "engraved", "mode": "V",
+   "lit_epoch_slug": "PASC-PENT-08-1", "service": "INVITATORY", "part": "invan",
+   "wkday": null, "option_num": 1, "option_txt": null, "rubric": "AD INVITATORIUM"},
+  {"incipit": "Venite exsultemus", "kind": "xref", "ref_page": 146, "mode": null,
+   "lit_epoch_slug": "PASC-PENT-08-1", "service": "INVITATORY", "part": "invps",
+   "wkday": null, "option_num": 1, "option_txt": null, "rubric": "Ps. Venite, p. 146."},
+  {"incipit": "Lux iucunda lux insignis", "kind": "engraved", "mode": "VII",
+   "lit_epoch_slug": "PASC-PENT-08-1", "service": "OFFREAD", "part": "hymn",
+   "wkday": null, "option_num": 1, "option_txt": null, "rubric": "AD OFFICIUM LECTIONIS"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Lux iucunda runs onto p99 (stanzas 3-6); ends 'plena nobis gaudia' with 'Non dicitur Amen in fine'. No vel/ad libitum follows. Only one hymn printed for Officium lectionis (no noctu/interdiu split)."]
+}

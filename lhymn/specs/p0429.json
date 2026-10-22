@@ -1,0 +1,30 @@
+{
+ "page": "429",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Nativity of BVM > LAUDS O sancta mundi domina text running over from p428.",
+ "context_out": "Nativity of BVM > VESPERS Beata Dei genetrix complete on p429.",
+ "continues": {
+  "from_page": "428",
+  "incipit": "O sancta mundi domina"
+ },
+ "rows": [
+  {
+   "incipit": "Beata Dei genetrix nitor",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "the-nativity-of-mary",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD VESPERAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

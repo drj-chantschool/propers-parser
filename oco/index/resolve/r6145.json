@@ -1,0 +1,7 @@
+{"row_id": 6145, "verdict": "link", "chant_uuid": "gregobase:18061", "chant_group_id": null,
+ "evidence": "p582 first antiphon 'Adiutor in tribulationibus.' mode E, ref 'Ps 45,2; CAO 1278; PM 118'; 18061 (Solesmes 1981, source 24 = PM p118, cantusid 001278) gabc c4 h h g * g f g h ixi g i h matches the engraving's opening and cadence, same short text ending 'tribulationibus.'; same chant_group 10887 as Verona 10887 (identical melody, no source page)",
+ "rejected": [{"chant_uuid": "gregobase:10887", "why": "same melody and group, but no source page; PM-tied 18061 preferred"},
+ {"chant_uuid": "gregobase:8185", "why": "mode 4, different melody, text continues 'Deus noster'"},
+ {"chant_uuid": "gregobase:19159", "why": "Nocturnale Vaticanum, mode 4, text continues 'Deus noster'"},
+ {"chant_uuid": "gregobase:18496", "why": "Cistercian mode 1, different melody"}],
+ "assignment": null, "index_fix": null, "question": null}

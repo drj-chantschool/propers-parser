@@ -1,0 +1,4 @@
+{"row_id": 6392, "verdict": "link", "chant_uuid": "gregobase:11084", "chant_group_id": null,
+ "evidence": "p668 slot 3 'Benedicite Domino, omnes virtutes eius; benedicite ministri eius, qui facitis voluntatem eius, benedicite Domino.' 8g, Ps 102,21, CAO 1699, Euouae; full text length equal in both candidates; 11084 gabc c3 e e h f e f e f | g f ed ef f e e ... cadence 'Domino' f e d e e matches engraving; 20134 is the same melody with Hartker neume-detail annotations (St Gall), so the plain square-notation 11084 is preferred",
+ "rejected": [{"chant_uuid": "gregobase:20134", "why": "Hartker (neume-annotated) transcription of the same melody and text, different group; equal fit, so the square-notation edition is preferred"}],
+ "assignment": null, "index_fix": null, "question": null}

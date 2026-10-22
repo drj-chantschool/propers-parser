@@ -1,0 +1,84 @@
+{
+ "page": "395",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "JULY; Elizabeth of Portugal p394.",
+ "context_out": "Die 11 iulii S. Benedicti > LAUDS Legifer prudens complete on p395; VESPERS Inter aeternas begins p396.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Inter aeternas superum coronas",
+   "kind": "xref",
+   "ref_page": 396,
+   "mode": null,
+   "lit_epoch_slug": "st-benedict-of-nursia",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD OFFICIUM LECTIONIS: Hymnus Inter aeternas, ut infra ad Vesperas, p. 396.",
+   "chant_uuid": "local:3a2d0231-0544-46c6-9e49-149a781494f0"
+  },
+  {
+   "incipit": "Legifer prudens venerande doctor",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "st-benedict-of-nursia",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS",
+   "index_row_id": 5319
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "anthony-mary-zaccaria",
+   "common_slug": "COM-PAST-UNO-PRESB",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289, vel sanctorum virorum: pro religiosis, p. 324."
+  },
+  {
+   "lit_epoch_slug": "anthony-mary-zaccaria",
+   "common_slug": "COM-SANCT-RELIG",
+   "common_page": 324,
+   "ref_option": 2,
+   "option_txt": "vel sanctorum virorum: pro religiosis",
+   "rubric": "De Communi pastorum, p. 289, vel sanctorum virorum: pro religiosis, p. 324."
+  },
+  {
+   "lit_epoch_slug": "maria-goretti",
+   "common_slug": "COM-MART-UNO-VIRG",
+   "common_page": 280,
+   "ref_option": 1,
+   "rubric": "De Communi unius martyris, p. 280, vel virginum, p. 305."
+  },
+  {
+   "lit_epoch_slug": "maria-goretti",
+   "common_slug": "COM-VIRG-UNA",
+   "common_page": 305,
+   "ref_option": 2,
+   "option_txt": "vel virginum",
+   "rubric": "De Communi unius martyris, p. 280, vel virginum, p. 305."
+  },
+  {
+   "lit_epoch_slug": "st-benedict-of-nursia",
+   "common_slug": "COM-SANCT-RELIG",
+   "common_page": 324,
+   "ref_option": 1,
+   "skip_slots": [
+    "VESPERS.hymn"
+   ],
+   "rubric": "De Communi sanctorum virorum: pro religiosis, p. 324, praeter sequentia:"
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Benedict: Memoria; in Europa festum → EU proper_of_saints row (FEAST) added. VESPERS.hymn skipped on the Common copy: proper Inter aeternas engraved on p396. Inter aeternas → PLACEHOLDER (H.II; gregobase only mode-1 editions)."
+ ]
+}

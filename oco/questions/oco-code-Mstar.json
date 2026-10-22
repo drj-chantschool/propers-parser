@@ -1,0 +1,54 @@
+{
+ "pipeline": "book-batch",
+ "book": "OCO",
+ "category": "modeling",
+ "topic_key": "oco-code-Mstar",
+ "priority": 3,
+ "title": "OCO index place code M* (II Vespers, 5Q1)",
+ "prompt": "Only one row: Lent week 5 Sunday, II Vespers; counterpart of B*. 1 index row(s). Examples: #1144 'Domine si hic fuisses' 5Q1|2V|M* p209. Legend OCO pp1210-1213 does not define this code. Rows with it are held: the mapper (oco/oco_sigla.py) gives no lit_part_sources target, so identity can load but the assignment waits. Answer = what the code means and where the chant goes (service.part, epoch, option_txt). Carry-out: add the rule to oco_sigla.py, re-run oco/load_oco_lps.py, record it in oco/specs/README.md 'User rulings'.",
+ "pages": [
+  {
+   "book": "OCO",
+   "page": "209",
+   "note": "'Domine si hic fuisses' 5Q1|2V|M*"
+  }
+ ],
+ "options": [
+  {
+   "label": "Year A (Lazarus gospel)",
+   "detail": "M* = Magnificat antiphon for the Year A gospel → VESPERS.antM cycle_sun 1.",
+   "recommended": true
+  },
+  {
+   "label": "ad libitum alternative",
+   "detail": "next VESPERS.antM option, option_txt from the page rubric."
+  }
+ ],
+ "refs": [
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 6806
+   },
+   "note": "Domine si hic fuisses"
+  }
+ ],
+ "context": [
+  {
+   "label": "Sigla legend",
+   "path": "OCO pp1210-1213"
+  },
+  {
+   "label": "Mapper",
+   "path": "propers-parser/oco/oco_sigla.py"
+  },
+  {
+   "label": "Contract",
+   "path": "propers-parser/oco/specs/README.md"
+  }
+ ],
+ "blocks": [
+  "OCO:idx:oco-code-Mstar"
+ ],
+ "raised_by": "book-intake director, OCO 2026-10-20"
+}

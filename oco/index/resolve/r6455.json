@@ -1,0 +1,7 @@
+{"row_id": 6455, "verdict": "link", "chant_uuid": "gregobase:11237", "chant_group_id": 11237,
+ "evidence": "Index page p688 (Feria III/IV Compline) is wrong; engraving is on p689 under Feria V, ant 1: 'Caro mea requiéscet in spe. E u o u a e.' mode 4g, CAO 1775, Rom. 11237 (Verona m4, c4) Ca(h) ro(g) me(hg) a(f) * re(g) qui(f) é(ed) scet(f) in(gf) spe(e); Euouae h h h h h g: contour of every syllable and the 5 repeated Euouae notes + 2-note descent match the engraving. 1 (11238/14992, m7 Holy Saturday) and 2667 group (m7) differ in mode and melody.",
+ "rejected": [{"chant_uuid": "gregobase:11238", "why": "Caro mea 1 (Sabbato Sancto), mode 7, different melody"}, {"chant_uuid": "gregobase:14992", "why": "Caro mea 1, mode 7"}, {"chant_uuid": "gregobase:2667", "why": "group 2667, mode 7 melody, not the m4 setting"}],
+ "assignment": null,
+ "index_fix": {"column": "page", "from": "688", "to": "689", "why": "p688 carries Feria III/IV Compline; Feria V 'Caro mea requiéscet' is engraved on p689 (TOC: Ad Completorium p684)"},
+ "question": null,
+ "note": "11237 is ungrouped? group map shows grp 11237 (own single-member group); no sources listed (Verona only)."}

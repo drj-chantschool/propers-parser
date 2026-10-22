@@ -1,0 +1,53 @@
+{
+ "page": "67",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Section title page 'SACRUM TRIDUUM PASCHALE, PASSIONIS & RESURRECTIONIS DOMINI' > Feria sexta in Passione Domini (follows Hebdomada Sancta, p66).",
+ "context_out": "TQ-HOLYWEEK-00-6 > AD TERTIAM > hymn Salva, Redemptor (H.I) running onto p68 (stanza 2 + Amen on p68); p68 then has AD SEXTAM.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Christum Dei Filium",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "TQ-HOLYWEEK-00-6",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Feria sexta in Passione Domini. Omnia sicut in hebdomada sancta, praeter ea quae sequuntur: Ad invitatorium"
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 138,
+   "lit_epoch_slug": "TQ-HOLYWEEK-00-6",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Ps. Veníte, p. 138."
+  },
+  {
+   "incipit": "Salva Redemptor plasma tuum nobile",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "TQ-HOLYWEEK-00-6",
+   "service": "TERCE",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Feria sexta in Passione Domini. Omnia sicut in hebdomada sancta, praeter ea quae sequuntur: Ad Tertiam"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Page opens with a Triduum title heading; the day heading names Feria sexta, so all rows on TQ-HOLYWEEK-00-6.",
+  "Salva Redemptor runs onto p68 (stanza 2 + Amen); p68 also starts AD SEXTAM (Crux mundi benedictio), not this page's.",
+  "Re-scoped per intake_queue #2 (user, 2026-10-18): held question resolved; un-overridden slots are inherited from the TQ-HOLYWEEK / PASC defaults, no xref copies."
+ ]
+}

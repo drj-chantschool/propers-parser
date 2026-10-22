@@ -1,0 +1,26 @@
+{
+ "page": "378",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Visitation > VESPERS Concito gressu running over from p377.",
+ "context_out": "Sabbato post dominicam II post Pentecosten, Immaculati Cordis B.M.V. > De Communi B.M.V., p. 253. No chant runs over.",
+ "continues": {
+  "from_page": "377",
+  "incipit": "Concito gressu"
+ },
+ "rows": [],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "OT-FOL-00-5",
+   "common_slug": "COM-BMV",
+   "common_page": 253,
+   "ref_option": 1,
+   "rubric": "De Communi B. Mariae V., p. 253."
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Immaculate Heart = OT-FOL-00-5 (MEMORIAL, placeholder-dated temporale node)."
+ ]
+}

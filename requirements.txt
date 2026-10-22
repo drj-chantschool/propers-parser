@@ -3,4 +3,5 @@ pytesseract
 Pillow
 sqlalchemy
 mysql-connector-python
+keyring
 liturgio-tools @ git+https://github.com/drj-chantschool/liturgio-tools.git

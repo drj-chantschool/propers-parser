@@ -1,0 +1,44 @@
+{
+ "page": "324",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "COM-SANCT-MULIER > AD II VESPERAS > Pro pluribus sanctis mulieribus: Christe cunctorum (H.II, began p323) runs over: stanza 3-4 and Amen at top of p324.",
+ "context_out": "COM-SANCT-RELIG (PRO RELIGIOSIS) > AD INVITATORIUM: Ant. Mirabilem in sancti suis, p. 311 (last item on page). Next page continues PRO RELIGIOSIS.",
+ "continues": {"from_page": "323", "incipit": "Christe cunctorum sator et redemptor"},
+ "rows": [
+  {
+   "lit_epoch_slug": "COM-SANCT-RELIG",
+   "wkday": null,
+   "incipit": "Laeti colentes",
+   "kind": "xref",
+   "ref_page": 326,
+   "service": "VESPERS1",
+   "part": "hymn",
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD I VESPERAS: Hymnus Læti colentes, ut ad II Vesperas, p. 326."
+  },
+  {
+   "lit_epoch_slug": "COM-SANCT-RELIG",
+   "wkday": null,
+   "incipit": "Mirabilem in sancti suis",
+   "kind": "xref",
+   "ref_page": 311,
+   "mode": "IV",
+   "index_row_id": 5588,
+   "allow_unresolved": true,
+   "service": "INVITATORY",
+   "part": "invan",
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM: Ant. Mirabilem in sancti suis, p. 311."
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Christe cunctorum (p323) ends with Amen at the foot of the music on p324; nothing vel follows, so it is not a row here.",
+  "Invitatory xref target (p311 Mirabilem in sanctis, index 5588 m4) has no gregobase chant: loaded unresolved via allow_unresolved + index_row_id, as p318. Page prints 'sancti suis' (sic); incipit keeps printed spelling.",
+  "AD INVITATORIUM prints only the antiphon cue, no Ps cue; so no invps row."
+ ]
+}

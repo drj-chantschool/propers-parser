@@ -1,0 +1,17 @@
+{
+ "page": "216",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Sunday wk II&IV > VESPERS O lux beata Trinitas running over from p215.",
+ "context_out": "End of Sunday wk II&IV; p217 begins Monday.",
+ "continues": {
+  "from_page": "215",
+  "incipit": "O lux beata Trinitas"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

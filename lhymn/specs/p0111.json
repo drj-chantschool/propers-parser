@@ -1,0 +1,17 @@
+{
+ "page": "111",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Ss.mi Corporis & Sanguinis Christi (OT-FOL-00-2) > AD I ET II VESPERAS > Pange lingua (H.) running over from p110.",
+ "context_out": "Ss.mi Corporis & Sanguinis Christi > AD I ET II VESPERAS > Pange lingua continues onto p112 (stanza 5 end, 6, Amen), then the engraved Vel ad libitum H.III Pange lingua (veterem editionem vaticanam) begins on p112.",
+ "continues": {
+  "from_page": "110",
+  "incipit": "Pange lingua gloriosi corporis"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "p111 holds only stanzas 2 end to 5 of Pange lingua (stanza 5 = Tantum ergo, sung within the hymn; no drop-cap, so no row). Written by the director from the rendered page."
+ ]
+}

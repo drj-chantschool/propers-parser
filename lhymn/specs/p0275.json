@@ -1,0 +1,28 @@
+{
+ "page": "275",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum › COMMUNE MARTYRUM PRO PLURIBUS MARTYRIBUS (COM-MART-PLUR) › AD OFFICIUM LECTIONIS: hymn Rex gloriose martyrum (H.IV), begun on p274, runs over (stanza 3 end, stanza 4, Amen).",
+ "context_out": "COM-MART-PLUR › AD LAUDES MATUTINAS: hymn Aeterna Christi munera (H.VIII) begins on p275 (stanzas 1-2 start) and runs over p276 (stanzas 2-7 so far; stanza 7 Te nunc, Redemptor still open at foot of p276, doxology on next page).",
+ "continues": {"from_page": "274", "incipit": "Rex gloriose martyrum (OFFREAD hymn, stanzas 3-4 and Amen)"},
+ "rows": [
+  {
+   "incipit": "Aeterna Christi munera",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "COM-MART-PLUR",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Top of page is the end of Rex gloriose martyrum (assigned on p274), listed in continues.",
+  "Aeterna Christi munera runs over p276 (stanzas 2-7 at least); no seasonal rubric on p275, so no season question."
+ ]
+}

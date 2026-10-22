@@ -1,0 +1,42 @@
+{
+ "page": "381",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Barnabas > LAUDS/VESPERS Barnabae clarum running over from p380.",
+ "context_out": "Die 13 iunii S. Antonii de Padova (Memoria) > De Communi pastorum vel doctorum vel religiosis. No chant runs over.",
+ "continues": {
+  "from_page": "380",
+  "incipit": "Barnabae clarum colimus tropaeum"
+ },
+ "rows": [],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "anthony-of-padua",
+   "common_slug": "COM-PAST-UNO-PRESB",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301, vel sanctorum virorum: pro religiosis, p. 324."
+  },
+  {
+   "lit_epoch_slug": "anthony-of-padua",
+   "common_slug": "COM-DOCT",
+   "common_page": 301,
+   "ref_option": 2,
+   "option_txt": "vel doctorum Ecclesiae",
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301, vel sanctorum virorum: pro religiosis, p. 324."
+  },
+  {
+   "lit_epoch_slug": "anthony-of-padua",
+   "common_slug": "COM-SANCT-RELIG",
+   "common_page": 324,
+   "ref_option": 3,
+   "option_txt": "vel sanctorum virorum: pro religiosis",
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301, vel sanctorum virorum: pro religiosis, p. 324."
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Printed Memoria = MEMORIAL."
+ ]
+}

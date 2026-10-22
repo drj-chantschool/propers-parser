@@ -1,0 +1,22 @@
+{
+ "page": "113",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Ss.mi Corporis & Sanguinis Christi (OT-FOL-00-2) > AD I ET II VESPERAS > ad libitum Pange lingua (vetus editio vaticana) running over: stanza 6 text (Genitori Genitoque ... Amen) at top of p113.",
+ "context_out": "Ss.mi Corporis & Sanguinis Christi > AD OFFICIUM LECTIONIS > hymn Sacris sollemniis (H.I) running over onto p114 (stanzas 2-5) and p115 (stanza 6, Amen); no vel/ad libitum line follows. Then p115: AD LAUDES MATUTINAS.",
+ "continues": {"from_page": "110", "incipit": "Pange lingua gloriosi corporis"},
+ "rows": [
+  {"incipit": "Panem vitae Christum Dominum", "kind": "engraved", "mode": "VII",
+   "lit_epoch_slug": "OT-FOL-00-2", "service": "INVITATORY", "part": "invan", "wkday": null,
+   "option_num": 1, "option_txt": null, "rubric": "AD INVITATORIUM"},
+  {"incipit": "Venite exsultemus", "kind": "xref", "ref_page": 160,
+   "lit_epoch_slug": "OT-FOL-00-2", "service": "INVITATORY", "part": "invps", "wkday": null,
+   "option_num": 1, "option_txt": null, "rubric": "Ps. Venite, p. 160. (printed after the antiphon on p113)"},
+  {"incipit": "Sacris sollemniis iuncta sint gaudia", "kind": "engraved", "mode": "I",
+   "lit_epoch_slug": "OT-FOL-00-2", "service": "OFFREAD", "part": "hymn", "wkday": null,
+   "option_num": 1, "option_txt": null, "rubric": "AD OFFICIUM LECTIONIS", "verified_despite": ["Sacris solémniis iuncta"]}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["gregobase:16201 is tied to LH p113 (also index row 5449); CHECK is only the spelling solemniis (gregobase) vs sollemniis (printed). Words, mode I, and hy match the page. Alternative 16418 has no p113 tie.","Hymn runs onto p114 (stanzas 2-5) and ends on p115 (stanza 6, Amen); no trailing vel line. Invitatory psalm cue Ps. Venite p. 160 printed on p113 after the antiphon."]
+}

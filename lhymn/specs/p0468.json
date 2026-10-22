@@ -1,0 +1,84 @@
+{
+ "page": "468",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Albert the Great: Common only (p467).",
+ "context_out": "Dedication of the basilicas of Peter & Paul > LAUDS+VESPERS Iam bone pastor (H.IV) begins p468, continues p469.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Iam bone pastor Petre",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "basilicas-of-peter-and-paul",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS ET AD VESPERAS",
+   "index_row_id": 5279
+  },
+  {
+   "incipit": "Iam bone pastor Petre",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "basilicas-of-peter-and-paul",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS ET AD VESPERAS",
+   "index_row_id": 5279
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "margaret-of-scotland",
+   "common_slug": "COM-SANCT-MULIER-UNA",
+   "common_page": 318,
+   "ref_option": 1,
+   "rubric": "De Communi sanctarum mulierum, p. 318."
+  },
+  {
+   "lit_epoch_slug": "gertrude-the-great",
+   "common_slug": "COM-VIRG-UNA",
+   "common_page": 305,
+   "ref_option": 1,
+   "rubric": "De Communi virginum, p. 305, vel sanctarum mulierum: pro religiosis, p. 324."
+  },
+  {
+   "lit_epoch_slug": "gertrude-the-great",
+   "common_slug": "COM-SANCT-RELIG",
+   "common_page": 324,
+   "ref_option": 2,
+   "rubric": "De Communi virginum, p. 305, vel sanctarum mulierum: pro religiosis, p. 324.",
+   "option_txt": "vel sanctarum mulierum: pro religiosis"
+  },
+  {
+   "lit_epoch_slug": "elizabeth-of-hungary",
+   "common_slug": "COM-SANCT-MULIER-UNA",
+   "common_page": 318,
+   "ref_option": 1,
+   "rubric": "De Communi sanctarum mulierum, p. 318."
+  },
+  {
+   "lit_epoch_slug": "basilicas-of-peter-and-paul",
+   "common_slug": "COM-APOST",
+   "common_page": 266,
+   "ref_option": 1,
+   "rubric": "De Communi Apostolorum, p. 266, praeter sequentia:",
+   "skip_slots": [
+    "LAUDS.hymn",
+    "VESPERS.hymn"
+   ]
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "gertrude-the-great is the UNIVERSAL row (OSB has its own MEMORIAL row with a proper hymn, loaded from p598); this page is jurisdiction UNIVERSAL.",
+  "p469 stanza 2 \"Doctor egregie\" carries an index row (5232) of its own; it is a pilcrow-marked partial use, handled on p469."
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "page": "269",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum › COMMUNE APOSTOLORUM (COM-APOST) › AD LAUDES MATUTINAS › 'Tempore paschali' hymn Claro paschali gaudio (H.III) begun on p268; stanzas 2-5 run on p269.",
+ "context_out": "COM-APOST › AD LAUDES MATUTINAS: Claro paschali gaudio ends at its final double bar and Amen on p269; nothing printed after it. Next page p270 opens AD II VESPERAS with hymn Exsultet caelum laudibus (H.I), a new chant beginning on p270.",
+ "continues": {"from_page": "268", "incipit": "Claro paschali gaudio"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Whole page is stanzas 2-5 and Amen of Claro paschali gaudio, assigned on p268. No vel/Ad libitum line or new heading follows."]
+}

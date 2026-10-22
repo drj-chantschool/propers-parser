@@ -1,0 +1,32 @@
+{
+ "page": "200",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Weeks I&III Wednesday LAUDS Nox et tenebrae running over from p199.",
+ "context_out": "Weeks I&III Wednesday > VESPERS Caeli Deus sanctissime complete on p200.",
+ "continues": {
+  "from_page": "199",
+  "incipit": "Nox et tenebrae et nubila"
+ },
+ "rows": [
+  {
+   "incipit": "Caeli Deus sanctissime",
+   "kind": "engraved",
+   "mode": "D",
+   "lit_epoch_slug": null,
+   "wknum_mod_2": 1,
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": 4,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD VESPERAS",
+   "index_row_id": 5170
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "page": "361",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Sanctorale > Mense martii > Die 25 martii In Annuntiatione Domini (Sollemnitas) > AD INVITATORIUM: Verbum caro (A.IV*) from p360; its cue 'Ps. Venite, p. 141' printed at top of p361.",
+ "context_out": "Die 25 martii In Annuntiatione Domini > AD OFFICIUM LECTIONIS > hymn Iam caeca vis mortalium (H.VIII) begins p361, ends p362 at Amen (final double bar); nothing printed after it on p362.",
+ "continues": {"from_page": "360", "incipit": "Verbum caro factum est (Ps. Venite, p. 141 cue)"},
+ "rows": [
+  {"incipit": "Verbum caro factum est", "kind": "engraved", "mode": "6*", "lit_epoch_slug": "annunciation",
+   "service": "INVITATORY", "part": "invan", "wkday": null, "option_num": 2, "option_txt": "Tempore paschali",
+   "rubric": "Tempore paschali (cf. Io 1, 14)"},
+  {"incipit": "Venite exsultemus", "kind": "xref", "ref_page": 154, "mode": "6*", "lit_epoch_slug": "annunciation",
+   "service": "INVITATORY", "part": "invps", "wkday": null, "option_num": 2, "option_txt": "Tempore paschali",
+   "rubric": "Tempore paschali. Ps. Venite, p. 154."},
+  {"incipit": "Iam caeca vis mortalium", "kind": "engraved", "mode": "VIII", "lit_epoch_slug": "annunciation",
+   "service": "OFFREAD", "part": "hymn", "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "AD OFFICIUM LECTIONIS"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Row 1 (17686) and row 3 (17688) have no LH page tie in gregobase (no header cites Liber Hymnarius 1983 p. 361); both are the only candidates and the index rows (5615, 5280) are on p361. Neume check vs engraving: 17688 opens g g f e d then rises to a g-h-i cluster with cadences on f/g, matching the H.VIII lines; 17686 opens f f g-h h, with a fall to f/e at veni-te and the al-le-lu-ia melisma ending on g f, matching the A.VI* staves.", "Hymn Iam caeca runs to p362 (7 stanzas, Amen) with no trailing vel/ad libitum line.", "Row 2 cue Ps. Venite p. 154 belongs to the paschal antiphon; p360 owns the p. 141 cue."]
+}

@@ -1,0 +1,21 @@
+{
+ "page": "258",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum › Commune BMV › after LAUDS hymn O gloriosa Domina (p. 257); p. 258 opens with heading AD II VESPERAS.",
+ "context_out": "Commune BMV › AD II VESPERAS › 'In sollemnitatibus': hymn Ave maris stella (H.I) begins p. 258, runs over to p. 259 (stanzas 6-7, Amen). On p. 259 after the Amen: rubric 'In festis', a second hymn Ave maris stella (H.IV, engraved, drop-cap, begins on p. 259, runs over to p. 260) which is OWNED BY THE p. 259 PRODUCER (VESPERS.hymn option 2, rank FEAST).",
+ "continues": null,
+ "rows": [
+  {"incipit": "Ave maris stella", "kind": "engraved", "mode": "I",
+   "lit_epoch_slug": "COM-BMV", "service": "VESPERS", "part": "hymn",
+   "wkday": null, "option_num": 1, "option_txt": null,
+   "rank_codes": ["SOLEMNITY"],
+   "rubric": "AD II VESPERAS. In sollemnitatibus"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Hymn runs onto p. 259 (stanzas 6-7 + Amen); no vel/ad libitum or melody-substitution rubric after it. p. 259 then prints 'In festis' with its own engraved H.IV Ave maris stella: belongs to p. 259's spec as the rank-FEAST alternative.",
+  "'In sollemnitatibus' mapped to rank_codes [SOLEMNITY] (the counterpart 'In festis' presumably FEAST/FEAST_OF_THE_LORD)."
+ ]
+}

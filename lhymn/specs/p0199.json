@@ -1,0 +1,46 @@
+{
+ "page": "199",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Weeks I&III Wednesday OFFREAD noctu Rerum creator running over from p198.",
+ "context_out": "Weeks I&III Wednesday > LAUDS Nox et tenebrae (H.I) begins p199, continues p200.",
+ "continues": {
+  "from_page": "198",
+  "incipit": "Rerum creator optime"
+ },
+ "rows": [
+  {
+   "incipit": "Scientiarum Domino",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": null,
+   "wknum_mod_2": 1,
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": 4,
+   "option_num": 2,
+   "option_txt": "Quando Officium lectionis dicitur diurno tempore",
+   "rubric": "II. Quando Officium lectionis dicitur diurno tempore:",
+   "index_row_id": 5460
+  },
+  {
+   "incipit": "Nox et tenebrae et nubila",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": null,
+   "wknum_mod_2": 1,
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": 4,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS",
+   "index_row_id": 5352
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "page": "436",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Sorrows > Stabat Mater (ad libitum tone H.VI) text stanzas running over from p435.",
+ "context_out": "Sorrows > LAUDS Eia Mater (H.II) begins p436, continues p437.",
+ "continues": {
+  "from_page": "435",
+  "incipit": "Stabat Mater dolorosa"
+ },
+ "rows": [
+  {
+   "incipit": "Eia Mater fons amoris",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "our-lady-of-sorrows",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "page": "252",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum › Commune Dedicationis ecclesiae › AD LAUDES MATUTINAS: hymn Angularis fundamentum (H.IV, begun p. 251) in progress at top (end of stanza 3).",
+ "context_out": "Commune Dedicationis ecclesiae ends with the doxology (stanza 5) and Amen of Angularis fundamentum, final double bar mid-page; nothing follows on p. 252. Next page (p. 253) opens COMMUNE BEATAE MARIAE VIRGINIS › AD I VESPERAS: hymn Maria quae mortalium (H.II).",
+ "continues": {"from_page": "251", "incipit": "Angularis fundamentum (stanzas 3-5, doxology, Amen)"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["No melody-substitution rubric ('in tono hymni X') on p252.", "Page holds only the end of Angularis fundamentum; assigned on p251."]
+}

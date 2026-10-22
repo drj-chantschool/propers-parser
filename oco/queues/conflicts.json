@@ -1,0 +1,404 @@
+{
+ "meta": {
+  "book": "OCO",
+  "stage": "conflicts",
+  "created": "2026-10-20T20:54:20",
+  "log": "oco/INTAKE_LOG.md"
+ },
+ "config": {
+  "wait_minutes": 30,
+  "batch_size": 5,
+  "stale_minutes": 60,
+  "strict_lanes": false
+ },
+ "state": {
+  "batch_id": 6,
+  "batch_open": false,
+  "batch_started": "2026-10-22T00:36:12",
+  "batch_finished": "2026-10-22T00:39:58",
+  "next_due": "2026-10-22T01:09:58",
+  "limit_hits": 0,
+  "batch_units": [
+   "r5994",
+   "r6007",
+   "r6014",
+   "r6052"
+  ]
+ },
+ "lanes": {
+  "A": [
+   "r5682",
+   "r5713",
+   "r5745",
+   "r5779",
+   "r5792",
+   "r5793",
+   "r5815",
+   "r5837",
+   "r5846",
+   "r5848",
+   "r5855",
+   "r5856",
+   "r5864",
+   "r5867",
+   "r5882",
+   "r5889",
+   "r5891",
+   "r5898",
+   "r5912",
+   "r5948",
+   "r5951",
+   "r5953",
+   "r5958",
+   "r5962",
+   "r5963",
+   "r5994",
+   "r6007",
+   "r6014",
+   "r6052"
+  ]
+ },
+ "units": {
+  "r5682": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 1,
+   "claimed_at": "2026-10-21T20:54:21",
+   "finished_at": "2026-10-21T20:57:26",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r5713": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 1,
+   "claimed_at": "2026-10-21T20:54:21",
+   "finished_at": "2026-10-21T20:57:26",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r5745": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 1,
+   "claimed_at": "2026-10-21T20:54:21",
+   "finished_at": "2026-10-21T21:47:16",
+   "note": "index 28/12 misprint for 28/10 (Simon & Jude, p918)",
+   "question_id": 25
+  },
+  "r5779": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 1,
+   "claimed_at": "2026-10-21T20:54:21",
+   "finished_at": "2026-10-21T21:43:44",
+   "note": "LHym 437 second melody not printed on p887",
+   "question_id": 26
+  },
+  "r5792": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 1,
+   "claimed_at": "2026-10-21T20:54:21",
+   "finished_at": "2026-10-21T21:47:16",
+   "note": "index 28/12 misprint for 28/8 (Augustine, p863)",
+   "question_id": 25
+  },
+  "r5793": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 2,
+   "claimed_at": "2026-10-21T22:18:07",
+   "finished_at": "2026-10-21T22:22:04",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r5815": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 2,
+   "claimed_at": "2026-10-21T22:18:07",
+   "finished_at": "2026-10-21T22:22:04",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 2,
+    "unchanged": 2,
+    "conflicts": 0
+   }
+  },
+  "r5837": {
+   "lane": "A",
+   "status": "held",
+   "batch": 2,
+   "claimed_at": "2026-10-21T22:18:07",
+   "finished_at": "2026-10-21T22:22:04",
+   "note": "index hour L, p743 prints Off. lect.",
+   "question_id": 27
+  },
+  "r5846": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 2,
+   "claimed_at": "2026-10-21T22:18:07",
+   "finished_at": "2026-10-21T22:22:04",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r5848": {
+   "lane": "A",
+   "status": "held",
+   "batch": 2,
+   "claimed_at": "2026-10-21T22:18:07",
+   "finished_at": "2026-10-21T22:22:04",
+   "note": "index hour L V, p816 prints Off. lect. + Vesp.",
+   "question_id": 27
+  },
+  "r5855": {
+   "lane": "A",
+   "status": "held",
+   "batch": 3,
+   "claimed_at": "2026-10-21T22:52:52",
+   "finished_at": "2026-10-21T22:56:42",
+   "note": "p934 labels Martin's Vespers 'Laudes'; Iste confessor holds Lauds opt 1",
+   "question_id": 29
+  },
+  "r5856": {
+   "lane": "A",
+   "status": "held",
+   "batch": 3,
+   "claimed_at": "2026-10-21T22:52:52",
+   "finished_at": "2026-10-21T22:56:42",
+   "note": "code 'Mart' mapped PLUR; p1051 = Common of one martyr",
+   "question_id": 30
+  },
+  "r5864": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 3,
+   "claimed_at": "2026-10-21T22:52:52",
+   "finished_at": "2026-10-21T22:56:42",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r5867": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 3,
+   "claimed_at": "2026-10-21T22:52:52",
+   "finished_at": "2026-10-21T22:56:42",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r5882": {
+   "lane": "A",
+   "status": "held",
+   "batch": 3,
+   "claimed_at": "2026-10-21T22:52:52",
+   "finished_at": "2026-10-21T22:56:42",
+   "note": "Doctor egregie 25/3 is a 25/1 misprint (p709)",
+   "question_id": 31
+  },
+  "r5889": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 4,
+   "claimed_at": "2026-10-21T23:27:35",
+   "finished_at": "2026-10-21T23:29:51",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r5891": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 4,
+   "claimed_at": "2026-10-21T23:27:35",
+   "finished_at": "2026-10-21T23:29:51",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r5898": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 4,
+   "claimed_at": "2026-10-21T23:27:35",
+   "finished_at": "2026-10-21T23:29:52",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r5912": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 4,
+   "claimed_at": "2026-10-21T23:27:35",
+   "finished_at": "2026-10-21T23:29:52",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r5948": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 4,
+   "claimed_at": "2026-10-21T23:27:35",
+   "finished_at": "2026-10-21T23:29:52",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r5951": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 5,
+   "claimed_at": "2026-10-22T00:00:49",
+   "finished_at": "2026-10-22T00:05:17",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r5953": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 5,
+   "claimed_at": "2026-10-22T00:00:49",
+   "finished_at": "2026-10-22T00:05:17",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r5958": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 5,
+   "claimed_at": "2026-10-22T00:00:49",
+   "finished_at": "2026-10-22T00:05:17",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r5962": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 5,
+   "claimed_at": "2026-10-22T00:00:49",
+   "finished_at": "2026-10-22T00:05:17",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r5963": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 5,
+   "claimed_at": "2026-10-22T00:00:49",
+   "finished_at": "2026-10-22T00:05:17",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r5994": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 6,
+   "claimed_at": "2026-10-22T00:36:12",
+   "finished_at": "2026-10-22T00:39:58",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r6007": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 6,
+   "claimed_at": "2026-10-22T00:36:12",
+   "finished_at": "2026-10-22T00:39:58",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 2,
+    "unchanged": 2,
+    "conflicts": 0
+   }
+  },
+  "r6014": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 6,
+   "claimed_at": "2026-10-22T00:36:12",
+   "finished_at": "2026-10-22T00:39:58",
+   "summary": {
+    "mode": "verify",
+    "planned_rows": 1,
+    "unchanged": 1,
+    "conflicts": 0
+   }
+  },
+  "r6052": {
+   "lane": "A",
+   "status": "held",
+   "batch": 6,
+   "claimed_at": "2026-10-22T00:36:12",
+   "finished_at": "2026-10-22T00:39:58",
+   "note": "identity 15315 is mode 1 Dominican; p993 mode 2 ~ 17466",
+   "question_id": 33
+  }
+ }
+}

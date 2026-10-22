@@ -1,0 +1,17 @@
+{
+ "page": "346",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Die 2 februarii In Praesentatione Domini > AD OFFICIUM LECTIONIS > Legis sacratae (H.IV) running over from p345.",
+ "context_out": "In Praesentatione Domini > AD OFFICIUM LECTIONIS > Legis sacratae continues onto p347 (stanza 4 end, Amen), then Vel ut ad II Vesperas Quod chorus vatum p348 (already modeled on p345); AD LAUDES MATUTINAS begins on p347.",
+ "continues": {
+  "from_page": "345",
+  "incipit": "Legis sacratae"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "p346 holds only stanza 1 end through stanza 4 start of Legis sacratae; no drop-cap, no rubric. Written by the director from the rendered page."
+ ]
+}

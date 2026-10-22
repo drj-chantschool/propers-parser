@@ -1,0 +1,99 @@
+{
+ "page": "16",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "TEMPUS NATIVITATIS › I. Usque ad sollemnitatem Epiphaniae › section rule In Officio dominicali et feriali a I Vesperis Nativitatis Domini usque ad I Vesperas Epiphaniae Domini exclusive; Christe redemptor omnium (p14-15) finished on p15. p16 opens with the heading AD COMPLETORIUM.",
+ "context_out": "TEMPUS NATIVITATIS › I. Usque ad sollemnitatem Epiphaniae › AD INVITATORIUM › Christus natus est nobis (A.IV**) engraved on p16 with Psalmus 94 (Venite, IV**) begun on p16 and running over pp. 17-18 (still mid-psalm at foot of p18; index lists Christus apparuit again on p19).",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Te lucis ante terminum",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slugs": [
+    "NAT-DAY",
+    "NAT-IO",
+    "NAT-OCT",
+    "NAT-PO"
+   ],
+   "service": "COMPLINE",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD COMPLETORIUM"
+  },
+  {
+   "incipit": "Christus natus est nobis",
+   "kind": "engraved",
+   "mode": "IV**",
+   "lit_epoch_slugs": [
+    "NAT-DAY",
+    "NAT-IO",
+    "NAT-OCT",
+    "NAT-PO"
+   ],
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM"
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "engraved",
+   "mode": null,
+   "lit_epoch_slugs": [
+    "NAT-DAY",
+    "NAT-IO",
+    "NAT-OCT",
+    "NAT-PO"
+   ],
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "PSALMUS 94 (IV**), engraved from p16 (runs to p19)"
+  },
+  {
+   "incipit": "Christus apparuit nobis",
+   "kind": "engraved",
+   "mode": "IV**",
+   "lit_epoch_slug": "NAT-EPI-00-0",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": "In Epiphania",
+   "rubric": "In Epiphania: appa-ru-it (text substitution under Christus natus est nobis)",
+   "chant_uuid": "gregobase:13371",
+   "verified_despite": [
+    "GABC text starts '\"CHr"
+   ]
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "engraved",
+   "mode": null,
+   "lit_epoch_slug": "NAT-EPI-00-0",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": "In Epiphania",
+   "rubric": "PSALMUS 94 (IV**), engraved from p16 (runs to p19)"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Te lucis ante terminum H.II is the p16 edition (index row 5487); Advent p4 was H.IV.",
+  "Invitatory has no day rubric: applies every day of the section; Ps 94 is engraved on p16 itself (mode IV**), modeled as xref ref_page 16.",
+  "'In Epiphania: appa-ru-it' is a text substitution on the same melody; modeled as a separate invan row on NAT-EPI-00-0 using the index's own p16 'Christus apparuit' row (5561).",
+  "Director: Ps 94 IV** is engraved starting on p16 (drop cap), so invps rows are kind=engraved, not xref to own page. p19's A.E Christus natus/apparuit ('Infra octavam ad libitum et in feriis post Epiphaniam', Ps p168) belongs to p19.",
+  "Resolved by intake_queue #1 (user, 2026-10-18): Epiphany row 4 → gregobase:13371 (same melody as 18100 with the 'apparuit' text); index row 5561 relinked to 13371.",
+  "CHECK on 13371 is an encoding artefact: its gabc column is stored JSON-escaped (leading quote, í escapes); decoded text = Christus apparuit nobis, mode 4."
+ ]
+}

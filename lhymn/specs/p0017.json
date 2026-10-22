@@ -1,0 +1,14 @@
+{
+ "page": "17",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "TEMPUS NATIVITATIS › I. Usque ad sollemnitatem Epiphaniae › AD INVITATORIUM › Psalmus 94 (Venite, IV**) begun on p16, mid-psalm at top of p17 (verse 1 ending 'tari nostro. Praeoccupemus faciem eius').",
+ "context_out": "TEMPUS NATIVITATIS › I. Usque ad sollemnitatem Epiphaniae › AD INVITATORIUM › Psalmus 94 (Venite, IV**) still running: p17 ends mid-verse 'Venite adoremus ... qui fecit'; p18 continues 'nos, quia ipse est Dominus Deus noster' through 'Hodie si vocem eius' ... 'Si int-' and still mid-psalm at foot of p18 (runs on to p19).",
+ "continues": {"from_page": "16", "incipit": "Venite exsultemus"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Page holds only the middle of Ps 94 (IV**): verses Praeoccupemus, Quoniam Deus magnus, Quoniam non repellet, Quoniam ipsius est mare, Venite adoremus. No drop-cap, no new chant, no rubric. The Ps 94 invps rows were assigned on p16."
+ ]
+}

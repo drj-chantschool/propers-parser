@@ -1,0 +1,59 @@
+{
+ "page": "561",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense aprilis. 26 > S. Paschasii Radberti abbatis C.S.G. > De Communi sanctorum monachorum p. 537, praeter hymnum sequentem: > AD VIGILIAS (hymn Paschasi confessor Dei, H.VIII, begins at top of p561).",
+ "continues": null,
+ "context_out": "Die 11 maii SS. Odonis, Maioli, Odilonis, Hugonis & B. Petri Venerabilis abbatum Cluniacensium (Memoria) > AD VIGILIAS: hymn Rex gloriose praesulum (H.IV) begun on p561, running over onto p562 (stanzas 2-4, Amen), followed on p562 by 'Vel pro Congregatione solesmensi:' hymn Vocibus laetis (H.I).",
+ "rows": [
+  {
+   "incipit": "Paschasi, confessor Dei",
+   "kind": "engraved",
+   "mode": "VIII",
+   "index_row_id": 5391,
+   "allow_unresolved": true,
+   "lit_epoch_slug": "paschasius-radbertus-osb",
+   "service": "VIGILIAE",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "De Communi sanctorum monachorum, p. 537, praeter hymnum sequentem: AD VIGILIAS"
+  },
+  {
+   "incipit": "Exsultent in Domino sancti",
+   "kind": "xref",
+   "ref_page": 274,
+   "lit_epoch_slug": "cluny-abbots-osb",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM Ant. Exsultent in Domino sancti, p. 274."
+  },
+  {
+   "incipit": "Rex gloriose praesulum",
+   "kind": "engraved",
+   "mode": "IV",
+   "index_row_id": 5447,
+   "allow_unresolved": true,
+   "lit_epoch_slug": "cluny-abbots-osb",
+   "service": "VIGILIAE",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD VIGILIAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Paschasi, confessor Dei (index row 5391 unmatched) has no gregobase chant (searched incipit Paschas%); allow_unresolved, as with Laetus hic noster on p559. Printed: 4 stanza-pairs incl. Qui pace Christi, Per te quies, Ut caritate, Deo Patri doxology + Amen.",
+  "Paschasius Radbertus carries C.S.G. scope (recorded on p560); the hymn is part of that entry.",
+  "Index rows 5391 (Paschasi, confessor, m8, p561), 5447 (Rex gloriose praesulum, m4, p561), 5535 (Vocibus laetis, m1, p562) all 'unmatched' in chant_indices.",
+  "Director: created OSB epoch cluny-abbots-osb (11 May, MEMORIAL per printed 'Memoria', no common printed) and added its rows: INVITATORY xref Exsultent in Domino sancti p274, and OFFREAD Rex gloriose praesulum (index 5447 unmatched, unresolved). The 'Vel pro Congregatione solesmensi' Vocibus laetis is engraved on p562, so p562 assigns it as option 2.",
+  "Director, user rulings 2026-10-15: row 1 OFFREAD→VIGILIAE.hymn; row 3 OFFREAD→VIGILIAE.hymn; open questions left: 0"
+ ]
+}

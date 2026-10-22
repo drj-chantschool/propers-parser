@@ -1,0 +1,11 @@
+{"pipeline": "book-batch", "book": "OCO", "category": "modeling", "topic_key": "oco-lent-weekday-gospel-xrefs", "priority": 2,
+ "parent_id": 23,
+ "title": "Lent III-V weekdays: load the 'si quavis die legatur evangelium de …' cross-references?",
+ "prompt": "Carried out #23: the Year-A antiphons of Lent III/IV/V Sundays now load with no cycle_sun and option_txt 'cum Evangelio de Samaritana / de caeco nato / de Lazaro' (book: 'Quae antiphonae etiam aliis annis adhibendae sunt, si legatur evangelium de …', pp178/194/211). Reading the sections whole, v.6 also prints for each week (pp183, 199, 215-216): 'Infra hebdomadam, si quavis die legatur evangelium de Samaritana, antiphonae sequentes adhiberi possunt: Laudes B Aqua ut supra pro anno A, ad Benedictus; Vesp. M Mulier, venient dies ut supra pro anno A, ad Sextam' (and Rabbi / A saeculo for the man born blind; Lazarus amicus / Domine si hic, plus 'Inclinavit se' / 'Nemo te condemnavit' de dominica praecedente pro anno C, for Lazarus). These are cross-references, not index entries, so nothing loads them now. Load them as extra options on the weekdays of that week (TQ-LENT-03-2..7 etc., LAUDS.antB / VESPERS.antM, option_txt 'cum Evangelio de …'), or leave them?",
+ "pages": [{"book": "OCO", "page": "183", "note": "Samaritana weekday rubric"}, {"book": "OCO", "page": "199", "note": "caeco nato weekday rubric"}, {"book": "OCO", "page": "215", "note": "Lazaro weekday rubric"}, {"book": "OCO", "page": "216", "note": "continued"}],
+ "options": [{"label": "Load as weekday options", "detail": "one LPS row per weekday (Mon-Sat of that week) per cross-reference, same chant as the Sunday row, option_txt 'cum Evangelio de …'; a small loader extension reading these rubrics (hand-written list, 4 weeks x 2-4 chants)", "recommended": true},
+             {"label": "Leave them", "detail": "only the Sunday rows carry the gospel option"}],
+ "refs": [{"table": "intake_queue", "pk": {"question_id": 23}, "note": "parent"}],
+ "context": [{"label": "Contract", "path": "propers-parser/oco/specs/README.md"}],
+ "blocks": ["OCO:idx:lent-weekday-xrefs"],
+ "raised_by": "intake-triage 2026-10-20, follow-up to #23"}

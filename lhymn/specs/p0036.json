@@ -1,0 +1,10 @@
+{"page":"36","page_kind":"assign","jurisdiction":"UNIVERSAL",
+"context_in":"End of Die 1 ianuarii section (p35). New section opens p36: TEMPUS NATIVITATIS II. A SOLLEMNITATE EPIPHANIAE (NAT-EPI).",
+"context_out":"TEMPUS NATIVITATIS II. A sollemnitate Epiphaniae (NAT-EPI) > In Officio de Tempore, ab Epiphania Domini usque ad festum Baptismatis Domini exclusive > AD VESPERAS: Hostis Herodes impie (H.III) begins p36 (stanzas 1-4 start), ends p37 (stanzas 4-5, doxology, Amen; final double bar). Then p37: AD COMPLETORIUM Christe qui splendor et dies (H.VIII) begins p37 (belongs to p37 spec).",
+"continues":null,
+"rows":[
+{"incipit":"Hostis Herodes impie","kind":"engraved","mode":"III","lit_epoch_slug":"NAT-EPI","service":"VESPERS1","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"In Officio de Tempore, ab Epiphania Domini usque ad festum Baptismatis Domini exclusive: AD VESPERAS"},
+{"incipit":"Hostis Herodes impie","kind":"engraved","mode":"III","lit_epoch_slug":"NAT-EPI","service":"VESPERS","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"In Officio de Tempore, ab Epiphania Domini usque ad festum Baptismatis Domini exclusive: AD VESPERAS"}
+],
+"common_refs":[],"questions":[],
+"flags":["Plain AD VESPERAS under a section-wide rule beginning at Epiphany: emitted as both VESPERS1 and VESPERS on season slug NAT-EPI, wkday null (p14 precedent). Page 14's section rule ended 'ad I Vesperas Epiphaniae exclusive', so Epiphany's own I Vespers falls under this section's hymn; no explicit NAT-EPI-00-0 rows emitted (the rubric is season-wide, and the loader/day inheritance from NAT-EPI is assumed to cover the solemnity). Reviewer may add NAT-EPI-00-0 rows if the solemnity needs its own.","Hymn runs over to p37 (stanzas 4-5, doxology, Amen); no vel/Ad libitum line follows."]}

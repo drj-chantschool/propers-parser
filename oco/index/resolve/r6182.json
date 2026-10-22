@@ -1,0 +1,11 @@
+{
+ "row_id": 6182,
+ "verdict": "index_error",
+ "chant_uuid": null,
+ "chant_group_id": null,
+ "evidence": "No engraved chant exists for this row. The 'Alleluia' entries are the rubric 'Psalmi cum Alleluia (in tonis diversis)' = the psalms are sung under a plain Alleluia, in whichever psalm tone, so there is no melody to match. The Compline instance is on p280 (heading 'B. Usque ad Ascensionem Domini', 'Pro cunctis diebus': 'Compl. H Iesu redemptor saeculi (LHym 77)' then the italic rubric 'Psalmi cum Alleluia (in tonis diversis).'), i.e. the Compline psalmody of Easter weekdays through Ascension. Same rubric after Ascension on p348 (Compl.: hymn Iesu redemptor, then 'Psalmi cum Alleluia (in tonis diversis)'). Compline psalmody p684-689 and p698ff were checked and contain no Alleluia antiphon. Siblings: 6181 Hm = p280 ('Hor. med.' rubric, same page); 6176 Ol, 6177 L1, 6179 L3 = p282 ('In officio feriali': Off. lect. / Laudes 1 / Laudes 3 rubrics); 6178 V1, 6180 V2 = p285 (two 'Psalmus cum Alleluia' rubrics at Vespers, 'ubi placuerit ambi psalmi canuntur sub antiphona alleluiatica'); p349 repeats them for the post-Ascension weeks. LPS TARGETS 'place None at COMPLINE': the page shows the slot is the Compline psalm antiphon (the psalm(s) of Compline, rubric names psalmi plural). Proposal: antiphon slot for Compline psalmody, no chant identity; either leave unmatched (rubric only, nothing to link) or load as a text-only 'Alleluia' antiphon for Easter-time weekday Compline. No part code invented.",
+ "rejected": [],
+ "assignment": null,
+ "index_fix": {"column": "page", "from": null, "to": "280", "why": "empty GoTo in the PDF; the only Compline 'Psalmi cum Alleluia (in tonis diversis)' rubric for Easter weekdays through Ascension is on p280 (p348 for the Ascension-Pentecost span); the rubric has no engraved melody"},
+ "question": "Row 6182 (and siblings 6176-6181) are rubrics 'Psalmi cum Alleluia (in tonis diversis)', not engraved chants, so there is no gregobase chant to link. Options: (a) mark all seven rows unmatched/rubric-only with the page fixes (6182 -> 280, 6181 -> 280, 6176/6177/6179 -> 282, 6178/6180 -> 285), recommended; (b) load a text-only 'Alleluia' antiphon in the Easter-weekday psalmody slots."
+}

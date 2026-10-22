@@ -1,0 +1,54 @@
+{
+ "page": "573",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense iunii > Die 2 iunii SS. Pothini, Blandinae et sociorum (C.S.G.) > De Communi plurimorum martyrum, p. 273, praeter sequentia ad libitum > AD LAUDES hymn Mox ad theatrum (p572) done; p573 opens with AD VESPERAS.",
+ "continues": null,
+ "context_out": "Die 4 iunii S. Clotildis, reginae (C.S.G.) > De Communi sanctarum mulierum, p. 318, praeter sequentia ad libitum > AD VIGILIAS hymn O regum suboles (H.II) begins p573, ends 'nubila pelles.' + 4 text stanzas + Amen on p574. Next on p574: AD LAUDES MATUTINAS Quae nunc bella strepunt (H.II).",
+ "rows": [
+  {
+   "incipit": "Triumphat mundi principem",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "pothinus-blandina-and-companions-osb",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_txt": null,
+   "rubric": "De Communi plurimorum martyrum, p. 273, praeter sequentia ad libitum: AD VESPERAS",
+   "after_common": true
+  },
+  {
+   "incipit": "O regum suboles",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "clotildis-osb",
+   "service": "VIGILIAE",
+   "part": "hymn",
+   "wkday": null,
+   "option_txt": null,
+   "rubric": "De Communi sanctarum mulierum, p. 318, praeter sequentia ad libitum: AD VIGILIAS",
+   "index_row_id": 5373,
+   "allow_unresolved": true,
+   "after_common": true
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "clotildis-osb",
+   "common_slug": "COM-SANCT-MULIER-UNA",
+   "common_page": 318,
+   "ref_option": 1,
+   "rubric": "De Communi sanctarum mulierum, p. 318, praeter sequentia ad libitum:"
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Triumphat mundi: index row 5512 -> gregobase:9277 (resolved_with_difficulty); verify dry-run line.",
+  "O regum suboles: index row 5373 unmatched, so allow_unresolved with index_row_id; run-over onto p574 (ends 'nubila pelles.' then 4 stanzas, Amen) read.",
+  "S. Clotildis marked C.S.G. (Solesmes congregation French houses): scopes this entry only.",
+  "p574 AD LAUDES Quae nunc bella strepunt belongs to p574's producer.",
+  "Director: created OSB saint clotildis-osb (4 June, C.S.G., UNDETERMINED, common_of COM-SANCT-MULIER).",
+  "Director, user rulings 2026-10-15: row 1 after_common (ad libitum: Common opt1, proper after); row 2 OFFREAD→VIGILIAE.hymn; row 2 after_common (ad libitum: Common opt1, proper after); open questions left: 0"
+ ]
+}

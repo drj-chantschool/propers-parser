@@ -1,0 +1,9 @@
+{"page":"5","page_kind":"assign","jurisdiction":"UNIVERSAL",
+"context_in":"TEMPUS ADVENTUS › I. Usque ad diem 16 decembris (running head) › AD INVITATORIUM › In feriis: end of Regem venturum (VI); top of p. 5 holds its cue Ps. Venite, p. 149 (already assigned on p. 4)",
+"context_out":"TEMPUS ADVENTUS › I. Usque ad diem 16 decembris › AD OFFICIUM LECTIONIS: Verbum supernum prodiens (H.II) begins on p. 5, ends on p. 6 (5 stanzas + Amen), followed by rubric 'Ad libitum hymnus cantari potest in tono hymni Vox clara de laudibus matutinis.'; then AD LAUDES MATUTINAS begins on p. 6 with Vox clara (H.D), which runs on beyond p. 6",
+"continues":{"from_page":"4","incipit":"Regem venturum Dominum (In feriis) - Ps. Venite, p. 149 cue at top of p. 5, assigned on p. 4"},
+"rows":[
+{"incipit":"Verbum supernum prodiens a Patre lumen exiens","kind":"engraved","mode":"II","lit_epoch_slug":"ADV-I","service":"OFFREAD","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD OFFICIUM LECTIONIS (Usque ad diem 16 decembris)"}
+],
+"common_refs":[],"questions":[],
+"flags":["Only one Office of Readings hymn is printed (no noctu/interdiu I/II split), so option_num 1, wkday null for the whole section.","Verbum supernum runs p. 5 -> p. 6 (final double bar after 'Amen' on p. 6).","p. 6 line 'Ad libitum hymnus cantari potest in tono hymni Vox clara de laudibus matutinis' is a tone-substitution rubric for Verbum supernum, not a separate chant, so no row; Vox clara itself begins on p. 6 (Lauds) and belongs to p. 6's spec."]}

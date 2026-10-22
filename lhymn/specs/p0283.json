@@ -1,0 +1,34 @@
+{
+ "page": "283",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum > COMMUNE MARTYRUM PRO UNO (COM-MART-UNO), running head 'Unius martyris' > AD OFFICIUM LECTIONIS > rubric 'Pro martyre virgine' > hymn O Christe flos convallium (H.I) stanzas 3-5 + doxology + Amen at top of p283.",
+ "context_out": "COM-MART-UNO > AD LAUDES MATUTINAS > hymn Martyr Dei qui unicum (H.VI), stanza 1 begun p283, stanzas 1 (cont.)-4 + doxology + Amen end on p284 (final double bar after 'Amen'). Then p284 prints rubric 'Pro martyre virgine:' with hymn O castitatis signifer (H.VI) beginning at the bottom of p284 (belongs to p284).",
+ "continues": {
+  "from_page": "282",
+  "incipit": "O Christe flos convallium"
+ },
+ "rows": [
+  {
+   "incipit": "Martyr Dei qui unicum",
+   "kind": "engraved",
+   "mode": "VI",
+   "lit_epoch_slug": "COM-MART-UNO",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS",
+   "notes": "Text variants printed for other subjects (pro uno/una/pluribus or feminine forms); same melody."
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Top of p283 is stanzas 3-5 + doxology + Amen of O Christe flos convallium (assigned p282): in continues only.",
+  "Martyr Dei qui unicum runs onto p284 and ends there at the final double bar after Amen; no vel/Ad libitum line follows on p284 (the 'Pro martyre virgine:' O castitatis signifer is a separate chant starting on p284).",
+  "No 'Tempore paschali' alternative on p283.",
+  "Director, user rulings 2026-10-15: text-only variants (one chant) kept as one row; variants described in notes (ruling 1)"
+ ]
+}

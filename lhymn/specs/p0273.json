@@ -1,0 +1,103 @@
+{
+ "page": "273",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum › COMMUNE APOSTOLORUM (COM-APOST) › AD II VESPERAS: end of 'Tempore paschali' hymn Tristes erant Apostoli (stanza 6 + Amen at top of p273).",
+ "context_out": "COM-MART-PLUR (COMMUNE MARTYRUM, PRO PLURIBUS MARTYRIBUS) › AD INVITATORIUM: 'In sollemnitatibus et festis' and 'In memoriis' antiphons Regem martyrum engraved on p273; the memoriis Ps. Venite cue (p. 168) is printed at top of p274. p274 then prints 'Tempore paschali' Exsultent in Domino sancti (A.VI*, Ps. p. 154) and opens AD OFFICIUM LECTIONIS with hymn Rex gloriose martyrum (H.IV), which runs over to the next page.",
+ "continues": {
+  "from_page": "271",
+  "incipit": "Tristes erant Apostoli"
+ },
+ "rows": [
+  {
+   "incipit": "Sanctorum meritis",
+   "kind": "xref",
+   "ref_page": 277,
+   "lit_epoch_slug": "COM-MART-PLUR",
+   "service": "VESPERS1",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD I VESPERAS: Hymnus Sanctorum meritis, ut ad II Vesperas, p. 277."
+  },
+  {
+   "incipit": "Regem martyrum",
+   "kind": "engraved",
+   "mode": "IV*",
+   "lit_epoch_slug": "COM-MART-PLUR",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "rank_codes": [
+    "SOLEMNITY",
+    "FEAST",
+    "FEAST_OF_THE_LORD"
+   ],
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM: In sollemnitatibus et festis"
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 141,
+   "mode": "IV*",
+   "lit_epoch_slug": "COM-MART-PLUR",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "rank_codes": [
+    "SOLEMNITY",
+    "FEAST",
+    "FEAST_OF_THE_LORD"
+   ],
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Ps. Venite, p. 141."
+  },
+  {
+   "incipit": "Regem martyrum",
+   "kind": "engraved",
+   "mode": "E",
+   "index_row_id": 5603,
+   "allow_unresolved": true,
+   "lit_epoch_slug": "COM-MART-PLUR",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "rank_codes": [
+    "MEMORIAL",
+    "OPTIONAL_MEMORIAL"
+   ],
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "In memoriis"
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 168,
+   "mode": "E",
+   "lit_epoch_slug": "COM-MART-PLUR",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "rank_codes": [
+    "MEMORIAL",
+    "OPTIONAL_MEMORIAL"
+   ],
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Ps. Venite, p. 168. (cue printed at top of p274)"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "In memoriis Regem martyrum A.E: LH index row 5603 (p273, mode e) is unmatched and gregobase has no mode-E / LH-1983 chant for it (10558 is the m4* festal one, 16080/16651/16652/19680 are other traditions). Row left allow_unresolved via index_row_id 5603. Its Ps. Venite p168 xref row resolves normally.",
+  "Top of page is the end of Tristes erant Apostoli (assigned p271); no vel line follows it.",
+  "Both Regem martyrum antiphons are option 1 within their own rank_codes set (rank-distinguished).",
+  "The memoriis invps cue (Ps. Venite p. 168) is printed at top of p274; assigned here with its antiphon. The 'Tempore paschali' Exsultent in Domino sancti antiphon is engraved on p274 and is the p274 producer's (its Ps. p. 154 goes with it)."
+ ]
+}

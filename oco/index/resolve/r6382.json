@@ -1,0 +1,40 @@
+{
+ "row_id": 6382,
+ "verdict": "link",
+ "chant_uuid": "gregobase:11082",
+ "chant_group_id": 7782,
+ "evidence": "DIRECTOR CORRECTION: p667 Feria IV Ol.1 8c: 'Dó-mi-no' = f | de | e and termination 8c E-u-o-u-a-e = h h f h i h, = 11082 (Verona) exactly; 7782 and 20423 have Dó(e) and termination ending e (h h g h f e); 18543 is a c4 Cistercian variant (a-ni-ma clivis gf…, me-a hf). Agent's original: p667 (Feria IV, Off. lect. 1; ref Ps 103,1; CAO 3-1682; PM 236) 'Benedic, anima mea, Domino.' 8c, Evovae. show_row printed no candidates (no cantusid/ref match), found by incipit search: gregobase 7782, 11082, 20423 (c3 h gh f * ed e f g f e de e; Evovae h h g h f e) and 18543 (c4 transposition) are all in chant_group 7782, same melody and short text form, mode 8; none has source page data, so no edition is preferable. Closest others rejected.",
+ "rejected": [
+  {
+   "chant_uuid": "gregobase:1359",
+   "why": "mode 5 offertory"
+  },
+  {
+   "chant_uuid": "gregobase:480",
+   "why": "mode 4 alleluia"
+  },
+  {
+   "chant_uuid": "gregobase:5873",
+   "why": "mode 3 communion"
+  },
+  {
+   "chant_uuid": "gregobase:64",
+   "why": "psalm text"
+  },
+  {
+   "chant_uuid": "gregobase:7782",
+   "why": "Dó(e), termination ends e"
+  },
+  {
+   "chant_uuid": "gregobase:20423",
+   "why": "Dó(e), termination ends e"
+  },
+  {
+   "chant_uuid": "gregobase:18543",
+   "why": "Cistercian variant"
+  }
+ ],
+ "assignment": null,
+ "index_fix": null,
+ "question": null
+}

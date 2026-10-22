@@ -1,0 +1,20 @@
+{
+ "page": "520",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > Die 29 iunii SS. PETRI ET PAULI, APOSTOLORUM (ss-peter-paul) > R.VIII Tu es pastor ovium (begun p519), ends top of p520 '* Et ideo.'",
+ "context_out": "RESPONSORIA > Die 11 iulii S. BENEDICTI, ABBATIS (st-benedict-of-nursia) > R.I Sanctissime confessor Christi begins p520, runs onto p521 ending '* Intercede.' (no vel line). Next on p521: Die 15 augusti IN ASSUMPTIONE B. MARIAE VIRGINIS, Post priorem lectionem, R.IV Diffusa est gratia (begins p521).",
+ "continues": {"from_page": "519", "incipit": "Tu es pastor ovium"},
+ "rows": [
+  {"incipit": "Sanctissime confessor Christi", "kind": "engraved", "mode": "I",
+   "lit_epoch_slug": "st-benedict-of-nursia", "service": "OFFREAD", "part": "resp",
+   "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "Die 11 iulii S. BENEDICTI, ABBATIS; R.I (runs onto p521)"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Slug st-benedict-of-nursia given by director for 'Die 11 iulii S. Benedicti, abbatis'. Sanctissime confessor placed as resp (no 'Post alteram' printed). Page is general Responsoria, no O.S.B. marking: UNIVERSAL.",
+  "Sanctissime confessor read through p521 final double bar: ends '* Intercede.', no vel/xref line follows."
+ ]
+}

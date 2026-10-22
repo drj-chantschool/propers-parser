@@ -1,0 +1,4 @@
+{"row_id": 6383, "verdict": "link", "chant_uuid": "gregobase:10885", "chant_group_id": 10885,
+ "evidence": "p581 L.3 'Benedic, Domine, hereditatem tuam.' 4e, CAO 1686; engraving opens low-rising: note, step down, back, then up a third (podatus) to the reciting note, ends tu-am on two equal low notes = 10885 'e d e g gh h ... tu(e)am(e)'; 10884 opens g gh h with no dip and ends f e, so does not fit",
+ "rejected": [{"chant_uuid": "gregobase:10884", "why": "Verona mode 4 e-g version: opens g gh h (no initial dip), cadence tu(f)am(e) vs engraved equal low notes"}],
+ "assignment": null, "index_fix": null, "question": null}

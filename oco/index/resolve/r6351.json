@@ -1,0 +1,28 @@
+{
+ "row_id": 6351,
+ "verdict": "link",
+ "chant_uuid": "gregobase:10713",
+ "chant_group_id": 2372,
+ "evidence": "DIRECTOR CORRECTION: p634 L.1 8g engraving has a clivis on 'qui' and a pes on 'há' (… g gj h | hg | gh h g * f g h i hg h g g), = 10713 (Verona c3: qui(ed) há(ef), transposed a third) exactly; 2372/12185 (same group) have single notes qui(g) há(h'), so the group members are not equal. Agent's original: p634 Laudes H 'Ut in hebd. I.' L1 'Beati qui habitant in domo tua Domine. Euouae' 8g, ref Ps 83,5; PM 191. Engraving c4 opening g, high pair, h g h g g, 'in' down a step then up to i, cadence 'Domine' g; 2372 (LU1961 3:279Q, 48:176) and 12185 (48:177) share exactly these neumes in c4, same group 2372, neither tied to PM 1981 (24), so no edition is better. TOC L3 Feria II p633 fits 3H2 L.",
+ "rejected": [
+  {
+   "chant_uuid": "gregobase:10713",
+   "why": "Verona c3 transposition of same melody, same group 2372, not engraved clef"
+  },
+  {
+   "chant_uuid": "gregobase:17979",
+   "why": "longer text 'in saecula saeculorum', different chant"
+  },
+  {
+   "chant_uuid": "gregobase:2372",
+   "why": "single notes on qui/há"
+  },
+  {
+   "chant_uuid": "gregobase:12185",
+   "why": "single notes on qui/há"
+  }
+ ],
+ "assignment": null,
+ "index_fix": null,
+ "question": null
+}

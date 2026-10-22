@@ -1,0 +1,3476 @@
+{
+ "source": "bookmark outline of oco.pdf, Ordo Cantus Officii editio cum cantu v.6 (A.D. MMXXV; replaced v.4 2026-10-20) — the book prints no contents page; outline pages converted to printed pages (oco/oco_pages.py; every running head checked); corrected: Feria II 50->49 and Feria III 51->50 under Antiphonae ad Laudes et Vesperas a die 17 ad diem 23 decembris (outline off by one in v.4 and v.6; headings verified in text layer)",
+ "pdf_page_rule": "v.6: pdf = printed for 1-973, pdf = printed - 1 from printed 975 (printed 974, a blank verso, is not in the PDF); see oco/oco_pages.py",
+ "entries": [
+  [
+   1,
+   "I. PROPRIUM DE TEMPORE",
+   3
+  ],
+  [
+   2,
+   "I. Tempus Adventus",
+   3
+  ],
+  [
+   3,
+   "a. Usque ad diem 16 decembris",
+   8
+  ],
+  [
+   4,
+   "Hebdomada I Adventus",
+   9
+  ],
+  [
+   5,
+   "Dominica",
+   9
+  ],
+  [
+   5,
+   "Feria II",
+   15
+  ],
+  [
+   5,
+   "Feria III",
+   16
+  ],
+  [
+   5,
+   "Feria IV",
+   17
+  ],
+  [
+   5,
+   "Feria V",
+   18
+  ],
+  [
+   5,
+   "Feria VI",
+   19
+  ],
+  [
+   5,
+   "Sabbato",
+   19
+  ],
+  [
+   4,
+   "Hebdomada II Adventus",
+   20
+  ],
+  [
+   5,
+   "Dominica",
+   20
+  ],
+  [
+   5,
+   "Feria II",
+   26
+  ],
+  [
+   5,
+   "Feria III",
+   27
+  ],
+  [
+   5,
+   "Feria IV",
+   28
+  ],
+  [
+   5,
+   "Feria V",
+   29
+  ],
+  [
+   5,
+   "Feria VI",
+   29
+  ],
+  [
+   5,
+   "Sabbato",
+   30
+  ],
+  [
+   4,
+   "Hebdomada III Adventus",
+   31
+  ],
+  [
+   5,
+   "Dominica",
+   31
+  ],
+  [
+   5,
+   "Feria II",
+   38
+  ],
+  [
+   5,
+   "Feria III",
+   39
+  ],
+  [
+   5,
+   "Feria IV",
+   40
+  ],
+  [
+   5,
+   "Feria V",
+   41
+  ],
+  [
+   5,
+   "Feria VI",
+   42
+  ],
+  [
+   3,
+   "b. Post diem 16 decembris",
+   43
+  ],
+  [
+   4,
+   "Dominica IV Adventus",
+   44
+  ],
+  [
+   4,
+   "Antiphonae ad Laudes et Vesperas a die 17 ad diem 23 decembris",
+   49
+  ],
+  [
+   5,
+   "Feria II",
+   49
+  ],
+  [
+   5,
+   "Feria III",
+   50
+  ],
+  [
+   5,
+   "Feria IV",
+   52
+  ],
+  [
+   5,
+   "Feria V",
+   53
+  ],
+  [
+   5,
+   "Feria VI",
+   54
+  ],
+  [
+   5,
+   "Sabbato",
+   55
+  ],
+  [
+   4,
+   "Antiphonae ipsis diebus decembris a 17 ad 24 assignatae",
+   56
+  ],
+  [
+   5,
+   "Die 17 decembris",
+   56
+  ],
+  [
+   5,
+   "Die 18 decembris",
+   57
+  ],
+  [
+   5,
+   "Die 19 decembris",
+   58
+  ],
+  [
+   5,
+   "Die 20 decembris",
+   59
+  ],
+  [
+   5,
+   "Die 21 decembris",
+   60
+  ],
+  [
+   5,
+   "Die 22 decembris",
+   61
+  ],
+  [
+   5,
+   "Die 23 decembris",
+   62
+  ],
+  [
+   5,
+   "Die 24 decembris",
+   63
+  ],
+  [
+   2,
+   "II. Tempus Nativitatis",
+   67
+  ],
+  [
+   3,
+   "a. Usque ad sollemnitatem Epiphaniae",
+   67
+  ],
+  [
+   4,
+   "Die 25 decembris -- In Nativitate Domini",
+   68
+  ],
+  [
+   4,
+   "Dominica infra octavam Nativitatis",
+   76
+  ],
+  [
+   4,
+   "S. Familiae Iesu, Maria et Ioseph",
+   76
+  ],
+  [
+   4,
+   "Die 26 decembris",
+   85
+  ],
+  [
+   4,
+   "Die 27 decembris",
+   85
+  ],
+  [
+   4,
+   "Die 28 decembris",
+   86
+  ],
+  [
+   4,
+   "Die 29 decembris",
+   86
+  ],
+  [
+   4,
+   "Die 30 decembris",
+   88
+  ],
+  [
+   4,
+   "Die 31 decembris",
+   90
+  ],
+  [
+   4,
+   "Die 1 ianuarii -- In sollemnitate Sanctae Dei Genetricis Mariae",
+   91
+  ],
+  [
+   4,
+   "Diebus inter octavam Nativitatis et Epiphaniam",
+   100
+  ],
+  [
+   5,
+   "Dominica II post Nativitatem",
+   101
+  ],
+  [
+   5,
+   "Die 2 ianuarii",
+   106
+  ],
+  [
+   5,
+   "Die 3 ianuarii",
+   107
+  ],
+  [
+   5,
+   "Die 4 ianuarii",
+   108
+  ],
+  [
+   5,
+   "Die 5 ianuarii",
+   109
+  ],
+  [
+   5,
+   "Die 6 ianuarii",
+   110
+  ],
+  [
+   5,
+   "Die 7 ianuarii",
+   111
+  ],
+  [
+   3,
+   "b. A sollemnitate Epiphaniae",
+   113
+  ],
+  [
+   4,
+   "Die 6 ianuarii - In Epiphania Domini",
+   114
+  ],
+  [
+   4,
+   "Diebus inter Epiphaniam et Baptisma Domini",
+   122
+  ],
+  [
+   5,
+   "Die 7 ianuarii vel feria II",
+   123
+  ],
+  [
+   5,
+   "Die 8 ianuarii vel feria III",
+   125
+  ],
+  [
+   5,
+   "Die 9 ianuarii vel feria IV",
+   125
+  ],
+  [
+   5,
+   "Die 10 ianuarii vel feria V",
+   126
+  ],
+  [
+   5,
+   "Die 11 ianuarii vel feria VI",
+   127
+  ],
+  [
+   5,
+   "Die 12 ianuarii vel sabbato",
+   128
+  ],
+  [
+   4,
+   "Dominica post Epiphaniam",
+   129
+  ],
+  [
+   4,
+   "In Baptismate Domini",
+   129
+  ],
+  [
+   2,
+   "III. Tempus Quadragesimae",
+   140
+  ],
+  [
+   3,
+   "a. Usque ad sabbatum hebdomadae quintae",
+   140
+  ],
+  [
+   4,
+   "Feria IV Cinerum",
+   145
+  ],
+  [
+   4,
+   "Feria V post Cineres",
+   146
+  ],
+  [
+   4,
+   "Feria VI post Cineres",
+   146
+  ],
+  [
+   4,
+   "Sabbato post Cineres",
+   147
+  ],
+  [
+   4,
+   "Hebdomada I Quadragesimae",
+   148
+  ],
+  [
+   5,
+   "Dominica",
+   148
+  ],
+  [
+   5,
+   "Feria II",
+   155
+  ],
+  [
+   5,
+   "Feria III",
+   155
+  ],
+  [
+   5,
+   "Feria IV",
+   156
+  ],
+  [
+   5,
+   "Feria V",
+   157
+  ],
+  [
+   5,
+   "Feria VI",
+   158
+  ],
+  [
+   5,
+   "Sabbato",
+   160
+  ],
+  [
+   4,
+   "Hebdomada II Quadragesimae",
+   160
+  ],
+  [
+   5,
+   "Dominica",
+   160
+  ],
+  [
+   5,
+   "Feria II",
+   167
+  ],
+  [
+   5,
+   "Feria III",
+   168
+  ],
+  [
+   5,
+   "Feria IV",
+   169
+  ],
+  [
+   5,
+   "Feria V",
+   170
+  ],
+  [
+   5,
+   "Feria VI",
+   171
+  ],
+  [
+   5,
+   "Sabbato",
+   172
+  ],
+  [
+   4,
+   "Hebdomada III Quadragesimae",
+   173
+  ],
+  [
+   5,
+   "Dominica",
+   173
+  ],
+  [
+   5,
+   "Feria II",
+   184
+  ],
+  [
+   5,
+   "Feria III",
+   184
+  ],
+  [
+   5,
+   "Feria IV",
+   185
+  ],
+  [
+   5,
+   "Feria V",
+   186
+  ],
+  [
+   5,
+   "Feria VI",
+   187
+  ],
+  [
+   5,
+   "Sabbato",
+   188
+  ],
+  [
+   4,
+   "Hebdomada IV Quadragesimae",
+   189
+  ],
+  [
+   5,
+   "Dominica",
+   189
+  ],
+  [
+   5,
+   "Feria II",
+   200
+  ],
+  [
+   5,
+   "Feria III",
+   201
+  ],
+  [
+   5,
+   "Feria IV",
+   202
+  ],
+  [
+   5,
+   "Feria V",
+   203
+  ],
+  [
+   5,
+   "Feria VI",
+   203
+  ],
+  [
+   5,
+   "Sabbato",
+   204
+  ],
+  [
+   4,
+   "Hebdomada V Quadragesimae",
+   205
+  ],
+  [
+   5,
+   "Dominica",
+   205
+  ],
+  [
+   5,
+   "Feria II",
+   216
+  ],
+  [
+   5,
+   "Feria III",
+   217
+  ],
+  [
+   5,
+   "Feria IV",
+   217
+  ],
+  [
+   5,
+   "Feria V",
+   218
+  ],
+  [
+   5,
+   "Feria VI",
+   219
+  ],
+  [
+   5,
+   "Sabbato",
+   220
+  ],
+  [
+   3,
+   "b. Hebdomada sancta usque ad nonam feriae V inclusive",
+   221
+  ],
+  [
+   4,
+   "Dominica in Palmis de Passione Domini",
+   224
+  ],
+  [
+   4,
+   "Feria II",
+   230
+  ],
+  [
+   4,
+   "Feria III",
+   232
+  ],
+  [
+   4,
+   "Feria IV",
+   236
+  ],
+  [
+   4,
+   "Feria V",
+   239
+  ],
+  [
+   4,
+   "Sacrum Triduum Paschale",
+   240
+  ],
+  [
+   5,
+   "Feria V in Cena Domini",
+   240
+  ],
+  [
+   5,
+   "Feria VI in Passione Domini",
+   243
+  ],
+  [
+   5,
+   "Sabbato Sancto",
+   250
+  ],
+  [
+   4,
+   "Dominica Paschae in Resurrectione Domini",
+   258
+  ],
+  [
+   2,
+   "IV. Tempus paschale",
+   265
+  ],
+  [
+   3,
+   "a. Infra octavam Paschae",
+   265
+  ],
+  [
+   4,
+   "Feria II",
+   265
+  ],
+  [
+   4,
+   "Feria III",
+   267
+  ],
+  [
+   4,
+   "Feria IV",
+   269
+  ],
+  [
+   4,
+   "Feria V",
+   272
+  ],
+  [
+   4,
+   "Feria VI",
+   274
+  ],
+  [
+   4,
+   "Sabbato",
+   276
+  ],
+  [
+   4,
+   "Dominica in octava Paschae",
+   278
+  ],
+  [
+   3,
+   "b. Usque ad Ascensionem Domini",
+   280
+  ],
+  [
+   4,
+   "Hebdomada II Paschae",
+   288
+  ],
+  [
+   5,
+   "Feria II",
+   288
+  ],
+  [
+   5,
+   "Feria III",
+   289
+  ],
+  [
+   5,
+   "Feria IV",
+   290
+  ],
+  [
+   5,
+   "Feria V",
+   291
+  ],
+  [
+   5,
+   "Feria VI",
+   292
+  ],
+  [
+   5,
+   "Sabbato",
+   293
+  ],
+  [
+   4,
+   "Hebdomada III Paschae",
+   293
+  ],
+  [
+   5,
+   "Dominica",
+   293
+  ],
+  [
+   5,
+   "Feria II",
+   301
+  ],
+  [
+   5,
+   "Feria III",
+   301
+  ],
+  [
+   5,
+   "Feria IV",
+   302
+  ],
+  [
+   5,
+   "Feria V",
+   303
+  ],
+  [
+   5,
+   "Feria VI",
+   304
+  ],
+  [
+   5,
+   "Sabbato",
+   305
+  ],
+  [
+   4,
+   "Hebdomada IV Paschae",
+   306
+  ],
+  [
+   5,
+   "Dominica",
+   306
+  ],
+  [
+   5,
+   "Feria II",
+   312
+  ],
+  [
+   5,
+   "Feria III",
+   312
+  ],
+  [
+   5,
+   "Feria IV",
+   313
+  ],
+  [
+   5,
+   "Feria V",
+   314
+  ],
+  [
+   5,
+   "Feria VI",
+   315
+  ],
+  [
+   5,
+   "Sabbato",
+   316
+  ],
+  [
+   4,
+   "Hebdomada V Paschae",
+   316
+  ],
+  [
+   5,
+   "Dominica",
+   316
+  ],
+  [
+   5,
+   "Feria II",
+   323
+  ],
+  [
+   5,
+   "Feria III",
+   324
+  ],
+  [
+   5,
+   "Feria IV",
+   325
+  ],
+  [
+   5,
+   "Feria V",
+   325
+  ],
+  [
+   5,
+   "Feria VI",
+   326
+  ],
+  [
+   5,
+   "Sabbato",
+   327
+  ],
+  [
+   4,
+   "Hebdomada VI Paschae",
+   327
+  ],
+  [
+   5,
+   "Dominica",
+   327
+  ],
+  [
+   5,
+   "Feria II",
+   333
+  ],
+  [
+   5,
+   "Feria III",
+   334
+  ],
+  [
+   5,
+   "Feria IV",
+   335
+  ],
+  [
+   5,
+   "Feria V",
+   336
+  ],
+  [
+   5,
+   "Feria VI",
+   337
+  ],
+  [
+   5,
+   "Sabbato",
+   339
+  ],
+  [
+   4,
+   "In Ascensione Domini",
+   339
+  ],
+  [
+   3,
+   "c. Post Ascensionem Domini",
+   348
+  ],
+  [
+   4,
+   "Hebdomada VI Paschae",
+   350
+  ],
+  [
+   5,
+   "Feria VI",
+   350
+  ],
+  [
+   5,
+   "Sabbato",
+   350
+  ],
+  [
+   4,
+   "Hebdomada VII Paschae",
+   351
+  ],
+  [
+   5,
+   "Dominica",
+   351
+  ],
+  [
+   5,
+   "Feria II",
+   355
+  ],
+  [
+   5,
+   "Feria III",
+   356
+  ],
+  [
+   5,
+   "Feria IV",
+   357
+  ],
+  [
+   5,
+   "Feria V",
+   358
+  ],
+  [
+   5,
+   "Feria VI",
+   359
+  ],
+  [
+   5,
+   "Sabbato",
+   360
+  ],
+  [
+   4,
+   "Dominica Pentecostes",
+   361
+  ],
+  [
+   2,
+   "V. Tempus per annum",
+   372
+  ],
+  [
+   3,
+   "a. In Dominicis",
+   372
+  ],
+  [
+   4,
+   "I. Ad I Vesperas",
+   372
+  ],
+  [
+   5,
+   "Cyclus unius anni",
+   372
+  ],
+  [
+   6,
+   "Dominica II",
+   372
+  ],
+  [
+   6,
+   "Dominica III",
+   372
+  ],
+  [
+   6,
+   "Dominica IV",
+   373
+  ],
+  [
+   6,
+   "Dominica V",
+   373
+  ],
+  [
+   6,
+   "Dominica VI",
+   374
+  ],
+  [
+   6,
+   "Dominica VII",
+   375
+  ],
+  [
+   6,
+   "Dominica VIII",
+   375
+  ],
+  [
+   6,
+   "Dominica IX",
+   376
+  ],
+  [
+   6,
+   "Dominica X",
+   377
+  ],
+  [
+   6,
+   "Dominica XI",
+   377
+  ],
+  [
+   6,
+   "Dominica XII",
+   378
+  ],
+  [
+   6,
+   "Dominica XIII",
+   378
+  ],
+  [
+   6,
+   "Dominica XIV",
+   379
+  ],
+  [
+   6,
+   "Dominica XV",
+   380
+  ],
+  [
+   6,
+   "Dominica XVI",
+   381
+  ],
+  [
+   6,
+   "Dominica XVII",
+   381
+  ],
+  [
+   6,
+   "Dominica XVIII",
+   382
+  ],
+  [
+   6,
+   "Dominica XIX",
+   382
+  ],
+  [
+   6,
+   "Dominica XX",
+   383
+  ],
+  [
+   6,
+   "Dominica XXI",
+   383
+  ],
+  [
+   6,
+   "Dominica XXII",
+   384
+  ],
+  [
+   6,
+   "Dominica XXIII",
+   384
+  ],
+  [
+   6,
+   "Dominica XXIV",
+   385
+  ],
+  [
+   6,
+   "Dominica XXV",
+   386
+  ],
+  [
+   6,
+   "Dominica XXVI",
+   386
+  ],
+  [
+   6,
+   "Dominica XXVII",
+   387
+  ],
+  [
+   6,
+   "Dominica XXVIII",
+   387
+  ],
+  [
+   6,
+   "Dominica XXIX",
+   388
+  ],
+  [
+   6,
+   "Dominica XXX",
+   388
+  ],
+  [
+   6,
+   "Dominica XXXI",
+   389
+  ],
+  [
+   6,
+   "Dominica XXXII",
+   389
+  ],
+  [
+   6,
+   "Dominica XXXIII",
+   390
+  ],
+  [
+   5,
+   "Cyclus duorum annorum (anno I - anno II)",
+   390
+  ],
+  [
+   6,
+   "Anno I",
+   391
+  ],
+  [
+   7,
+   "Dominica II",
+   391
+  ],
+  [
+   7,
+   "Dominica III",
+   391
+  ],
+  [
+   7,
+   "Dominica IV",
+   392
+  ],
+  [
+   7,
+   "Dominica V",
+   392
+  ],
+  [
+   7,
+   "Dominica VI",
+   393
+  ],
+  [
+   7,
+   "Dominica VII",
+   393
+  ],
+  [
+   7,
+   "Dominica VIII",
+   394
+  ],
+  [
+   7,
+   "Dominica IX",
+   395
+  ],
+  [
+   7,
+   "Dominica X",
+   395
+  ],
+  [
+   7,
+   "Dominica XI",
+   395
+  ],
+  [
+   7,
+   "Dominica XII",
+   395
+  ],
+  [
+   7,
+   "Dominica XIII",
+   396
+  ],
+  [
+   7,
+   "Dominica XIV",
+   396
+  ],
+  [
+   7,
+   "Dominica XV",
+   396
+  ],
+  [
+   7,
+   "Dominica XVI",
+   396
+  ],
+  [
+   7,
+   "Dominica XVII",
+   396
+  ],
+  [
+   7,
+   "Dominica XVIII",
+   397
+  ],
+  [
+   7,
+   "Dominica XIX",
+   397
+  ],
+  [
+   7,
+   "Dominica XX",
+   398
+  ],
+  [
+   7,
+   "Dominica XXI",
+   398
+  ],
+  [
+   7,
+   "Dominica XXII",
+   399
+  ],
+  [
+   7,
+   "Dominica XXIII",
+   399
+  ],
+  [
+   7,
+   "Dominica XXIV",
+   399
+  ],
+  [
+   7,
+   "Dominica XXV",
+   399
+  ],
+  [
+   7,
+   "Dominica XXVI",
+   399
+  ],
+  [
+   7,
+   "Dominica XXVII",
+   400
+  ],
+  [
+   7,
+   "Dominica XXVIII",
+   400
+  ],
+  [
+   7,
+   "Dominica XXIX",
+   400
+  ],
+  [
+   7,
+   "Dominica XXX",
+   401
+  ],
+  [
+   7,
+   "Dominica XXXI",
+   401
+  ],
+  [
+   7,
+   "Dominica XXXII",
+   401
+  ],
+  [
+   7,
+   "Dominica XXXIII",
+   401
+  ],
+  [
+   6,
+   "Anno II",
+   401
+  ],
+  [
+   7,
+   "Dominica II",
+   401
+  ],
+  [
+   7,
+   "Dominica III",
+   402
+  ],
+  [
+   7,
+   "Dominica IV",
+   402
+  ],
+  [
+   7,
+   "Dominica V",
+   403
+  ],
+  [
+   7,
+   "Dominica VI",
+   403
+  ],
+  [
+   7,
+   "Dominica VII",
+   403
+  ],
+  [
+   7,
+   "Dominica VIII",
+   403
+  ],
+  [
+   7,
+   "Dominica IX",
+   404
+  ],
+  [
+   7,
+   "Dominica X",
+   404
+  ],
+  [
+   7,
+   "Dominica XI",
+   404
+  ],
+  [
+   7,
+   "Dominica XII",
+   404
+  ],
+  [
+   7,
+   "Dominica XIII",
+   405
+  ],
+  [
+   7,
+   "Dominica XIV",
+   405
+  ],
+  [
+   7,
+   "Dominica XV",
+   405
+  ],
+  [
+   7,
+   "Dominica XVI",
+   405
+  ],
+  [
+   7,
+   "Dominica XVII",
+   406
+  ],
+  [
+   7,
+   "Dominica XVIII",
+   406
+  ],
+  [
+   7,
+   "Dominica XIX",
+   406
+  ],
+  [
+   7,
+   "Dominica XX",
+   407
+  ],
+  [
+   7,
+   "Dominica XXI",
+   407
+  ],
+  [
+   7,
+   "Dominica XXII",
+   407
+  ],
+  [
+   7,
+   "Dominica XXIII",
+   408
+  ],
+  [
+   7,
+   "Dominica XXIV",
+   408
+  ],
+  [
+   7,
+   "Dominica XXV",
+   408
+  ],
+  [
+   7,
+   "Dominica XXVI",
+   409
+  ],
+  [
+   7,
+   "Dominica XXVII",
+   409
+  ],
+  [
+   7,
+   "Dominica XXVIII",
+   410
+  ],
+  [
+   7,
+   "Dominica XXIX",
+   410
+  ],
+  [
+   7,
+   "Dominica XXX",
+   411
+  ],
+  [
+   7,
+   "Dominica XXXI",
+   411
+  ],
+  [
+   7,
+   "Dominica XXXII",
+   411
+  ],
+  [
+   7,
+   "Dominica XXXIII",
+   412
+  ],
+  [
+   4,
+   "II. Ad Laudes et ad II Vesperas",
+   413
+  ],
+  [
+   5,
+   "Anno A",
+   413
+  ],
+  [
+   6,
+   "Dominica II",
+   413
+  ],
+  [
+   6,
+   "Dominica III",
+   414
+  ],
+  [
+   6,
+   "Dominica IV",
+   415
+  ],
+  [
+   6,
+   "Dominica V",
+   416
+  ],
+  [
+   6,
+   "Dominica VI",
+   417
+  ],
+  [
+   6,
+   "Dominica VII",
+   418
+  ],
+  [
+   6,
+   "Dominica VIII",
+   419
+  ],
+  [
+   6,
+   "Dominica IX",
+   420
+  ],
+  [
+   6,
+   "Dominica X",
+   421
+  ],
+  [
+   6,
+   "Dominica XI",
+   422
+  ],
+  [
+   6,
+   "Dominica XII",
+   423
+  ],
+  [
+   6,
+   "Dominica XIII",
+   424
+  ],
+  [
+   6,
+   "Dominica XIV",
+   424
+  ],
+  [
+   6,
+   "Dominica XV",
+   426
+  ],
+  [
+   6,
+   "Dominica XVI",
+   427
+  ],
+  [
+   6,
+   "Dominica XVII",
+   428
+  ],
+  [
+   6,
+   "Dominica XVIII",
+   429
+  ],
+  [
+   6,
+   "Dominica XIX",
+   430
+  ],
+  [
+   6,
+   "Dominica XX",
+   431
+  ],
+  [
+   6,
+   "Dominica XXI",
+   433
+  ],
+  [
+   6,
+   "Dominica XXII",
+   434
+  ],
+  [
+   6,
+   "Dominica XXIII",
+   435
+  ],
+  [
+   6,
+   "Dominica XXIV",
+   436
+  ],
+  [
+   6,
+   "Dominica XXV",
+   438
+  ],
+  [
+   6,
+   "Dominica XXVI",
+   439
+  ],
+  [
+   6,
+   "Dominica XXVII",
+   440
+  ],
+  [
+   6,
+   "Dominica XXVIII",
+   441
+  ],
+  [
+   6,
+   "Dominica XXIX",
+   442
+  ],
+  [
+   6,
+   "Dominica XXX",
+   443
+  ],
+  [
+   6,
+   "Dominica XXXI",
+   444
+  ],
+  [
+   6,
+   "Dominica XXXII",
+   445
+  ],
+  [
+   6,
+   "Dominica XXXIII",
+   446
+  ],
+  [
+   5,
+   "Anno B",
+   447
+  ],
+  [
+   6,
+   "Dominica II",
+   447
+  ],
+  [
+   6,
+   "Dominica III",
+   448
+  ],
+  [
+   6,
+   "Dominica IV",
+   448
+  ],
+  [
+   6,
+   "Dominica V",
+   449
+  ],
+  [
+   6,
+   "Dominica VI",
+   450
+  ],
+  [
+   6,
+   "Dominica VII",
+   451
+  ],
+  [
+   6,
+   "Dominica VIII",
+   452
+  ],
+  [
+   6,
+   "Dominica IX",
+   453
+  ],
+  [
+   6,
+   "Dominica X",
+   454
+  ],
+  [
+   6,
+   "Dominica XI",
+   455
+  ],
+  [
+   6,
+   "Dominica XII",
+   456
+  ],
+  [
+   6,
+   "Dominica XIII",
+   457
+  ],
+  [
+   6,
+   "Dominica XIV",
+   458
+  ],
+  [
+   6,
+   "Dominica XV",
+   459
+  ],
+  [
+   6,
+   "Dominica XVI",
+   460
+  ],
+  [
+   6,
+   "Dominica XVII",
+   461
+  ],
+  [
+   6,
+   "Dominica XVIII",
+   462
+  ],
+  [
+   6,
+   "Dominica XIX",
+   463
+  ],
+  [
+   6,
+   "Dominica XX",
+   464
+  ],
+  [
+   6,
+   "Dominica XXI",
+   465
+  ],
+  [
+   6,
+   "Dominica XXII",
+   466
+  ],
+  [
+   6,
+   "Dominica XXIII",
+   467
+  ],
+  [
+   6,
+   "Dominica XXIV",
+   468
+  ],
+  [
+   6,
+   "Dominica XXV",
+   469
+  ],
+  [
+   6,
+   "Dominica XXVI",
+   470
+  ],
+  [
+   6,
+   "Dominica XXVII",
+   471
+  ],
+  [
+   6,
+   "Dominica XXVIII",
+   472
+  ],
+  [
+   6,
+   "Dominica XXIX",
+   473
+  ],
+  [
+   6,
+   "Dominica XXX",
+   474
+  ],
+  [
+   6,
+   "Dominica XXXI",
+   475
+  ],
+  [
+   6,
+   "Dominica XXXII",
+   476
+  ],
+  [
+   6,
+   "Dominica XXXIII",
+   477
+  ],
+  [
+   5,
+   "Anno C",
+   478
+  ],
+  [
+   6,
+   "Dominica II",
+   478
+  ],
+  [
+   6,
+   "Dominica III",
+   479
+  ],
+  [
+   6,
+   "Dominica IV",
+   480
+  ],
+  [
+   6,
+   "Dominica V",
+   481
+  ],
+  [
+   6,
+   "Dominica VI",
+   482
+  ],
+  [
+   6,
+   "Dominica VII",
+   483
+  ],
+  [
+   6,
+   "Dominica VIII",
+   484
+  ],
+  [
+   6,
+   "Dominica IX",
+   485
+  ],
+  [
+   6,
+   "Dominica X",
+   486
+  ],
+  [
+   6,
+   "Dominica XI",
+   487
+  ],
+  [
+   6,
+   "Dominica XII",
+   489
+  ],
+  [
+   6,
+   "Dominica XIII",
+   490
+  ],
+  [
+   6,
+   "Dominica XIV",
+   491
+  ],
+  [
+   6,
+   "Dominica XV",
+   492
+  ],
+  [
+   6,
+   "Dominica XVI",
+   493
+  ],
+  [
+   6,
+   "Dominica XVII",
+   494
+  ],
+  [
+   6,
+   "Dominica XVIII",
+   495
+  ],
+  [
+   6,
+   "Dominica XIX",
+   496
+  ],
+  [
+   6,
+   "Dominica XX",
+   497
+  ],
+  [
+   6,
+   "Dominica XXI",
+   498
+  ],
+  [
+   6,
+   "Dominica XXII",
+   499
+  ],
+  [
+   6,
+   "Dominica XXIII",
+   500
+  ],
+  [
+   6,
+   "Dominica XXIV",
+   501
+  ],
+  [
+   6,
+   "Dominica XXV",
+   502
+  ],
+  [
+   6,
+   "Dominica XXVI",
+   503
+  ],
+  [
+   6,
+   "Dominica XXVII",
+   504
+  ],
+  [
+   6,
+   "Dominica XXVIII",
+   505
+  ],
+  [
+   6,
+   "Dominica XXIX",
+   506
+  ],
+  [
+   6,
+   "Dominica XXX",
+   507
+  ],
+  [
+   6,
+   "Dominica XXXI",
+   508
+  ],
+  [
+   6,
+   "Dominica XXXII",
+   509
+  ],
+  [
+   6,
+   "Dominica XXXIII",
+   510
+  ],
+  [
+   3,
+   "b. In sollemnitatibus Domini",
+   512
+  ],
+  [
+   4,
+   "Sanctissimae Trinitatis",
+   512
+  ],
+  [
+   4,
+   "Ss.mi Corporis et Sanguinis Christi",
+   521
+  ],
+  [
+   4,
+   "Sacratissimi Cordis Iesu",
+   530
+  ],
+  [
+   4,
+   "D. N. Iesu Christi, universorum Regis",
+   538
+  ],
+  [
+   1,
+   "II. PSALTERIUM PER QUATTUOR HEBDOMADAS DISTRIBUTUM",
+   548
+  ],
+  [
+   2,
+   "Hebdomada I",
+   548
+  ],
+  [
+   3,
+   "Dominica",
+   548
+  ],
+  [
+   3,
+   "Feria II",
+   554
+  ],
+  [
+   3,
+   "Feria III",
+   560
+  ],
+  [
+   3,
+   "Feria IV",
+   566
+  ],
+  [
+   3,
+   "Feria V",
+   572
+  ],
+  [
+   3,
+   "Feria VI",
+   577
+  ],
+  [
+   3,
+   "Sabbato",
+   583
+  ],
+  [
+   2,
+   "Hebdomada II",
+   589
+  ],
+  [
+   3,
+   "Dominica",
+   589
+  ],
+  [
+   3,
+   "Feria II",
+   595
+  ],
+  [
+   3,
+   "Feria III",
+   601
+  ],
+  [
+   3,
+   "Feria IV",
+   607
+  ],
+  [
+   3,
+   "Feria V",
+   612
+  ],
+  [
+   3,
+   "Feria VI",
+   618
+  ],
+  [
+   3,
+   "Sabbato",
+   624
+  ],
+  [
+   2,
+   "Hebdomada III",
+   629
+  ],
+  [
+   3,
+   "Dominica",
+   629
+  ],
+  [
+   3,
+   "Feria II",
+   633
+  ],
+  [
+   3,
+   "Feria III",
+   637
+  ],
+  [
+   3,
+   "Feria IV",
+   641
+  ],
+  [
+   3,
+   "Feria V",
+   645
+  ],
+  [
+   3,
+   "Feria VI",
+   648
+  ],
+  [
+   3,
+   "Sabbato",
+   652
+  ],
+  [
+   2,
+   "Hebdomada IV",
+   656
+  ],
+  [
+   3,
+   "Dominica",
+   656
+  ],
+  [
+   3,
+   "Feria II",
+   660
+  ],
+  [
+   3,
+   "Feria III",
+   664
+  ],
+  [
+   3,
+   "Feria IV",
+   667
+  ],
+  [
+   3,
+   "Feria V",
+   671
+  ],
+  [
+   3,
+   "Feria VI",
+   675
+  ],
+  [
+   3,
+   "Sabbato",
+   679
+  ],
+  [
+   2,
+   "Ad Completorium",
+   684
+  ],
+  [
+   2,
+   "Psalmodia complementaris",
+   698
+  ],
+  [
+   1,
+   "III. PROPRIUM DE SANCTIS",
+   701
+  ],
+  [
+   2,
+   "Ianuarius",
+   701
+  ],
+  [
+   3,
+   "Die 2: Ss. Basilii Magni et Gregorii Nazianzeni",
+   701
+  ],
+  [
+   3,
+   "Die 3: Ss.mi Nominis Iesu",
+   701
+  ],
+  [
+   3,
+   "Die 7: S. Raimundi de Penyafort",
+   702
+  ],
+  [
+   3,
+   "Die 13: S. Hilarii",
+   702
+  ],
+  [
+   3,
+   "Die 17: S. Antonii",
+   702
+  ],
+  [
+   3,
+   "Die 20: S. Fabiani",
+   702
+  ],
+  [
+   3,
+   "Vel: S. Sebastiani",
+   703
+  ],
+  [
+   3,
+   "Die 21: S. Agnetis",
+   703
+  ],
+  [
+   3,
+   "Die 22: S. Vincentii",
+   707
+  ],
+  [
+   3,
+   "Die 24: S. Francisci de Sales",
+   707
+  ],
+  [
+   3,
+   "Die 25: In Conversione S. Pauli apostoli",
+   707
+  ],
+  [
+   3,
+   "Die 26: Ss. Timothei et Titi",
+   715
+  ],
+  [
+   3,
+   "Die 27: S. Angelae Merici",
+   715
+  ],
+  [
+   3,
+   "Die 28: S. Thomae de Aquino",
+   716
+  ],
+  [
+   3,
+   "Die 31: S. Ioannis Bosco",
+   716
+  ],
+  [
+   2,
+   "Februarius",
+   716
+  ],
+  [
+   3,
+   "Die 2: In Praesentatione Domini",
+   716
+  ],
+  [
+   3,
+   "Die 3: S. Blasii",
+   726
+  ],
+  [
+   3,
+   "Vel: S. Ansgarii",
+   726
+  ],
+  [
+   3,
+   "Die 5: S. Agathae",
+   726
+  ],
+  [
+   3,
+   "Die 6: Ss. Pauli Miki et sociorum",
+   728
+  ],
+  [
+   3,
+   "Die 8: S. Hieronymi Emiliani",
+   728
+  ],
+  [
+   3,
+   "Vel: S. Iosephinae Bakhita",
+   728
+  ],
+  [
+   3,
+   "Die 10: S. Scholasticae",
+   728
+  ],
+  [
+   3,
+   "Die 11: B. Mariae de Lourdes",
+   729
+  ],
+  [
+   3,
+   "Die 14: Ss. Cyrilli et Methodii",
+   730
+  ],
+  [
+   3,
+   "Die 17: Ss. Septem Fundatorum Ordinis Servorum B.M.V.",
+   731
+  ],
+  [
+   3,
+   "Die 21: S. Petri Damiani",
+   731
+  ],
+  [
+   3,
+   "Die 22: Cathedrae S. Petri apostoli",
+   731
+  ],
+  [
+   3,
+   "Die 23: S. Polycarpi",
+   737
+  ],
+  [
+   2,
+   "Martius",
+   738
+  ],
+  [
+   3,
+   "Die 4: S. Casimiri",
+   738
+  ],
+  [
+   3,
+   "Die 7: Ss. Perpetuae et Felicitatis",
+   738
+  ],
+  [
+   3,
+   "Die 8: S. Ioannis a Deo",
+   739
+  ],
+  [
+   3,
+   "Die 9: S. Franciscae Romanae",
+   739
+  ],
+  [
+   3,
+   "Die 17: S. Patricii",
+   739
+  ],
+  [
+   3,
+   "Die 18: S. Cyrilli Hierosolymitani",
+   739
+  ],
+  [
+   3,
+   "Die 19: S. Ioseph, Sponsi Beatae Mariae Virginis",
+   739
+  ],
+  [
+   3,
+   "Die 23: S. Turibii de Mongrovejo",
+   751
+  ],
+  [
+   3,
+   "Die 25: In Annuntiatione Domini",
+   751
+  ],
+  [
+   2,
+   "Aprilis",
+   762
+  ],
+  [
+   3,
+   "Die 2: S. Francisci de Paola",
+   762
+  ],
+  [
+   3,
+   "Die 4: S. Isidori",
+   762
+  ],
+  [
+   3,
+   "Die 5: S. Vincentii Ferrer",
+   763
+  ],
+  [
+   3,
+   "Die 7: S. Ioannis Baptistae de la Salle",
+   763
+  ],
+  [
+   3,
+   "Die 11: S. Stanislai",
+   763
+  ],
+  [
+   3,
+   "Die 13: S. Martini I",
+   763
+  ],
+  [
+   3,
+   "Die 21: S. Anselmi",
+   763
+  ],
+  [
+   3,
+   "Die 23: S. Georgii",
+   764
+  ],
+  [
+   3,
+   "Vel: S. Adalberti",
+   764
+  ],
+  [
+   3,
+   "Die 24: S. Fidelis de Sigmaringen",
+   764
+  ],
+  [
+   3,
+   "Die 25: S. Marci",
+   764
+  ],
+  [
+   3,
+   "Die 28: S. Petri Chanel",
+   769
+  ],
+  [
+   3,
+   "Vel: S. Ludovici Mariae Grignion de Montfort",
+   769
+  ],
+  [
+   3,
+   "Die 29: S. Catharinae Senensis",
+   769
+  ],
+  [
+   3,
+   "Die 30: S. Pii V",
+   770
+  ],
+  [
+   2,
+   "Maius",
+   771
+  ],
+  [
+   3,
+   "Die 1: S. Ioseph opificis",
+   771
+  ],
+  [
+   3,
+   "Die 2: S. Athanasii",
+   774
+  ],
+  [
+   3,
+   "Die 3: Ss. Philippi et Iacobi",
+   775
+  ],
+  [
+   3,
+   "Die 12: Ss. Nerei et Achillei",
+   778
+  ],
+  [
+   3,
+   "Vel: S. Pancratii",
+   779
+  ],
+  [
+   3,
+   "Die 13: Beatae Mariae Virginis de Fatima",
+   779
+  ],
+  [
+   3,
+   "Die 14: S. Matthiae",
+   779
+  ],
+  [
+   3,
+   "Die 18: S. Ioannis I",
+   780
+  ],
+  [
+   3,
+   "Die 20: S. Bernardini Senensis",
+   780
+  ],
+  [
+   3,
+   "Die 21: Ss. Christophori Magallanes et sociorum",
+   780
+  ],
+  [
+   3,
+   "Die 22: S. Ritae de Cascia",
+   780
+  ],
+  [
+   3,
+   "Die 25: S. Bedae Venerabilis",
+   780
+  ],
+  [
+   3,
+   "Vel: S. Gregorii VII",
+   781
+  ],
+  [
+   3,
+   "Vel: S. Mariae Magdalenae de’ Pazzi",
+   781
+  ],
+  [
+   3,
+   "Die 26: S. Philippi Neri",
+   781
+  ],
+  [
+   3,
+   "Die 27: S. Augustini Cantuariensis",
+   782
+  ],
+  [
+   3,
+   "Die 31: In Visitatione Beatae Mariae Virginis",
+   782
+  ],
+  [
+   3,
+   "Sabb. post dom. II post Pentecosten: Immaculati Cordis B. Mariae Virginis",
+   787
+  ],
+  [
+   2,
+   "Iunius",
+   788
+  ],
+  [
+   3,
+   "Die 1: S. Iustini",
+   788
+  ],
+  [
+   3,
+   "Die 2: Ss. Marcellini et Petri",
+   788
+  ],
+  [
+   3,
+   "Die 3: Ss. Caroli Lwanga et sociorum",
+   788
+  ],
+  [
+   3,
+   "Die 5: S. Bonifatii",
+   788
+  ],
+  [
+   3,
+   "Die 6: S. Norberti",
+   789
+  ],
+  [
+   3,
+   "Die 9: S. Ephraem",
+   789
+  ],
+  [
+   3,
+   "Die 11: S. Barnabae",
+   789
+  ],
+  [
+   3,
+   "Die 13: S. Antonii de Padova",
+   791
+  ],
+  [
+   3,
+   "Die 19: S. Romualdi",
+   791
+  ],
+  [
+   3,
+   "Die 21: S. Aloisii Gonzaga",
+   792
+  ],
+  [
+   3,
+   "Die 22: S. Paulini Nolani",
+   792
+  ],
+  [
+   3,
+   "Vel: Ss. Ioannis Fischer et Thomae More",
+   792
+  ],
+  [
+   3,
+   "Die 24: In Nativitate S. Ioannis Baptistae",
+   792
+  ],
+  [
+   3,
+   "Die 27: S. Cyrilli Alexandrini",
+   801
+  ],
+  [
+   3,
+   "Die 28: S. Irenaei",
+   801
+  ],
+  [
+   3,
+   "Die 29: Ss. Petri et Pauli",
+   801
+  ],
+  [
+   3,
+   "Die 30: Ss. Protomartyrum Sanctae Romanae Ecclesiae",
+   810
+  ],
+  [
+   2,
+   "Iulius",
+   811
+  ],
+  [
+   3,
+   "Die 3: S. Thomae",
+   811
+  ],
+  [
+   3,
+   "Die 4: S. Elisabeth Lusitaniae",
+   813
+  ],
+  [
+   3,
+   "Die 5: S. Antonii Mariae Zaccaria",
+   814
+  ],
+  [
+   3,
+   "Die 6: S. Mariae Goretti",
+   814
+  ],
+  [
+   3,
+   "Die 9: Ss. Augustini Zhao Rong et sociorum",
+   814
+  ],
+  [
+   3,
+   "Die 11: S. Benedicti",
+   814
+  ],
+  [
+   3,
+   "Die 13: S. Henrici",
+   814
+  ],
+  [
+   3,
+   "Die 14: S. Camilli de Lellis",
+   815
+  ],
+  [
+   3,
+   "Die 15: S. Bonaventurae",
+   815
+  ],
+  [
+   3,
+   "Die 16: B. Mariae Virginis de Monte Carmelo",
+   815
+  ],
+  [
+   3,
+   "Die 20: S. Apollinaris",
+   816
+  ],
+  [
+   3,
+   "Die 21: S. Laurentii de Brindisi",
+   816
+  ],
+  [
+   3,
+   "Die 22: S. Mariae Magdalenae",
+   816
+  ],
+  [
+   3,
+   "Die 23: S. Birgittae",
+   821
+  ],
+  [
+   3,
+   "Die 24: S. Sarbelii Makhluf",
+   821
+  ],
+  [
+   3,
+   "Die 25: S. Iacobi",
+   821
+  ],
+  [
+   3,
+   "Die 26: Ss. Ioachim et Annae",
+   825
+  ],
+  [
+   3,
+   "Die 29: S. Marthae",
+   827
+  ],
+  [
+   3,
+   "Die 30: S. Petri Chrysologi",
+   828
+  ],
+  [
+   3,
+   "Die 31: S. Ignatii de Loyola",
+   828
+  ],
+  [
+   2,
+   "Augustus",
+   829
+  ],
+  [
+   3,
+   "Die 1: S. Alfonsi Mariae de' Liguori",
+   829
+  ],
+  [
+   3,
+   "Die 2: S. Eusebii Vercellensis",
+   830
+  ],
+  [
+   3,
+   "Vel: S. Petri Iuliani Eymard",
+   830
+  ],
+  [
+   3,
+   "Die 4: S. Ioannis Mariae Vianney",
+   830
+  ],
+  [
+   3,
+   "Die 5: S. In Dedicatione Basilicae S. Mariae",
+   831
+  ],
+  [
+   3,
+   "Die 6: In Transfiguratione Domini",
+   832
+  ],
+  [
+   3,
+   "Die 7: Ss. Xysti II et sociorum",
+   842
+  ],
+  [
+   3,
+   "Vel: S. Caietani",
+   842
+  ],
+  [
+   3,
+   "Die 8: S. Dominici",
+   842
+  ],
+  [
+   3,
+   "Die 9: S. Theresiae Benedictae a Cruce",
+   843
+  ],
+  [
+   3,
+   "Die 10: S. Laurentii",
+   843
+  ],
+  [
+   3,
+   "Die 11: S. Clarae",
+   848
+  ],
+  [
+   3,
+   "Die 12: S. Ioannae Franciscae de Chantal",
+   848
+  ],
+  [
+   3,
+   "Die 13: Ss. Pontiani et Hippolyti",
+   848
+  ],
+  [
+   3,
+   "Die 14: S. Maximiliani Mariae Kolbe",
+   848
+  ],
+  [
+   3,
+   "Die 15: In Assumptione Beatae Mariae Virginis",
+   848
+  ],
+  [
+   3,
+   "Die 16: S. Stephani Hungariae",
+   858
+  ],
+  [
+   3,
+   "Die 19: S. Ioannis Eudes",
+   858
+  ],
+  [
+   3,
+   "Die 20: S. Bernardi",
+   858
+  ],
+  [
+   3,
+   "Die 21: S. Pii X",
+   859
+  ],
+  [
+   3,
+   "Die 22: B. Mariae Virginis Reginae",
+   860
+  ],
+  [
+   3,
+   "Die 23: S. Rosae de Lima",
+   861
+  ],
+  [
+   3,
+   "Die 24: S. Bartholomaei",
+   861
+  ],
+  [
+   3,
+   "Die 25: S. Ludovici",
+   862
+  ],
+  [
+   3,
+   "Vel: S. Ioseph de Calasanz",
+   862
+  ],
+  [
+   3,
+   "Die 27: S. Monicae",
+   863
+  ],
+  [
+   3,
+   "Die 28: S. Augustini",
+   863
+  ],
+  [
+   3,
+   "Die 29: In Passione S. Ioannis Baptistae",
+   865
+  ],
+  [
+   2,
+   "September",
+   869
+  ],
+  [
+   3,
+   "Die 3: S. Gregorii Magni",
+   869
+  ],
+  [
+   3,
+   "Die 8: In Nativitate Beatae Mariae Virginis",
+   870
+  ],
+  [
+   3,
+   "Die 9: S. Petri Claver",
+   876
+  ],
+  [
+   3,
+   "Die 12: Ss.mi Nominis Mariae",
+   876
+  ],
+  [
+   3,
+   "Die 13: S. Ioannis Chrysostomi",
+   876
+  ],
+  [
+   3,
+   "Die 14: In Exaltatione Sanctae Crucis",
+   877
+  ],
+  [
+   3,
+   "Die 15: Beatae Mariae Virginis Perdolentis",
+   887
+  ],
+  [
+   3,
+   "Die 16: Ss. Cornelii et Cypriani",
+   892
+  ],
+  [
+   3,
+   "Die 17: S. Roberti Bellarmino",
+   893
+  ],
+  [
+   3,
+   "Die 19: S. Ianuarii",
+   893
+  ],
+  [
+   3,
+   "Die 20: Ss. Andreae Kim Tae-gön, Pauli Chöng Ha-sang et sociorum",
+   893
+  ],
+  [
+   3,
+   "Die 21: S. Matthaei",
+   893
+  ],
+  [
+   3,
+   "Die 23: S. Pii de Pietrelcina",
+   894
+  ],
+  [
+   3,
+   "Die 26: Ss. Cosmae et Damiani",
+   894
+  ],
+  [
+   3,
+   "Die 27: S. Vincentii de Paul",
+   895
+  ],
+  [
+   3,
+   "Die 28: S. Venceslai",
+   896
+  ],
+  [
+   3,
+   "Vel: Ss. Laurentii Ruiz et sociorum",
+   896
+  ],
+  [
+   3,
+   "Die 29: Ss. Michaelis, Gabrielis et Raphaelis",
+   896
+  ],
+  [
+   3,
+   "Die 30: S. Hieronymi",
+   903
+  ],
+  [
+   2,
+   "October",
+   904
+  ],
+  [
+   3,
+   "Die 1: S. Teresiae a Iesu Infante",
+   904
+  ],
+  [
+   3,
+   "Die 2: Ss. Angelorum Custodum",
+   904
+  ],
+  [
+   3,
+   "Die 4: S. Francisci Assisiensis",
+   908
+  ],
+  [
+   3,
+   "Die 6: S. Brunonis",
+   909
+  ],
+  [
+   3,
+   "Die 7: B. Mariae Virginis a Rosario",
+   909
+  ],
+  [
+   3,
+   "Die 9: S. Dionysii et sociorum",
+   913
+  ],
+  [
+   3,
+   "Vel: S. Ioannis Leonardi",
+   913
+  ],
+  [
+   3,
+   "Die 11: S. Ioannis XXIII",
+   913
+  ],
+  [
+   3,
+   "Die 14: S. Callisti",
+   913
+  ],
+  [
+   3,
+   "Die 15: S. Teresiae a Iesu",
+   913
+  ],
+  [
+   3,
+   "Die 16: S. Hedvigis",
+   914
+  ],
+  [
+   3,
+   "Vel: S. Margaritae Mariae Alacoque",
+   914
+  ],
+  [
+   3,
+   "Die 17: S. Ignatii Antiocheni",
+   914
+  ],
+  [
+   3,
+   "Die 18: S. Lucae",
+   915
+  ],
+  [
+   3,
+   "Die 19: Ss. Ioannis de Brebeuf, Isaac Jogues et sociorum",
+   917
+  ],
+  [
+   3,
+   "Vel: S. Pauli a Cruce",
+   917
+  ],
+  [
+   3,
+   "Die 22: S. Ioannis Pauli II",
+   917
+  ],
+  [
+   3,
+   "Die 23: S. Ioannis de Capestrano",
+   918
+  ],
+  [
+   3,
+   "Die 24: S. Antonii Mariae Claret",
+   918
+  ],
+  [
+   3,
+   "Die 28: Ss. Simonis et Iudae",
+   918
+  ],
+  [
+   2,
+   "November",
+   918
+  ],
+  [
+   3,
+   "Die 1: Omnium Sanctorum",
+   918
+  ],
+  [
+   3,
+   "Die 2: In Commemoratione Omnium Fidelium Defunctorum",
+   929
+  ],
+  [
+   3,
+   "Die 3: S. Martini de Porres",
+   930
+  ],
+  [
+   3,
+   "Die 4: S. Caroli Borromeo",
+   931
+  ],
+  [
+   3,
+   "Die 9: In Dedicatione Basilicae Lateranensis",
+   931
+  ],
+  [
+   3,
+   "Die 10: S. Leonis Magni",
+   931
+  ],
+  [
+   3,
+   "Die 11: S. Martini Turonensis",
+   932
+  ],
+  [
+   3,
+   "Die 12: S. Iosaphat",
+   936
+  ],
+  [
+   3,
+   "Die 15: S. Alberti Magni",
+   936
+  ],
+  [
+   3,
+   "Die 16: S. Margaritae Scotiae",
+   936
+  ],
+  [
+   3,
+   "Vel: S. Gertrudis",
+   936
+  ],
+  [
+   3,
+   "Die 17: S. Elisabeth Hungariae",
+   936
+  ],
+  [
+   3,
+   "Die 18: In Dedicatione Basilicarum Ss. Petri et Pauli",
+   937
+  ],
+  [
+   3,
+   "Die 21: In Praesentatione Beatae Mariae Virginis",
+   937
+  ],
+  [
+   3,
+   "Die 22: S. Caeciliae",
+   938
+  ],
+  [
+   3,
+   "Die 23: S. Clementis I",
+   939
+  ],
+  [
+   3,
+   "Vel: S. Columbani",
+   939
+  ],
+  [
+   3,
+   "Die 24: Ss. Andreae Dung-Lac et sociorum",
+   940
+  ],
+  [
+   3,
+   "Die 25: S. Catharinae Alexandrinae",
+   940
+  ],
+  [
+   3,
+   "Die 30: S. Andreae",
+   940
+  ],
+  [
+   2,
+   "December",
+   945
+  ],
+  [
+   3,
+   "Die 3: S. Francisci Xavier",
+   945
+  ],
+  [
+   3,
+   "Die 4: S. Ioannis Damasceni",
+   945
+  ],
+  [
+   3,
+   "Die 6: S. Nicolai",
+   945
+  ],
+  [
+   3,
+   "Die 7: S. Ambrosii",
+   945
+  ],
+  [
+   3,
+   "Die 8: In Conceptione Immaculata Beatae Mariae Virginis",
+   946
+  ],
+  [
+   3,
+   "Die 9: S. Ioannis Didaci Cuauhtlatoatzin",
+   956
+  ],
+  [
+   3,
+   "Die 11: S. Damasi I",
+   956
+  ],
+  [
+   3,
+   "Die 12: Beatae Mariae Virginis de Guadalupe",
+   956
+  ],
+  [
+   3,
+   "Die 13: S. Luciae",
+   957
+  ],
+  [
+   3,
+   "Die 14: S. Ioannis a Cruce",
+   958
+  ],
+  [
+   3,
+   "Die 21: S. Petri Canisii",
+   958
+  ],
+  [
+   3,
+   "Die 23: S. Ioannis de Kety",
+   958
+  ],
+  [
+   3,
+   "Die 26: S. Stephani",
+   959
+  ],
+  [
+   3,
+   "Die 27: S. Ioannis",
+   963
+  ],
+  [
+   3,
+   "Die 28: Ss. Innocentium",
+   968
+  ],
+  [
+   3,
+   "Die 29: S. Thomae Becket",
+   972
+  ],
+  [
+   3,
+   "Die 31: S. Silvestri I",
+   973
+  ],
+  [
+   1,
+   "IV. COMMUNIA",
+   975
+  ],
+  [
+   2,
+   "Dedicationis ecclesiae",
+   975
+  ],
+  [
+   2,
+   "Beatae Mariae Virginis",
+   990
+  ],
+  [
+   3,
+   "Memoria Sanctae Mariae in Sabbato",
+   1001
+  ],
+  [
+   2,
+   "Apostolorum",
+   1010
+  ],
+  [
+   2,
+   "Plurimorum martyrum",
+   1022
+  ],
+  [
+   2,
+   "Unius martyris",
+   1045
+  ],
+  [
+   2,
+   "Pastorum",
+   1063
+  ],
+  [
+   3,
+   "Pro papa",
+   1079
+  ],
+  [
+   3,
+   "Pro papa vel episcopo",
+   1079
+  ],
+  [
+   3,
+   "Pro missionariis",
+   1081
+  ],
+  [
+   3,
+   "Pro pluribus pastoribus",
+   1084
+  ],
+  [
+   2,
+   "Doctorum Ecclesiae",
+   1085
+  ],
+  [
+   2,
+   "Virginum",
+   1093
+  ],
+  [
+   2,
+   "Sanctorum Virorum",
+   1113
+  ],
+  [
+   2,
+   "Sanctarum Mulierum",
+   1134
+  ],
+  [
+   2,
+   "Pro Religiosis",
+   1147
+  ],
+  [
+   2,
+   "Pro iis qui opera misericordiae exercuerunt",
+   1155
+  ],
+  [
+   2,
+   "Pro educatoribus",
+   1160
+  ],
+  [
+   1,
+   "V. OFFICIUM DEFUNCTORUM",
+   1162
+  ],
+  [
+   1,
+   "VI. APPENDIX",
+   1177
+  ],
+  [
+   2,
+   "Antiphonae ad cantica vigiliarum",
+   1179
+  ],
+  [
+   2,
+   "Specimina responsionum ad preces in Laudibus et Vesperis",
+   1201
+  ],
+  [
+   2,
+   "Antiphonae ad cantica evangelica pro ecclesiis minoribus",
+   1203
+  ],
+  [
+   2,
+   "Ad completorium, antiphonae ad libitum ad canticum Nunc dimittis",
+   1207
+  ],
+  [
+   1,
+   "VII. INDICES",
+   1210
+  ],
+  [
+   2,
+   "Sigla",
+   1210
+  ],
+  [
+   2,
+   "Hymni",
+   1214
+  ],
+  [
+   2,
+   "Invitatoria",
+   1225
+  ],
+  [
+   2,
+   "Antiphonae",
+   1228
+  ],
+  [
+   2,
+   "Responsoria brevia",
+   1310
+  ]
+ ]
+}

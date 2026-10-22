@@ -1,0 +1,27 @@
+{
+ "page": "442",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Archangels; invitatory on p441.",
+ "context_out": "Archangels > OFFREAD Festiva vos archangeli (H.III) begins p442, continues p443.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Festiva vos archangeli",
+   "kind": "engraved",
+   "mode": "III",
+   "lit_epoch_slug": "archangels",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD OFFICIUM LECTIONIS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "page": "211",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Sunday wk II&IV > OFFREAD opt 2 Salve dies running over from p210.",
+ "context_out": "Salve dies continues onto p212 (stanza 8).",
+ "continues": {
+  "from_page": "210",
+  "incipit": "Salve dies dierum gloria"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

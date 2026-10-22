@@ -1,0 +1,17 @@
+{
+ "page": "116",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Ss.mi Corporis & Sanguinis Christi (OT-FOL-00-2) > AD LAUDES MATUTINAS > Verbum supernum prodiens (H.VIII) running over from p115.",
+ "context_out": "Ss.mi Corporis & Sanguinis Christi > AD LAUDES MATUTINAS > Verbum supernum prodiens ends on p116 (stanzas 3-6, Amen, final double bar). Nothing else on p116.",
+ "continues": {
+  "from_page": "115",
+  "incipit": "Verbum supernum prodiens"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "p116 holds only stanzas 3-6 and Amen of Verbum supernum prodiens (stanza 5 = O salutaris hostia, sung within the hymn; no drop-cap, so no row). Written by the director from the rendered page."
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "page": "423",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Sanctorale > Mense augusti.",
+ "context_out": "Die 25 augusti S. Ludovici > De Communi sanctorum virorum, p. 311. p424 continues (Joseph Calasanz?).",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Relucens inter principes",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "bartholomew",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "De Communi Apostolorum, p. 266, praeter sequentia: AD LAUDES MATUTINAS"
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "bartholomew",
+   "common_slug": "COM-APOST",
+   "common_page": 266,
+   "ref_option": 1,
+   "rubric": "De Communi Apostolorum, p. 266, praeter sequentia."
+  },
+  {
+   "lit_epoch_slug": "louis-king-of-france",
+   "common_slug": "COM-SANCT-VIR-UNO",
+   "common_page": 311,
+   "ref_option": 1,
+   "rubric": "De Communi sanctorum virorum, p. 311."
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Bartholomew Festum = FEAST. Louis (UNIVERSAL) chosen by printed title S. LUDOVICI; joseph-calasanz also 25 Aug, not on this page."
+ ]
+}

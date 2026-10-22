@@ -1,0 +1,25 @@
+{
+ "page": "348",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Die 2 februarii In Praesentatione Domini > AD LAUDES MATUTINAS > hymn Adorna Sion (H.IV) running over from p347; last stanza 'Iesu, tibi sit gloria' at top of p348.",
+ "context_out": "Die 2 februarii In Praesentatione Domini > AD II VESPERAS > hymn Quod chorus vatum (H.VIII), stanzas 1-5 run over to p349 (ends Amen); then Die 3 februarii S. Blasii begins on p349.",
+ "continues": {"from_page": "347", "incipit": "Adorna Sion thalamum"},
+ "rows": [
+  {
+   "incipit": "Quod chorus vatum venerandus olim",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "the-presentation-in-the-temple",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD II VESPERAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Quod chorus vatum runs over onto p349 (stanzas 4-5, final Amen); read there. Top lines (Iesu, tibi sit gloria) are the end of Adorna Sion from p347, in continues only."]
+}

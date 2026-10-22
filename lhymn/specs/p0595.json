@@ -1,0 +1,37 @@
+{
+ "page": "595",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Mense novembris > (p594 ended with Die 7 novembris S. Willibrordi). No chant carried over.",
+ "context_out": "Mense novembris II > Die 12 novembris S. Theodori Studitae, abbatis (De Communi sanctorum monachorum, p. 537). p596 begins Die 16 novembris S. Gertrudis. No chant runs onto p596.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Rex Christe Martini decus",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "martin-of-tours",
+   "service": "VIGILIAE",
+   "part": "hymn",
+   "wkday": null,
+   "rubric": "Omnia ut supra in Proprio sanctorum, p. 465, praeter hymnum sequentem, qui pro opportunitate adhiberi potest: AD VIGILIAS",
+   "notes": "C.S. beside title (Solesmes congregation). Hymn 'pro opportunitate adhiberi potest' = optional."
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "theodore-studite-osb",
+   "common_slug": "COM-MON",
+   "common_page": 537,
+   "ref_option": 1,
+   "rubric": "De Communi sanctorum monachorum, p. 537."
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "MISSING OSB EPOCH: S. Theodori Studitae, abbatis (Die 12 novembris) has no proper_of_saints row (only St. Josaphat on Nov 12). Proposed slug 'theodore-studite-osb'; director to create (jurisdiction OSB, Die 12 nov). No rank printed.",
+  "OSB RANK OVERRIDE: S. Martini printed 'Festum'; proper_of_saints martin-of-tours (UNIVERSAL) rank_code MEMORIAL. Director to add OSB row with FEST rank.",
+  "Martin: C.S. marker scopes the Vigils hymn entry to the Solesmes congregation; modelled as a plain option 1 (no other Vigils hymn for this slot; 'Omnia ut supra' defers to Proprio sanctorum p465, which is UNIVERSAL and unaffected). No common_refs for Martin, so no skip_slots; p596 carries only Gertrude's Vigils hymn.",
+  "Hymn is Vigils only; no other hours printed for Martin on p595/p596."
+ ]
+}

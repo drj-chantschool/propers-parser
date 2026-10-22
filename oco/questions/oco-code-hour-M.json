@@ -1,0 +1,66 @@
+{
+ "pipeline": "book-batch",
+ "book": "OCO",
+ "category": "modeling",
+ "topic_key": "oco-code-hour-M",
+ "priority": 3,
+ "title": "OCO index hour code M (13/4, 13D)",
+ "prompt": "Two rows put M in the hour column: 13/4 'Ecce quomodo computati' place TP, and 13D 'Quisquis enim' place 'a ad lib'. M is a place code (Magnificat), not an hour, in the legend. 2 index row(s). Examples: #1256 'Ecce quomodo computati' 13/4|M|TP p1042; #2577 'Quisquis enim' 13D|M|a ad lib p470. Legend OCO pp1210-1213 does not define this code. Rows with it are held: the mapper (oco/oco_sigla.py) gives no lit_part_sources target, so identity can load but the assignment waits. Answer = what the code means and where the chant goes (service.part, epoch, option_txt). Carry-out: add the rule to oco_sigla.py, re-run oco/load_oco_lps.py, record it in oco/specs/README.md 'User rulings'.",
+ "pages": [
+  {
+   "book": "OCO",
+   "page": "1042",
+   "note": "'Ecce quomodo computati' 13/4|M|TP"
+  },
+  {
+   "book": "OCO",
+   "page": "470",
+   "note": "'Quisquis enim' 13D|M|a ad lib"
+  }
+ ],
+ "options": [
+  {
+   "label": "M = Magnificat (shifted column)",
+   "detail": "read as hour V, place M: 13/4 → VESPERS.antM option 'TP'; 13D → VESPERS.antM cycle_sun 1, option 'Ad libitum'.",
+   "recommended": true
+  },
+  {
+   "label": "check each page",
+   "detail": "agent reads pp1042 / 470 and assigns per the printed rubric."
+  }
+ ],
+ "refs": [
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 6918
+   },
+   "note": "Ecce quomodo computati"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 8239
+   },
+   "note": "Quisquis enim"
+  }
+ ],
+ "context": [
+  {
+   "label": "Sigla legend",
+   "path": "OCO pp1210-1213"
+  },
+  {
+   "label": "Mapper",
+   "path": "propers-parser/oco/oco_sigla.py"
+  },
+  {
+   "label": "Contract",
+   "path": "propers-parser/oco/specs/README.md"
+  }
+ ],
+ "blocks": [
+  "OCO:idx:oco-code-hour-M"
+ ],
+ "raised_by": "book-intake director, OCO 2026-10-20"
+}

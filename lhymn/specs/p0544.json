@@ -1,0 +1,51 @@
+{
+ "page": "544",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense ianuarii > Die 14 ianuarii S. Remigii (C.S.G.) ended on p543 (hymn complete there). No chant runs over onto p544.",
+ "context_out": "Proprium monasticum O.S.B. > Sanctorale > Mense ianuarii > Die 15 ianuarii SS. Mauri & Placidi, Memoria, De Communi sanctorum monachorum p. 537 > AD VIGILIAS hymn Qui te posthabitis (H.IV) complete on p544 (4 stanzas + Amen). p545 opens with 'Pro Congregatione solesmensi:' alternative Vigils hymn Puellus Placidus (H.IV, engraved, assigned by p545) then AD LAUDES MATUTINAS hymn Maure te fratres (H.I).",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Qui te posthabitis",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "maurus-and-placidus-osb",
+   "service": "VIGILIAE",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "De Communi sanctorum monachorum, p. 537. AD VIGILIAS",
+   "verified_despite": [
+    "gregobase mode '3' ≠ printed mode 'IV'"
+   ]
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "maurus-and-placidus-osb",
+   "common_slug": "COM-MON",
+   "common_page": 537,
+   "ref_option": 1,
+   "rubric": "De Communi sanctorum monachorum, p. 537.",
+   "skip_slots": [
+    "LAUDS.hymn",
+    "VESPERS.hymn",
+    "VIGILIAE.hymn"
+   ]
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Heading 'Memoria' printed; no C.S./C.S.G. marker on this entry.",
+  "Hymn is Ad Vigilias only on this page; Lauds hymn Maure te fratres and the 'Pro Congregatione solesmensi' alternative Puellus Placidus begin on p545 (assigned there; the Pro Congregatione line is a rubric printed over its own drop-cap chant, so p545 owns it).",
+  "Doxology/Amen is stanza 4, part of the hymn.",
+  "Only the Vigils hymn is proper on this page; other hours via common_refs to COM-MON (p537).",
+  "Director: created OSB saint maurus-and-placidus-osb (15 Jan, MEMORIAL, child of OSB-PROPRIUM, common_of COM-MON).",
+  "Director: 4251 accepted despite gregobase mode 3. Its text matches the page word for word, the final is E with a d-h ambitus (plagal, so mode IV as printed), and it is the Antiphonale Monasticum p776 edition. 9315 is a different text ('et decus... Mauri meritis').",
+  "Director, user rulings 2026-10-15: row 1 OFFREAD→VIGILIAE.hymn; open questions left: 0",
+  "Director: skip_slots set on common_refs for slots this saint fills with propers on other pages (derived from the specs).",
+  "Director, neume check 2026-10-15: the p544 engraving matches 4251 note for note (QUI d, te e, post f, há g, bi h, tis h; ómnibus h g e; ámbiunt f gf e). Only the mode label differs."
+ ]
+}

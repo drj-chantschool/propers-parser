@@ -1,0 +1,17 @@
+{
+ "page": "389",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Peter & Paul > VESPERS1 Aurea luce running over from p388.",
+ "context_out": "Aurea luce ends p389 (Amen). p390 continues Peter & Paul.",
+ "continues": {
+  "from_page": "388",
+  "incipit": "Aurea luce et decore roseo"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

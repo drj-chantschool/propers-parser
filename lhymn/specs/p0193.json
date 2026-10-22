@@ -1,0 +1,129 @@
+{
+ "page": "193",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Weeks I&III weekday TERCE festis Nunc Sancte running over from p192.",
+ "context_out": "Weeks I&III weekday Middle Hour > SEXT feriis/memoriis/festis on p193; NONE likely on p194.",
+ "continues": {
+  "from_page": "192",
+  "incipit": "Nunc Sancte nobis Spiritus"
+ },
+ "rows": [
+  {
+   "incipit": "Rector potens verax Deus",
+   "kind": "engraved",
+   "mode": "D",
+   "option_num": 1,
+   "option_txt": "In feriis per annum",
+   "rubric": "AD SEXT. In feriis per annum",
+   "index_row_id": 5430,
+   "lit_epoch_slug": "OT-OT",
+   "service": "SEXT",
+   "part": "hymn",
+   "wkday": null,
+   "wknum_mod_2": 1,
+   "rank_codes": [
+    "WEEKDAY"
+   ]
+  },
+  {
+   "incipit": "Dicamus laudes Domino",
+   "kind": "xref",
+   "ref_page": 220,
+   "mode": null,
+   "option_num": 2,
+   "option_txt": "Vel ad libitum",
+   "rubric": "Vel ad libitum hymnus Dicamus ..., p. 220 [In feriis per annum tone]",
+   "index_row_id": 5224,
+   "lit_epoch_slug": "OT-OT",
+   "service": "SEXT",
+   "part": "hymn",
+   "wkday": null,
+   "wknum_mod_2": 1,
+   "rank_codes": [
+    "WEEKDAY"
+   ]
+  },
+  {
+   "incipit": "Rector potens verax Deus",
+   "kind": "engraved",
+   "mode": "VIII",
+   "option_num": 1,
+   "option_txt": "In memoriis",
+   "rubric": "AD SEXT. In memoriis",
+   "index_row_id": 5431,
+   "lit_epoch_slug": "OT-OT",
+   "service": "SEXT",
+   "part": "hymn",
+   "wkday": null,
+   "wknum_mod_2": 1,
+   "rank_codes": [
+    "MEMORIAL",
+    "OPTIONAL_MEMORIAL"
+   ]
+  },
+  {
+   "incipit": "Dicamus laudes Domino",
+   "kind": "xref",
+   "ref_page": 221,
+   "mode": null,
+   "option_num": 2,
+   "option_txt": "Vel ad libitum",
+   "rubric": "Vel ad libitum hymnus Dicamus ..., p. 221 [In memoriis tone]",
+   "index_row_id": 5225,
+   "lit_epoch_slug": "OT-OT",
+   "service": "SEXT",
+   "part": "hymn",
+   "wkday": null,
+   "wknum_mod_2": 1,
+   "rank_codes": [
+    "MEMORIAL",
+    "OPTIONAL_MEMORIAL"
+   ]
+  },
+  {
+   "incipit": "Rector potens verax Deus",
+   "kind": "engraved",
+   "mode": "VIII",
+   "option_num": 1,
+   "option_txt": "In festis",
+   "rubric": "AD SEXT. In festis",
+   "index_row_id": 5432,
+   "lit_epoch_slug": "OT-OT",
+   "service": "SEXT",
+   "part": "hymn",
+   "wkday": null,
+   "wknum_mod_2": 1,
+   "rank_codes": [
+    "FEAST",
+    "FEAST_OF_THE_LORD"
+   ]
+  },
+  {
+   "incipit": "Dicamus laudes Domino",
+   "kind": "xref",
+   "ref_page": 221,
+   "mode": null,
+   "option_num": 2,
+   "option_txt": "Vel ad libitum",
+   "rubric": "Vel ad libitum hymnus Dicamus ..., p. 221 [In festis tone]",
+   "index_row_id": 5226,
+   "lit_epoch_slug": "OT-OT",
+   "service": "SEXT",
+   "part": "hymn",
+   "wkday": null,
+   "wknum_mod_2": 1,
+   "rank_codes": [
+    "FEAST",
+    "FEAST_OF_THE_LORD"
+   ]
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Ad libitum Certum tenentes points to the weeks II&IV weekday Terce on p219 (itself tiered feriis/memoriis); modeled as one opt2 xref to its feriis setting (16814), no rank.",
+  "User ruling 2026-10-17b: all Ordinary Time Middle Hour hymns → lit_epoch_slug OT-OT with rank set (SUNDAY / WEEKDAY / MEMORIAL+OPTIONAL_MEMORIAL / FEAST+FEAST_OF_THE_LORD / SOLEMNITY), no wkday; per tier 4 rows: wknum_mod_2=1 → opt1 weeks I&III text, opt2 II&IV text; wknum_mod_2=0 → the reverse; each in the tier's tone. Printed \"tonus ut supra/infra\" pointers are subsumed by the engraved row of the same slot."
+ ]
+}

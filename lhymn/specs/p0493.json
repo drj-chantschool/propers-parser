@@ -1,0 +1,56 @@
+{
+ "page": "493",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > In Epiphania et in Baptismate Domini > Illuminare ended p492 (final double bar, no vel)",
+ "context_out": "RESPONSORIA > In quadragesima > Domine ne in ira (p493) and Vel: Circumdederunt me (begun p493, runs to final double bar on p494, followed by 'Vel R. Emendemus, in Graduale.'); then FERIA SEXTA IN PASSIONE DOMINI, Post priorem lectionem: Sicut ovis begins p494",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Domine ne in ira tua arguas me",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "TQ",
+   "service": "OFFREAD",
+   "part": "resp",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "IN QUADRAGESIMA; Ps 6, 2-3 V. Ps 54, 6-7"
+  },
+  {
+   "incipit": "Circumdederunt me viri mendaces",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "TQ",
+   "service": "OFFREAD",
+   "part": "resp",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "Vel:",
+   "rubric": "IN QUADRAGESIMA; Vel:; V. Ps 21, 12"
+  },
+  {
+   "incipit": "Emendemus in melius",
+   "kind": "xref",
+   "ref_book": "GRADUALE",
+   "ref_page": 66,
+   "mode": "II",
+   "lit_epoch_slug": "TQ",
+   "service": "OFFREAD",
+   "part": "resp",
+   "wkday": null,
+   "option_num": 3,
+   "option_txt": "Vel R. Emendemus, in Graduale",
+   "rubric": "IN QUADRAGESIMA; 'Vel R. Emendemus, in Graduale.' (printed p494; the LH gives no page)",
+   "chant_uuid": "gregobase:17523"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Season heading IN QUADRAGESIMA -> TQ-LENT, no wkday/rank (README ruling). No Post priorem/alteram rubric, so OFFREAD.resp.",
+  "Circumdederunt me is fully engraved with its own drop cap (R.II), so it is its own option-2 row here; it runs onto p494 (final double bar p494).",
+  "Resolved by intake_queue #4 (user, 2026-10-18): option 3 = cross-book xref to the Graduale responsory Emendemus (GR 1974 p66, gregobase:17523, the edition already loaded at GRADUALE p66). book/authority stay LIBER_HYMNARIUS; ref_book=GRADUALE, ref_page=66 (looked up; the LH prints no page)."
+ ]
+}

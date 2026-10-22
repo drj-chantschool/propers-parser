@@ -1,0 +1,54 @@
+{
+ "pipeline": "book-batch",
+ "book": "OCO",
+ "category": "modeling",
+ "topic_key": "oco-code-hour-M2",
+ "priority": 3,
+ "title": "OCO index hour code M2 with no place (25/8)",
+ "prompt": "One row: 25/8 'Cognovit eum Dominus', hour column M2, place empty. 25/8 has two saints (Louis, Joseph Calasanz), so it looks like place M2 shifted into the hour column. 1 index row(s). Examples: #839 'Cognovit eum Dominus' 25/8|M2|None p1071. Legend OCO pp1210-1213 does not define this code. Rows with it are held: the mapper (oco/oco_sigla.py) gives no lit_part_sources target, so identity can load but the assignment waits. Answer = what the code means and where the chant goes (service.part, epoch, option_txt). Carry-out: add the rule to oco_sigla.py, re-run oco/load_oco_lps.py, record it in oco/specs/README.md 'User rulings'.",
+ "pages": [
+  {
+   "book": "OCO",
+   "page": "1071",
+   "note": "'Cognovit eum Dominus' 25/8|M2|None"
+  }
+ ],
+ "options": [
+  {
+   "label": "= V | M2",
+   "detail": "read as hour V, place M2 (same rule as the M1/M2 question).",
+   "recommended": true
+  },
+  {
+   "label": "check the page",
+   "detail": "agent reads p1071 and assigns."
+  }
+ ],
+ "refs": [
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 6501
+   },
+   "note": "Cognovit eum Dominus"
+  }
+ ],
+ "context": [
+  {
+   "label": "Sigla legend",
+   "path": "OCO pp1210-1213"
+  },
+  {
+   "label": "Mapper",
+   "path": "propers-parser/oco/oco_sigla.py"
+  },
+  {
+   "label": "Contract",
+   "path": "propers-parser/oco/specs/README.md"
+  }
+ ],
+ "blocks": [
+  "OCO:idx:oco-code-hour-M2"
+ ],
+ "raised_by": "book-intake director, OCO 2026-10-20"
+}

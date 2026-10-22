@@ -1,0 +1,18 @@
+{
+ "page": "123",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "D.N.I.C. Universorum Regis (OT-FOL-00-4) > AD I ET II VESPERAS > Te saeculorum principem (H.I) running over from p122.",
+ "context_out": "Christ the King > AD I ET II VESPERAS > Te saeculorum principem continues onto p124 (stanza 6 end, Amen).",
+ "continues": {
+  "from_page": "122",
+  "incipit": "Te saeculorum principem"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "p123 holds only stanzas 2 end to 6 start; no drop-cap, no rubric."
+ ]
+}

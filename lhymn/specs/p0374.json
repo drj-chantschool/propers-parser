@@ -1,0 +1,104 @@
+{
+ "page": "374",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Die 14 maii S. Matthiae > OFFREAD T.P. Matthia sacratissimo text running over from p373.",
+ "context_out": "Die 25 maii S. Bedae Venerabilis (De Communi doctorum vel sanctorum virorum: pro religiosis). No chant runs over.",
+ "continues": {
+  "from_page": "373",
+  "incipit": "Matthia sacratissimo"
+ },
+ "rows": [
+  {
+   "incipit": "O sempiternae curiae",
+   "kind": "xref",
+   "mode": null,
+   "lit_epoch_slug": "matthias",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "Tempore per annum",
+   "rubric": "Tempore per annum, hymnus O sempiternae curiae, de Communi Apostolorum, p. 267.",
+   "ref_page": 267
+  },
+  {
+   "incipit": "Claro paschali gaudio",
+   "kind": "xref",
+   "mode": null,
+   "lit_epoch_slug": "matthias",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": "Tempore paschali",
+   "rubric": "AD LAUDES MATUTINAS: Tempore paschali, hymnus Claro paschali gaudio, p. 268.",
+   "ref_page": 268
+  },
+  {
+   "incipit": "Matthia sacratissimo",
+   "kind": "xref",
+   "mode": null,
+   "lit_epoch_slug": "matthias",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "Per annum",
+   "rubric": "Per annum, hymnus Matthia sacratissimo, ut supra, p. 373.",
+   "ref_page": 373
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "john-i",
+   "common_slug": "COM-MART-UNO",
+   "common_page": 280,
+   "ref_option": 1,
+   "rubric": "De Communi unius martyris, p. 280, vel pastorum, p. 289."
+  },
+  {
+   "lit_epoch_slug": "john-i",
+   "common_slug": "COM-PAST-UNO-PAPA",
+   "common_page": 289,
+   "ref_option": 2,
+   "option_txt": "vel pastorum",
+   "rubric": "De Communi unius martyris, p. 280, vel pastorum, p. 289."
+  },
+  {
+   "lit_epoch_slug": "bernardine-of-siena",
+   "common_slug": "COM-PAST-UNO-PRESB",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289, vel sanctorum virorum: pro religiosis, p. 324."
+  },
+  {
+   "lit_epoch_slug": "bernardine-of-siena",
+   "common_slug": "COM-SANCT-RELIG",
+   "common_page": 324,
+   "ref_option": 2,
+   "option_txt": "vel sanctorum virorum: pro religiosis",
+   "rubric": "De Communi pastorum, p. 289, vel sanctorum virorum: pro religiosis, p. 324."
+  },
+  {
+   "lit_epoch_slug": "bede-the-venerable",
+   "common_slug": "COM-DOCT",
+   "common_page": 301,
+   "ref_option": 1,
+   "rubric": "De Communi doctorum Ecclesiae, p. 301, vel sanctorum virorum: pro religiosis, p. 324."
+  },
+  {
+   "lit_epoch_slug": "bede-the-venerable",
+   "common_slug": "COM-SANCT-RELIG",
+   "common_page": 324,
+   "ref_option": 2,
+   "option_txt": "vel sanctorum virorum: pro religiosis",
+   "rubric": "De Communi doctorum Ecclesiae, p. 301, vel sanctorum virorum: pro religiosis, p. 324."
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Matthias seasonal hymns: T.P. OFFREAD opt1 on p373; these rows give per-annum OFFREAD opt2 and LAUDS T.P./per annum. John I papa -> COM-PAST-UNO-PAPA; Bernardine presbyter -> COM-PAST-UNO-PRESB. Bede chosen by printed title (gregory-vii, mary-magdalene-de-pazzi also 25 May, not on this page)."
+ ]
+}

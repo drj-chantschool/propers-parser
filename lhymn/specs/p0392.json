@@ -1,0 +1,30 @@
+{
+ "page": "392",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Peter & Paul > LAUDS Apostolorum passio running over from p391.",
+ "context_out": "Peter & Paul > II VESPERAS O Roma felix (H.IV) begins p392, continues p393.",
+ "continues": {
+  "from_page": "391",
+  "incipit": "Apostolorum passio diem"
+ },
+ "rows": [
+  {
+   "incipit": "O Roma felix",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "ss-peter-paul",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD II VESPERAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

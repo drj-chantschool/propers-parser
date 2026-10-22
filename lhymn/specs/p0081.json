@@ -1,0 +1,28 @@
+{
+ "page": "81",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Tempus paschale I (Usque ad Ascensionem Domini) > AD OFFICIUM LECTIONIS (begun p79); hymn Hic est dies verus Dei ended on p80. No new hour heading on p81.",
+ "context_out": "Tempus paschale I > AD OFFICIUM LECTIONIS > Ad libitum in feriis post octavam Paschae hymn Laetare caelum desuper (H.VIII), stanzas 1-5 on p81, runs onto p82 (stanzas 5-7, doxology, Amen at final double bar). AD LAUDES MATUTINAS begins on p82 (H.VIII Aurora lucis rutilat).",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Laetare caelum desuper",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "PASC-AD_ASC",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkdays": [2,3,4,5,6,7],
+   "option_num": 2,
+   "option_txt": "Ad libitum in feriis post octavam Paschae",
+   "rubric": "Ad libitum in feriis post octavam Paschae"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "No hour heading printed on p81; the Ad libitum hymn follows Hic est dies verus Dei (AD OFFICIUM LECTIONIS, p79-80), so modeled as OFFREAD.hymn option 2 per director instruction. PASC-AD_ASC only, ferias 2-7.",
+  "Hymn runs onto p82 (stanzas 5 end-7, doxology, Amen); p82 producer should list it in continues. AD LAUDES MATUTINAS on p82 is not this page's."
+ ]
+}

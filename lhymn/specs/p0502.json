@@ -1,0 +1,47 @@
+{
+ "page": "502",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > TEMPORE PASCHALI (PASC) > 'Vel:' R.III Ego rogabo Patrem (begun p501) ends at top of p502 ('Ut.').",
+ "context_out": "RESPONSORIA > DOMINICA PENTECOSTES > 'Post priorem lectionem:' R.II Repleti sunt omnes, begun p502, ends p503 ('Et convenit.'). p503 then prints 'Post alteram lectionem:' R.III Dum complerentur dies Pentecostes (for the p503 producer).",
+ "continues": {
+  "from_page": "501",
+  "incipit": "Ego rogabo Patrem"
+ },
+ "rows": [
+  {
+   "incipit": "Ponis nubem",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "PASC-ASC-06-5",
+   "service": "OFFREAD",
+   "part": "resp",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "IN ASCENSIONE DOMINI; Ps 103, 3.1-2"
+  },
+  {
+   "incipit": "Repleti sunt omnes",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "PASC-PENT-08-1",
+   "service": "OFFREAD",
+   "part": "resp",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "DOMINICA PENTECOSTES; Post priorem lectionem: Act 2, 4.6.4",
+   "verified_despite": [
+    "GABC text starts"
+   ]
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Ponis nubem prints no 'Post priorem/alteram' label: assigned as resp (unplaced).",
+  "Repleti sunt omnes runs onto p503 (ends 'Et convenit.'); no trailing vel/xref line. No cross-book cue on p502.",
+  "verified_despite on Repleti sunt: CHECK is GABC markup (REpleti sunt [greheightstar] omnes Spiritu Sancto); words, mode II, office-part re match page. No LH tie in gregobase (LH p-); index row 5648 on p502 resolved_with_difficulty."
+ ]
+}

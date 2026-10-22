@@ -1,0 +1,30 @@
+{
+ "page": "451",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Guardian Angels > LAUDS Orbis patrator running over from p450.",
+ "context_out": "Guardian Angels > VESPERS Custodes hominum (H.III) begins p451, continues p452.",
+ "continues": {
+  "from_page": "450",
+  "incipit": "Orbis patrator optime"
+ },
+ "rows": [
+  {
+   "incipit": "Custodes hominum psallimus angelos",
+   "kind": "engraved",
+   "mode": "III",
+   "lit_epoch_slug": "guardian-angels",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD VESPERAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

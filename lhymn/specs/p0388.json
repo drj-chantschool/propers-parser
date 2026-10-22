@@ -1,0 +1,28 @@
+{
+ "page": "388",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Mense iunii; Irenaeus p387.",
+ "context_out": "Die 29 iunii SS. Petri & Pauli (Sollemnitas) > AD I VESPERAS Aurea luce (H.I) begins p388, continues p389.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Aurea luce et decore roseo",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "ss-peter-paul",
+   "service": "VESPERS1",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD I VESPERAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "8745 (AM 1934) contour-checked against the engraving: low start leaping to h on Au-, quilisma on lux lu-cis; accepted."
+ ]
+}

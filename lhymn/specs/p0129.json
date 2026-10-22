@@ -1,0 +1,37 @@
+{
+ "page": "129",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "OT-OT-34 > LAUDS Quid sum miser running over from p128.",
+ "context_out": "OT-OT-34 > AD VESPERAS > Peccatricem (H.I) begins p129, continues p130.",
+ "continues": {
+  "from_page": "128",
+  "incipit": "Quid sum miser"
+ },
+ "rows": [
+  {
+   "incipit": "Peccatricem qui solvisti",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "OT-OT-34",
+   "service": "VESPERS",
+   "part": "hymn",
+   "option_num": 1,
+   "option_txt": "In feriis sumi possunt (ad libitum)",
+   "rubric": "HEBDOMADA XXXIV PER ANNUM, in feriis (ad libitum): AD VESPERAS",
+   "wkdays": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ]
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Quid sum miser ends p129; no row. Ferial Vespers wkdays 2-6 (Saturday evening is Sunday I Vespers)."
+ ]
+}

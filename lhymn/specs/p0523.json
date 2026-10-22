@@ -1,0 +1,21 @@
+{
+ "page": "523",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > Die 15 augusti IN ASSUMPTIONE (assumption) > Post alteram lectionem R.III Vidi speciosam ended p522.",
+ "context_out": "RESPONSORIA > Die 14 septembris IN EXALTATIONE S. CRUCIS (holy-cross): R.I O crux begins and ends p523 ('* Quae.'). p524 opens Die 1 novembris IN SOLLEMNITATE OMNIUM SANCTORUM (R.I Vidi Dominum) then Die 8 decembris IN CONCEPTIONE IMMACULATA B.M.V. (R.VIII Nihil inquinatum begins p524, runs over).",
+ "continues": null,
+ "rows": [
+  {"incipit": "O crux", "kind": "engraved", "mode": "I", "allow_unresolved": true,
+   "lit_epoch_slug": "holy-cross", "service": "OFFREAD", "part": "resp",
+   "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "Die 14 septembris IN EXALTATIONE S. CRUCIS"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "O crux (index row 5643, p523, m1) has match_status=unmatched and no chant_uuid; no gregobase chant matches text (searched incipit, text, LH-1983 headers). Marked allow_unresolved so the LH assignment is recorded with NULL chant.",
+  "Slug holy-cross confirmed via proper_of_saints (month 9, day 14: 'Holy Cross', FEAST, UNIVERSAL; also lit_epoch kind=saint). No 'Post priorem/alteram' label printed, so part resp.",
+  "O crux read to final double bar on p523 ('* Quae.'); no vel line follows. Later Sanctorale headings on p524 (Die 1 novembris all-saints, Die 8 decembris immaculate conception) need slug lookup by date for p524's producer."
+ ]
+}

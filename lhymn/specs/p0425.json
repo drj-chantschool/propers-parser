@@ -1,0 +1,45 @@
+{
+ "page": "425",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "S. Augustini > AD LAUDES ET AD VESPERAS > Fulget in caelis running over from p424.",
+ "context_out": "Die 29 augusti In Passione S. Ioannis Baptistae (Memoria) > invitatory complete on p425; p426 has OFFREAD/LAUDS xrefs and VESPERS hymn Praecessor almus.",
+ "continues": {
+  "from_page": "424",
+  "incipit": "Fulget in caelis"
+ },
+ "rows": [
+  {
+   "incipit": "Agnum Dei quem Ioannes in passione",
+   "kind": "engraved",
+   "mode": "VII",
+   "lit_epoch_slug": "beheading-of-john-the-baptist",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM",
+   "allow_unresolved": true
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 160,
+   "lit_epoch_slug": "beheading-of-john-the-baptist",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Ps. Venite, p. 160."
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Fulget in caelis ends p425 (Amen); no row.",
+  "Agnum Dei, quem Ioannes in passione (A.VII): index row 5539 unmatched, no gregobase edition (15664 Agnum Dei quem laetus p384 is a different chant). Loaded unresolved; candidate for a placeholder local chant."
+ ]
+}

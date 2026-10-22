@@ -1,0 +1,32 @@
+{
+ "page": "229",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Wednesday wk II&IV > OFFREAD opt 1 O sator rerum running over from p228.",
+ "context_out": "Wednesday wk II&IV > OFFREAD opt 2 Christe lux vera (H.I) begins p229, continues p230.",
+ "continues": {
+  "from_page": "228",
+  "incipit": "O sator rerum reparator aevi"
+ },
+ "rows": [
+  {
+   "incipit": "Christe lux vera bonitas et vita",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": null,
+   "wknum_mod_2": 0,
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": 4,
+   "option_num": 2,
+   "option_txt": "Quando Officium lectionis dicitur diurno tempore",
+   "rubric": "II. Quando Officium lectionis dicitur diurno tempore:",
+   "index_row_id": 5188
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

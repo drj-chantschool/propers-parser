@@ -1,0 +1,30 @@
+{
+ "page": "279",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum > COMMUNE MARTYRUM PRO PLURIBUS MARTYRIBUS (COM-MART-PLUR) > AD II VESPERAS: first tone of Sanctorum meritis (H.II, begun p277) ended on p278; p279 opens with 'Alter tonus ad libitum' (running head 'Plurimorum martyrum').",
+ "context_out": "COM-MART-PLUR > AD II VESPERAS > Alter tonus ad libitum: Sanctorum meritis (H.IV) stanzas 1-3 here, runs over onto p280 (stanzas 4-5, final double bar at 'saecula. Amen.' on p280; nothing printed after it). p280 then opens heading 'PRO UNO MARTYRE' (COM-MART-UNO): AD I VESPERAS 'Hymnus Deus tuorum, p. 286, vel Virginis proles, p. 288, ut ad II Vesperas' (xrefs, p280 producer); AD INVITATORIUM 'Ant. Regem martyrum, ut supra p. 273'.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Sanctorum meritis inclita gaudia",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "COM-MART-PLUR",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "Alter tonus ad libitum",
+   "rubric": "Alter tonus ad libitum",
+   "notes": "Text variants printed for other subjects (pro uno/una/pluribus or feminine forms); same melody."
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Whole page is one chant (H.IV Sanctorum meritis, stanzas 1-3); stanzas 4-5 and final double bar on p280; no vel/Ad libitum line follows it.",
+  "Interlinear variants printed: 'pro sanctis mulieribus: Hae quas', 'secutae', 'Hae' (stanza 3).",
+  "Director, user rulings 2026-10-15: text-only variants (one chant) kept as one row; variants described in notes (ruling 1)"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "page": "268",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum › COMMUNE APOSTOLORUM (COM-APOST) › AD OFFICIUM LECTIONIS: hymn O sempiternae curiae (H.III) begun on p267, stanza 5 text running over onto p268.",
+ "context_out": "COM-APOST › AD LAUDES MATUTINAS › 'Tempore paschali' hymn Claro paschali gaudio (H.III) begins on p268 and runs over to p269 (stanzas 2-5, final double bar and Amen on p269; nothing printed after it on p269). Next heading on p270 onward is for the next hour.",
+ "continues": {
+  "from_page": "267",
+  "incipit": "O sempiternae curiae"
+ },
+ "rows": [
+  {
+   "incipit": "O sempiternae curiae",
+   "kind": "xref",
+   "ref_page": 267,
+   "mode": "III",
+   "lit_epoch_slug": "COM-APOST",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": "In Quadragesima",
+   "rubric": "Hymnus in Proprio de sanctis, praeter in Quadragesima hymnus O sempiternae curiae, ut supra ad Officium lectionis, p. 267."
+  },
+  {
+   "incipit": "Claro paschali gaudio",
+   "kind": "engraved",
+   "mode": "III",
+   "lit_epoch_slug": "COM-APOST",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "Tempore paschali",
+   "rubric": "Tempore paschali"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Top of p268 is the end of O sempiternae curiae (stanzas 5-6, Amen) assigned on p267: continues only.",
+  "Normal Lauds hymn is 'in Proprio de sanctis' (no chant here, no row). Lent exception is the xref to p267; Paschaltide variant Claro paschali gaudio stays a row of the Common per README.",
+  "option_num 1/2 for the two seasonal rows is a provisional choice pending the seasonal-condition ruling.",
+  "Claro paschali gaudio runs to p269 (final bar + Amen); read p269, no vel/Ad libitum line follows.",
+  "Director, user rulings 2026-10-15: seasonal 'Tempore paschali'/'In aliis temporibus' rows kept as option_txt (ruling 2)"
+ ]
+}

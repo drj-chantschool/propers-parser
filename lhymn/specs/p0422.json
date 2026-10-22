@@ -1,0 +1,43 @@
+{
+ "page": "422",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Die 22 augusti B.M.V. Reginae (queenship-of-mary); Lauds hymn ended p421.",
+ "context_out": "Die 23 augusti S. Rosae de Lima, virginis > De Communi virginum p305 vel sanctarum mulierum: pro religiosis p324. No chant runs over.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Mole gravati criminum",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "queenship-of-mary",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD VESPERAS"
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "rose-of-lima",
+   "common_slug": "COM-VIRG-UNA",
+   "common_page": 305,
+   "ref_option": 1,
+   "rubric": "De Communi virginum, p. 305, vel sanctarum mulierum: pro religiosis, p. 324."
+  },
+  {
+   "lit_epoch_slug": "rose-of-lima",
+   "common_slug": "COM-SANCT-RELIG",
+   "common_page": 324,
+   "ref_option": 2,
+   "option_txt": "vel sanctarum mulierum: pro religiosis",
+   "rubric": "De Communi virginum, p. 305, vel sanctarum mulierum: pro religiosis, p. 324."
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

@@ -1,0 +1,4 @@
+{"row_id": 6394, "verdict": "group", "chant_uuid": null, "chant_group_id": 3236,
+ "evidence": "p657 'Benedicite, gentes, Deum nostrum.' 6f, Ps 65,8, CAO 1701, PM 147, Euouae. Engraving contour f g h g f g d | f g g f (cadence on 'nostrum' f), Euouae h h f gh g f. 3236 (Solesmes 1934) and 11074 (Verona), both group 3236, have identical neumes, text and Euouae (gabc c4 f g h g f g d | f g g f; E h u h o f u gh a g e f); differences only in punctuation/asterisk marker, so no single edition is better. 18508 differs.",
+ "rejected": [{"chant_uuid": "gregobase:18508", "why": "Cistercian 1955, group 18508: different melody on 'Gentes' (gffe~ dc) with a division after 'Benedicite'; engraving runs f g h g f g d continuously"}],
+ "assignment": null, "index_fix": null, "question": null}

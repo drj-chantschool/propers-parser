@@ -1,0 +1,32 @@
+{
+ "page": "235",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Friday wk II&IV > OFFREAD opt 1 Galli cantu running over from p234.",
+ "context_out": "Friday wk II&IV > OFFREAD opt 2 Adesto rerum conditor (H.II) begins p235, continues p236.",
+ "continues": {
+  "from_page": "234",
+  "incipit": "Galli cantu mediante"
+ },
+ "rows": [
+  {
+   "incipit": "Adesto rerum conditor",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": null,
+   "wknum_mod_2": 0,
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": 6,
+   "option_num": 2,
+   "option_txt": "Quando Officium lectionis dicitur diurno tempore",
+   "rubric": "II. Quando Officium lectionis dicitur diurno tempore:",
+   "index_row_id": 5126
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

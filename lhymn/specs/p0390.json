@@ -1,0 +1,42 @@
+{
+ "page": "390",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Peter & Paul; VESPERS1 complete p389.",
+ "context_out": "Peter & Paul > OFFREAD Felix per omnes (H.IV) begins p390, continues p391.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Regem Apostolorum Dominum",
+   "kind": "xref",
+   "ref_page": 266,
+   "mode": null,
+   "lit_epoch_slug": "ss-peter-paul",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM: Ant. Regem Apostolorum, p. 266.",
+   "chant_uuid": "gregobase:10398"
+  },
+  {
+   "incipit": "Felix per omnes festum",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "ss-peter-paul",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD OFFICIUM LECTIONIS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Invitatory xref p266 → opt1 Regem Apostolorum A.III (10398), as Chair of Peter p351 did; the p266 vel/T.P. options are not repeated (p351 precedent)."
+ ]
+}

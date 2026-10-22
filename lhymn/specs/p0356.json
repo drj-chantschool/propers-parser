@@ -1,0 +1,17 @@
+{
+ "page": "356",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Die 19 martii S. Ioseph (st-joseph) > AD I ET II VESPERAS > Te, Ioseph, celebrent (H.I) running over from p355.",
+ "context_out": "S. Ioseph > AD I ET II VESPERAS > Te, Ioseph, celebrent ends on p356 (stanzas 3 end-5, Amen, final double bar). Nothing else on p356; p357 continues St Joseph (invitatory / Office of Readings / Lauds).",
+ "continues": {
+  "from_page": "355",
+  "incipit": "Te Ioseph celebrent"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "p356 holds only the end of Te, Ioseph, celebrent (stanzas 3-5, Amen); no drop-cap, no rubric. Written by the director from the rendered page."
+ ]
+}

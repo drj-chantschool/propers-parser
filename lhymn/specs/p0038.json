@@ -1,0 +1,101 @@
+{
+ "page": "38",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "TEMPUS NATIVITATIS II. A sollemnitate Epiphaniae (NAT-EPI) > In Officio de Tempore, ab Epiphania Domini usque ad festum Baptismatis Domini exclusive > AD COMPLETORIUM finished on p37.",
+ "context_out": "NAT-EPI > AD OFFICIUM LECTIONIS: Magi videntes parvulum (H.III) begun on p38, stanzas 1-4 so far; continues on p39 (stanza 4 end, 5, 6, 7 doxology, Amen; final double bar on p39). No hymn option or vel line seen on p39; no further chant on p39.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Christus apparuit nobis",
+   "kind": "xref",
+   "ref_page": 16,
+   "mode": "IV**",
+   "lit_epoch_slug": "NAT-EPI-00-0",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "A. Christus apparuit nobis, venite, adoremus, ut supra, in Nativitate Domini, p. 16, vel p. 19 in feriis post Epiphaniam.",
+   "chant_uuid": "gregobase:13371",
+   "verified_despite": [
+    "GABC text starts '\"CHr"
+   ]
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 16,
+   "mode": "IV**",
+   "lit_epoch_slug": "NAT-EPI-00-0",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Psalm cue not printed on p38; ut supra p. 16 (Ps 94 engraved p16-19)"
+  },
+  {
+   "incipit": "Christus apparuit nobis",
+   "kind": "xref",
+   "ref_page": 19,
+   "mode": "E",
+   "lit_epoch_slug": "NAT-EPI",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkdays": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "option_num": 1,
+   "option_txt": "In feriis post Epiphaniam",
+   "rubric": "A. Christus apparuit nobis, venite, adoremus, ut supra, in Nativitate Domini, p. 16, vel p. 19 in feriis post Epiphaniam.",
+   "chant_uuid": "local:7c1367a3-2716-44a3-aadf-b010e3a264f7"
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 168,
+   "mode": null,
+   "lit_epoch_slug": "NAT-EPI",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkdays": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "option_num": 1,
+   "option_txt": "In feriis post Epiphaniam",
+   "rubric": "Ps. Venite, p. 168 (cue printed on p19 under the A.E antiphon)"
+  },
+  {
+   "incipit": "Magi videntes parvulum",
+   "kind": "engraved",
+   "mode": "III",
+   "lit_epoch_slug": "NAT-EPI",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD OFFICIUM LECTIONIS (under In Officio de Tempore, ab Epiphania Domini usque ad festum Baptismatis Domini exclusive)"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Hymn assumed governed by the season-wide rule (no separate rubric printed on p38/p39).",
+  "Psalm cue for the invitatory is not printed on p38; invps rows inferred from the targets (p16 Ps engraved there; p19 cue is p168).",
+  "Resolved by intake_queue #1 (user, 2026-10-18): xref rows follow p16 (13371) and p19 (apparuit local).",
+  "CHECK on 13371 is an encoding artefact: its gabc column is stored JSON-escaped (leading quote, í escapes); decoded text = Christus apparuit nobis, mode 4."
+ ]
+}

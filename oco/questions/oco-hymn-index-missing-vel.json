@@ -1,0 +1,9 @@
+{"pipeline": "book-batch", "book": "OCO", "category": "modeling", "topic_key": "oco-hymn-index-missing-vel", "priority": 3,
+ "title": "p590 (psalter wk II Sunday Off. lect.) prints 'Salve dies (LHym 210) vel Dies ætasque (LHym 183)': add Dies ætasque as a further 2.4H1 option?",
+ "prompt": "p590, psalter week II Dominica, Off. lect. H: 'Quando officium dicitur noctu vel summo mane: Mediæ noctis (LHym 209)' / 'Quando officium dicitur diurno tempore: Salve dies (LHym 210) vel Dies ætasque (LHym 183)'. Loaded now (wkday 1, wknum_mod_2 0, OFFREAD.hymn): option 1 Mediæ noctis (gregobase:4610, no option_txt, see #28), option 2 Salve dies (gregobase:10458, 'Quando officium dicitur diurno tempore'). The hymn index (p1217) codes Dies ætasque (#105, gregobase:15628) only as 1.3H1 Ol (week I Sunday, p550, where it is the 'diurno tempore' hymn), so the 'vel Dies ætasque' on p590 is not modeled.",
+ "pages": [{"book": "OCO", "page": "590", "note": "wk II Sunday Off. lect. 'Salve dies vel Dies ætasque'"}, {"book": "OCO", "page": "550", "note": "wk I Sunday Off. lect., Dies ætasque diurno"}],
+ "options": [{"label": "Add Dies ætasque as 2.4H1 OFFREAD.hymn option 3 'Quando officium dicitur diurno tempore'", "detail": "an extra LPS row for index #105 on wkday 1 wknum_mod_2 0, beside its 1.3H1 row (needs a second assignment for the row: override with both, or a manual extra row)", "recommended": true},
+             {"label": "Leave it: Salve dies is the week II hymn, Dies ætasque is week I's", "detail": "the 'vel' just points back to week I; nothing more loaded"}],
+ "context": [{"label": "Verdict", "path": "propers-parser/oco/index/resolve/c5948.json"}, {"label": "Overrides", "path": "propers-parser/oco/index/lps_overrides.json"}],
+ "blocks": [],
+ "raised_by": "book-batch OCO conflicts batch 4, 2026-10-21"}

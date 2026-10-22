@@ -1,0 +1,43 @@
+{
+ "page": "122",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Sacratissimi Cordis Iesu > AD LAUDES > Iesu, auctor clementiae running over from p121.",
+ "context_out": "Dominica XXXIV per annum, D.N.I.C. Universorum Regis (OT-FOL-00-4, Sollemnitas) > AD I ET II VESPERAS > Te saeculorum principem (H.I) begins p122, runs over to p123.",
+ "continues": {
+  "from_page": "121",
+  "incipit": "Iesu auctor clementiae"
+ },
+ "rows": [
+  {
+   "incipit": "Te saeculorum principem",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "OT-FOL-00-4",
+   "service": "VESPERS1",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD I ET II VESPERAS"
+  },
+  {
+   "incipit": "Te saeculorum principem",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "OT-FOL-00-4",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD I ET II VESPERAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Iesu auctor clementiae ends on p122 (Amen); no row."
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "page": "261",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum › Commune BMV › AD II VESPERAS › 'In memoriis': third engraved Ave maris stella (H.I) begun at foot of p. 260 runs over (end of stanza 1 'per virgo, felix caeli porta' through stanza 7 start).",
+ "context_out": "Commune BMV › AD II VESPERAS › 'In memoriis': Ave maris stella (H.I) still running; p. 261 ends mid-stanza 7 'Sit laus Deo Pa-'; p. 262 has 'tri, summo Christo decus ... unus. Amen.' final double bar, nothing printed after it (rest of p. 262 blank).",
+ "continues": {"from_page": "260", "incipit": "Ave maris stella"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Page holds only stanzas 1(end)-7(start) of the H.I Ave maris stella assigned on p260; p262 has the end of stanza 7 + Amen and no trailing vel/Ad libitum."]
+}

@@ -1,0 +1,16 @@
+{
+ "row_id": 6147,
+ "verdict": "link",
+ "chant_uuid": "gregobase:10721",
+ "chant_group_id": null,
+ "evidence": "p699 'Adiutorium nostrum in nomine Domini.' 1g (Ps 123,8; CAO 1279; PM 293), c4: f g h g f g f * f | nó clivis fe | g | ne fe | Dó d | mi pes cd | ni d; Euouae h h g f gh g. Matches 10721 (Verona) exactly; 10020 (AR 101) has nó pes e_f and mi single d. Director: group→link after zooming the engraving.",
+ "rejected": [
+  {
+   "chant_uuid": "gregobase:10020",
+   "why": "same group; nó(e_f) pes and Dó-mi(d) differ from engraving's clivis fe and pes cd"
+  }
+ ],
+ "assignment": null,
+ "index_fix": null,
+ "question": null
+}

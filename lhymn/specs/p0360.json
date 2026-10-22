@@ -1,0 +1,31 @@
+{
+ "page": "360",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Sanctorale > Mense martii > (p359 ended S. Ioseph Lauds hymn Caelitum, Ioseph, decus; nothing running over).",
+ "context_out": "Die 25 martii In Annuntiatione Domini (Sollemnitas) > AD INVITATORIUM > Verbum caro factum est (A.IV*) engraved; its psalm cue 'Ps. Venite, p. 141' is printed at the top of p361, followed by 'Tempore paschali' Verbum caro (A.VI*, drop-cap, p361) and AD OFFICIUM LECTIONIS (p361).",
+ "continues": null,
+ "rows": [
+  {"incipit": "Agnoscat omne saeculum", "kind": "engraved", "mode": "VIII", "lit_epoch_slug": "annunciation",
+   "service": "VESPERS1", "part": "hymn", "wkday": null, "option_num": 1, "option_txt": null,
+   "verified_despite": ["spec incipit"], "rubric": "Die 25 martii IN ANNUNTIATIONE DOMINI, Sollemnitas. AD I VESPERAS"},
+  {"incipit": "Verbum caro factum est", "kind": "engraved", "mode": "4*", "lit_epoch_slug": "annunciation",
+   "service": "INVITATORY", "part": "invan", "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "AD INVITATORIUM (cf. Io 1, 14)"},
+  {"incipit": "Venite exsultemus", "kind": "xref", "ref_page": 141, "mode": "4*", "lit_epoch_slug": "annunciation",
+   "service": "INVITATORY", "part": "invps", "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "Ps. Venite, p. 141 (cue printed at top of p361)"}
+ ],
+ "common_refs": [
+  {"lit_epoch_slug": "turibius-of-mongrovejo", "common_slug": "COM-PAST-UNO-EPISC", "common_page": 289,
+   "ref_option": 1, "rubric": "De Communi pastorum, p. 289."}
+ ],
+ "questions": [],
+ "flags": [
+  "Row 1 CHECK is only the ae-ligature/accent difference in the opening text (gabc: Agnoscat omne saeculum, headers Liber Hymnarius, 1983, p. 360, m8, Hymnus). Opening neumes (g g f e d, rise to g-h cluster) and cadence on g match the engraving.",
+  "Row 2: gregobase 17685 (ad Invitatorium, mode 4*) has no LH page tie; neumes (low rise c-d-e-f, e e, fall to low at est, ... cadence on e) match the p360 engraving; the paschal 17686 (mode 6) is the p361 chant.",
+  "Epoch slugs by date+title: 'annunciation' (SOLEMNITY, 3/25) and 'turibius-of-mongrovejo' (rank UNDETERMINED in proper_of_saints; page prints no rank marker for him).",
+  "Turibius: 'De Communi pastorum' narrowed to COM-PAST-UNO-EPISC per director instruction (episcopus).",
+  "p361 prints a fully engraved 'Tempore paschali' Verbum caro factum est (A.VI*, own drop cap, Ps. Venite p. 154); per the quirks rule that chant begins on p361 and belongs to p361's spec, not this one."
+ ]
+}

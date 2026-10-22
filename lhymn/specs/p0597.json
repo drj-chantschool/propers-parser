@@ -1,0 +1,28 @@
+{
+ "page": "597",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Mense novembris > Die 16 novembris S. Gertrudis, virginis (Memoria) > De Communi virginum, p. 305, vel ad libitum ut infra > p596 Vigils hymn already ended.",
+ "context_out": "Die 16 novembris S. Gertrudis > Ad Laudes hymn Ad sacros virgo ends on this page (Amen). Ad Vesperas (hymn Gertrudis ipse Spiritus, H.VIII) begins p598, then Die 19 novembris S. Mechtildis.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Ad sacros virgo thalamos anhelans",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "gertrude-the-great",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "after_common": true,
+   "rubric": "De Communi virginum, p. 305, vel ad libitum ut infra: AD LAUDES MATUTINAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Lauds hymn is an ad libitum alternative to the Common's (rubric printed p596), so after_common per ruling 4. common_ref not repeated (on p596 spec).",
+  "Vespers hymn Gertrudis ipse Spiritus is on p598, not here.",
+  "Neume check: gregobase:9304 has no LH page tie (LH p-). Its GABC (f3 clef; 'Ad(c) sacros(f) virgo(e/h)... thalamos anhelans' / 'Nuptias caelo / celebrare gestit' with flat on celebrare / 'Et piis votis nimium morantem' / 'Provocat horam' ending f) matches the engraving's 4-phrase layout, low-c opening, flat in line 2 and final f. Index row 5124 (p597, m2, reviewed) agrees. Accepted."
+ ]
+}

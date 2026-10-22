@@ -1,0 +1,3 @@
+{"row_id": 5898, "verdict": "option", "option_txt": "Alia melodia (LHym 112)",
+ "evidence": "p521 (Corpus Christi, I & II Vesp.) prints only 'H Pange lingua (LHym 110)'. Hymn index p1221 has 'Pange lingua... corporis 1' (r5897, LHym 110, gregobase:8671, Solesmes 1983) and 'corporis 2' (r5898, LHym 112, gregobase:8785, Vatican): same text 'Pange lingua gloriosi Corporis mysterium', different melodies, same slot (Corp V). Matches RESOLVER index-only second melody rule.",
+ "question": null}

@@ -1,0 +1,61 @@
+{
+ "page": "473",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Andrew > LAUDS complete on p472.",
+ "context_out": "Ambrose > LAUDS Fortem piumque praesulem (H.III) begins p473, continues to p475.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Fortem piumque praesulem",
+   "kind": "engraved",
+   "mode": "III",
+   "lit_epoch_slug": "st-ambrose",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS",
+   "index_row_id": 5252
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "st-francis-xavier",
+   "common_slug": "COM-PAST-UNO-PRESB",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289."
+  },
+  {
+   "lit_epoch_slug": "st-john-damascene",
+   "common_slug": "COM-DOCT",
+   "common_page": 301,
+   "ref_option": 1,
+   "rubric": "De Communi doctorum Ecclesiae, p. 301."
+  },
+  {
+   "lit_epoch_slug": "nicholas",
+   "common_slug": "COM-PAST-UNO-EPISC",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289."
+  },
+  {
+   "lit_epoch_slug": "st-ambrose",
+   "common_slug": "COM-DOCT",
+   "common_page": 301,
+   "ref_option": 1,
+   "rubric": "De Communi doctorum Ecclesiae, p. 301, praeter sequentia:",
+   "skip_slots": [
+    "LAUDS.hymn"
+   ]
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Ambrose: only the Lauds hymn is proper (ends p475; p475 then begins the Immaculate Conception)."
+ ]
+}

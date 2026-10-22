@@ -1,0 +1,45 @@
+{
+ "page": "415",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Assumption > VESPERS1/VESPERS Gaudium mundi running over from p414.",
+ "context_out": "Assumption > INVITATORY Venite adoremus Regem regum (A.IV) begins p415; its \"Ps. Venite, p. 138.\" line is at the top of p416 and is modeled here.",
+ "continues": {
+  "from_page": "414",
+  "incipit": "Gaudium mundi nova stella caeli"
+ },
+ "rows": [
+  {
+   "incipit": "Venite adoremus Regem regum",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "assumption",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM",
+   "index_row_id": 5612
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 138,
+   "mode": null,
+   "lit_epoch_slug": "assumption",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Ps. Venite, p. 138. (printed at top of p416)"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "invps citation spills onto p416; modeled with its antiphon (as p461/p465)."
+ ]
+}

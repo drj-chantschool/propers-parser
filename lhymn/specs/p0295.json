@@ -1,0 +1,16 @@
+{
+ "page": "295",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum > COMMUNE PASTORUM (COM-PAST) > AD LAUDES MATUTINAS > 'Pro uno pastore' hymn Inclitus rector (H.VIII), begun p293; p295 opens with 'Pro presbytero:' stanza 2.",
+ "context_out": "COM-PAST > AD LAUDES MATUTINAS > hymn Inclitus rector ends on p295 at final double bar after Amen. Nothing vel/ad libitum follows. p296 opens 'Pro pluribus pastoribus' with new hymn Hi sacerdotes Domini sacrati (H.VIII), begins p296 (next producer).",
+ "continues": {"from_page": "293", "incipit": "Inclitus rector pater atque prudens (H.VIII): 'Pro presbytero:' stanza 2 Ipse dux clarus fuit et magister, stanza 3 Nunc eum nisu rogitemus omnes, stanza 4 Sit Deo soli decus et potestas, Amen"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Nothing begins on p295; whole page is the end of Inclitus rector (assigned p293).",
+  "'Pro presbytero:' alternative stanza 2 variant belongs to p293's held question (stanza-2 variants); not modeled here.",
+  "'Pro pluribus pastoribus' hymn (Hi sacerdotes) begins p296, outside this page."
+ ]
+}

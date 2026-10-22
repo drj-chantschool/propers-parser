@@ -1,0 +1,19 @@
+{
+ "page": "512",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > TEMPORE PER ANNUM (OT) > numbered alternatives; V Surrexit Pastor bonus ended on p511.",
+ "context_out": "RESPONSORIA > TEMPORE PER ANNUM (OT) > numbered alternatives; VI Ecce vicit leo ends at its final bar on p512 ('* Alleluia.'). p513 begins VII R.I Expurgate vetus fermentum (1 Cor 5, 7-8; Rom 4, 25), option 7, and VIII R.VII Dignus es Domine (Apc 5, 9-10), option 8 (runs onto p514).",
+ "continues": null,
+ "rows": [
+  {"incipit": "Ecce vicit leo", "kind": "engraved", "mode": "VII",
+   "lit_epoch_slug": "OT", "service": "OFFREAD", "part": "resp",
+   "wkday": null, "option_num": 6, "option_txt": "VI",
+   "rubric": "TEMPORE PER ANNUM; VI; Apc 5, 5-12"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Roman numerals are numbered alternatives: VI = option 6 of OFFREAD.resp. Chant is fully on p512 (final bar after '* Alleluia.'); p513 opens with VII, a new chant. No vel/ad libitum or cross-book cue on p512."
+ ]
+}

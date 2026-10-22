@@ -1,0 +1,3 @@
+{"row_id": 5682, "verdict": "option", "option_txt": "Quando officium dicitur diurno tempore",
+ "evidence": "p612 'Feria V', 'Off. lect.' H: 'Quando officium dicitur noctu vel summo mane: Ales diei nuntius (LHym 232)' then 'Quando officium dicitur diurno tempore: Amoris sensus (LHym 232)'. gregobase:12157 = 'Ales diei nuntius' (hy, mode 4, Solesmes) = the noctu hymn, option 1; Amoris sensus is the explicit alternative. Slot wkday=5 is Thursday (Feria V), matching the page (not Friday).",
+ "question": null}

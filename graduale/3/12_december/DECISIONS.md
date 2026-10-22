@@ -140,7 +140,7 @@ and the printed back-of-book index reads `Exiit sermo` twice (mode 5 graduale, m
 confirmed by a fitz scan of the INDICES chapter before touching anything. `gregobase_id=781`
 (`Exiit sermo(Com.)`, Solesmes) was already correct; only the incipit was wrong.
 
-Blast-radius check first: **no** spec anywhere in `propers-parser/specs/` used the typo'd
+Blast-radius check first: **no** spec anywhere in `propers-parser/graduale/specs/` used the typo'd
 spelling, so the edit is strictly an improvement. Repaired as `jcost`
 (`match_status` left at `resolved`, `gregobase_id` untouched), then re-probed: the `ℹ index
 incipit mismatch` is gone and `john-the-apostle` resolves by exact match.

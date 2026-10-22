@@ -1,0 +1,14 @@
+{
+ "page": "302",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum > COM-DOCT (Commune doctorum Ecclesiae, from p301) > after AD INVITATORIUM / AD OFFICIUM LECTIONIS (p301).",
+ "context_out": "COM-DOCT > AD LAUDES MATUTINAS: hymn Doctor aeternus coleris runs onto p303 (stanzas 4-5, Amen, final double bar); p303 then opens AD II VESPERAS Aeterne sol (H.IV) for the p303 producer.",
+ "continues": null,
+ "rows": [
+  {"incipit": "Doctor aeternus coleris", "kind": "engraved", "mode": "VIII", "lit_epoch_slug": "COM-DOCT", "service": "LAUDS", "part": "hymn", "wkday": null, "option_num": 1, "option_txt": null, "rubric": "AD LAUDES MATUTINAS"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Hymn runs over to p303 (stanzas 4-5, Amen); nothing printed after the final bar before AD II VESPERAS. No seasonal or subject conditions on this page."]
+}

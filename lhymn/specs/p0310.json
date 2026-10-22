@@ -1,0 +1,27 @@
+{
+ "page": "310",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia > COMMUNE VIRGINUM (COM-VIRG) > after Lauds; heading AD II VESPERAS printed on p310 (cited from p309 as 'Pro pluribus virginibus: Hymnus Iesu, corona virginum, ut ad II Vesperas, p. 310').",
+ "context_out": "COM-VIRG > AD II VESPERAS; Iesu, corona virginum (H.VIII) begins p310, stanzas 1-5, doxology stanza 5 continues onto top of p311 and ends Amen; then COMMUNE SANCTORUM VIRORUM begins on p311.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Iesu, corona virginum",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "COM-VIRG",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD II VESPERAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Hymn runs onto p311 (stanza 5 'Iesu, tibi sit gloria ... Amen'); no trailing vel/ad lib line. I Vespers use is an xref on p305; Lauds (pro pluribus) xref owned by p308."
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "pipeline": "book-batch",
+ "book": "OCO",
+ "category": "modeling",
+ "topic_key": "oco-code-Bn",
+ "priority": 3,
+ "title": "OCO index place code B1 / B2 / B3 (Laudes)",
+ "prompt": "Lauds rows on dates with two or three saints use B1, B2 (once B3), sometimes with TP / TpA appended. 37 index row(s). Examples: #1891 'Istorum est enim' 12/5|L|B1TpA p1024; #1783 'In velamento' 12/5|L|B2TP p1043; #1782 'In velamento' 12/5|L|B1TP p1043; #716 'Beatus vir qui suffert' 12/5|L|B2TpA pNone; #1182 'Dum esset rex' 16/10|L|B2 p1137; #3000 'Tu es Domine' 16/10|L|B1 p1149. Legend OCO pp1210-1213 does not define this code. Rows with it are held: the mapper (oco/oco_sigla.py) gives no lit_part_sources target, so identity can load but the assignment waits. Answer = what the code means and where the chant goes (service.part, epoch, option_txt). Carry-out: add the rule to oco_sigla.py, re-run oco/load_oco_lps.py, record it in oco/specs/README.md 'User rulings'.",
+ "pages": [
+  {
+   "book": "OCO",
+   "page": "1024",
+   "note": "'Istorum est enim' 12/5|L|B1TpA"
+  },
+  {
+   "book": "OCO",
+   "page": "1043",
+   "note": "'In velamento' 12/5|L|B2TP"
+  },
+  {
+   "book": "OCO",
+   "page": "1043",
+   "note": "'In velamento' 12/5|L|B1TP"
+  },
+  {
+   "book": "OCO",
+   "page": "1137",
+   "note": "'Dum esset rex' 16/10|L|B2"
+  },
+  {
+   "book": "OCO",
+   "page": "1149",
+   "note": "'Tu es Domine' 16/10|L|B1"
+  }
+ ],
+ "options": [
+  {
+   "label": "n-th saint of the date",
+   "detail": "B1 = Benedictus antiphon of the first saint listed on that date, B2 of the second, B3 of the third; LPS → LAUDS.antB on that saint's epoch (agent picks the slug from the page heading).",
+   "recommended": true
+  },
+  {
+   "label": "alternative antiphons",
+   "detail": "B1/B2 are two alternatives for the same office → LAUDS.antB option 1 / option 2."
+  }
+ ],
+ "refs": [
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 7553
+   },
+   "note": "Istorum est enim"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 7445
+   },
+   "note": "In velamento"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 7444
+   },
+   "note": "In velamento"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 6378
+   },
+   "note": "Beatus vir qui suffert"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 6844
+   },
+   "note": "Dum esset rex"
+  },
+  {
+   "table": "chant_indices",
+   "pk": {
+    "row_id": 8662
+   },
+   "note": "Tu es Domine"
+  }
+ ],
+ "context": [
+  {
+   "label": "Sigla legend",
+   "path": "OCO pp1210-1213"
+  },
+  {
+   "label": "Mapper",
+   "path": "propers-parser/oco/oco_sigla.py"
+  },
+  {
+   "label": "Contract",
+   "path": "propers-parser/oco/specs/README.md"
+  }
+ ],
+ "blocks": [
+  "OCO:idx:oco-code-Bn"
+ ],
+ "raised_by": "book-intake director, OCO 2026-10-20"
+}

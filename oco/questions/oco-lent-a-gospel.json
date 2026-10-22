@@ -1,0 +1,10 @@
+{"pipeline": "book-batch", "book": "OCO", "category": "modeling", "topic_key": "oco-lent-a-gospel-sets", "priority": 2,
+ "parent_id": 13,
+ "title": "Lent Sundays III-V: should the Year-A ('a') antiphon sets also be 'cum Evangelio de …' instead of Year A?",
+ "prompt": "In #13 you ruled B* (5Q1, Lazarus) → option_txt 'cum Evangelio de Lazaro', not tied to Year A, because \"any parish might use the A Gospel in any year\". OCO's Lent Sundays III, IV and V each have full a/b/c sets: Ba/Bb/Bc (Lauds), Ma/Mb/Mc (II Vespers) and T/S/N a/b/c — 27 rows marked 'a' across 3Q1 (Samaritan woman: 'Aqua quam', 'Spiritus est Deus', 'Domine ut video' …), 4Q1 (man born blind: 'Rabbi quid peccavit', 'A saeculo non est auditum', 'Ille homo' …) and 5Q1 (Lazarus: 'Domine ecce quem', 'Clamabat Dominus Iesus', 'Lazarus amicus' (T a) …). Today they load (or will) with cycle_sun = 1 (Year A); b/c with cycle_sun 2/3. Should the 'a' rows instead carry no cycle_sun and option_txt 'cum Evangelio de Samaritana' / 'de caeco nato' / 'de Lazaro' (shown every year next to the year's b/c antiphon)? Nothing changes until you answer; the #13 B* row is already loaded that way.",
+ "pages": [{"book": "OCO", "page": "177", "note": "3Q1 L Ba 'Aqua quam'"}, {"book": "OCO", "page": "192", "note": "4Q1 L Ba 'Rabbi quid peccavit'"}, {"book": "OCO", "page": "208", "note": "5Q1 L Ba 'Domine ecce quem'"}, {"book": "OCO", "page": "209", "note": "5Q1 L B* 'Lazarus amicus'"}],
+ "options": [{"label": "Yes: 'a' sets → option_txt, no year", "detail": "3Q1/4Q1/5Q1 rows with place a/Ba/Ma: cycle_sun NULL, option_txt 'cum Evangelio de Samaritana' / 'de caeco nato' / 'de Lazaro'; b/c keep Years B/C", "recommended": true},
+             {"label": "No: keep Year A", "detail": "only B* is year-free; the 'a' sets stay cycle_sun 1"}],
+ "context": [{"label": "Contract", "path": "propers-parser/oco/specs/README.md (User rulings)"}, {"label": "Mapper", "path": "propers-parser/oco/oco_sigla.py (CYCLE, parts)"}],
+ "blocks": ["OCO:idx:lent-a-sets"],
+ "raised_by": "intake-triage 2026-10-20, follow-up to #13"}

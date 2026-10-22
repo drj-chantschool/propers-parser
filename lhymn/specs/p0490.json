@@ -1,0 +1,21 @@
+{
+ "page": "490",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > IN NATIVITATE DOMINI > Post alteram lectionem (after Hodie nobis caelorum Rex on p489)",
+ "context_out": "RESPONSORIA > Dominica infra octavam Nativitatis, Sanctae Familiae Iesu, Mariae et Ioseph > Descendit Iesus cum eis begins at foot of p490, runs onto p491 and ends at its final double bar (repetenda Et.) with no vel/Ad libitum; p491 then opens In octava Nativitatis, Sollemnitas Sanctae Dei Genetricis Mariae with Sancta et immaculata virginitas (begins p491)",
+ "continues": null,
+ "rows": [
+  {"incipit": "Hodie nobis de caelo pax vera", "kind": "engraved", "mode": "VIII",
+   "lit_epoch_slug": "NAT-DAY-00-0", "service": "OFFREAD", "part": "resp2", "wkday": null,
+   "option_num": 1, "option_txt": null,
+   "rubric": "IN NATIVITATE DOMINI; Post alteram lectionem: Lc 2, 51-52"},
+  {"incipit": "Descendit Iesus cum eis", "kind": "engraved", "mode": "VIII",
+   "lit_epoch_slug": "NAT-IO-01-0", "service": "OFFREAD", "part": "resp", "wkday": null,
+   "option_num": 1, "option_txt": null,
+   "rubric": "Dominica infra octavam Nativitatis, SANCTAE FAMILIAE IESU, MARIAE ET IOSEPH; Lc 2, 51. 40"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Descendit Iesus begins at foot of p490 and ends on p491 (read p491 top); no trailing vel line."]
+}

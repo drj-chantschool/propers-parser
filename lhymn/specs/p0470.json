@@ -1,0 +1,41 @@
+{
+ "page": "470",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Peter & Paul basilicas hymn ends p469.",
+ "context_out": "Presentation of Mary > OFFREAD Salve mater misericordiae (H.VIII) begins p470, continues p471.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Salve mater misericordiae",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "presentation-of-mary",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD OFFICIUM LECTIONIS",
+   "index_row_id": 5454
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "presentation-of-mary",
+   "common_slug": "COM-BMV",
+   "common_page": 253,
+   "ref_option": 1,
+   "rubric": "De Communi B. Mariae V., p. 253, praeter sequentia:",
+   "skip_slots": [
+    "OFFREAD.hymn",
+    "LAUDS.hymn"
+   ]
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "skip LAUDS.hymn: proper Maria virgo regia on p471. Vespers from the Common (nothing proper printed)."
+ ]
+}

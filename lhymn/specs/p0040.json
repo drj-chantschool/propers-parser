@@ -1,0 +1,7 @@
+{"page":"40","page_kind":"assign","jurisdiction":"UNIVERSAL",
+"context_in":"NAT-EPI (Tempus Nativitatis II, A sollemnitate Epiphaniae) > end of AD OFFICIUM LECTIONIS (Magi videntes ended p39).",
+"context_out":"NAT-EPI > AD LAUDES MATUTINAS hymn Quicumque Christum quaeritis (H.III) runs over onto p41, ends there at Amen (no vel/Ad libitum line). p41 then opens AD TERTIAM with Certum tenentes ordinem (H.VIII).",
+"continues":null,
+"rows":[{"incipit":"Quicumque Christum quaeritis","kind":"engraved","mode":"III","lit_epoch_slug":"NAT-EPI","service":"LAUDS","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD LAUDES MATUTINAS"}],
+"common_refs":[],"questions":[],
+"flags":["Hymn stanzas 1-4(start) on p40, stanzas 4-7 and Amen on p41; no narrower rubric printed."]}

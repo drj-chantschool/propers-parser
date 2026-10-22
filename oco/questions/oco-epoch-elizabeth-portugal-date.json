@@ -1,0 +1,37 @@
+{
+ "pipeline": "book-batch",
+ "book": "OCO",
+ "category": "structural",
+ "topic_key": "oco-epoch-elizabeth-portugal-date",
+ "priority": 3,
+ "title": "S. Elisabeth Lusitaniae: OCO 4 July vs proper_of_saints UNIVERSAL 5 July",
+ "prompt": "OCO's TOC has 'Die 4: S. Elisabeth Lusitaniae' (p814) and its index uses day 4/7; proper_of_saints (UNIVERSAL) puts elizabeth-of-portugal on 5/7 (the US date — universally she is 4 July, moved in the US because of Independence Day). So 2 index rows ('0 saints on 4/7', pp1134/1139) have no slug. Fix the UNIVERSAL date to 4/7 (and keep 5/7 as a US-jurisdiction row), or map OCO 4/7 to the existing slug?",
+ "pages": [
+  {
+   "book": "OCO",
+   "page": "814",
+   "note": "TOC Die 4: S. Elisabeth Lusitaniae"
+  }
+ ],
+ "options": [
+  {
+   "label": "UNIVERSAL 4/7, US 5/7",
+   "detail": "update proper_of_saints UNIVERSAL month/day; add a US row if the US calendar is modelled",
+   "recommended": true
+  },
+  {
+   "label": "Map 4/7 to elizabeth-of-portugal in the OCO mapper only",
+   "detail": "no calendar change"
+  }
+ ],
+ "context": [
+  {
+   "label": "TOC matcher",
+   "path": "propers-parser/oco/oco_toc.py"
+  }
+ ],
+ "blocks": [
+  "OCO:idx:4/7"
+ ],
+ "raised_by": "book-intake director, OCO 2026-10-20"
+}

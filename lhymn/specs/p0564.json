@@ -1,0 +1,36 @@
+{
+ "page": "564",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense maii. 11 > abbots of Cluny (cluny-abbots-osb) > AD LAUDES MATUTINAS: hymn Quae tanta patres (H.IV) begun on p563, final stanzas + Amen on p564.",
+ "continues": {
+  "from_page": "563",
+  "incipit": "Quae tanta"
+ },
+ "context_out": "Die 11 maii, abbots of Cluny > AD LAUDES MATUTINAS > 'Vel pro Congregatione solesmensi:' hymn Maiole consors procerum (H.IV), engraved and complete on p564 (ends Amen). p565 opens AD VESPERAS.",
+ "rows": [
+  {
+   "incipit": "Maiole consors procerum",
+   "index_row_id": 5333,
+   "allow_unresolved": true,
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "cluny-abbots-osb",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "Vel pro Congregatione solesmensi",
+   "rubric": "Vel pro Congregatione solesmensi:"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Maiole consors (H.IV): index row 5333 unmatched, no gregobase chant; allow_unresolved with index_row_id 5333. Printed text: Maiole, consors procerum regum regi placentium, inter caelestes aulicos divinitatis conscios.",
+  "Quae tanta patres (begun p563) ends on p564 (final double bar after 'congregat', stanzas, Amen); only in continues.",
+  "Maiole consors procerum is fully engraved with a drop-cap on p564, printed after the abbots' hymn; recorded as option 2 with option_txt 'Vel pro Congregatione solesmensi'. No C.S. marker printed on this page.",
+  "Director, user rulings 2026-10-15: no row changes; open questions left: 1",
+  "Director: user rulings 5/6 2026-10-15 applied (congregation alternatives = option_txt on the same epoch; OSB rank override = OSB proper_of_saints row). Questions left: 0"
+ ]
+}

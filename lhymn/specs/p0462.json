@@ -1,0 +1,29 @@
+{
+ "page": "462",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "All Saints > INVITATORY antiphon on p461; its Ps. Venite p.160 line (top of p462) is modeled on p461.",
+ "context_out": "All Saints > OFFREAD Christe caelorum habitator (H.I) begins p462, continues p463.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Christe caelorum habitator alme",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "all-saints",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD OFFICIUM LECTIONIS",
+   "index_row_id": 5185
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Top line \"Ps. Venite, p. 160.\" belongs to the p461 invitatory antiphon and is modeled there."
+ ]
+}

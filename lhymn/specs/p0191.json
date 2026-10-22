@@ -1,0 +1,31 @@
+{
+ "page": "191",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Weeks I&III Monday OFFREAD Aeterna lux running over from p190.",
+ "context_out": "Weeks I&III Monday > LAUDS Splendor paternae gloriae (H.I) on p191; doxology likely on p192.",
+ "continues": {
+  "from_page": "190",
+  "incipit": "Aeterna lux divinitas"
+ },
+ "rows": [
+  {
+   "incipit": "Splendor paternae gloriae",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": null,
+   "wknum_mod_2": 1,
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": 2,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

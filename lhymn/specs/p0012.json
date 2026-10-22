@@ -1,0 +1,9 @@
+{"page":"12","page_kind":"assign","jurisdiction":"UNIVERSAL",
+"context_in":"TEMPUS ADVENTUS › II. Post diem 16 decembris › In Officio dominicali et feriali, a die 17 usque ad I Vesperas Nativitatis exclusive › AD LAUDES MATUTINAS: end of Magnis prophetae vocibus (H.D) from p. 11 (final melodic line, stanzas 2-5 + Amen)",
+"context_out":"TEMPUS ADVENTUS › II. Post diem 16 decembris › AD TERTIAM: Certum tenentes ordinem (H.IV) complete on p. 12 (stanza 1 with notes, 2-3 as text, doxology + Amen). Next: AD SEXTAM (Dicamus laudes Domino, H.IV) and AD NONAM (Ternis horarum terminis, H.IV) both begin on p. 13.",
+"continues":{"from_page":"11","incipit":"Magnis prophetae vocibus venire Christum nuntiant"},
+"rows":[
+{"incipit":"Certum tenentes ordinem","kind":"engraved","mode":"IV","lit_epoch_slug":"ADV-II","service":"TERCE","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD TERTIAM (Post diem 16 decembris)"}
+],
+"common_refs":[],"questions":[],
+"flags":["No melody-substitution rubric on p. 12.","Magnis prophetae ends on p. 12 at the final double bar after 'gratia'; nothing follows it before AD TERTIAM.","Sext (Dicamus laudes) and None (Ternis horarum) begin on p. 13, not here.","Rows on ADV-II wkday null per section rule (same as p. 11)."]}

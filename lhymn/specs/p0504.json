@@ -1,0 +1,25 @@
+{
+ "page": "504",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > DOMINICA PENTECOSTES > 'Post alteram lectionem:' R.III Dum complerentur (begun p503) runs to 'Tamquam.' at top of p504.",
+ "context_out": "RESPONSORIA > SANCTISSIMAE TRINITATIS > R.I Te sanctum Dominum (begun p504) ends at top of p505 ('Te.'); no vel line follows. p505 then prints heading SS CORPORIS ET SANGUINIS CHRISTI (Ex 16, 12.15 V. Io 6, 32) with R.II Comedetis carnes (for the p505 producer).",
+ "continues": {"from_page": "503", "incipit": "Dum complerentur dies Pentecostes"},
+ "rows": [
+  {
+   "incipit": "Te sanctum Dominum",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "OT-FOL-00-1",
+   "service": "OFFREAD",
+   "part": "resp",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "SANCTISSIMAE TRINITATIS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Te sanctum Dominum runs onto p505 (final double bar after 'Te.' cue repetenda); no trailing vel/xref. No 'Post priorem/alteram' rubric printed, so resp."]
+}

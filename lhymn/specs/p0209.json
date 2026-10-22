@@ -1,0 +1,47 @@
+{
+ "page": "209",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Sunday wk II&IV > VESPERS1 Rerum Deus fons omnium running over from p208.",
+ "context_out": "Sunday wk II&IV > OFFREAD opt 1 Mediae noctis (H.II) begins p209, continues p210.",
+ "continues": {
+  "from_page": "208",
+  "incipit": "Rerum Deus fons omnium"
+ },
+ "rows": [
+  {
+   "incipit": "Salve dies dierum gloria",
+   "kind": "xref",
+   "ref_page": 210,
+   "mode": null,
+   "lit_epoch_slug": null,
+   "service": "VESPERS1",
+   "part": "hymn",
+   "wkday": 1,
+   "option_num": 2,
+   "option_txt": "Ad libitum",
+   "rubric": "Ad libitum dici potest Salve dies p. 210.",
+   "wknum_mod_2": 0,
+   "index_row_id": 5453
+  },
+  {
+   "incipit": "Mediae noctis tempus est",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": null,
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": 1,
+   "option_num": 1,
+   "option_txt": "Quando Officium lectionis dicitur noctu vel summo mane",
+   "rubric": "AD OFFICIUM LECTIONIS. I. Quando Officium lectionis dicitur noctu vel summo mane:",
+   "index_row_id": 5341,
+   "wknum_mod_2": 0
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

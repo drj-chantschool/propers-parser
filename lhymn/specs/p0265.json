@@ -1,0 +1,23 @@
+{
+ "page": "265",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum › MEMORIA SANCTAE MARIAE IN SABBATO (COM-BMV-SAB) › AD LAUDES MATUTINAS: ad libitum hymn Quae caritatis fulgidum (H.II) continues (end of stanza 3, stanzas 4-5, Amen), then 'Vel hymnus Ave, maris stella, sicut in Communi, p. 260.' (all assigned on p264).",
+ "context_out": "End of COM-BMV-SAB (Memoria S. Mariae in sabbato; section ends mid-page after the Ave maris stella cue, no AD VESPERAS on this page). Next, p266: new Common 'COMMUNE APOSTOLORUM' (COM-APOST) begins with AD I VESPERAS ('Hymnus Exsultet, ut ad II Vesperas, p. 270') then AD INVITATORIUM (Regem Apostolorum, A.III / A.IV* / Tempore paschali A.VI*).",
+ "continues": [
+  {
+   "from_page": "264",
+   "incipit": "Quae caritatis fulgidum"
+  },
+  {
+   "from_page": "264",
+   "incipit": "Ave maris stella (Vel hymnus Ave, maris stella, sicut in Communi, p. 260)"
+  }
+ ],
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Page holds only the end of Quae caritatis and the Vel Ave maris stella cue, both assigned on p264. No chant begins here. The question is carried only because the continued material belongs to the held ad libitum set."
+ ]
+}

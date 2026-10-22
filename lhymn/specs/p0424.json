@@ -1,0 +1,78 @@
+{
+ "page": "424",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Sanctorale > Mense augusti; p423 Louis.",
+ "context_out": "Die 28 augusti S. Augustini > AD LAUDES ET AD VESPERAS > Fulget in caelis (H.I) begins p424, text stanzas end p425; then Die 29 augusti In Passione S. Ioannis Baptistae (p425).",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Fulget in caelis celebris sacerdos",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "st-augustine",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS ET AD VESPERAS"
+  },
+  {
+   "incipit": "Fulget in caelis celebris sacerdos",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "st-augustine",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS ET AD VESPERAS"
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "joseph-calasanz",
+   "common_slug": "COM-SANCT-VIR-UNO",
+   "common_page": 311,
+   "ref_option": 1,
+   "rubric": "De Communi sanctorum virorum, p. 311, vel pastorum, p. 289."
+  },
+  {
+   "lit_epoch_slug": "joseph-calasanz",
+   "common_slug": "COM-PAST-UNO-PRESB",
+   "common_page": 289,
+   "ref_option": 2,
+   "option_txt": "vel pastorum",
+   "rubric": "De Communi sanctorum virorum, p. 311, vel pastorum, p. 289."
+  },
+  {
+   "lit_epoch_slug": "st-monica",
+   "common_slug": "COM-SANCT-MULIER-UNA",
+   "common_page": 318,
+   "ref_option": 1,
+   "rubric": "De Communi sanctarum mulierum, p. 318."
+  },
+  {
+   "lit_epoch_slug": "st-augustine",
+   "common_slug": "COM-PAST-UNO-EPISC",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301, praeter sequentia:"
+  },
+  {
+   "lit_epoch_slug": "st-augustine",
+   "common_slug": "COM-DOCT",
+   "common_page": 301,
+   "ref_option": 2,
+   "option_txt": "vel doctorum Ecclesiae",
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301, praeter sequentia:"
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Calasanz presbyter -> COM-PAST-UNO-PRESB (opt2). Monica, Augustine printed Memoria = MEMORIAL. Augustine praeter sequentia: only the LAUDS+VESPERS hymn (p424-425); same-page explicit rows replace the Common copies."
+ ]
+}

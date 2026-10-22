@@ -1,0 +1,129 @@
+{
+ "page": "305",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum > end of COM-DOCT (p304). p305 opens COMMUNE VIRGINUM (COM-VIRG).",
+ "context_out": "COM-VIRG > AD INVITATORIUM > Tempore paschali: Regem virginum (A.VI*) Ps. Venite p.154 (all printed on p305). Next page p306 continues the Common (Officium lectionis etc.).",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Iesu corona virginum",
+   "kind": "xref",
+   "ref_page": 310,
+   "mode": "VIII",
+   "lit_epoch_slug": "COM-VIRG",
+   "service": "VESPERS1",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD I VESPERAS: Hymnus ut ad II Vesperas, p. 310."
+  },
+  {
+   "incipit": "Regem virginum",
+   "kind": "engraved",
+   "mode": "5",
+   "index_row_id": 5606,
+   "allow_unresolved": true,
+   "lit_epoch_slug": "COM-VIRG",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": "In sollemnitatibus et festis",
+   "rank_codes": [
+    "SOLEMNITY",
+    "FEAST",
+    "FEAST_OF_THE_LORD"
+   ],
+   "rubric": "AD INVITATORIUM. In sollemnitatibus et festis"
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 146,
+   "lit_epoch_slug": "COM-VIRG",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": "In sollemnitatibus et festis",
+   "rank_codes": [
+    "SOLEMNITY",
+    "FEAST",
+    "FEAST_OF_THE_LORD"
+   ],
+   "rubric": "Ps. Venite, p. 146."
+  },
+  {
+   "incipit": "Regem virginum",
+   "kind": "engraved",
+   "mode": "E",
+   "index_row_id": 5607,
+   "lit_epoch_slug": "COM-VIRG",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "In memoriis",
+   "rank_codes": [
+    "MEMORIAL",
+    "OPTIONAL_MEMORIAL"
+   ],
+   "rubric": "In memoriis",
+   "verified_despite": [
+    "gregobase mode '4' ≠ printed mode 'E'"
+   ]
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 168,
+   "lit_epoch_slug": "COM-VIRG",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "In memoriis",
+   "rank_codes": [
+    "MEMORIAL",
+    "OPTIONAL_MEMORIAL"
+   ],
+   "rubric": "Ps. Venite, p. 168."
+  },
+  {
+   "incipit": "Regem virginum",
+   "kind": "engraved",
+   "mode": "6*",
+   "index_row_id": 5608,
+   "lit_epoch_slug": "COM-VIRG",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 3,
+   "option_txt": "Tempore paschali",
+   "rubric": "Tempore paschali",
+   "allow_unresolved": true
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 154,
+   "lit_epoch_slug": "COM-VIRG",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 3,
+   "option_txt": "Tempore paschali",
+   "rubric": "Tempore paschali; Ps. Venite, p. 154."
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Invitatory antiphon in 3 forms: In sollemnitatibus et festis (A.V, rank SOLEMNITY/FEAST/FEAST_OF_THE_LORD), In memoriis (A.E, MEMORIAL/OPTIONAL_MEMORIAL), Tempore paschali (A.VI*, with alleluia). Rank split modeled per p0258 pattern; paschal is option 3 with no rank_codes.",
+  "I Vespers hymn xref points to p310 Iesu corona virginum (H.VIII, index row 5288).",
+  "Director: 16939 'Regem Virginum Dominum (min.)' accepted for 'In memoriis' A.E. The text matches; gregobase's mode 4 vs printed E is the LH's E-tone label for an E-final invitatory (Ps p168 'Venite E'). 'min.' = minor celebrations.",
+  "Director, user rulings 2026-10-15: seasonal 'Tempore paschali'/'In aliis temporibus' rows kept as option_txt (ruling 2)"
+ ]
+}

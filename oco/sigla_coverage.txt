@@ -1,0 +1,119 @@
+mapped 3276/3422
+   13  hour None
+    7  no day code
+    3  place None at VESPERS1
+    2  no rule for 'Ep N post Ep' (no rule for 'post')
+    2  place None at LAUDS
+    2  place 'a' at LAUDS
+    2  place 'c' at LAUDS
+    2  place 'b' at LAUDS
+    2  place 'pro plur.'
+    2  no rule for 'Virg Pl Mul' (no rule for 'Pl')
+    2  no rule for 'Virg Pl TP Mul' (no rule for 'Pl')
+    1  0 saints on 18/8
+    1  0 saints on 30/3
+    1  no rule for '6Q1 Hm' (no rule for 'Hm')
+    1  2 saints on 18/11
+    1  2 saints on 8/8
+    1  no rule for '25/4 11/618/10' (no rule for '11/618/10')
+    1  no rule for 'Def Hm' (no rule for 'Hm')
+    1  no rule for 'Ep 1V N post Ep' (no rule for '1V')
+    1  no rule for 'Pent P post Asc' (no rule for 'post')
+    1  no rule for '15/9V'
+    1  0 saints on 24/12
+    1  2 saints on 16/11 (place B1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  place None at OFFREAD
+    1  place None at MIDDAY
+    1  place None at COMPLINE
+    1  3 saints on 25/5 (place M2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 20/1 (place B1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 20/1 (place B2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 28/9 (place B1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  3 saints on 25/5 (place B1 TP = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 12/5 (place B2TpA = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 25/8 (place M2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 18/11 (p1032 outside the date's TOC sections — engraved elsewhere)
+    1  2 saints on 16/11 (place M1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 9/10 (place B1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 8/2 (place B1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 9/10 (place B2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 16/10 (place B2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  no rule for '10SS'
+    1  2 saints on 19/10 (place B1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 2/8 (place B1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  place 'b' at VESPERS
+    1  2 saints on 3/2 (place B2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 9/10 (place M2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 16/10 (place M2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  3 saints on 23/11 (place B2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 28/4 (place M1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 28/4 (place B1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 2/8 (place M2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 20/1 (place M1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 20/1 (place M2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  3 saints on 23/4 (place B2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 12/5 (place M2TP = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 3/2 (place B1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  3 saints on 23/4 (place M1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 6/10 (p1151 outside the date's TOC sections — engraved elsewhere)
+    1  2 saints on 25/8 (place M1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 2/8 (place B2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 16/11 (place B2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  3 saints on 25/5 (place M3 = option 3 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 2/8 (place M1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  no rule for '09VS'
+    1  2 saints on 28/4 (place M2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 7/8 (place M2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 12/5 (place B1TP = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 12/5 (place B2TP = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  3 saints on 25/5 (place B3 = option 3 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 28/9 (place M1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 3/2 (place M1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 7/8 (place M1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 28/9 (place B2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 7/8 (p1038 outside the date's TOC sections — engraved elsewhere)
+    1  2 saints on 12/5 (place B1TpA = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 22/6 (place M2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  3 saints on 25/5 (place B1TpA = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 25/8 (place B1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  no rule for '2h3'
+    1  2 saints on 16/10 (place M1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 19/10 (place M2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  3 saints on 23/4 (place M2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 22/6 (place B2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 19/10 (place B2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  3 saints on 25/5 (p702 outside the date's TOC sections — engraved elsewhere)
+    1  2 saints on 21/12 (p702 outside the date's TOC sections — engraved elsewhere)
+    1  2 saints on 25/8 (place B2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  place None at VESPERS
+    1  2 saints on 28/4 (place B2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 3/2 (place M2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 21/12 (p1088 outside the date's TOC sections — engraved elsewhere)
+    1  2 saints on 12/5 (place M2TpA = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  3 saints on 23/11 (place M1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 7/8 (place B2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 12/5 (place M1TpA = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  3 saints on 23/4 (place B1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 9/10 (place M1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 28/9 (place M2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 22/6 (place B1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 8/2 (place M2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 8/2 (place M1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 12/5 (place M1TP = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 22/6 (p1072 outside the date's TOC sections — engraved elsewhere)
+    1  2 saints on 8/2 (place B2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 16/10 (place B1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  place 'a' at VESPERS
+    1  3 saints on 23/11 (place M2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 16/11 (place M2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  place 'c' at VESPERS
+    1  2 saints on 19/10 (p1040 outside the date's TOC sections — engraved elsewhere)
+    1  no rule for 'Dom&'
+    1  no rule for '40Immac'
+    1  3 saints on 23/11 (place B1 = option 1 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  3 saints on 25/5 (place B2 = option 2 of an office on this date: the agent gives the slug(s) from the page — intake #22)
+    1  2 saints on 6/10 (p1150 outside the date's TOC sections — engraved elsewhere)
+    1  no rule for 'N2H1'
+    1  no rule for '1P1-8a'
+    1  no rule for 'P2-7'
+    1  no rule for 'P1 usque Asc' (no rule for 'usque')

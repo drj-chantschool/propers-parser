@@ -1,0 +1,7 @@
+{"row_id": 6311, "verdict": "link",
+ "chant_uuid": "gregobase:18333", "chant_group_id": null,
+ "evidence": "Engraving is on p692 (headed '[simpl.]', m6): 'Ave Regina caelorum, * ave, Domina angelorum, salve radix ... et pro nobis Christum exora.' Opening neumes f e d c d f g f / a-ve Domina h j g h g f h g and cadence 'ex-o-ra' g g f match 18333 gabc (c4 A(f)ve(e') Re(d)gi(c')na(d) cae(f')lo(g)rum,(f.) ... Chri(h)stum(g') ex(f)o(gg)ra.(f.)); 18333 = Solesmes 1934 'simple tone', tied to AM p179, and the p691 ref line cites 'AM 175 & 179' (175 = solemn 3300, 179 = simple). Group 2153 also holds 2153 (LU/LH simple tone, same melody); AM-tied 18333 chosen per cited edition.",
+ "rejected": [{"chant_uuid": "gregobase:3300", "why": "AM p175 solemn tone (c2, different neumes); that is sibling r6310 Ma2 on p691"}, {"chant_uuid": "gregobase:2153", "why": "same group and melody (LU p278 / LA 69.1) but not the AM edition the ref line cites; equal fit, 18333 preferred"}, {"chant_uuid": "gregobase:2602", "why": "LU 1961 solemn melody, group 2602"}],
+ "assignment": null,
+ "index_fix": {"column": "page", "from": "691", "to": "692", "why": "p691 carries the solemn setting (ref 'CAO 1542; AM 175 & 179' above it); the '[simpl.]' Ave Regina caelorum is engraved at the top-middle of p692"},
+ "question": null}

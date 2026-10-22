@@ -1,0 +1,57 @@
+{
+ "page": "96",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Tempus paschale II > Ab Ascensione Domini > AD LAUDES MATUTINAS > Optatus votis omnium (H.I, began p94), stanza 7 + Amen at top of p96.",
+ "context_out": "Dominica Pentecostes (Sollemnitas) > AD COMPLETORIUM > Iesu redemptor saeculi (H.I) stanza 1 on p96, stanzas 2-5 and Amen on p97 (ends p97, no vel/ad libitum).",
+ "continues": {
+  "from_page": "94",
+  "incipit": "Optatus votis omnium"
+ },
+ "rows": [
+  {
+   "incipit": "Veni creator Spiritus",
+   "kind": "xref",
+   "ref_page": 90,
+   "lit_epoch_slug": "PASC-PENT-08-1",
+   "service": "VESPERS1",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD I ET II VESPERAS: Hymnus Veni, creator Spiritus, ut supra, p. 90."
+  },
+  {
+   "incipit": "Veni creator Spiritus",
+   "kind": "xref",
+   "ref_page": 90,
+   "lit_epoch_slug": "PASC-PENT-08-1",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD I ET II VESPERAS: Hymnus Veni, creator Spiritus, ut supra, p. 90."
+  },
+  {
+   "incipit": "Iesu redemptor saeculi",
+   "kind": "engraved",
+   "mode": "I",
+   "chant_uuid": "gregobase:4676",
+   "lit_epoch_slug": "PASC-PENT-08-1",
+   "service": "COMPLINE",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD COMPLETORIUM"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Iesu redemptor saeculi on p96: LH index row 5293 (p96) is unmatched; same hymn and melody as p77 (gregobase 15084, Solesmes 1983, LH p.77, TP text). Used chant_uuid override.",
+  "Heading is 'AD I ET II VESPERAS' (one hymn for both), modeled as VESPERS1 + VESPERS xrefs to p90.",
+  "Director (corrected after user review): p96's Compline Iesu redemptor saeculi is a DIFFERENT melody from p77's. p96 opens low (d d df), p77 high (h h h). Linked to gregobase 4676 'Iesu Redemptor (Dominica Pentecostes)', whose GABC matches the p96 engraving; it has no source/LH tie."
+ ]
+}

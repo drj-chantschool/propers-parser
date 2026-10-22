@@ -1,0 +1,68 @@
+{
+ "page": "419",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Bernard > LAUDS/VESPERS Bernarde gemma running over from p418.",
+ "context_out": "Queenship of Mary > INVITATORY Christum regem (A.VII) begins p419; its \"Ps. Venite, p. 160.\" line tops p420 and is modeled here.",
+ "continues": {
+  "from_page": "418",
+  "incipit": "Bernarde gemma caelitum"
+ },
+ "rows": [
+  {
+   "incipit": "Christum regem qui suam coronavit Matrem",
+   "kind": "engraved",
+   "mode": "VII",
+   "lit_epoch_slug": "queenship-of-mary",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM",
+   "chant_uuid": "local:75e7dcfe-d1a0-4cc2-bea5-0b79b0703899"
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 160,
+   "mode": null,
+   "lit_epoch_slug": "queenship-of-mary",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Ps. Venite, p. 160. (printed at top of p420)"
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "st-pius-x",
+   "common_slug": "COM-PAST-UNO-PAPA",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289."
+  },
+  {
+   "lit_epoch_slug": "queenship-of-mary",
+   "common_slug": "COM-BMV",
+   "common_page": 253,
+   "ref_option": 1,
+   "rubric": "De Communi B. Mariae V., p. 253, praeter sequentia:",
+   "skip_slots": [
+    "INVITATORY.invan",
+    "INVITATORY.invps",
+    "OFFREAD.hymn",
+    "LAUDS.hymn",
+    "VESPERS.hymn"
+   ]
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Queenship propers: INVITATORY (p419-420), OFFREAD Rerum supremo + LAUDS O quam glorifica (p420), VESPERS Mole gravati (p422); all pre-skipped from the Common copy here.",
+  "Invitatory Christum regem: gregobase 17586 (Nocturnale Romanum) adds \"alleluja\"; placeholder local chant 75e7dcfe (group 17586) per 2026-10-16 ruling."
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "page": "509",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > TEMPORE PER ANNUM (OT) > numbered alternatives; II R.VIII In conspectu angelorum (begun p508) runs to the top of p509.",
+ "context_out": "RESPONSORIA > TEMPORE PER ANNUM (OT) > numbered alternatives; III R.VI Super muros tuos (Is 62, 6; begun p509) ends p510 after 'Tota.' (final bar). p510 then begins IV R.II Christus resurgens (Rom 6, 9-10), for the p510 producer (option 4).",
+ "continues": {"from_page": "508", "incipit": "In conspectu angelorum"},
+ "rows": [
+  {"incipit": "Super muros tuos", "kind": "engraved", "mode": "VI",
+   "lit_epoch_slug": "OT", "service": "OFFREAD", "part": "resp",
+   "wkday": null, "option_num": 3, "option_txt": "III",
+   "rubric": "TEMPORE PER ANNUM; III; Is 62, 6 V. cf. Is 66, 19"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Roman numerals are a numbered list of alternatives (p508: I, II = options 1, 2), so III = option 3 of OFFREAD.resp.",
+  "Super muros tuos runs onto p510 (V. Praedicabunt ... gloriam meam. * Tota.); still assigned here. No vel/ad libitum lines, no cross-book cue seen on p509 or p510 top."
+ ]
+}

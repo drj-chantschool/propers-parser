@@ -1,0 +1,10 @@
+{"pipeline": "book-batch", "book": "OCO", "category": "identity", "topic_key": "oco-identity-festivitatem-virginis", "priority": 2,
+ "title": "Invitatory 'Festivitatem Virginis' (COM-BMV, p993, mode 2): its identity gregobase:15315 is a Dominican mode-1 'N... Virginis' chant. Switch to 17466?",
+ "prompt": "chant_indices #390 (row 6052) 'Festivitatem Virginis' (LHym 255) is resolved_with_difficulty to gregobase:15315 'N... Virginis Mariæ celebremus' (Dominican, mode 1, 'N...' placeholder for the feast name). p993 engraves it in mode 2 under '[Vel:]', after option 1 'Christum Mariæ Filium' (gregobase:18203), with 'TP: Christum Mariæ' below. gregobase:17466 'Nativitatem Virginis Mariae celebremus' (Sandhofe, mode 2, cantusid 001107) opens (f2) Na(c)ti(c)vi(cd)tá(d!ewfd)tem(dc) Vír(d)gi(fe)nis…: same melody shape as the engraving (low start, torculus on 'tá', 'Vírginis'), with Nativitatem where the book has Festivitatem. Neither text matches exactly; 15315's mode and melody don't match the engraving. The conflicts verdict itself is clear: load it as COM-BMV INVITATORY.invan option 2 'Vel:'. The only open point is which chant to load.",
+ "pages": [{"book": "OCO", "page": "993", "note": "[Vel:] Festivitatem Virginis, mode 2, LHym 255"}, {"book": "OCO", "page": "1226", "note": "invitatory index"}],
+ "options": [{"label": "Re-identify to gregobase:17466 (resolved_with_difficulty), then load option 2 'Vel:'", "detail": "same melody and mode as the engraving, text adapted Nativitatem → Festivitatem; notes say so", "recommended": true},
+             {"label": "Keep gregobase:15315 and load option 2 'Vel:'", "detail": "text pattern with the N... placeholder; mode 1, not the engraved mode 2"},
+             {"label": "No gregobase match: placeholder / NULL identity, then load", "detail": "neither chant is this text + melody"}],
+ "context": [{"label": "Verdict", "path": "propers-parser/oco/index/resolve/c6052.json"}, {"label": "Stage", "path": "propers-parser/oco/RESOLVER.md § Stage conflicts"}],
+ "blocks": ["OCO:r6052"],
+ "raised_by": "book-batch OCO conflicts batch 6, 2026-10-22"}

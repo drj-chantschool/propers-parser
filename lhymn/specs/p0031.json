@@ -1,0 +1,10 @@
+{"page":"31","page_kind":"assign","jurisdiction":"UNIVERSAL",
+"context_in":"TEMPUS NATIVITATIS > (p30 ended Christe splendor Patris, Sanctae Familiae) > new section: Die 1 ianuarii > IN OCTAVA NATIVITATIS DOMINI > SOLLEMNITAS SANCTAE DEI GENETRICIS MARIAE (NAT-OCT-02-0) > AD I ET II VESPERAS.",
+"context_out":"Die 1 ianuarii > SOLLEMNITAS SANCTAE DEI GENETRICIS MARIAE (NAT-OCT-02-0) > AD I ET II VESPERAS: hymn Corde natus ex Parentis (H.II) runs over onto p32 and ends there at its final double bar (stanza 5 doxology + Amen); nothing else printed on p32.",
+"continues":null,
+"rows":[
+{"incipit":"Corde natus ex Parentis","kind":"engraved","mode":"II","lit_epoch_slug":"NAT-OCT-02-0","service":"VESPERS1","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD I ET II VESPERAS"},
+{"incipit":"Corde natus ex Parentis","kind":"engraved","mode":"II","lit_epoch_slug":"NAT-OCT-02-0","service":"VESPERS","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD I ET II VESPERAS"}
+],
+"common_refs":[],"questions":[],
+"flags":["Heading 'AD I ET II VESPERAS' -> same hymn emitted for VESPERS1 and VESPERS on NAT-OCT-02-0 (as p26).","Hymn spans pp31-32; read p32: ends with Amen at final double bar, no vel/Ad libitum, nothing else on p32."]}

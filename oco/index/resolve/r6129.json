@@ -1,0 +1,7 @@
+{"row_id": 6129, "verdict": "link", "chant_uuid": "gregobase:9785", "chant_group_id": null,
+ "evidence": "p551 L.1 'Ad te de luce vigilo, Deus, ut videam virtutem tuam' 7a, ref CAO 1254; AM 327; long form. Engraving opening e g h i i | j i h g | h ij i hg/hih | f g-h g e matches 9785 (AM 1934 p327, the cited edition). Same melody in 13162 (grp 10872, LA 1960), 11116/20058 (grp 11116), 5192 Dominican, differing only in minor details; 9785 chosen as the edition the ref line cites. Non-LPS-reason row; TOC Hebdomada I Dominica fits 1H1 L 1.",
+ "rejected": [{"chant_uuid": "gregobase:13162", "why": "LA 1960, same melody family but AM not cited; De-us hh like 9785, no better fit"},
+ {"chant_uuid": "gregobase:11116", "why": "Verona, De-us three-note neume differs, virtutem (gh) g"},
+ {"chant_uuid": "gregobase:5192", "why": "Dominican"},
+ {"chant_uuid": "gregobase:19644", "why": "Sandhofe, alleluia variant"}],
+ "assignment": null, "index_fix": null, "question": null}

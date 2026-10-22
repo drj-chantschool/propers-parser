@@ -1,0 +1,31 @@
+{
+ "page": "443",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Archangels > OFFREAD Festiva vos running over from p442.",
+ "context_out": "Archangels > LAUDS Tibi Christe splendor Patris (H.II) begins p443, continues p444.",
+ "continues": {
+  "from_page": "442",
+  "incipit": "Festiva vos archangeli"
+ },
+ "rows": [
+  {
+   "incipit": "Tibi Christe splendor Patris",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "archangels",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "9000 (AM 1934, f3) contour-checked: e ef f fe h g f e opening matches the engraving; accepted."
+ ]
+}

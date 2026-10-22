@@ -1,0 +1,34 @@
+{
+ "page": "286",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum > COMMUNE MARTYRUM PRO UNO (COM-MART-UNO, running head 'Communia' left / 'Unius martyris' right) > AD LAUDES MATUTINAS > 'Pro martyre virgine:' hymn O castitatis signifer (H.VI), begun p284; p286 opens with its last line 'ne, cum Patre et almo Spiritu, in sempiterna saecula. Amen.'",
+ "context_out": "COM-MART-UNO > AD II VESPERAS: hymn Deus tuorum militum (H.VIII) begun p286 (stanzas 1-3 here, with interlinear 'Haec' variants at stanzas 2 and 3), runs over onto p287 (stanzas 3 end-7, final double bar after 'in saeculorum saecula. Amen.'; nothing printed after it on p287; no vel / Tempore paschali line).",
+ "continues": {
+  "from_page": "284",
+  "incipit": "O castitatis signifer"
+ },
+ "rows": [
+  {
+   "incipit": "Deus tuorum militum",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "COM-MART-UNO",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD II VESPERAS",
+   "notes": "Text variants printed for other subjects (pro uno/una/pluribus or feminine forms); same melody."
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Top of page is the end of O castitatis signifer (assigned p284): in continues only.",
+  "I Vespers (p280) xrefs to this page: Deus tuorum, p. 286.",
+  "Hymn runs over to p287 and ends there; no vel/Ad libitum or Tempore paschali line follows.",
+  "Director, user rulings 2026-10-15: text-only variants (one chant) kept as one row; variants described in notes (ruling 1)"
+ ]
+}

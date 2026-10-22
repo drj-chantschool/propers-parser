@@ -1,0 +1,33 @@
+{
+ "page": "313",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia > COMMUNE SANCTORUM VIRORUM (COM-SANCT-VIR) > AD LAUDES MATUTINAS > Pro uno sancto: Iesu, corona celsior (H.VIII, began p312) ends at p313 (stanzas 4-6, doxology, Amen).",
+ "context_out": "COM-SANCT-VIR > AD LAUDES MATUTINAS > Pro pluribus sanctis: Beata caeli gaudia (H.VIII) begins p313, stanzas 2-6 and Amen run over onto p314 (final double bar on p314; nothing follows it).",
+ "continues": {
+  "from_page": "312",
+  "incipit": "Iesu, corona celsior (Pro uno sancto; stanzas 4-6 + Amen)"
+ },
+ "rows": [
+  {
+   "lit_epoch_slug": "COM-SANCT-VIR-PLUR",
+   "wkday": null,
+   "incipit": "Beata caeli gaudia",
+   "kind": "engraved",
+   "mode": "VIII",
+   "service": "LAUDS",
+   "part": "hymn",
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS: Pro pluribus sanctis"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Top of p313 is the end of p312's Iesu, corona celsior: continues only, no row.",
+  "Beata caeli gaudia runs onto p314 (stanzas 2-6, doxology, Amen); read p314, no vel/ad libitum line follows it.",
+  "LH index row 5163 (Beata caeli m8, p313) resolved to gregobase:8829.",
+  "Director, user rulings 2026-10-15: row 1 'Pro pluribus sanctis' → COM-SANCT-VIR-PLUR"
+ ]
+}

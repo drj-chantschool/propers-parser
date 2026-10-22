@@ -1,0 +1,44 @@
+{
+ "page": "475",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Ambrose > LAUDS Fortem piumque running over from p473-474.",
+ "context_out": "Immaculate Conception (Sollemnitas) > VESPERS1/VESPERS Praeclara custos (H.II) begins p475, continues p476.",
+ "continues": {
+  "from_page": "474",
+  "incipit": "Fortem piumque praesulem"
+ },
+ "rows": [
+  {
+   "incipit": "Praeclara custos virginum",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "immaculate-conception",
+   "service": "VESPERS1",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD I ET II VESPERAS",
+   "index_row_id": 5401
+  },
+  {
+   "incipit": "Praeclara custos virginum",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "immaculate-conception",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD I ET II VESPERAS",
+   "index_row_id": 5401
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

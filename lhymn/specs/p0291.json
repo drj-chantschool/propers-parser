@@ -1,0 +1,18 @@
+{
+ "page": "291",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum > COMMUNE PASTORUM (COM-PAST) > AD OFFICIUM LECTIONIS > 'Pro uno pastore' > hymn Christe pastorum caput (H.III), begun p290, stanza 2 variant 'Pro papa/Pro episcopo' ends at top of p291.",
+ "context_out": "COM-PAST > AD OFFICIUM LECTIONIS > 'Pro uno pastore' > hymn Christe pastorum caput (H.III) still running: p291 prints stanza 2 'Pro presbytero', stanza 3, and begins stanza 4 (Christe, qui sanctis ... red-); stanza 4 end, stanza 5 and Amen are on p292 (final double bar there). p292 then prints 'Pro pluribus pastoribus' hymn Dum sacerdotum celebrant fideles (H.III), which begins on p292.",
+ "continues": {
+  "from_page": "290",
+  "incipit": "Christe pastorum caput atque princeps (H.III), stanza 2 variants through stanza 4"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Nothing begins on p291: whole page is the middle of Christe pastorum caput (stanza 2 variant 'Pro presbytero' [Hunc tibi electum faciens ministrum], stanza 3 [Hic gregis ductor fuit], start of stanza 4). Stanza-2 variants belong to p290's held question (8818/8819/8820).",
+  "p292 verified: hymn ends there (stanza 5, Amen); 'Pro pluribus pastoribus' Dum sacerdotum starts on p292, not here."
+ ]
+}

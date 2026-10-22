@@ -1,0 +1,12 @@
+{
+ "page": "97",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Tempus paschale > Dominica Pentecostes (Sollemnitas, PASC-PENT-08-1) > AD COMPLETORIUM > Iesu redemptor saeculi (H.I, gregobase 4676, began p96), stanzas 2-5 + Amen.",
+ "context_out": "Dominica Pentecostes > AD COMPLETORIUM ended at final double bar after Amen on p97 (no vel/ad libitum). Page foot blank. p98 opens a new heading AD INVITATORIUM (Alleluia, Spiritus Domini replevit orbem terrarum, A.V; Ps. Venite p. 146) then AD OFFICIUM LECTIONIS (Lux iucunda, H.VII).",
+ "continues": {"from_page": "96", "incipit": "Iesu redemptor saeculi"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Page holds only stanzas 2-5 and Amen of the p96 Compline hymn (stanza 2 begins 'Tu fabricator omnium'); no new chant begins here. p97 continuation is the Pentecost melody (gregobase 4676 per p96 spec)."]
+}

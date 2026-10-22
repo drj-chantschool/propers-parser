@@ -1,0 +1,43 @@
+{
+ "page": "366",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Die 25 aprilis S. Marci > AD OFFICIUM LECTIONIS > O vir beate (H.III) text stanzas running over from p365.",
+ "context_out": "S. Marci > AD LAUDES MATUTINAS ET AD VESPERAS > Mentibus laetis (H.VIII) begins p366, runs over to p367.",
+ "continues": {
+  "from_page": "365",
+  "incipit": "O vir beate Apostolis"
+ },
+ "rows": [
+  {
+   "incipit": "Mentibus laetis tua festa Marce",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "st-mark",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS ET AD VESPERAS"
+  },
+  {
+   "incipit": "Mentibus laetis tua festa Marce",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "st-mark",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS ET AD VESPERAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "O vir beate ends on p366 (doxology Christo sit omnis gloria, Amen); no row."
+ ]
+}

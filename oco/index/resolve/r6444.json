@@ -1,0 +1,13 @@
+{"row_id": 6444, "verdict": "link",
+ "chant_uuid": "gregobase:10774", "chant_group_id": 10774,
+ "evidence": "Engraving is on p662 (not p661, which holds Benedicam/Ponere/Domine refugium): 'Cantate Domino * canticum novum. Euouae' m6f, Is 42,10; CAO 1762, Feria II Lauds ant 2. Verona 10774 (c4 fd~ f g h gf g * fd~ f g g f; Euouae h h f gh g f) matches note for note incl. Euouae and short text ending 'novum'.",
+ "rejected": [
+  {"chant_uuid": "gregobase:4442", "why": "mode 7, continues 'laus eius ab extremis terrae'"},
+  {"chant_uuid": "gregobase:5800", "why": "mode 7, long form"},
+  {"chant_uuid": "gregobase:8407", "why": "mode 7, long form"},
+  {"chant_uuid": "gregobase:10302", "why": "mode 7, long form"},
+  {"chant_uuid": "gregobase:11426", "why": "mode 7, long form"},
+  {"chant_uuid": "gregobase:13277", "why": "mode 7, long form"}],
+ "assignment": null,
+ "index_fix": {"column": "page", "from": "661", "to": "662", "why": "the chant (ant 2, 6f, CAO 1762) is the first engraving on p662, Feria II Lauds continuing from p661; p661 has no Cantate Domino"},
+ "question": null}

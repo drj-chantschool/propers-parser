@@ -1,0 +1,54 @@
+{
+ "page": "398",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "JULY; Lawrence of Brindisi p397.",
+ "context_out": "Mary Magdalene > LAUDS Aurora surgit complete on p398; VESPERS Magdalae sidus on p399.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Magdalae sidus mulier beata",
+   "kind": "xref",
+   "mode": null,
+   "lit_epoch_slug": "mary-magdalene",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD OFFICIUM LECTIONIS: Hymnus Magdalae sidus, ut infra ad Vesperas, p. 399.",
+   "ref_page": 399,
+   "chant_uuid": "gregobase:9154"
+  },
+  {
+   "incipit": "Aurora surgit lucida",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "mary-magdalene",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS",
+   "index_row_id": 5157
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "mary-magdalene",
+   "common_slug": "COM-SANCT-MULIER-UNA",
+   "common_page": 318,
+   "ref_option": 1,
+   "rubric": "De Communi sanctarum mulierum, p. 318, praeter sequentia:",
+   "skip_slots": [
+    "VESPERS.hymn"
+   ]
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "VESPERS.hymn skipped on the Common copy: proper Magdalae sidus on p399. Printed Memoria."
+ ]
+}

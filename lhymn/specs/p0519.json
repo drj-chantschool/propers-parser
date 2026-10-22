@@ -1,0 +1,29 @@
+{
+ "page": "519",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > Die 24 iunii IN NATIVITATE S. IOANNIS BAPTISTAE > R.VIII Praecursor Domini venit (begun p518), ends top of p519 '* Nullus.'",
+ "context_out": "RESPONSORIA > Die 29 iunii SS. PETRI ET PAULI, APOSTOLORUM (ss-peter-paul) > R.VIII Tu es pastor ovium begins p519, runs onto p520 ending '* Et ideo.' (no vel line). Next on p520: Die 11 iulii S. BENEDICTI, ABBATIS, R.I Sanctissime confessor Christi (begins p520).",
+ "continues": {"from_page": "518", "incipit": "Praecursor Domini venit"},
+ "rows": [
+  {
+   "incipit": "Tu es pastor ovium",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "ss-peter-paul",
+   "service": "OFFREAD",
+   "part": "resp",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Die 29 iunii SS. PETRI ET PAULI, APOSTOLORUM; R.VIII; cf. Mt 16, 19 (runs onto p520)"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Slug ss-peter-paul (not -vigil) per director and proper_of_saints month 6 day 29 (SOLEMNITY, UNIVERSAL). Tu es pastor placed as resp (no 'Post alteram' printed).",
+  "Praecursor Domini (top of p519) is carried over from p518 in continues; no vel line follows. Tu es pastor read through p520 final double bar: ends '* Et ideo.', no vel/xref.",
+  "Next Sanctorale heading (p520, Die 11 iulii S. Benedicti, abbatis) is not on this page; the p520 producer should look up its slug by date/title (month 7 day 11 in proper_of_saints)."
+ ]
+}

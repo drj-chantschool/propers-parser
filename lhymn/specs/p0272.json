@@ -1,0 +1,12 @@
+{
+ "page": "272",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum › COMMUNE APOSTOLORUM (COM-APOST) › AD II VESPERAS: 'Tempore paschali' hymn Tristes erant Apostoli (H.III) begun p271, stanza 1 ending 'pi-i' at top of p272.",
+ "context_out": "COM-APOST › AD II VESPERAS: Tristes erant Apostoli runs over (stanza 6 begins at foot of p272) and ends with Amen at top of p273; nothing printed after it. p273 then opens COMMUNE MARTYRUM, PRO PLURIBUS MARTYRIBUS (COM-MART-PLUR): AD I VESPERAS (hymn Sanctorum meritis, ut ad II Vesperas, p. 277), then AD INVITATORIUM.",
+ "continues": {"from_page": "271", "incipit": "Tristes erant Apostoli"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Whole page is stanzas 1(end)-6(start) of Tristes erant Apostoli (assigned p271); Amen at top of p273, no vel/Ad libitum line follows."]
+}

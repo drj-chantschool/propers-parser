@@ -1,0 +1,48 @@
+{
+ "page": "369",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Die 29 aprilis S. Catharinae Senensis; OFFREAD hymn complete p368; p368 common_refs skip LAUDS/VESPERS hymn.",
+ "context_out": "Die 30 aprilis S. Pii V, papae > De Communi pastorum, p. 289. No chant runs over.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Te Catharina maximis",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "catherine-of-siena",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS ET AD VESPERAS"
+  },
+  {
+   "incipit": "Te Catharina maximis",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "catherine-of-siena",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS ET AD VESPERAS"
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "pius-v",
+   "common_slug": "COM-PAST-UNO-PAPA",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289."
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Pius V papa -> COM-PAST-UNO-PAPA."
+ ]
+}

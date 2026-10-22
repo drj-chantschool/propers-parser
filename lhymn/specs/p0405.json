@@ -1,0 +1,44 @@
+{
+ "page": "405",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Martha > LAUDS Quas tibi laudes complete on p404.",
+ "context_out": "Die 30 iulii S. Petri Chrysologi: Common only. Next page continues July.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Te gratulantes",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "sts-martha-mary-and-lazarus",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD VESPERAS",
+   "index_row_id": 5484
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "peter-chrysologus",
+   "common_slug": "COM-PAST-UNO-EPISC",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301."
+  },
+  {
+   "lit_epoch_slug": "peter-chrysologus",
+   "common_slug": "COM-DOCT",
+   "common_page": 301,
+   "ref_option": 2,
+   "option_txt": "vel doctorum Ecclesiae",
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301."
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

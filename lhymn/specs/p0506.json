@@ -1,0 +1,25 @@
+{
+ "page": "506",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > SS CORPORIS ET SANGUINIS CHRISTI > R.II Comedetis carnes (begun p505) ends at top of p506 ('Iste.').",
+ "context_out": "RESPONSORIA > SACRATISSIMI CORDIS IESU (Io 15, 9-10) > R.IV Sicut dilexit me Pater (begun and ended p506, final bar after 'Manete.'; no vel line). p507 then prints heading D.N. IESU CHRISTI UNIVERSORUM REGIS (cf. Apc 14,14; 19,26; Hab 2,3) with R.I Ecce apparebit Dominus (runs onto p508), for the p507 producer.",
+ "continues": {"from_page": "505", "incipit": "Comedetis carnes"},
+ "rows": [
+  {
+   "incipit": "Sicut dilexit me Pater",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "OT-FOL-00-3",
+   "service": "OFFREAD",
+   "part": "resp",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "SACRATISSIMI CORDIS IESU (Io 15, 9-10)"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Top of p506 ('verum. * Iste.') is the end of Comedetis carnes (p505): continues only. No 'Post priorem/alteram' rubric printed, so resp. Sicut dilexit me Pater ends at its final bar on p506; no trailing vel/xref. Slug OT-FOL-00-3 per README epoch map."]
+}

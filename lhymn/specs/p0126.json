@@ -1,0 +1,38 @@
+{
+ "page": "126",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Christ the King > AD LAUDES > Aeterna imago Altissimi running over from p125.",
+ "context_out": "Hebdomada XXXIV per annum (OT-OT-34), in feriis ad libitum > AD OFFICIUM LECTIONIS > Dies irae (H.I) begins p126, continues p127.",
+ "continues": {
+  "from_page": "125",
+  "incipit": "Aeterna imago Altissimi"
+ },
+ "rows": [
+  {
+   "incipit": "Dies irae dies illa solvet saeclum",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "OT-OT-34",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "option_num": 1,
+   "option_txt": "In feriis sumi possunt (ad libitum)",
+   "rubric": "HEBDOMADA XXXIV PER ANNUM. In feriis sumi possunt hymni sequentes: AD OFFICIUM LECTIONIS",
+   "wkdays": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Aeterna imago ends p126 (Amen); no row. Week-34 ferial hymns are optional (sumi possunt): option_txt records it; the psalter hymn stays the default on the psalter epoch."
+ ]
+}

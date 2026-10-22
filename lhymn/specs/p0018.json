@@ -1,0 +1,15 @@
+{
+ "page": "18",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "TEMPUS NATIVITATIS › I. Usque ad sollemnitatem Epiphaniae › AD INVITATORIUM › Psalmus 94 (Venite, IV**) begun on p16, mid-verse at top of p18 ('nos, quia ipse est Dominus Deus noster').",
+ "context_out": "TEMPUS NATIVITATIS › I. Usque ad sollemnitatem Epiphaniae › AD INVITATORIUM › Psalmus 94 (Venite, IV**) still running: p18 ends mid-verse at 'Si int-'; p19 opens with 'ibunt in requiem meam.' then Gloria Patri / Sicut erat ... Amen (final double bar, end of psalm). Then on p19 (for p19's producer): rubric 'Infra octavam ad libitum et in feriis post Epiphaniam:' with ENGRAVED antiphon A.E 'Christus natus est nobis, venite adoremus' (drop-cap C; 'apparuit' text substitution printed under 'natus est'), and its psalm cue 'Ps. Venite, p. 168.' (xref, ref_page 168). Then heading AD OFFICIUM LECTIONIS, rubric 'In sollemnitate', engraved hymn H.I 'Candor aeternae Deitatis' (stanza 1 begins at p19 foot, runs on to p20). The Office of Readings hymn options (night vs day) follow on p20 presumably.",
+ "continues": {"from_page": "16", "incipit": "Venite exsultemus"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Page holds only the middle of Ps 94 (IV**): verses 'nos, quia ipse est Dominus', 'Hodie si vocem eius', 'Quadraginta annis', 'Si int-' ... No drop-cap, no rubric, no new chant. Ps 94 invps rows were assigned on p16.",
+  "p19 A.E 'Christus natus est/apparuit' is an alternate invitatory (Infra octavam ad libitum et in feriis post Epiphaniam) with its own Ps cue p168; belongs to p19. The p16 question about the 'apparuit' text substitution will apply there too."
+ ]
+}

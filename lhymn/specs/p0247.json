@@ -1,0 +1,21 @@
+{
+  "page": "247",
+  "page_kind": "assign",
+  "jurisdiction": "UNIVERSAL",
+  "context_in": "Communia Sanctorum › Commune Dedicationis ecclesiae (title printed p. 247) › Ad I et II Vesperas.",
+  "context_out": "Commune Dedicationis ecclesiae › Ad I et II Vesperas: hymn Urbs Ierusalem beata (stanzas 1-5 + doxology, Amen) runs over onto p. 248 and ends there at its final double bar; p. 248 then opens AD INVITATORIUM (Domum Dei decet sanctitudo, A.VII, Ps. 92,5) which begins on p. 248.",
+  "continues": null,
+  "rows": [
+    {"incipit": "Urbs Ierusalem beata", "kind": "engraved", "mode": "IV",
+     "lit_epoch_slug": "COM-DED", "service": "VESPERS1", "part": "hymn",
+     "wkday": null, "option_num": 1, "option_txt": null,
+     "rubric": "AD I ET II VESPERAS"},
+    {"incipit": "Urbs Ierusalem beata", "kind": "engraved", "mode": "IV",
+     "lit_epoch_slug": "COM-DED", "service": "VESPERS", "part": "hymn",
+     "wkday": null, "option_num": 1, "option_txt": null,
+     "rubric": "AD I ET II VESPERAS"}
+  ],
+  "common_refs": [],
+  "questions": [],
+  "flags": ["Heading 'AD I ET II VESPERAS' -> one hymn emitted for both VESPERS1 and VESPERS. Hymn spans pp. 247-248 (read p. 248: ends with Amen at double bar, nothing follows it but the invitatorium heading). Invitatory Domum Dei begins p. 248, not assigned here."]
+}

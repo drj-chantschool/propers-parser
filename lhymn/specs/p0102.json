@@ -1,0 +1,17 @@
+{
+ "page": "102",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Dominica Pentecostes (PASC-PENT-08-1) > AD TERTIAM > Iam Christus astra (H.I) running over from p101.",
+ "context_out": "Dominica Pentecostes > AD TERTIAM > Iam Christus astra ends on p102 (stanzas 1 end-5, Amen, final double bar). Nothing follows on p102.",
+ "continues": {
+  "from_page": "101",
+  "incipit": "Iam Christus astra"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "p102 holds only stanza 1 end through 5 and Amen of Iam Christus astra; no drop-cap, no rubric, no vel/ad libitum. Written by the director from the rendered page."
+ ]
+}

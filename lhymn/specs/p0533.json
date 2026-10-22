@@ -1,0 +1,12 @@
+{
+ "page": "533",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > HYMNUS TE DEUM > Tonus recentior (H.III) begun p530, continued p532 (ended at 'et laudamus nomen tuum in saeculum'). p533 opens 'et in saeculum saeculi. Dignare, Domine, die isto ...'. Running head 'Tonus recentior'.",
+ "context_out": "Te Deum tonus recentior ends on p533 at its final double bar after 'In te, Domine, speravi: non confundar in aeternum'; rest of p533 blank. p534 is entirely blank. p535 is the title page 'PROPRIUM MONASTICUM O.S.B.' with only the legend 'C.S.: Officia propria Congregationis solesmensis. C.S.G.: Item pro monasteriis in Gallia.' (no chant). The O.S.B. Proprium monasticum (jurisdiction OSB, OSB-PROPRIUM epoch) therefore begins with that title page p535; its first content is on p536.",
+ "continues": {"from_page": "530", "incipit": "Te Deum laudamus"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Pure continuation of the Te Deum tonus recentior (et in saeculum saeculi ... non confundar in aeternum); no drop-cap, rubric or xref. Hymn ends p533; remainder of p533 blank; p534 blank.", "p535 title page carries the C.S./C.S.G. legend (scope markers for later entries); p536 not examined by this producer."]
+}

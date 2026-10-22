@@ -1,0 +1,11 @@
+{
+"page":"71","page_kind":"assign","jurisdiction":"UNIVERSAL",
+"context_in":"Sabbato sancto (TQ-HOLYWEEK-00-7); p70 ended Christe caelorum Domine (Officium lectionis) at final bar. Page opens with heading AD LAUDES MATUTINAS.",
+"context_out":"Sabbato sancto > AD LAUDES MATUTINAS > hymn Tibi Redemptor omnium (H.VIII) at stanza 5 at page foot, runs over to p72 (ends there with Amen). p72 then has AD HORAM MEDIAM (Hymni ut in feria VI, p. 67, 68 et 69) and AD VESPERAS (Auctor salutis unice, H.VIII).",
+"continues":null,
+"rows":[
+{"incipit":"Tibi Redemptor omnium","kind":"engraved","mode":"VIII","lit_epoch_slug":"TQ-HOLYWEEK-00-7","service":"LAUDS","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD LAUDES MATUTINAS"}
+],
+"common_refs":[],"questions":[],
+"flags":["Hymn runs over to p72 (stanzas 5 end-6 + doxology + Amen); no vel/ad lib line follows it. p72 headings (Ad horam mediam, Ad vesperas) belong to p72's producer."]
+}

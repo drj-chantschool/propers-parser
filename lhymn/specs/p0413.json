@@ -1,0 +1,33 @@
+{
+ "page": "413",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Laurence > VESPERS Martyris Christi running over from p412.",
+ "context_out": "Clare (11 Aug): Common only. p414 begins 13 Aug.",
+ "continues": {
+  "from_page": "412",
+  "incipit": "Martyris Christi colimus triumphum"
+ },
+ "rows": [],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "st-clare-of-assisi",
+   "common_slug": "COM-VIRG-UNA",
+   "common_page": 305,
+   "ref_option": 1,
+   "rubric": "De Communi virginum, p. 305, vel sanctarum mulierum: pro religiosis, p. 324."
+  },
+  {
+   "lit_epoch_slug": "st-clare-of-assisi",
+   "common_slug": "COM-SANCT-RELIG",
+   "common_page": 324,
+   "ref_option": 2,
+   "rubric": "De Communi virginum, p. 305, vel sanctarum mulierum: pro religiosis, p. 324.",
+   "option_txt": "vel sanctarum mulierum: pro religiosis"
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

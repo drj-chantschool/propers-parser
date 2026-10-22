@@ -1,0 +1,73 @@
+{
+ "page": "431",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Mense septembris; Chrysostom p430.",
+ "context_out": "Die 14 septembris In Exaltatione S. Crucis (Festum) > OFFREAD Salve crux sancta (H.I) begins p431, continues p432.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Vexilla regis",
+   "kind": "xref",
+   "mode": null,
+   "lit_epoch_slug": "holy-cross",
+   "service": "VESPERS1",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": "Quando festum occurrit die dominica",
+   "rubric": "AD I VESPERAS (quando festum occurrit die dominica): Hymnus Vexilla regis, p. 58.",
+   "ref_page": 58,
+   "verified_despite": [
+    "office-part None unexpected for hymn"
+   ],
+   "chant_uuid": "gregobase:19794"
+  },
+  {
+   "incipit": "Christum regem pro nobis in cruce exaltatum",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "holy-cross",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM (A.IV*)",
+   "chant_uuid": "local:6e5dfa8d-78a7-4cde-a52b-7e7116aa1c3d"
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "mode": null,
+   "lit_epoch_slug": "holy-cross",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Ps. Venite, p. 141.",
+   "ref_page": 141
+  },
+  {
+   "incipit": "Salve crux sancta",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "holy-cross",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD OFFICIUM LECTIONIS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Printed Festum = FEAST. I Vespers only when the feast falls on Sunday (option_txt).",
+  "Vexilla regis xref p58 -> 19794 (neume-verified 2026-10-15 for p58; office-part None acknowledged as on p58).",
+  "Christum regem pro nobis (A.IV*): index row 5559 links 17473 (Nocturnale 2002, filed mode 3, opens on g with a high climax). The engraving opens low and is printed IV*, so the melody does not match. 18581 (m2) and 20247 (m8) differ in mode. Assigned placeholder local_chants 6e5dfa8d-78a7-4cde-a52b-7e7116aa1c3d (README ruling 2026-10-16 #1)."
+ ]
+}

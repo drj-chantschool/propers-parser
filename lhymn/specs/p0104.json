@@ -1,0 +1,16 @@
+{
+ "page": "104",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Dominica Pentecostes (PASC-PENT-08-1) > after AD SEXTAM (Venite servi supplices ended p103).",
+ "context_out": "Dominica Pentecostes > AD NONAM > Haec hora (H.I) stanzas 1-4 and Amen end at final double bar on p104. Next page 105 begins Ss.ma Trinitas (new section).",
+ "continues": null,
+ "rows": [
+  {"incipit": "Haec hora quae resplenduit", "kind": "engraved", "mode": "I",
+   "lit_epoch_slug": "PASC-PENT-08-1", "service": "NONE", "part": "hymn",
+   "wkday": null, "option_num": 1, "option_txt": null, "rubric": "AD NONAM"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Hymn ends with Amen at foot of p104; no vel/ad libitum. p105 starts Sanctissimae Trinitatis."]
+}

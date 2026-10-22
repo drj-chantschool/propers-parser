@@ -1,0 +1,46 @@
+{
+ "page": "578",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense iunii > Die 5 iunii S. Bonifatii (Memoria) > De Communi unius martyris p. 280 vel pastorum p. 289, praeter sequentia > (AD VIGILIAS ad libitum hymn Praesulis exsultans ended p577).",
+ "continues": null,
+ "context_out": "Die 19 iunii S. Romualdi, abbatis (Memoria) > De Communi sanctorum monachorum, p. 537. Nothing else printed; p579 opens Die 9 iulii (B. Mariae V. Matris Providentiae, C.S.).",
+ "rows": [
+  {
+   "incipit": "Sint tibi laudis",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "st-boniface",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS ET AD VESPERAS",
+   "index_row_id": 5462
+  },
+  {
+   "incipit": "Sint tibi laudis",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "st-boniface",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS ET AD VESPERAS",
+   "index_row_id": 5462
+  }
+ ],
+ "common_refs": [
+  {"lit_epoch_slug": "st-romuald", "common_slug": "COM-MON", "common_page": 537, "ref_option": 1,
+   "rubric": "De Communi sanctorum monachorum, p. 537."}
+ ],
+ "questions": [],
+ "flags": [
+  "Sint tibi laudis (H.VIII) printed under its own heading AD LAUDES MATUTINAS ET AD VESPERAS with no 'Ad libitum' rubric; the p576 'Ad libitum pro Congregatione solesmensi' governed only the Vigilias hymn Praesulis exsultans, so no ad-libitum option_txt and no question. One engraving serves both Lauds and Vespers (rows for LAUDS.hymn and VESPERS.hymn).",
+  "Die 19 iunii S. Romualdi, abbatis (Memoria): no OSB-jurisdiction row for 19 June; used universal st-romuald, whose rank_code is UNDETERMINED (printed Memoria). No proper chants on page; only the Commune reference to COM-MON p. 537.",
+  "No Ad Vigilias printed on this page."
+ ]
+}

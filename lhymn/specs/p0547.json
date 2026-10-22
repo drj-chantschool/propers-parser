@@ -1,0 +1,52 @@
+{
+ "page": "547",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense ianuarii > Die 15 ianuarii SS. Mauri & Placidi > AD VESPERAS hymn Vos ore fratres (H.VIII) begun on p546, running over (stanzas 2-4 end, Amen).",
+ "context_out": "Proprium monasticum O.S.B. > Sanctorale > Mense ianuarii > Die 30 ianuarii S. Bathildis, monialis (C.S.G.), De Communi sanctarum monialium p. 537; no chant printed. p548 starts Die 10 februarii S. Scholasticae (Festum), De Communi virginum p. 305 praeter sequentia, AD VIGILIAS hymn Hymnis angelicis (H.I).",
+ "continues": {
+  "from_page": "546",
+  "incipit": "Vos ore fratres caelites"
+ },
+ "rows": [],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "antony-of-egypt",
+   "common_slug": "COM-MON",
+   "common_page": 537,
+   "ref_option": 1,
+   "rubric": "De Communi sanctorum monachorum, p. 537."
+  },
+  {
+   "lit_epoch_slug": "sts-timothy-and-titus",
+   "common_slug": "COM-PAST-PLUR",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De communi pastorum, p. 289."
+  },
+  {
+   "lit_epoch_slug": "robert-alberic-stephen-osb",
+   "common_slug": "COM-MON",
+   "common_page": 537,
+   "ref_option": 1,
+   "rubric": "De Communi sanctorum monachorum, p. 537."
+  },
+  {
+   "lit_epoch_slug": "bathildis-osb",
+   "common_slug": "COM-MON",
+   "common_page": 537,
+   "ref_option": 1,
+   "rubric": "De Communi sanctarum monialium, p. 537."
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Top of page: end of Vos ore fratres (VESPERS, maurus-and-placidus-osb) assigned on p546; continuation only, no row.",
+  "Antony: existing UNIVERSAL slug antony-of-egypt (17 Jan, MEMORIAL) used; printed 'Memoria' agrees. No proper chants printed, so only common_ref COM-MON (p. 537).",
+  "Timothy & Titus: printed Die 27 ianuarii in the OSB Proprium; existing slug sts-timothy-and-titus is UNIVERSAL dated 26 Jan (date differs; OSB shifts it because 26 Jan is the Cistercian abbots). No rank word printed (universal is MEMORIAL). Commons ref is COM-PAST p. 289 (not COM-MON). Director: confirm reuse of the universal slug is acceptable despite the date difference.",
+  "Bathildis carries C.S.G. (Solesmes congregation French houses): entry-scoped only.",
+  "Cistercian abbots entry has no C.S./C.S.G. marker and no Memoria/Festum line.",
+  "No 'Ad Vigilias' heading on p547 (it is on p548 for Scholastica, p548's producer).",
+  "Director: created OSB saints robert-alberic-stephen-osb (26 Jan) and bathildis-osb (30 Jan, C.S.G.), both UNDETERMINED (no rank word printed), and added their COM-MON common_refs. Timothy & Titus is kept on the universal slug; the OSB book places them on 27 Jan because 26 Jan is taken by the Cistercian founders."
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "page": "101",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Dominica Pentecostes (PASC-PENT-08-1) > AD LAUDES MATUTINAS > Beata nobis gaudia (H.I) running over from p99 (stanza 5 end, 6, 7, Amen).",
+ "context_out": "Dominica Pentecostes > AD TERTIAM > Iam Christus astra (H.I) stanza 1 engraved on p101, runs over p102 (stanzas 1 end-5, Amen, final double bar). Nothing follows on p102.",
+ "continues": {"from_page": "99", "incipit": "Beata nobis gaudia"},
+ "rows": [
+  {"incipit": "Iam Christus astra ascenderat", "kind": "engraved", "mode": "I",
+   "lit_epoch_slug": "PASC-PENT-08-1", "service": "TERCE", "part": "hymn",
+   "wkday": null, "option_num": 1, "option_txt": null, "rubric": "AD TERTIAM"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Beata nobis gaudia ends with Amen at the top half of p101; no vel/ad libitum. Iam Christus astra ends with Amen on p102; nothing follows it there."]
+}

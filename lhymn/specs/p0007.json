@@ -1,0 +1,9 @@
+{"page":"7","page_kind":"assign","jurisdiction":"UNIVERSAL",
+"context_in":"TEMPUS ADVENTUS › I. Usque ad diem 16 decembris (running head) › AD LAUDES MATUTINAS: Vox clara ecce intonat (H.D) from p. 6, stanzas 3-5 + Amen",
+"context_out":"TEMPUS ADVENTUS › I. Usque ad diem 16 decembris › AD TERTIAM: Nunc Sancte nobis (H.IV) begins p. 7, remaining stanzas as text at top of p. 8 (ends Amen). Then AD SEXTAM (Rector potens, H.IV) and AD NONAM (Rerum Deus tenax vigor, H.IV) on p. 8. No rubrics printed.",
+"continues":{"from_page":"6","incipit":"Vox clara ecce intonat (stanzas 3-5 + Amen)"},
+"rows":[
+{"incipit":"Nunc Sancte nobis Spiritus","kind":"engraved","mode":"IV","lit_epoch_slug":"ADV-I","service":"TERCE","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD TERTIAM (Usque ad diem 16 decembris)"}
+],
+"common_refs":[],"questions":[],
+"flags":["Nunc Sancte runs p. 7 -> p. 8 (stanzas 2-3 as text); read p. 8 to confirm. No vel/Ad libitum line follows.","No melody-substitution rubric on p. 7."]}

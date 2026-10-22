@@ -1,0 +1,37 @@
+{
+ "page": "587",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense iulii > Die 28 iulii B. Urbani II (C.S.G.), De Communi pastorum p. 289 (p586). Next heading: Die 29 iulii.",
+ "continues": null,
+ "rows": [
+  {"incipit": "Inclitos Christi famulos", "kind": "xref", "ref_page": 316, "lit_epoch_slug": "sts-martha-mary-and-lazarus", "service": "VIGILIAE", "part": "hymn", "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "De Communi sanctorum virorum, p. 311, praeter sequentia: AD VIGILIAS ET AD VESPERAS Hymnus Inclitos Christi famulos, p. 316."},
+  {"incipit": "Inclitos Christi famulos", "kind": "xref", "ref_page": 316, "lit_epoch_slug": "sts-martha-mary-and-lazarus", "service": "VESPERS", "part": "hymn", "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "De Communi sanctorum virorum, p. 311, praeter sequentia: AD VIGILIAS ET AD VESPERAS Hymnus Inclitos Christi famulos, p. 316."},
+  {"incipit": "Beata caeli gaudia", "kind": "xref", "ref_page": 313, "lit_epoch_slug": "sts-martha-mary-and-lazarus", "service": "LAUDS", "part": "hymn", "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "De Communi sanctorum virorum, p. 311, praeter sequentia: AD LAUDES MATUTINAS Hymnus Beata caeli gaudia, p. 313."},
+  {"incipit": "Bernarde gemma caelitus", "kind": "xref", "ref_page": 418, "lit_epoch_slug": "bernard-of-clairvaux", "service": "VIGILIAE", "part": "hymn", "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "De Communi sanctorum monachorum, p. 537, vel doctorum Ecclesiae, p. 301, praeter sequentia: AD VIGILIAS ET AD VESPERAS Hymnus Bernarde gemma caelitus, p. 418."},
+  {"incipit": "Bernarde gemma caelitus", "kind": "xref", "ref_page": 418, "lit_epoch_slug": "bernard-of-clairvaux", "service": "VESPERS", "part": "hymn", "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "De Communi sanctorum monachorum, p. 537, vel doctorum Ecclesiae, p. 301, praeter sequentia: AD VIGILIAS ET AD VESPERAS Hymnus Bernarde gemma caelitus, p. 418."}
+ ],
+ "common_refs": [
+  {"lit_epoch_slug": "sts-martha-mary-and-lazarus", "common_slug": "COM-SANCT-VIR-PLUR", "common_page": 311, "ref_option": 1, "rubric": "De Communi sanctorum virorum, p. 311, praeter sequentia:"},
+  {"lit_epoch_slug": "radegund-osb", "common_slug": "COM-MON", "common_page": 537, "ref_option": 1, "rubric": "De Communi sanctarum monialium, p. 537."},
+  {"lit_epoch_slug": "bernard-tolomei-osb", "common_slug": "COM-MON", "common_page": 537, "ref_option": 1, "rubric": "De Communi sanctorum monachorum, p. 537."},
+  {"lit_epoch_slug": "bernard-of-clairvaux", "common_slug": "COM-MON", "common_page": 537, "ref_option": 1, "skip_slots": ["LAUDS.hymn"], "rubric": "De Communi sanctorum monachorum, p. 537, vel doctorum Ecclesiae, p. 301, praeter sequentia:"},
+  {"lit_epoch_slug": "bernard-of-clairvaux", "common_slug": "COM-DOCT", "common_page": 301, "ref_option": 2, "option_txt": "vel de Communi doctorum Ecclesiae", "skip_slots": ["LAUDS.hymn"], "rubric": "De Communi sanctorum monachorum, p. 537, vel doctorum Ecclesiae, p. 301, praeter sequentia:"}
+ ],
+ "context_out": "Mense augusti > Die 20 augusti S. Bernardi, Abbatis et Ecclesiae Doctoris (Memoria) > De Communi monachorum p. 537 vel doctorum p. 301, praeter sequentia: Vigils & Vespers hymn xref p418 (done); AD LAUDES MATUTINAS hymn Magno recipiens pectore (H.III) begins on p588 (not this page's).",
+ "questions": [],
+ "flags": [
+  "Page holds no engraved chant; all rows are hymn xrefs. Bernard's Lauds proper hymn 'Magno recipiens pectore' H.III starts p588 and belongs to the p588 producer; skip_slots LAUDS.hymn set on Bernard's common_refs for that reason.",
+  "Die 29 iulii: existing UNIVERSAL slug sts-martha-mary-and-lazarus (MEMORIAL); O.S.B. prints 'Ss. Marthae, Mariae & Lazari, Hospitum Domini, Memoria' = same rank, no rank override needed. Monastic title differs only in 'Hospitum Domini'.",
+  "Die 13 augusti S. Radegundis, Reginae & Monialis, C.S.G. (Solesmes French houses only). Existing universal slug on 13 Aug is pontian-and-hippolytus (different saint). PROPOSED NEW OSB saint epoch radegund-osb (kind saint, child of OSB-PROPRIUM, proper_of_saints jurisdiction OSB, month 8 day 13, rank not printed, common COM-MON); director to create. No proper chants, only De Communi sanctarum monialium p. 537.",
+  "Die 19 augusti B. Bernardi Tolomei, Abbatis (no congregation tag). Existing universal slug on 19 Aug is john-eudes (different saint). PROPOSED NEW OSB saint epoch bernard-tolomei-osb (month 8 day 19, rank not printed, common COM-MON); director to create. De Communi sanctorum monachorum p. 537 only.",
+  "Die 20 augusti: universal bernard-of-clairvaux (MEMORIAL); O.S.B. prints Memoria: same rank. Common is monachorum p. 537 vel doctorum p. 301 'praeter sequentia' (plain praeter): the explicit hymn rows (Vigils, Vespers) replace the Commons' copies.",
+  "Martha: Vigils+Vespers hymn Inclitos Christi famulos p316, Lauds Beata caeli gaudia p313 (plain 'praeter sequentia'), both xrefs into Common of men saints (index 5306, 5163).",
+  "Radegund and Bernard Tolomei have no sub-Common narrower than COM-MON for monks/nuns on p537; parent used."
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "page": "461",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "All Saints > VESPERS1/VESPERS Christe redemptor omnium conserva running over from p460.",
+ "context_out": "All Saints > INVITATORY Deum qui glorificatur (A.VII) on p461; its \"Ps. Venite, p. 160.\" line prints at the top of p462 and is modeled here.",
+ "continues": {
+  "from_page": "460",
+  "incipit": "Christe redemptor omnium conserva"
+ },
+ "rows": [
+  {
+   "incipit": "Deum qui glorificatur",
+   "kind": "engraved",
+   "mode": "VII",
+   "lit_epoch_slug": "all-saints",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM",
+   "index_row_id": 5566
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 160,
+   "mode": null,
+   "lit_epoch_slug": "all-saints",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Ps. Venite, p. 160. (printed at top of p462)"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "invps citation spills onto p462; modeled on p461 with its antiphon. p462 must not repeat it."
+ ]
+}

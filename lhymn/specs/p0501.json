@@ -1,0 +1,22 @@
+{
+ "page": "501",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > TEMPORE PASCHALI (PASC). Ego sum vitis vera (R.V, begun p500) runs over onto top of p501, ending 'Qui.'",
+ "context_out": "RESPONSORIA > TEMPORE PASCHALI (PASC) > 'Vel:' R.III Ego rogabo Patrem (Io 14, 16-17), begun p501, ends p502 top ('Ut.'). p502 then opens IN ASCENSIONE DOMINI (Ponis nubem, R.II) and DOMINICA PENTECOSTES (Post priorem lectionem: Repleti sunt omnes, R.II), both for the p502 producer.",
+ "continues": {"from_page": "500", "incipit": "Ego sum vitis vera"},
+ "rows": [
+  {"incipit": "Ego rogabo Patrem", "kind": "engraved", "mode": "III",
+   "lit_epoch_slug": "PASC", "service": "OFFREAD", "part": "resp",
+   "wkday": null, "option_num": 3, "option_txt": "Vel",
+   "rubric": "TEMPORE PASCHALI; Vel: Io 14, 16-17 V. 16,7",
+   "verified_despite": ["GABC text starts"]}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "verified_despite on Ego rogabo: the CHECK is a false positive from GABC markup (EGo [greheightstar] rogabo ... = Ego * rogabo Patrem, et alium Paracli...); text, mode III, office-part re, and LH index row 5631 on p501 all match. gregobase has no LH-page tie (LH p-), so director may prefer to review.",
+  "Ego rogabo Patrem runs onto p502 (verse Si enim non abiero ... 'Ut.'); no trailing vel/xref line after it.",
+  "No cross-book cue ('in Graduale') on p501."
+ ]
+}

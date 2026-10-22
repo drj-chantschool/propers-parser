@@ -1,0 +1,10 @@
+{
+  "file": "Liber_Hymnarius_1983_paged.pdf",
+  "derived_from": "Liber_Hymnarius_(Antiphonale_Romanum_Tomus_Alter)_1983.pdf (320 two-page spreads, split left/right -> 640 pages)",
+  "removed": "split pages 621-622 (spread 311): a second scan of printed pp. 608-609, identical content to spread 312",
+  "ranges": [
+    {"pdf_first": 1,  "pdf_last": 13,  "style": "roman", "printed_first": "iv", "printed_last": "xvi", "note": "pdf 1 blank, 2 title, 3 decree, 4-13 Praenotanda"},
+    {"pdf_first": 14, "pdf_last": 638, "style": "arabic", "offset": -13, "printed_first": 1, "printed_last": 625, "note": "624-625 are the unnumbered colophon leaf"}
+  ],
+  "probes": {"21": 8, "100": 87, "200": 187, "300": 287, "400": 387, "501": 488, "600": 587, "605": 592, "619": 606, "620": 607, "623 (after dedup)": 610, "634 (after dedup)": 621, "5": "viii", "8": "xi", "13": "xvi"}
+}

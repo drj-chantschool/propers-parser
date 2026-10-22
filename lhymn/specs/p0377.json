@@ -1,0 +1,30 @@
+{
+ "page": "377",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Visitation > LAUDS Veniens mater running over from p376.",
+ "context_out": "Visitation > VESPERS Concito gressu (H.IV) begins p377, ends p378; then Immaculate Heart (De Communi B.M.V.) on p378.",
+ "continues": {
+  "from_page": "376",
+  "incipit": "Veniens mater inclita"
+ },
+ "rows": [
+  {
+   "incipit": "Concito gressu petis alta montis",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "the-visitation-of-mary",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD VESPERAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

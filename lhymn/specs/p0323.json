@@ -1,0 +1,31 @@
+{
+ "page": "323",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "COM-SANCT-MULIER > AD II VESPERAS > Pro una sancta muliere: Fortem virili pectore (H.II, began p322) runs over; stanza 5 and Amen at top of p323.",
+ "context_out": "COM-SANCT-MULIER > AD II VESPERAS > Pro pluribus sanctis mulieribus: Christe, cunctorum sator et redemptor (H.II) begins p323, stanzas 2-4 and Amen run over onto p324 (ends Amen on p324; nothing vel follows). p324 then opens PRO RELIGIOSIS (COM-SANCT-RELIG).",
+ "continues": {
+  "from_page": "322",
+  "incipit": "Fortem virili pectore"
+ },
+ "rows": [
+  {
+   "lit_epoch_slug": "COM-SANCT-MULIER-PLUR",
+   "wkday": null,
+   "incipit": "Christe cunctorum sator et redemptor",
+   "kind": "engraved",
+   "mode": "II",
+   "service": "VESPERS",
+   "part": "hymn",
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD II VESPERAS. Pro pluribus sanctis mulieribus"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Christe cunctorum also serves I Vespers; that use is already an xref on p318, not duplicated here. Hymn runs over to p324 (ends Amen, checked); no vel/ad libitum follows. PRO RELIGIOSIS heading is on p324, not this page.",
+  "Director, user rulings 2026-10-15: row 1 'Pro pluribus sanctis mulieribus' → COM-SANCT-MULIER-PLUR"
+ ]
+}

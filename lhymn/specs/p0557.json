@@ -1,0 +1,12 @@
+{
+ "page": "557",
+ "page_kind": "continuation_only",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense martii > Die 21 martii Transitus S. Patris Benedicti, Festum > AD VIGILIAS hymn Quidquid antiqui (from p556), mid-stanza 2.",
+ "context_out": "Same; Quidquid antiqui ends at its final double bar and Amen on p557 with nothing after it. p558 opens AD LAUDES MATUTINAS (Hymnus Inter aeternas, p. 396) of the same Transitus, then AD VESPERAS.",
+ "continues": {"from_page": "556", "incipit": "Quidquid antiqui cecinere vates"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Page holds only stanzas 2-5 and Amen of Quidquid antiqui (begun p556); no new chant, no vel line follows it."]
+}

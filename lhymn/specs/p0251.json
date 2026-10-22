@@ -1,0 +1,17 @@
+{
+ "page": "251",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum › Commune Dedicationis ecclesiae › Ad Officium lectionis: hymn Christe cunctorum dominator alme (H.VIII, begun p. 249) ends at top of p. 251 (doxology, Amen).",
+ "context_out": "Commune Dedicationis ecclesiae › AD LAUDES MATUTINAS: hymn Angularis fundamentum (H.IV) begun p. 251 (stanza 3 starts at foot), runs over onto p. 252 and ends there with doxology (stanza 5 'Gloria et honor Deo') and Amen; nothing vel or rubric after it on p. 252.",
+ "continues": {"from_page": "249", "incipit": "Christe cunctorum dominator alme (doxology 'Spiritus Sancti resonet' and Amen at top of p. 251)"},
+ "rows": [
+  {"incipit": "Angularis fundamentum", "kind": "engraved", "mode": "IV",
+   "lit_epoch_slug": "COM-DED", "service": "LAUDS", "part": "hymn",
+   "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["No melody-substitution rubric ('in tono hymni X') seen on p251 or p252.", "Hymn runs onto p. 252 (stanzas 3 end-5, doxology, Amen); read p252, nothing follows it."]
+}

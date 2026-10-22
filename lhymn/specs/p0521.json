@@ -1,0 +1,20 @@
+{
+ "page": "521",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > Die 11 iulii S. BENEDICTI, ABBATIS (st-benedict-of-nursia) > R.I Sanctissime confessor Christi (begun p520), ends top of p521 '* Intercede.'",
+ "context_out": "RESPONSORIA > Die 15 augusti IN ASSUMPTIONE B. MARIAE VIRGINIS (assumption) > Post priorem lectionem: R.IV Diffusa est gratia begins and ends p521 ('* Propterea.'). Next on p522: Post alteram lectionem: R.III Vidi speciosam (begins p522).",
+ "continues": {"from_page": "520", "incipit": "Sanctissime confessor Christi"},
+ "rows": [
+  {"incipit": "Diffusa est gratia", "kind": "engraved", "mode": "IV",
+   "lit_epoch_slug": "assumption", "service": "OFFREAD", "part": "resp",
+   "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "Die 15 augusti IN ASSUMPTIONE B. MARIAE VIRGINIS; Post priorem lectionem: Ps 44, 3.9-10"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Slug 'assumption' per director (not -vigil); verify exists via dry-run.",
+  "Diffusa est gratia read through to final double bar on p521 ('* Propterea.'); no vel line follows. Vidi speciosam (R.III, Post alteram lectionem) begins on p522 and belongs to p522's spec (resp2)."
+ ]
+}

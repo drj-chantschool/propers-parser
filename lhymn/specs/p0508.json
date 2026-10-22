@@ -1,0 +1,25 @@
+{
+ "page": "508",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > (p507 ended with D.N. IESU CHRISTI UNIVERSORUM REGIS R.I Ecce apparebit Dominus, complete). New heading TEMPORE PER ANNUM on p508.",
+ "context_out": "RESPONSORIA > TEMPORE PER ANNUM (OT) > numbered list: I R.II Tua est potentia (complete p508); II R.VIII In conspectu angelorum (begun p508, ends p509 after 'Et.'); p509 then prints III R.VI Super muros tuos (Is 62, 6), which begins on p509 and runs on. No vel/ad libitum lines.",
+ "continues": null,
+ "rows": [
+  {"incipit": "Tua est potentia", "kind": "engraved", "mode": "II",
+   "lit_epoch_slug": "OT", "service": "OFFREAD", "part": "resp",
+   "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "TEMPORE PER ANNUM; I; 2 Mac 1, 24"},
+  {"incipit": "In conspectu angelorum", "kind": "engraved", "mode": "VIII",
+   "lit_epoch_slug": "OT", "service": "OFFREAD", "part": "resp",
+   "wkday": null, "option_num": 2, "option_txt": "II",
+   "rubric": "TEMPORE PER ANNUM; II; Ps 137, 1-2"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Roman numerals I, II (and III on p509) are a numbered list of alternative responsories, not a first/second pair (no 'Post priorem/alteram lectionem' printed and a III follows), so option_num 1/2 of OFFREAD.resp, not resp/resp2.",
+  "In conspectu angelorum begins p508, final bar on p509 after 'Et.'; p509 then begins III Super muros tuos (for the p509 producer, option 3).",
+  "No cross-book 'in Graduale' cue seen on p508 or p509 top."
+ ]
+}

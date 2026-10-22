@@ -1,0 +1,45 @@
+{
+ "page": "545",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense ianuarii > Die 15 ianuarii SS. Mauri & Placidi, Memoria, De Communi sanctorum monachorum p. 537 > AD VIGILIAS: hymn Qui te posthabitis complete on p544. Page opens with rubric 'Pro Congregatione solesmensi:' over an alternative Vigils hymn.",
+ "context_out": "Same day (15 Jan, SS. Mauri & Placidi) > AD LAUDES MATUTINAS hymn Maure te fratres (H.I) begins at page foot and runs over onto p546 (ends there with Amen; p546 then has AD VESPERAS hymn Vos ore fratres, H.VIII, which p546 owns).",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Puellus Placidus",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "maurus-and-placidus-osb",
+   "service": "VIGILIAE",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "Pro Congregatione solesmensi",
+   "rubric": "Pro Congregatione solesmensi: (alternative to the Ad Vigilias hymn Qui te posthabitis, p544)"
+  },
+  {
+   "incipit": "Maure te fratres",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "maurus-and-placidus-osb",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS (runs over onto p546)",
+   "allow_unresolved": true
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "'Pro Congregatione solesmensi:' scopes only the Puellus Placidus hymn (Solesmes congregation), recorded in option_txt; it is an alternative to Qui te posthabitis (option 1 on p544). The heading is not printed with 'Ad Vigilias' on this page; placement as Vigils alternative inferred from p544 context.",
+  "Maure te fratres: 4 stanzas + Amen, ends on p546 (read). Page-546 Vespers hymn Vos ore fratres (H.VIII) is p546's.",
+  "Doxology/Amen part of each hymn.",
+  "Maure te fratres (H.I): LH index row 5340 (m1, 'Maure, te fratres', page 545) is unmatched (chant_uuid NULL) and gregobase has no such chant (searched incipit and GABC text), so allow_unresolved. Engraved on page, mode I, 4 stanzas+Amen over p545-546. Needs manual GABC/chant record later.",
+  "Director, user rulings 2026-10-15: row 1 OFFREAD→VIGILIAE.hymn; open questions left: 0",
+  "Director: user rulings 5/6 2026-10-15 applied (congregation alternatives = option_txt on the same epoch; OSB rank override = OSB proper_of_saints row). Questions left: 0"
+ ]
+}

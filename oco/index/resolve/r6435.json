@@ -1,0 +1,8 @@
+{"row_id": 6435, "verdict": "link", "chant_uuid": "gregobase:10690", "chant_group_id": null,
+ "evidence": "p611 antiphon 3 (Feria IV Vespers, ref 'Sap 7,26; AS 840'), mode 4*e, short text 'Candor est lucis ætérnæ et spéculum sine mácula. Euouae'. Engraving c4: Can(fe) dor(de) est(e) * lu(f) cis(dc) ae(de) ... et(ef) spé(g) cu(g) lum(gf) si(g) ne(ghg) má(e) cu(de) la(e); Euouae g g h f g e. Only gregobase:10690 (Verona, group 6290) matches every syllable and the Euouae. 4106 (group 2041) opens fe de e' but Euouae h g h ih gf e (engraved g g h f g e) and 'et(e_f) spé(g')'; 2041/6290/12737 open eg fe and má(fe). Group verdict impossible: group 6290 members 6290 and 12737 differ from the engraving. 10690 has no edition source (no tie to OCO). LPS: day-part wkday 4, wknum_mod_4 2 covers psalter week II (2H4); 6436 (4H4) is a separate unit sharing this engraving.",
+ "rejected": [
+  {"chant_uuid": "gregobase:4106", "why": "AM 1934 p4*, group 2041: opening fe de e' fits but Euouae h g h ih gf e and 'et(e_f) spé(g')' differ from engraving"},
+  {"chant_uuid": "gregobase:2041", "why": "LA 1961, group 2041: opens eg fe, má(fe), Euouae h g h ih gf e"},
+  {"chant_uuid": "gregobase:6290", "why": "Dominican, group 6290: opens eg fe, má(fe); no Euouae"},
+  {"chant_uuid": "gregobase:12737", "why": "Solesmes, group 6290: opens eg fe, má(fe); no Euouae"}],
+ "assignment": null, "index_fix": null, "question": null}

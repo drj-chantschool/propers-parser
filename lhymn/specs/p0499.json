@@ -1,0 +1,27 @@
+{
+ "page": "499",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > SABBATO SANCTO > Post alteram lectionem: Recessit pastor noster (R.VII, p498, complete). Page opens with the engraved 'vel:' R.IV Ecce quomodo moritur iustus",
+ "context_out": "RESPONSORIA > SABBATO SANCTO > vel: Ecce quomodo moritur iustus (R.IV) ends at its final bar on p499 (repetenda 'Et erit.'). p500 opens heading TEMPORE PASCHALI with R.III Virtute magna (p500), then 'Vel:' R.V Ego sum vitis vera",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Ecce quomodo moritur iustus",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "TQ-HOLYWEEK-00-7",
+   "service": "OFFREAD",
+   "part": "resp2",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "vel",
+   "rubric": "SABBATO SANCTO; Post alteram lectionem; vel: Is 53, 7-8"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Ecce quomodo moritur iustus is fully engraved with drop cap, complete on p499 (final bar after 'Et erit.'); alternative to Recessit pastor noster (resp2 option 2). No cross-book cue."
+ ]
+}

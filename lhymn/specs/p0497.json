@@ -1,0 +1,28 @@
+{
+ "page": "497",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > FERIA SEXTA IN PASSIONE DOMINI > vel: Caligaverunt oculi mei (R.V, begun p496) running to its final double bar on p497 ('Si est.')",
+ "context_out": "RESPONSORIA > SABBATO SANCTO > Post priorem lectionem: Sepulto Domino (R.II) begins and ends on p497 (final bar after 'Ponentes.'). Next, p498 opens with 'Post alteram lectionem: Recessit pastor noster' (R.VII), begins p498",
+ "continues": {"from_page": "496", "incipit": "Caligaverunt oculi mei"},
+ "rows": [
+  {
+   "incipit": "Sepulto Domino",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "TQ-HOLYWEEK-00-7",
+   "service": "OFFREAD",
+   "part": "resp",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "SABBATO SANCTO; Post priorem lectionem; cf. Mt 27, 66"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Top of p497 is the end of Caligaverunt oculi mei (assigned p496), in continues only.",
+  "Sepulto Domino ends at its final double bar on p497; p498 starts a new chant (Recessit pastor noster), not a run-over. No vel/xref cue follows. No cross-book cue."
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "page": "580",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense iulii > Die 9 iulii B.M.V. Matris Providentiae (C.S., Memoria) > AD LAUDES hymn Virgo Dei Genetrix (began p579) ends at top of p580 (last stanza, Amen).",
+ "continues": {
+  "from_page": "579",
+  "incipit": "Virgo Dei Genetrix"
+ },
+ "context_out": "Die 11 iulii S. Patris Benedicti Abbatis (Sollemnitas) > AD VIGILIAS hymn Surge quid cessas (H.I) begins p580, runs over p581 and ends p582 (stanza 6, Amen); p582 then prints 'Vel ad libitum pro Congregatione solesmensi in Gallia:' hymn Claris coniubila Gallia (H.III), engraved on p582 (assigned by p582, not here).",
+ "rows": [
+  {
+   "incipit": "O quam glorifica",
+   "kind": "xref",
+   "ref_page": 420,
+   "lit_epoch_slug": "bmv-mater-providentiae-osb",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD VESPERAS Hymnus O quam glorifica, p. 420."
+  },
+  {
+   "incipit": "Fratres alacri pectore",
+   "kind": "xref",
+   "ref_page": 558,
+   "lit_epoch_slug": "st-benedict-of-nursia",
+   "service": "VESPERS1",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD I ET II VESPERAS Hymnus Fratres, alacri pectore, p. 558."
+  },
+  {
+   "incipit": "Fratres alacri pectore",
+   "kind": "xref",
+   "ref_page": 558,
+   "lit_epoch_slug": "st-benedict-of-nursia",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD I ET II VESPERAS Hymnus Fratres, alacri pectore, p. 558."
+  },
+  {
+   "incipit": "Laudemus Deum nostrum",
+   "kind": "xref",
+   "ref_page": 556,
+   "lit_epoch_slug": "st-benedict-of-nursia",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM Ant. Laudemus Deum nostrum, p. 556."
+  },
+  {
+   "incipit": "Surge quid cessas",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "st-benedict-of-nursia",
+   "service": "VIGILIAE",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "index_row_id": 5474,
+   "allow_unresolved": true,
+   "rubric": "AD VIGILIAS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Top of p580: last line of Virgo Dei Genetrix (tu-i Sancto ... Amen) belongs to p579's chant, listed in continues.",
+  "Rank mismatch: printed Sollemnitas vs proper_of_saints st-benedict-of-nursia rank_code MEMORIAL (UNIVERSAL).",
+  "Surge quid cessas (H.I): LH index row 5474 on p580 is 'unmatched' (no chant_uuid); allow_unresolved used.",
+  "Hymn Surge quid cessas continues p581 (stanzas 2-5) and ends p582 (stanza 6, Amen); p582 prints 'Vel ad libitum pro Congregatione solesmensi in Gallia' hymn Claris coniubila Gallia (H.III) engraved on p582, left to the p582 producer.",
+  "Invitatory: only the antiphon cue 'Ant. Laudemus Deum nostrum, p. 556' printed; no psalm cue on p580.",
+  "AD I ET II VESPERAS: emitted VESPERS1 and VESPERS rows (Solemnity).",
+  "Pointer cue 'Hymnus O quam glorifica, p. 420' under AD VESPERAS (BVM Mater Providentiae) is a plain Vespers: VESPERS only.",
+  "Director, user rulings 2026-10-15: row 5 OFFREAD→VIGILIAE.hymn; open questions left: 1",
+  "Director: user rulings 5/6 2026-10-15 applied (congregation alternatives = option_txt on the same epoch; OSB rank override = OSB proper_of_saints row). Questions left: 0"
+ ]
+}

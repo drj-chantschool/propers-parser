@@ -1,0 +1,31 @@
+{
+ "page": "77",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Tempus paschale I > Usque ad Ascensionem Domini > AD VESPERAS > Ad libitum in feriis post octavam hymn O rex aeterne Domine (began p76), stanza 4 end through 7 and Amen.",
+ "context_out": "Tempus paschale I > AD COMPLETORIUM > hymn Iesu redemptor saeculi (H.I), stanza 1-2 on p77, ends with Amen on p78 (5 stanzas); no trailing vel/ad libitum on p78.",
+ "continues": {
+  "from_page": "76",
+  "incipit": "O rex aeterne Domine"
+ },
+ "rows": [
+  {
+   "incipit": "Iesu redemptor saeculi",
+   "kind": "engraved",
+   "mode": "I",
+   "service": "COMPLINE",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD COMPLETORIUM",
+   "lit_epoch_slug": "PASC"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "No narrowing rubric under AD COMPLETORIUM; modeled season-wide on PASC-OCT and PASC-AD_ASC per director instruction. Hymn runs to p78 (Amen).",
+  "Re-scoped per intake_queue #2 (user, 2026-10-18): Paschaltide I rows duplicated on PASC-OCT + PASC-AD_ASC are scoped to the whole PASC season; post-Ascension pages override ('Omnia sicut ante Ascensionem, praeter')."
+ ]
+}

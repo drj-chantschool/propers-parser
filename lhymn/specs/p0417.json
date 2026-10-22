@@ -1,0 +1,17 @@
+{
+ "page": "417",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Assumption > LAUDS Solis o Virgo running over from p416.",
+ "context_out": "Solis o Virgo ends on p418.",
+ "continues": {
+  "from_page": "416",
+  "incipit": "Solis o Virgo radiis amicta"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

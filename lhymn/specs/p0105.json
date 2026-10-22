@@ -1,0 +1,19 @@
+{
+ "page": "105",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Dominica Pentecostes ended p104 (Nonam hymn). New section: Dominica post Pentecosten > SANCTISSIMAE TRINITATIS (Sollemnitas) > AD I ET II VESPERAS.",
+ "context_out": "Ss.ma Trinitas > AD I ET II VESPERAS > Immensa et una Trinitas stanzas 1-4 (partial) continue onto p106 (stanzas 5-6, Amen at final double bar). p106 then has AD INVITATORIUM (Deum verum, Ps. Venite p. 138), which p106 assigns.",
+ "continues": null,
+ "rows": [
+  {"incipit": "Immensa et una Trinitas", "kind": "engraved", "mode": "VIII",
+   "lit_epoch_slug": "OT-FOL-00-1", "service": "VESPERS1", "part": "hymn",
+   "wkday": null, "option_num": 1, "option_txt": null, "rubric": "AD I ET II VESPERAS"},
+  {"incipit": "Immensa et una Trinitas", "kind": "engraved", "mode": "VIII",
+   "lit_epoch_slug": "OT-FOL-00-1", "service": "VESPERS", "part": "hymn",
+   "wkday": null, "option_num": 1, "option_txt": null, "rubric": "AD I ET II VESPERAS"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Hymn runs over to p106 (stanzas 5-6, Amen); no vel/ad libitum follows it. Heading 'AD I ET II VESPERAS' -> one VESPERS1 row and one VESPERS row. OT-FOL-00-1 = 'Trinity Sunday' per README epoch map."]
+}

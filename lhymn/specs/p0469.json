@@ -1,0 +1,18 @@
+{
+ "page": "469",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Peter & Paul basilicas > LAUDS/VESPERS Iam bone pastor running over from p468.",
+ "context_out": "Iam bone pastor ends p469; p470 begins Presentation of Mary (21 Nov).",
+ "continues": {
+  "from_page": "468",
+  "incipit": "Iam bone pastor Petre"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Pilcrow \"¶2. Doctor egregie\" marks the split point used by the Conversion of Paul (p343 xref \"Doctor egregie ... p. 468, prima stropha omissa\"); no new slot here. Index row 5232 (p469) is that sub-incipit."
+ ]
+}

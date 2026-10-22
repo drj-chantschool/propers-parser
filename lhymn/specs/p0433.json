@@ -1,0 +1,63 @@
+{
+ "page": "433",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Holy Cross > LAUDS Signum crucis running over from p432.",
+ "context_out": "Die 15 septembris B.M.V. Perdolentis (Memoria) > invitatory Salvatorem mundi begins p433, ends p434 with Ps. Venite p. 141; OFFREAD Stabat Mater on p434.",
+ "continues": {
+  "from_page": "432",
+  "incipit": "Signum crucis mirabile"
+ },
+ "rows": [
+  {
+   "incipit": "Vexilla regis",
+   "kind": "xref",
+   "ref_page": 58,
+   "mode": null,
+   "lit_epoch_slug": "holy-cross",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD II VESPERAS: Hymnus Vexilla regis, p. 58.",
+   "chant_uuid": "gregobase:19794",
+   "verified_despite": [
+    "office-part None unexpected for hymn"
+   ]
+  },
+  {
+   "incipit": "Salvatorem mundi qui passioni suae sociavit Matrem",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "our-lady-of-sorrows",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM (A.IV*)",
+   "chant_uuid": "local:c62ad8e6-fb28-46d0-977a-1609bc3c7135"
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 141,
+   "mode": null,
+   "lit_epoch_slug": "our-lady-of-sorrows",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Ps. Venite, p. 141. (printed at top of p434)"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Our Lady of Sorrows prints no De Communi line on pp433-434 (fully proper hymns follow).",
+  "Salvatorem mundi (A.IV*): index row 5609 → 20253 is filed mode 2 and its cadence does not match the engraving; assigned placeholder local_chants c62ad8e6-fb28-46d0-977a-1609bc3c7135 (README ruling 2026-10-16 #1). If 20253 proves to be a transposed edition of the same melody, repoint it."
+ ]
+}

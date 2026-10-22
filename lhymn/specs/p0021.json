@@ -1,0 +1,32 @@
+{
+ "page": "21",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "TEMPUS NATIVITATIS › I. Usque ad sollemnitatem Epiphaniae › AD OFFICIUM LECTIONIS › rubric 'In sollemnitate' › hymn Candor aeternae Deitatis (H.I, begun p19) ends at top of p21 (stanza 5, Amen).",
+ "context_out": "TEMPUS NATIVITATIS › I. Usque ad sollemnitatem Epiphaniae › AD OFFICIUM LECTIONIS › 'Alter tonus ad libitum pro diebus infra octavam': H.IV Candor aeternae begun p21, runs onto p22 and ends there (stanza 5, Amen); no vel line after it. Next on p22: AD LAUDES MATUTINAS, hymn A solis ortus (H.III) begins p22 (p22's producer).",
+ "continues": {
+  "from_page": "19",
+  "incipit": "Candor aeternae Deitatis"
+ },
+ "rows": [
+  {
+   "incipit": "Candor aeternae Deitatis",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "NAT-IO",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "Alter tonus ad libitum",
+   "rubric": "Alter tonus ad libitum pro diebus infra octavam"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "H.IV row set to option_num 2 on NAT-IO so it fits either answer: if the director rules H.I is option 1 on NAT-IO, no renumbering is needed; if not, this becomes the sole option and could be renumbered to 1.",
+  "H.IV Candor aeternae is index row 5173 -> gregobase:13356 (LH p21); distinct from H.I gregobase:4246 (p19).",
+  "Stanzas 1-5 of H.IV: stanza 1-3 begin on p21, 3-5 + Amen on p22; the whole hymn is one chant assigned here."
+ ]
+}

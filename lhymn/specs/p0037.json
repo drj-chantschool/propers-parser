@@ -1,0 +1,9 @@
+{"page":"37","page_kind":"assign","jurisdiction":"UNIVERSAL",
+"context_in":"TEMPUS NATIVITATIS II. A sollemnitate Epiphaniae (NAT-EPI) > In Officio de Tempore, ab Epiphania Domini usque ad festum Baptismatis Domini exclusive > AD VESPERAS: Hostis Herodes impie (H.III) running over (stanzas 4 end, 5, doxology, Amen).",
+"context_out":"NAT-EPI > AD COMPLETORIUM: Christe qui splendor et dies (H.VIII) complete on p37 (4 text stanzas + doxology, Amen). p38 opens with AD INVITATORIUM (Christus apparuit nobis, ut supra, p. 16 / p. 19 in feriis post Epiphaniam: xref, belongs to p38) then AD OFFICIUM LECTIONIS (Magi videntes parvulum, H.III).",
+"continues":{"from_page":"36","incipit":"Hostis Herodes impie"},
+"rows":[
+{"incipit":"Christe qui splendor et dies","kind":"engraved","mode":"VIII","lit_epoch_slug":"NAT-EPI","service":"COMPLINE","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD COMPLETORIUM (under In Officio de Tempore, ab Epiphania Domini usque ad festum Baptismatis Domini exclusive)"}
+],
+"common_refs":[],"questions":[],
+"flags":["Compline hymn assumed governed by the section's season-wide rule (no separate rubric printed); NAT-EPI wkday null. Page top (stanza 4 end, 5, doxology) is Hostis Herodes from p36."]}

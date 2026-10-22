@@ -1,0 +1,56 @@
+{
+ "page": "427",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "SEPTEMBER begins.",
+ "context_out": "Die 3 septembris S. Gregorii Magni (Memoria) > LAUDS+VESPERS Anglorum iam apostolus complete on p427.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Anglorum iam apostolus",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "gregory-the-great",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS ET AD VESPERAS"
+  },
+  {
+   "incipit": "Anglorum iam apostolus",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "gregory-the-great",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS ET AD VESPERAS"
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "gregory-the-great",
+   "common_slug": "COM-PAST-UNO-PAPA",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301, praeter sequentia:"
+  },
+  {
+   "lit_epoch_slug": "gregory-the-great",
+   "common_slug": "COM-DOCT",
+   "common_page": 301,
+   "ref_option": 2,
+   "option_txt": "vel doctorum Ecclesiae",
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301, praeter sequentia:"
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "UNIVERSAL rows (OSB rows for Gregory from p592-594 are separate jurisdiction). Printed Memoria = MEMORIAL."
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "page": "197",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Weeks I&III Tuesday OFFREAD O sacrosancta running over from p196.",
+ "context_out": "Weeks I&III Tuesday > LAUDS Pergrata mundo complete on p197; Middle Hour \"ut supra in feria II, p. 192\" (already modeled for wkdays 2-7 on pp192-195).",
+ "continues": {
+  "from_page": "196",
+  "incipit": "O sacrosancta Trinitas"
+ },
+ "rows": [
+  {
+   "incipit": "Pergrata mundo nuntiat",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": null,
+   "wknum_mod_2": 1,
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": 3,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS",
+   "index_row_id": 5394
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "\"AD HORAM MEDIAM. Hymni ut supra in feria II, p. 192\" is covered by the p192-195 rows (wkdays 2-7); no new row."
+ ]
+}

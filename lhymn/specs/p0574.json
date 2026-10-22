@@ -1,0 +1,34 @@
+{
+ "page": "574",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense iunii > Die 4 iunii S. Clotildis, reginae (C.S.G.) > De Communi sanctarum mulierum, p. 318, praeter sequentia ad libitum > AD VIGILIAS hymn O regum suboles (begun p573) continues.",
+ "continues": {
+  "from_page": "573",
+  "incipit": "O regum suboles"
+ },
+ "context_out": "Die 4 iunii S. Clotildis > De Communi sanctarum mulierum, p. 318, praeter sequentia ad libitum > AD LAUDES MATUTINAS hymn Quae nunc bella strepunt (H.II) begins p574, runs over onto p575 (3 more stanzas ... Amen). Next on p575: AD VESPERAS Ad quas, orba viro (H.II).",
+ "rows": [
+  {
+   "incipit": "Quae nunc bella strepunt",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "clotildis-osb",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_txt": null,
+   "rubric": "De Communi sanctarum mulierum, p. 318, praeter sequentia ad libitum: AD LAUDES MATUTINAS",
+   "index_row_id": 5411,
+   "after_common": true
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Continuation of O regum suboles (begun p573): 'tenéat tráderis uxor ... nubila pelles.' + 4 text stanzas + Amen; not a row.",
+  "Quae nunc bella strepunt: index row 5411 -> gregobase:9286 (resolved_with_difficulty); verify dry-run line. Hymn runs over onto p575 (4 text stanzas, Amen) - read.",
+  "Only saint on page is S. Clotildis (C.S.G.); AD VESPERAS Ad quas, orba viro starts p575 (index row 5123), belongs to p575's producer.",
+  "Director, user rulings 2026-10-15: row 1 after_common (ad libitum: Common opt1, proper after); open questions left: 0"
+ ]
+}

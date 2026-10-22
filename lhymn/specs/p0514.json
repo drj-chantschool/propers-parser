@@ -1,0 +1,28 @@
+{
+ "page": "514",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > TEMPORE PER ANNUM (OT) > numbered alternatives; VIII Dignus es Domine (assigned p513) ends at top of p514 ('In sanguine tuo.', verse Fecisti enim nos, repetenda In sanguine).",
+ "context_out": "RESPONSORIA > IN DEDICATIONE ECCLESIAE (COM-DED) > R.II Fundata est domus Domini (cf. Is 2, 2-3) begins mid-p514 and runs onto p515, ending with the verse 'T.P. Alleluia. V. Venientes autem venient cum exsultatione ... Et venient.' at top of p515; no vel line. p515 then opens heading IN PRAESENTATIONE DOMINI (R.III Postquam impleti sunt).",
+ "continues": {"from_page": "513", "incipit": "Dignus es Domine"},
+ "rows": [
+  {
+   "incipit": "Fundata est domus Domini",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "COM-DED",
+   "service": "OFFREAD",
+   "part": "resp",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "IN DEDICATIONE ECCLESIAE; R.II; cf. Is 2, 2-3 (runs onto p515)"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Heading IN DEDICATIONE ECCLESIAE: slug COM-DED (README Commons table) per director instruction; the Dedication is celebrated through the Common of Dedication (p247). README Responsoria rules name no different slug for a celebration heading beyond 'that celebration's slug'.",
+  "Fundata est runs onto p515, where its Paschaltide alternative 'T.P. Alleluia. V. Venientes autem ... Et venient.' is printed (a T.P. variant of the same responsory, not a separate chant); p515 producer should list it in continues. No vel/xref cue and no cross-book cue on p514."
+ ]
+}

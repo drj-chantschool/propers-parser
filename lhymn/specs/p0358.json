@@ -1,0 +1,34 @@
+{
+ "page": "358",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Die 19 martii S. Ioseph (st-joseph, SOLEMNITY) > AD OFFICIUM LECTIONIS > Iste, quem laeti colimus (H.VIII) running over from p357 (stanza 3 end, 4, 5, Amen).",
+ "context_out": "S. Ioseph > AD LAUDES MATUTINAS > Caelitum, Ioseph, decus (H.I) stanzas 1-2 begin on p358, continue on p359 (stanzas 2 end-5, Amen). No vel/ad libitum line after it on p359.",
+ "continues": {
+  "from_page": "357",
+  "incipit": "Iste quem laeti colimus fideles"
+ },
+ "rows": [
+  {
+   "incipit": "Caelitum Ioseph decus atque nostrae",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "st-joseph",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS",
+   "verified_despite": [
+    "GABC text starts 'C"
+   ]
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Caelitum hymn runs over to p359 (stanzas 2 end-5, Amen); p359 read, nothing follows it.",
+  "gregobase:17643 (index 5171, only LH-style 'Ioseph' edition; headers empty, no LH page tie). CHECK is the C-AE ligature artifact only; words, mode I, hy match. Neume check: GABC opening h g h gf dc g.. g f g h, cadence ..d. agrees with engraving (rise to top line, descent at Io-seph, close on low d); same melody as 4044/11972/18590 (other traditions)."
+ ]
+}

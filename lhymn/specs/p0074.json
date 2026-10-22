@@ -1,0 +1,42 @@
+{
+ "page": "74",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Sabbato sancto ended on p73. Top of p74: TEMPUS PASCHALE > I. Usque ad Ascensionem Domini > AD VESPERAS.",
+ "context_out": "Tempus paschale I > AD VESPERAS > hymn Ad cenam Agni providi (H.VIII) running, stanza 4 onward; ends with Amen on p75 (no vel/ad lib line).",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Ad cenam Agni providi",
+   "kind": "engraved",
+   "mode": "VIII",
+   "service": "VESPERS1",
+   "part": "hymn",
+   "wkday": 1,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "TEMPUS PASCHALE. I. USQUE AD ASCENSIONEM DOMINI. AD VESPERAS",
+   "lit_epoch_slug": "PASC"
+  },
+  {
+   "incipit": "Ad cenam Agni providi",
+   "kind": "engraved",
+   "mode": "VIII",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "TEMPUS PASCHALE. I. USQUE AD ASCENSIONEM DOMINI. AD VESPERAS",
+   "lit_epoch_slug": "PASC"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Hymn runs onto p75 (stanzas 4-8, doxology, Amen), final double bar on p75; no vel/ad libitum line follows.",
+  "Heading is plain AD VESPERAS with no 'a I Vesperis ... usque ad' rule printed, so only VESPERS rows (no VESPERS1), wkday null for all days of both epochs.",
+  "Director: added VESPERS1 wkday 1 (Sunday I Vespers) following the p36/p48 precedent for plain seasonal AD VESPERAS. Easter Sunday itself has no I Vespers (the Vigil replaces it); that one excess Sunday row is harmless because the Triduum/Vigil governs.",
+  "Re-scoped per intake_queue #2 (user, 2026-10-18): Paschaltide I rows duplicated on PASC-OCT + PASC-AD_ASC are scoped to the whole PASC season; post-Ascension pages override ('Omnia sicut ante Ascensionem, praeter')."
+ ]
+}

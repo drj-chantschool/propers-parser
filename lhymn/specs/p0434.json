@@ -1,0 +1,30 @@
+{
+ "page": "434",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Our Lady of Sorrows > invitatory Salvatorem mundi running over from p433 (Ps p141 modeled there).",
+ "context_out": "Our Lady of Sorrows > OFFREAD Stabat Mater (H.II) begins p434, continues p435.",
+ "continues": {
+  "from_page": "433",
+  "incipit": "Salvatorem mundi"
+ },
+ "rows": [
+  {
+   "incipit": "Stabat Mater dolorosa",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "our-lady-of-sorrows",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD OFFICIUM LECTIONIS"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

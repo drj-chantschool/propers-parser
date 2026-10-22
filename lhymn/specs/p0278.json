@@ -1,0 +1,12 @@
+{
+ "page": "278",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum > COMMUNE MARTYRUM PRO PLURIBUS MARTYRIBUS (COM-MART-PLUR) > AD II VESPERAS: hymn Sanctorum meritis (H.II, begun p277) continues mid-stanza 3 ('...sustinent; non murmur resonat').",
+ "context_out": "COM-MART-PLUR > AD II VESPERAS: hymn Sanctorum meritis ends at its final double bar (stanza 5 'Te, trina Deitas unaque ... tibi saecula. Amen.') on p278; lower ~third of p278 blank. Next page p279 (running head 'Plurimorum martyrum') opens with 'Alter tonus ad libitum', an ENGRAVED second melody (H.IV, big S, 'Sanctorum meritis inclita gaudia') for the same hymn: it begins on p279 so p279 assigns it (option 2 of VESPERS.hymn, option_txt 'Alter tonus ad libitum').",
+ "continues": {"from_page": "277", "incipit": "Sanctorum meritis inclita gaudia (COM-MART-PLUR VESPERS hymn, H.II; stanzas 3-5, ends 'tibi saecula. Amen.')"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Page is only the end of Sanctorum meritis (assigned p277); nothing begins here; no rubric, vel or Ad libitum line printed after it on p278.", "Interlinear text variants for women martyrs ('pro sanctis mulieribus: Hae quas ...') are printed on p279 under the alternate H.IV tone, as on p277 under the first tone; they belong to p277's held question, no row/question added here.", "p279 opens with 'Alter tonus ad libitum' H.IV Sanctorum meritis, an engraved chant starting on p279: p279 producer must model it (VESPERS.hymn option 2)."]
+}

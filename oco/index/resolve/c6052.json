@@ -1,0 +1,7 @@
+{
+ "row_id": 6052,
+ "verdict": "option",
+ "option_txt": "Vel:",
+ "evidence": "p993 (image confirmed): invitatory 'Festivitátem Virginis Maríæ celebrémus: Christum eius fílium adorémus Dómine. Veníte' mode 2, LHym 255, introduced by rubric '[Vel:]' in the margin; directly below, 'TP:' Christum Mariæ fílium (mode 6*, LHym 254) is the Paschal-time variant. Option 1 gregobase:18203 = 'Christum Mariae Filium' (mode 6, an), the first invitatory of the BMV Common (rows 6030/6031, p992-993). WARNING on identity gregobase:15315 (Dominican, mode 1, 'N... Virginis Mariae celebremus * Christum, ejus Filium, adoremus Dominum'): same text apart from 'Festivitatem' replaced by the N... placeholder, but mode 1 not the engraved mode 2, and its melody (opening on f, rising to h/i) was not verified against the engraving. gregobase:17466 'Nativitatem Virginis Mariae celebremus' (Sandhofe, mode 2) is the same text pattern in mode 2 and may be a closer melody match; it is the better candidate to check. Neither is exact text; identity left to the director. 17466 gabc opens (f2) Na(c)ti(c)vi(cd)tá(d!ewfd)tem(dc) Vír(d)gi(fe)nis ... ce(d)le(fe)bré(fgFE)mus, with the same low-start, torculus-on-'tá', 'Virginis' shape as the engraving; strongly suggests 17466 (not 15315) is the melody, with Nativitatem->Festivitatem.",
+ "question": null
+}

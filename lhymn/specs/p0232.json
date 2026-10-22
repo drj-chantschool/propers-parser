@@ -1,0 +1,43 @@
+{
+ "page": "232",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Wednesday wk II&IV > VESPERS complete on p231.",
+ "context_out": "Thursday wk II&IV > OFFREAD opt 2 Amoris sensus (H.II) begins p232, continues p233.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Ales diei nuntius",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": null,
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": 5,
+   "option_num": 1,
+   "option_txt": "Quando Officium lectionis dicitur noctu vel summo mane",
+   "rubric": "FERIA QUINTA. AD OFFICIUM LECTIONIS. I. Quando Officium lectionis dicitur noctu vel summo mane:",
+   "index_row_id": 5139,
+   "wknum_mod_2": 0
+  },
+  {
+   "incipit": "Amoris sensus erige",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": null,
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": 5,
+   "option_num": 2,
+   "option_txt": "Quando Officium lectionis dicitur diurno tempore",
+   "rubric": "II. Quando Officium lectionis dicitur diurno tempore:",
+   "index_row_id": 5140,
+   "wknum_mod_2": 0
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

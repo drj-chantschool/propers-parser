@@ -1,0 +1,32 @@
+{
+ "page": "218",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Monday wk II&IV > OFFREAD opt 2 Vita sanctorum running over from p217.",
+ "context_out": "Monday wk II&IV > LAUDS Lucis largitor splendide (H.IV) begins p218, continues p219.",
+ "continues": {
+  "from_page": "217",
+  "incipit": "Vita sanctorum via spes salusque"
+ },
+ "rows": [
+  {
+   "incipit": "Lucis largitor splendide",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": null,
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": 2,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS",
+   "index_row_id": 5322,
+   "wknum_mod_2": 0
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

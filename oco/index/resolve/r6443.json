@@ -1,0 +1,4 @@
+{"row_id": 6443, "verdict": "link", "chant_uuid": "gregobase:10715", "chant_group_id": null,
+ "evidence": "p635 L.3 (Feria II Lauds ant3) 'Cantate Domino et benedicite nomini eius. E u o u a e.' 2d, CAO 1764, PM 215. Neumes f h g h g f | f h g h g f | fe f gh f f match 10715 and 12541; Euouae engraving h h h g, 'a' two stacked notes (e f), 'e' f = 10715 'a(ef) e.(f)'; 12541 has single 'a(e)' so differs. 5183 has no Euouae.",
+ "rejected": [{"chant_uuid": "gregobase:12541", "why": "same group 10715 (Solesmes, LA1960 p106) but Euouae 'a' single note e vs engraved two-note ef"}, {"chant_uuid": "gregobase:5183", "why": "Dominican, no Euouae termination"}, {"chant_uuid": "gregobase:16571", "why": "mode 7 Sandhofe, different melody"}],
+ "assignment": null, "index_fix": null, "question": null}

@@ -1,0 +1,17 @@
+{
+ "page": "445",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Archangels > VESPERS Angelum pacis running over from p444.",
+ "context_out": "Angelum pacis ends p445 (Amen). Page ends.",
+ "continues": {
+  "from_page": "444",
+  "incipit": "Angelum pacis Michael"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

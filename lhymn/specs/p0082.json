@@ -1,0 +1,31 @@
+{
+ "page": "82",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Tempus paschale I (Usque ad Ascensionem Domini) > AD OFFICIUM LECTIONIS > Ad libitum in feriis post octavam Paschae hymn Laetare caelum desuper (H.VIII) running over from p81.",
+ "context_out": "Tempus paschale I > AD LAUDES MATUTINAS > hymn Aurora lucis rutilat (H.VIII), stanza 1 on p82, remaining stanzas and doxology as text on p83. Then on p83: Ad libitum in feriis post octavam Paschae, engraved hymn Chorus novae Hierusalem (H.I) (p83's own chant).",
+ "continues": {
+  "from_page": "81",
+  "incipit": "Laetare caelum desuper"
+ },
+ "rows": [
+  {
+   "incipit": "Aurora lucis rutilat",
+   "kind": "engraved",
+   "mode": "VIII",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS",
+   "lit_epoch_slug": "PASC"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Aurora lucis rutilat runs onto p83 (text stanzas, doxology, Amen). The Ad libitum in feriis post octavam Paschae hymn that follows on p83 (Chorus novae Hierusalem, H.I) is fully engraved with its own drop cap, so it belongs to p83's spec, not this one.",
+  "Re-scoped per intake_queue #2 (user, 2026-10-18): Paschaltide I rows duplicated on PASC-OCT + PASC-AD_ASC are scoped to the whole PASC season; post-Ascension pages override ('Omnia sicut ante Ascensionem, praeter')."
+ ]
+}

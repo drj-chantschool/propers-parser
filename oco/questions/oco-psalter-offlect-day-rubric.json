@@ -1,0 +1,9 @@
+{"pipeline": "book-batch", "book": "OCO", "category": "modeling", "topic_key": "oco-psalter-offlect-hymn-pair-rubric", "priority": 3,
+ "title": "Psalter Off. lect. hymn pairs: give option 1 its printed 'Quando officium dicitur …' rubric too?",
+ "prompt": "In the psalter the book prints two Off. lect. hymns, each under its own rubric, e.g. p618 (Feria VI): 'Quando officium dicitur noctu vel summo mane: Galli cantu (LHym 234)' / 'Quando officium dicitur diurno tempore: Adesto rerum conditor (LHym 235)'; p624 (Sabbato): Lux æterna (LHym 237) / Deus de nullo veniens (LHym 238). The conflicts stage loads the second-loaded hymn as option 2 with its rubric (#20 Amoris sensus 'diurno tempore'; #131 Galli cantu and #184 Lux æterna 'noctu vel summo mane'), but the option-1 row (loaded earlier, e.g. Adesto gregobase:16749, Deus de nullo 16750) has option_txt NULL, so its printed rubric is not modeled. Fill option 1's option_txt from the page for every such pair?",
+ "pages": [{"book": "OCO", "page": "618", "note": "Feria VI Off. lect. pair"}, {"book": "OCO", "page": "624", "note": "Sabbato Off. lect. pair"}],
+ "options": [{"label": "Fill option 1's option_txt from the page", "detail": "override option_txt on the option-1 index rows of every psalter Off. lect. pair (the other rubric of the pair); a one-off sweep after the conflicts stage drains", "recommended": true},
+             {"label": "Leave option 1 without text", "detail": "option 1 is understood as 'the other one'; only option 2 carries a rubric"}],
+ "context": [{"label": "Verdict", "path": "propers-parser/oco/index/resolve/c5793.json"}, {"label": "Verdict", "path": "propers-parser/oco/index/resolve/c5846.json"}, {"label": "Overrides", "path": "propers-parser/oco/index/lps_overrides.json"}],
+ "blocks": [],
+ "raised_by": "book-batch OCO conflicts batch 2, 2026-10-21"}

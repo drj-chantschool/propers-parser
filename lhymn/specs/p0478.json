@@ -1,0 +1,73 @@
+{
+ "page": "478",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Damasus I: Common only (p477).",
+ "context_out": "Stephen (Festum) > INVITATORY Christum natum (A.IV*) begins p478; its \"Ps. Venite, p. 141.\" line tops p479 and is modeled here.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Christum natum qui beatum coronavit Stephanum",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "st-stephen",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM",
+   "index_row_id": 5554
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 141,
+   "mode": null,
+   "lit_epoch_slug": "st-stephen",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Ps. Venite, p. 141. (printed at top of p479)"
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "st-jane-frances-de-chantal",
+   "common_slug": "COM-SANCT-RELIG",
+   "common_page": 324,
+   "ref_option": 1,
+   "rubric": "De Communi sanctarum mulierum: pro religiosis, p. 324."
+  },
+  {
+   "lit_epoch_slug": "st-lucy",
+   "common_slug": "COM-MART-UNO",
+   "common_page": 280,
+   "ref_option": 1,
+   "rubric": "De Communi unius martyris, p. 280, vel virginum, p. 305."
+  },
+  {
+   "lit_epoch_slug": "st-lucy",
+   "common_slug": "COM-VIRG-UNA",
+   "common_page": 305,
+   "ref_option": 2,
+   "rubric": "De Communi unius martyris, p. 280, vel virginum, p. 305.",
+   "option_txt": "vel virginum"
+  },
+  {
+   "lit_epoch_slug": "john-of-the-cross",
+   "common_slug": "COM-DOCT",
+   "common_page": 301,
+   "ref_option": 1,
+   "rubric": "De Communi doctorum Ecclesiae, p. 301."
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Peter Canisius (21 Dec) and John of Kanty (23 Dec) are printed as headings only, with no Common citation (they fall in the late-Advent privileged days, commemoration only); no rows.",
+  "Stephen: no \"De Communi\" line printed; only the propers on pp478-480 are modeled. A.IV* mode → IV (as p457)."
+ ]
+}

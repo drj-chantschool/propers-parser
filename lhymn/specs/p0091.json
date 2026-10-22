@@ -1,0 +1,24 @@
+{
+ "page": "91",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Tempus paschale II > Ab Ascensione Domini > AD VESPERAS > In Officio dominicali et feriali > Veni creator Spiritus (H.VIII) stanza 5 continuing from p90.",
+ "context_out": "Tempus paschale II > AD INVITATORIUM > In sollemnitate Ascensionis > Alleluia, Christum Dominum ascendentem (A.V) with cue Ps. Venite p. 146. Next page (p92) prints In Officio dominicali et feriali invitatory (A.VI*, Christum Dominum qui Sanctum, Ps p.154), then AD OFFICIUM LECTIONIS.",
+ "continues": {"from_page": "90", "incipit": "Veni creator Spiritus"},
+ "rows": [
+  {"incipit": "Alleluia Christum Dominum ascendentem", "kind": "engraved", "mode": "V", "index_row_id": 5541,
+   "lit_epoch_slug": "PASC-ASC-06-5", "service": "INVITATORY", "part": "invan",
+   "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "AD INVITATORIUM. In sollemnitate Ascensionis"},
+  {"incipit": "Venite exsultemus", "kind": "xref", "ref_page": 146,
+   "lit_epoch_slug": "PASC-ASC-06-5", "service": "INVITATORY", "part": "invps",
+   "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "Ps. Venite, p. 146. (AD INVITATORIUM. In sollemnitate Ascensionis)"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Veni creator hymn (stanza 6 + Amen) ends at top of p91; no vel/ad libitum follows; recorded in continues only.",
+  "The season-wide invitatory 'In Officio dominicali et feriali' (Christum Dominum qui Sanctum, A.VI*, Ps p.154) is printed on p92, not here; it belongs to the p92 spec."
+ ]
+}

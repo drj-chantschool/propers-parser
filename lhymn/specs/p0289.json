@@ -1,0 +1,97 @@
+{
+ "page": "289",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum > COMMUNE MARTYRUM PRO UNO (COM-MART-UNO) > AD II VESPERAS > 'Pro martyre virgine': hymn Virginis proles (H.I) began p288, final stanza + Amen at top of p289.",
+ "context_out": "COM-PAST (COMMUNE PASTORUM) > AD INVITATORIUM: Christum pastorum principem (A.III, Ps. Venite p.135) and Tempore paschali Christum pastorum principem (A.VI*) engraved; the paschal antiphon runs over to p290 top (ends 'alleluia.' + Ps. Venite, p.154). p290 then opens AD OFFICIUM LECTIONIS 'Pro uno pastore' (Christe pastorum caput, H.III) - p290 producer's.",
+ "continues": {
+  "from_page": "288",
+  "incipit": "Virginis proles opifexque Matris"
+ },
+ "rows": [
+  {
+   "incipit": "Vir celse",
+   "kind": "xref",
+   "ref_page": 297,
+   "mode": "IV",
+   "lit_epoch_slug": "COM-PAST-UNO",
+   "service": "VESPERS1",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD I VESPERAS: Hymnus ut ad II Vesperas, p. 297, vel p. 299."
+  },
+  {
+   "incipit": "Sacrata nobis",
+   "kind": "xref",
+   "ref_page": 299,
+   "mode": "IV",
+   "lit_epoch_slug": "COM-PAST-PLUR",
+   "service": "VESPERS1",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD I VESPERAS: Hymnus ut ad II Vesperas, p. 297, vel p. 299."
+  },
+  {
+   "incipit": "Christum pastorum principem",
+   "kind": "engraved",
+   "mode": "III",
+   "lit_epoch_slug": "COM-PAST",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD INVITATORIUM"
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 135,
+   "lit_epoch_slug": "COM-PAST",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Ps. Veníte, p. 135."
+  },
+  {
+   "incipit": "Christum pastorum principem",
+   "kind": "engraved",
+   "mode": "6*",
+   "index_row_id": 5557,
+   "allow_unresolved": true,
+   "lit_epoch_slug": "COM-PAST",
+   "service": "INVITATORY",
+   "part": "invan",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "Tempore paschali",
+   "rubric": "Tempore paschali"
+  },
+  {
+   "incipit": "Venite exsultemus",
+   "kind": "xref",
+   "ref_page": 154,
+   "lit_epoch_slug": "COM-PAST",
+   "service": "INVITATORY",
+   "part": "invps",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "Tempore paschali",
+   "rubric": "Tempore paschali; Ps. Veníte, p. 154 (printed at top of p290)."
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Top of p289 is the end of Virginis proles (stanza 4 + Amen), assigned on p288; in continues only.",
+  "I Vespers 'Hymnus ut ad II Vesperas, p. 297, vel p. 299' modeled as two xref options; p297 shows Vir celse (Pro uno pastore, H.IV), p299 Sacrata nobis (Pro pluribus pastoribus, H.IV). Other hymns on those pages (if any) not cross-referenced by the rubric.",
+  "Paschal invitatory Christum pastorum principem (A.VI*) is in chant_indices (5557, unmatched, no chant_uuid) and no mode-6 gregobase chant exists (only m3 14153/14154/20015): allow_unresolved. Mode printed A.VI* ; its Ps. Venite cue (p.154) is printed on p290 and is handled here.",
+  "Director, user rulings 2026-10-15: row 1 'Hymnus ut ad II Vesperas … vel …' pair → COM-PAST-UNO (each xref target is that sub-Common's II Vespers hymn); row 2 'Hymnus ut ad II Vesperas … vel …' pair → COM-PAST-PLUR (each xref target is that sub-Common's II Vespers hymn)"
+ ]
+}

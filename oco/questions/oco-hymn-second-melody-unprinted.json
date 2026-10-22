@@ -1,0 +1,10 @@
+{"pipeline": "book-batch", "book": "OCO", "category": "modeling", "topic_key": "oco-hymn-second-melody-unprinted", "priority": 3,
+ "title": "Index lists a second melody (LHym 437) of 'Eia mater' for 15/9 L, but the feast page names only LHym 436: load it as an option?",
+ "prompt": "The Index hymnorum (p1217) has two rows 'Eia mater 15/9 L', one with LHym 436 (#116 → gregobase:17970, mode 2) and one with LHym 437 (#117 → gregobase:17969, mode 6). The feast page p887 (Die 15: B. M. V. Perdolentis) prints only 'Laudes H Eia Mater (LHym 436)', with no 'vel' (compare p67 'Candor æternæ (LHym 19 vel 21)', which loaded as option 2 'vel (LHym 21)'). #116 holds our-lady-of-sorrows LAUDS.hymn option 1, so #117 is held as a conflict. The same pattern probably applies to 'Stabat mater 2' (#300, still queued in conflicts).",
+ "pages": [{"book": "OCO", "page": "887", "note": "Laudes H Eia Mater (LHym 436) only"}, {"book": "OCO", "page": "1217", "note": "index: Eia mater 15/9 L 436 / 437"}],
+ "options": [{"label": "Load as option 2, option_txt 'Alia melodia (LHym 437)'", "detail": "the index assigns it to 15/9 L; the page simply doesn't repeat the second melody. Rule applies to every index-only second melody", "recommended": true},
+             {"label": "Don't load", "detail": "only what the feast page names is loaded; #117 stays identity-only"},
+             {"label": "Swap", "detail": "check whether 17969 rather than 17970 is LHym 436 (the page's melody)"}],
+ "context": [{"label": "Verdict", "path": "propers-parser/oco/index/resolve/c5779.json"}, {"label": "Contract", "path": "propers-parser/oco/RESOLVER.md § Stage conflicts"}],
+ "blocks": ["OCO:r5779"],
+ "raised_by": "book-batch OCO conflicts batch 1, 2026-10-21"}

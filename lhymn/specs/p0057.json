@@ -1,0 +1,10 @@
+{"page":"57","page_kind":"assign","jurisdiction":"UNIVERSAL",
+"context_in":"TQ-LENT > AD TERTIAM: Dei fide qua vivimus (H.II) runs over from p56; stanza 2 + final bar at top of p57, then stanzas 3-4 and doxology.",
+"context_out":"TQ-LENT > AD NONAM: Ternis ter horis (H.II) begins at foot of p57, final bar + stanzas + doxology on p58. After it p58 prints rubric 'In feriis hebdomadae V, ad Officium lectionis, Laudes matutinas et Vesperas, dici possunt hymni Hebdomadae sanctae.' then heading II. HEBDOMADA SANCTA (TQ-HOLYWEEK), 'A I Vesperis dominicae in Palmis ... usque ad Nonam feriae V inclusive', AD VESPERAS: Vexilla regis prodeunt (H.I).",
+"continues":{"from_page":"56","incipit":"Dei fide qua vivimus"},
+"rows":[
+{"incipit":"Qua Christus hora sitiit","kind":"engraved","mode":"II","lit_epoch_slug":"TQ-LENT","service":"SEXT","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD SEXTAM"},
+{"incipit":"Ternis ter horis numerus","kind":"engraved","mode":"II","lit_epoch_slug":"TQ-LENT","service":"NONE","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD NONAM"}
+],
+"common_refs":[],"questions":[],
+"flags":["Ternis ter horis runs onto p58 (ends there with doxology); assigned here as its start page.","p58 rubric 'In feriis hebdomadae V, ad Officium lectionis, Laudes matutinas et Vesperas, dici possunt hymni Hebdomadae sanctae' is printed on p58 after Ternis ter horis; it is a permission, not modeled as a row (no page cited); p58 producer to note it."]}

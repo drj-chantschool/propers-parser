@@ -1,0 +1,17 @@
+{
+ "page": "452",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Guardian Angels > VESPERS Custodes hominum running over from p451.",
+ "context_out": "Custodes hominum ends p452 (Amen); rest blank.",
+ "continues": {
+  "from_page": "451",
+  "incipit": "Custodes hominum psallimus angelos"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "page": "411",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Dominic > LAUDS/VESPERS Novus athleta running over from p410.",
+ "context_out": "Laurence > LAUDS In martyris Laurentii (H.IV) begins p411, continues p412.",
+ "continues": {
+  "from_page": "410",
+  "incipit": "Novus athleta Domini"
+ },
+ "rows": [
+  {
+   "incipit": "Martyris Christi colimus triumphum",
+   "kind": "xref",
+   "ref_page": 412,
+   "mode": null,
+   "lit_epoch_slug": "st-laurence",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD OFFICIUM LECTIONIS: Hymnus Martyris Christi, ut infra ad Vesperas, p. 412."
+  },
+  {
+   "incipit": "In martyris Laurentii",
+   "kind": "engraved",
+   "mode": "IV",
+   "lit_epoch_slug": "st-laurence",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD LAUDES MATUTINAS",
+   "index_row_id": 5304
+  }
+ ],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "st-laurence",
+   "common_slug": "COM-MART-UNO",
+   "common_page": 280,
+   "ref_option": 1,
+   "rubric": "De Communi unius martyris, p. 280, praeter sequentia:",
+   "skip_slots": [
+    "OFFREAD.hymn",
+    "LAUDS.hymn",
+    "VESPERS.hymn"
+   ]
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "skip VESPERS.hymn: proper Martyris Christi on p412."
+ ]
+}

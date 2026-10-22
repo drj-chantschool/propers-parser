@@ -1,0 +1,9 @@
+{"pipeline": "book-batch", "book": "OCO", "category": "modeling", "topic_key": "oco-code-Mart", "priority": 2,
+ "title": "Index day code 'Mart' (only on #194 'Martyr Dei'): Common of ONE martyr, not several?",
+ "prompt": "The hymn index (p1219) codes #194 'Martyr Dei' (LHym 283, gregobase:8814) as day 'Mart', hour L. 'Mart' occurs on no other index row; oco_sigla.py COMMONS maps it to COM-MART-PLUR, so it collides with Æterna Christi munera (#9, PlM L, gregobase:17919) at COM-MART-PLUR LAUDS.hymn option 1. The body prints it in the Common of one martyr (TOC 'Unius martyris' from p1045; p1049 Off. lect. 'Beate martyr (LHym 281) vel pro martyre virgine: O Christe flos'): p1051 'Laudes H Martyr Dei (LHym 283) vel pro martyre virgine: O castitatis signifer (LHym 284)'. Its text is singular ('Martyr Dei qui unicum'). The sibling rows are #45 Beate martyr UnM Ol and #215 O castitatis signifer 'Virg Una mart' L.",
+ "pages": [{"book": "OCO", "page": "1219", "note": "index #194 Martyr Dei Mart L 283"}, {"book": "OCO", "page": "1049", "note": "Common of one martyr, Off. lect. hymn"}, {"book": "OCO", "page": "1051", "note": "Laudes H Martyr Dei vel pro martyre virgine O castitatis signifer"}],
+ "options": [{"label": "'Mart' = COM-MART-UNO", "detail": "change COMMONS['Mart'] to COM-MART-UNO in oco_sigla.py; #194 loads as COM-MART-UNO LAUDS.hymn option 1 (or after O castitatis signifer's 'pro martyre virgine' option, as the loader orders them); nothing on COM-MART-PLUR", "recommended": true},
+             {"label": "Keep COM-MART-PLUR, load as option 2", "detail": "follows the current mapper guess; contradicted by p1051"}],
+ "context": [{"label": "Verdict", "path": "propers-parser/oco/index/resolve/c5856.json"}, {"label": "Mapper", "path": "propers-parser/oco/oco_sigla.py COMMONS"}],
+ "blocks": ["OCO:r5856"],
+ "raised_by": "book-batch OCO conflicts batch 3, 2026-10-21"}

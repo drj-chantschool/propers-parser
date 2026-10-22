@@ -1,0 +1,32 @@
+{
+ "page": "437",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Sorrows > LAUDS Eia Mater (H.II) running over from p436.",
+ "context_out": "Sorrows > LAUDS vel ad libitum Eia Mater (H.VI tone, stanza 1 engraved) complete on p437.",
+ "continues": {
+  "from_page": "436",
+  "incipit": "Eia Mater fons amoris"
+ },
+ "rows": [
+  {
+   "incipit": "Eia Mater fons amoris",
+   "kind": "engraved",
+   "mode": "VI",
+   "lit_epoch_slug": "our-lady-of-sorrows",
+   "service": "LAUDS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "Vel ad libitum, in tono sequenti",
+   "rubric": "Vel ad libitum, in tono sequenti:",
+   "index_row_id": 5241
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Same pattern as p435 Stabat H.VI alternative."
+ ]
+}

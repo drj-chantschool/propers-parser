@@ -1,0 +1,44 @@
+{
+ "page": "536",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "PROPRIUM MONASTICUM O.S.B. (p535 title page, C.S./C.S.G. legend) > first content page; no day/hour heading yet.",
+ "context_out": "Proprium monasticum O.S.B. > general hymn 'Te decet laus' (Ad Vigilias, post Evangelium), ordinary + Tempore paschali, ends at final double bar on p536. Next, p537: COMMUNE SANCTORUM MONACHORUM & MONIALIUM (COM-MON): Ad invitatorium Ant. Mirabilem in sanctis suis, p. 311; Ad Vigilias hymn Iesu corona caelitum (H.VIII) begins p537 and runs over.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "Te decet laus",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "OSB-PROPRIUM",
+   "service": "VIGILIAE",
+   "part": "tedecet",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "HYMNUS TE DECET LAUS. Ad Vigilias, post Evangelium, cantatur hymnus sequens:"
+  },
+  {
+   "incipit": "Te decet laus",
+   "kind": "engraved",
+   "mode": "I",
+   "lit_epoch_slug": "OSB-PROPRIUM",
+   "service": "VIGILIAE",
+   "part": "tedecet",
+   "wkday": null,
+   "option_num": 2,
+   "option_txt": "Tempore paschali",
+   "rubric": "HYMNUS TE DECET LAUS. Ad Vigilias, post Evangelium, cantatur hymnus sequens: ... Tempore paschali",
+   "notes": "H.I transp."
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "General (non-saint) OSB chant: no saint heading, so epoch is the OSB-PROPRIUM root.",
+  "Index rows: 5477 m2 -> gregobase:4013 and 5478 m1 -> gregobase:3044, both resolved_with_difficulty; verify via dry-run.",
+  "Second setting is marked H.I transp. under 'Tempore paschali'; modeled as option 2.",
+  "No C.S./C.S.G. markers on this page.",
+  "Director, user rulings 2026-10-15: row 1 OFFREAD→VIGILIAE.tedecet; row 2 OFFREAD→VIGILIAE.tedecet; open questions left: 0"
+ ]
+}

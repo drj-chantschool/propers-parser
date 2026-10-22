@@ -1,0 +1,17 @@
+{
+ "page": "385",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "John Baptist > OFFREAD Antra deserti running over from p384.",
+ "context_out": "Antra deserti continues onto p386 (stanza 5 end, Amen).",
+ "continues": {
+  "from_page": "384",
+  "incipit": "Antra deserti"
+ },
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

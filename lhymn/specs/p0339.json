@@ -1,0 +1,83 @@
+{
+ "page": "339",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "PROPRIUM DE SANCTIS; Mense ianuarii; IANUARIUS begins (p338 blank).",
+ "context_out": "PROPRIUM DE SANCTIS > IANUARIUS > Eodem die 20 ianuarii, S. Sebastiani (De Communi unius martyris, p. 280). No chant open; p340 begins Die 21 ianuarii, S. Agnetis.",
+ "continues": null,
+ "rows": [],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "basil-the-great-and-gregory-nazianzen",
+   "common_slug": "COM-PAST-PLUR",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301."
+  },
+  {
+   "lit_epoch_slug": "basil-the-great-and-gregory-nazianzen",
+   "common_slug": "COM-DOCT",
+   "common_page": 301,
+   "ref_option": 2,
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301.",
+   "option_txt": "vel de Communi doctorum Ecclesiae"
+  },
+  {
+   "lit_epoch_slug": "hilary-of-poitiers",
+   "common_slug": "COM-PAST-UNO-EPISC",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301."
+  },
+  {
+   "lit_epoch_slug": "hilary-of-poitiers",
+   "common_slug": "COM-DOCT",
+   "common_page": 301,
+   "ref_option": 2,
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301.",
+   "option_txt": "vel de Communi doctorum Ecclesiae"
+  },
+  {
+   "lit_epoch_slug": "raymond-penyafort",
+   "common_slug": "COM-PAST-UNO-PRESB",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289."
+  },
+  {
+   "lit_epoch_slug": "antony-of-egypt",
+   "common_slug": "COM-SANCT-RELIG",
+   "common_page": 324,
+   "ref_option": 1,
+   "rubric": "De Communi sanctorum: pro religiosis, p. 324."
+  },
+  {
+   "lit_epoch_slug": "st-fabian",
+   "common_slug": "COM-MART-UNO",
+   "common_page": 280,
+   "ref_option": 1,
+   "rubric": "De Communi unius martyris, p. 280, vel pastorum, p. 289."
+  },
+  {
+   "lit_epoch_slug": "st-fabian",
+   "common_slug": "COM-PAST-UNO-PAPA",
+   "common_page": 289,
+   "ref_option": 2,
+   "rubric": "De Communi unius martyris, p. 280, vel pastorum, p. 289.",
+   "option_txt": "vel de Communi pastorum"
+  },
+  {
+   "lit_epoch_slug": "st-sebastian",
+   "common_slug": "COM-MART-UNO",
+   "common_page": 280,
+   "ref_option": 1,
+   "rubric": "De Communi unius martyris, p. 280."
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Page has no engraved chants; only saint headings with De Communi lines.",
+  "Printed rank: only Basil/Gregory and Antony (Memoria) match proper_of_saints MEMORIAL. Raymond, Hilary, Fabian, Sebastian print no rank; DB has UNDETERMINED (no conflict).",
+  "Slugs matched by date and printed title: basil-the-great-and-gregory-nazianzen, raymond-penyafort, hilary-of-poitiers, antony-of-egypt, st-fabian, st-sebastian (Eodem die 20)."
+ ]
+}

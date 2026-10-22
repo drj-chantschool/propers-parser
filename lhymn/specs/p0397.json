@@ -1,0 +1,70 @@
+{
+ "page": "397",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Benedict > VESPERS Inter aeternas text running over from p396.",
+ "context_out": "Die 21 iulii S. Laurentii de Brindisi (De Communi pastorum vel doctorum). No chant runs over.",
+ "continues": {
+  "from_page": "396",
+  "incipit": "Inter aeternas superum coronas"
+ },
+ "rows": [],
+ "common_refs": [
+  {
+   "lit_epoch_slug": "st-henry-ii",
+   "common_slug": "COM-SANCT-VIR-UNO",
+   "common_page": 311,
+   "ref_option": 1,
+   "rubric": "De Communi sanctorum virorum, p. 311."
+  },
+  {
+   "lit_epoch_slug": "camillus-de-lellis",
+   "common_slug": "COM-SANCT-VIR-UNO",
+   "common_page": 311,
+   "ref_option": 1,
+   "rubric": "De Communi sanctorum virorum, p. 311."
+  },
+  {
+   "lit_epoch_slug": "st-bonaventure",
+   "common_slug": "COM-PAST-UNO-EPISC",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301."
+  },
+  {
+   "lit_epoch_slug": "st-bonaventure",
+   "common_slug": "COM-DOCT",
+   "common_page": 301,
+   "ref_option": 2,
+   "option_txt": "vel doctorum Ecclesiae",
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301."
+  },
+  {
+   "lit_epoch_slug": "our-lady-of-mt-carmel",
+   "common_slug": "COM-BMV",
+   "common_page": 253,
+   "ref_option": 1,
+   "rubric": "De Communi B. Mariae Virginis, p. 253."
+  },
+  {
+   "lit_epoch_slug": "lawrence-of-brindisi",
+   "common_slug": "COM-PAST-UNO-PRESB",
+   "common_page": 289,
+   "ref_option": 1,
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301."
+  },
+  {
+   "lit_epoch_slug": "lawrence-of-brindisi",
+   "common_slug": "COM-DOCT",
+   "common_page": 301,
+   "ref_option": 2,
+   "option_txt": "vel doctorum Ecclesiae",
+   "rubric": "De Communi pastorum, p. 289, vel doctorum Ecclesiae, p. 301."
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page.",
+  "Camillus: LH Die 14 iulii; DB has 18 July (US transfer), same saint. Henry → COM-SANCT-VIR-UNO (printed sanctorum virorum, no subject heading). Bonaventure Memoria."
+ ]
+}

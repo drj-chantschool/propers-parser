@@ -1,0 +1,17 @@
+{
+ "page": "491",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "RESPONSORIA > Dominica infra octavam Nativitatis, Sanctae Familiae > Descendit Iesus cum eis (begun p490) running to its final double bar (repetenda Et.)",
+ "context_out": "RESPONSORIA > In octava Nativitatis, Sollemnitas Sanctae Dei Genetricis Mariae > Sancta et immaculata virginitas begins p491, ends p492 at its final double bar (repetenda Qui a.), no vel/Ad libitum; p492 then opens IN EPIPHANIA ET IN BAPTISMATE DOMINI with Illuminare",
+ "continues": {"from_page": "490", "incipit": "Descendit Iesus cum eis"},
+ "rows": [
+  {"incipit": "Sancta et immaculata virginitas", "kind": "engraved", "mode": "II",
+   "lit_epoch_slug": "NAT-OCT-02-0", "service": "OFFREAD", "part": "resp", "wkday": null,
+   "option_num": 1, "option_txt": null,
+   "rubric": "In octava Nativitatis, SOLLEMNITAS SANCTAE DEI GENETRICIS MARIAE; Lc 1, 42"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["No Post priorem/alteram rubric printed, so OFFREAD.resp. Responsory runs onto p492 (verse Benedicta tu, repetenda Qui a) with no trailing vel line. Epoch NAT-OCT-02-0 per README map (Die 1 ianuarii)."]
+}

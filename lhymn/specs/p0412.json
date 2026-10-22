@@ -1,0 +1,31 @@
+{
+ "page": "412",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Laurence > LAUDS In martyris Laurentii running over from p411.",
+ "context_out": "Laurence > VESPERS Martyris Christi (H.VIII) begins p412, continues p413.",
+ "continues": {
+  "from_page": "411",
+  "incipit": "In martyris Laurentii"
+ },
+ "rows": [
+  {
+   "incipit": "Martyris Christi colimus triumphum",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "st-laurence",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD VESPERAS",
+   "index_row_id": 5338
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Spec written by the director from the rendered page."
+ ]
+}

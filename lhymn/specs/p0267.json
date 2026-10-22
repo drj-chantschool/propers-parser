@@ -1,0 +1,29 @@
+{
+ "page": "267",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum › COMMUNE APOSTOLORUM (COM-APOST) › AD INVITATORIUM complete on p266 (three antiphons). Next heading AD OFFICIUM LECTIONIS opens p267.",
+ "context_out": "COM-APOST › AD OFFICIUM LECTIONIS: hymn O sempiternae curiae (H.III, option 1, 'In aliis temporibus') begins on p267 and runs over to p268 (stanzas 2-6, Amen; final double bar on p268). p268 then has AD LAUDES MATUTINAS with rubric 'Hymnus in Proprio de sanctis, praeter in Quadragesima hymnus O sempiternae curiae, ut supra ad Officium lectionis, p. 267.' (a LAUDS xref to p267, plus Tempore paschali hymn Claro paschali gaudio H.III, engraved on p268) - those are the p268 producer's.",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "O sempiternae curiae",
+   "kind": "engraved",
+   "mode": "III",
+   "lit_epoch_slug": "COM-APOST",
+   "service": "OFFREAD",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": "In aliis temporibus (extra Quadragesimam et tempus paschale)",
+   "rubric": "In Quadragesima et in tempore paschali, ut in Proprio de sanctis. In aliis temporibus:"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "No noctu/interdiu split and no vel cue on this page; the hymn is a single option. The 'In Quadragesima et in tempore paschali, ut in Proprio de sanctis' sentence is a rubric pointing elsewhere, not a chant (no row).",
+  "Hymn runs over to p268 (stanzas 2-6 and Amen are text, same chant); read p268: no vel/Ad libitum line follows it before AD LAUDES.",
+  "Director, user rulings 2026-10-15: seasonal 'Tempore paschali'/'In aliis temporibus' rows kept as option_txt (ruling 2)"
+ ]
+}

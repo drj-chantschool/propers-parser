@@ -1,0 +1,14 @@
+{
+ "page": "584",
+ "page_kind": "continuation_only",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense iulii > Die 11 iulii S. Patris Benedicti Abbatis > AD VESPERAS hymn Gemma caelestis (H.I), begun p583, mid-stanza 2 at top of p584.",
+ "continues": {"from_page": "583", "incipit": "Gemma caelestis"},
+ "rows": [],
+ "common_refs": [],
+ "context_out": "Same hymn Gemma caelestis continues; page ends mid-stanza 6 ('6. Inde, quos'). Hymn ends p585 (stanza 7 Claritas Patri, Amen). p585 then prints Die 12 iulii S. Ioannis Gualberti (De Communi sanctorum monachorum, p. 537) and Die 26 iulii SS. Ioachim & Annae.",
+ "questions": [],
+ "flags": [
+  "Whole page is stanzas 2 (end) to 6 (start) of Gemma caelestis; no new chant, rubric or heading begins here. Read p585: hymn ends with Amen, no trailing vel/ad libitum line. Assigned by p583 (held on its own question)."
+ ]
+}

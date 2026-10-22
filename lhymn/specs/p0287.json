@@ -1,0 +1,12 @@
+{
+ "page": "287",
+ "page_kind": "continuation_only",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum > COMMUNE MARTYRUM PRO UNO (COM-MART-UNO, running head 'Unius martyris') > AD II VESPERAS: hymn Deus tuorum militum (H.VIII) begun p286; p287 opens mid-stanza 3 ('caduca rite deputans, pervenit ad caelestia') then stanzas 4-7.",
+ "context_out": "COM-MART-UNO > AD II VESPERAS: Deus tuorum militum ends at final double bar after 'in saeculorum saecula. Amen.' on p287; nothing follows on p287 (no vel / Tempore paschali line). Next page p288 (running head 'Communia') opens a new sub-heading 'Pro martyre virgine' with hymn Virginis proles opifexque Matris (H.I), 4 stanzas begun, running over to p289; the hour heading governing it (likely AD LAUDES, after Vespers) is not printed on p288 - the p288 producer must check.",
+ "continues": {"from_page": "286", "incipit": "Deus tuorum militum"},
+ "rows": [],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Whole page is stanzas 3(end)-7 and Amen of Deus tuorum militum (assigned p286): continues only.", "No interlinear 'Haec' variants are visible on p287 itself; the variants question remains held on p286.", "Verified on p288 image: new chant Virginis proles (H.I) under 'Pro martyre virgine' begins there."]
+}

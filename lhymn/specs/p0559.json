@@ -1,0 +1,47 @@
+{
+ "page": "559",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense aprilis > Die 21 aprilis S. Anselmi episcopi et Ecclesiae doctoris, Memoria, De Communi pastorum p. 289 vel doctorum Ecclesiae p. 301 (common_refs on p558). No hour heading yet.",
+ "continues": null,
+ "context_out": "Same day, AD VESPERAS: hymn Laetus hic noster (H.VIII) begins at foot of p559 and runs over onto p560, ending at Amen there; no vel line follows. p560 then opens Die 23 aprilis.",
+ "rows": [
+  {
+   "incipit": "Fortis en praesul",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "anselm-of-canterbury",
+   "service": "VIGILIAE",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD VIGILIAS",
+   "chant_uuid": "local:19ae0766-2f9f-4b3c-aae1-ce9562467354"
+  },
+  {
+   "incipit": "Laetus hic noster",
+   "kind": "engraved",
+   "mode": "VIII",
+   "lit_epoch_slug": "anselm-of-canterbury",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD VESPERAS",
+   "chant_uuid": "local:d661ff9c-841d-42c9-8c95-66e6e40a838f"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Anselm universal slug anselm-of-canterbury has rank_code UNDETERMINED (OSB prints Memoria); open p548 rank-override question, see p558.",
+  "Laetus hic noster printed with ae-ligature (Lae-tus) and runs onto p560 (stanzas Munus abbatis ... Amen); p560 producer lists it in continues.",
+  "p560 Die 23 aprilis (Adalberti, Georgii) and Die 26 aprilis (Paschasii Radberti, C.S.G.) are p560 content, not modeled here.",
+  "Laetus hic noster (index row 5317, mode 8, p559): match_status unmatched, no chant_uuid; no gregobase chant found (incipit or gabc search). Row allow_unresolved; needs a chant identity later.",
+  "Director, user rulings 2026-10-15: row 1 OFFREAD→VIGILIAE.hymn; open questions left: 1",
+  "User ruling 2026-10-16: Fortis en praesul assigned to placeholder local_chants 19ae0766-2f9f-4b3c-aae1-ce9562467354 (no gabc yet; user will transcribe the LH 1983 edition).",
+  "User ruling 2026-10-16: Laetus hic noster assigned to placeholder local_chants d661ff9c-841d-42c9-8c95-66e6e40a838f."
+ ]
+}

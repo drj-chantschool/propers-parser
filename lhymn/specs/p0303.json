@@ -1,0 +1,14 @@
+{
+ "page": "303",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Communia Sanctorum > COM-DOCT > AD LAUDES MATUTINAS: hymn Doctor aeternus coleris continues (stanzas 4-5, Amen) from p302.",
+ "context_out": "COM-DOCT > AD II VESPERAS: hymn Aeterne sol (H.IV) runs onto p304 (stanzas 3-6, Amen, final bar); nothing printed after the final bar on p304.",
+ "continues": {"from_page": "302", "incipit": "Doctor aeternus coleris"},
+ "rows": [
+  {"incipit": "Aeterne sol qui lumine", "kind": "engraved", "mode": "IV", "lit_epoch_slug": "COM-DOCT", "service": "VESPERS", "part": "hymn", "wkday": null, "option_num": 1, "option_txt": null, "rubric": "AD II VESPERAS"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": ["Hymn runs over to p304 (stanzas 3-6 and Amen); nothing follows it on p304. No seasonal or subject conditions printed on p303."]
+}

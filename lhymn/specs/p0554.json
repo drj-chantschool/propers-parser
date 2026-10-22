@@ -1,0 +1,21 @@
+{
+ "page": "554",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense februarii > Eodem die 11 februarii B. Mariae Virginis de Lourdes (C.S.G.), De Communi B.M.V. p.253 praeter sequentia > AD LAUDES hymn Aurora soli praevia ended p553; p554 opens AD VESPERAS.",
+ "context_out": "Same > AD VESPERAS hymn Omnis expertem maculae Mariam (H.IV) complete on p554 (doxology Gloria Patri genitaeque Proli, Amen). Next p555 begins Mense februarii 12, S. Benedicti Anianensis.",
+ "continues": null,
+ "rows": [
+  {"incipit": "Omnis expertem maculae Mariam", "kind": "engraved", "mode": "IV",
+   "lit_epoch_slug": "our-lady-of-lourdes", "service": "VESPERS", "part": "hymn",
+   "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "De Communi Beatae Mariae Virginis, p. 253, praeter sequentia: AD VESPERAS"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Lourdes is C.S.G.-scoped; universal slug our-lady-of-lourdes used (see p552). Common ref and Vigils question on p552, not repeated.",
+  "Plain AD VESPERAS heading (no I/II): stored as VESPERS only.",
+  "Hymn ends on p554 with doxology; no vel/ad libitum line follows. p555 starts a new day (not assigned here)."
+ ]
+}

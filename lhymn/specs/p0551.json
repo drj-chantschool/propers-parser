@@ -1,0 +1,36 @@
+{
+ "page": "551",
+ "page_kind": "assign",
+ "jurisdiction": "OSB",
+ "context_in": "Proprium monasticum O.S.B. > Sanctorale > Mense februarii > Die 10 februarii S. Scholasticae, virginis (Festum), De Communi virginum p. 305 praeter sequentia > AD LAUDES MATUTINAS hymn Quae flos amoenus (H.III) stanza 5 runs onto p551.",
+ "context_out": "Same > AD VESPERAS hymn Te, beata sponsa Christi (H.II), stanza 1 engraved, stanzas 2-5 text on p551; remaining stanzas and doxology 'Gloriam Patri canamus' run onto p552 top. Then p552: Die 11 februarii S. Benedicti Anianensis.",
+ "continues": {
+  "from_page": "550",
+  "incipit": "Quae flos amoenus"
+ },
+ "rows": [
+  {
+   "incipit": "Te beata sponsa Christi",
+   "kind": "engraved",
+   "mode": "II",
+   "lit_epoch_slug": "st-scholastica",
+   "service": "VESPERS",
+   "part": "hymn",
+   "wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "AD VESPERAS (under De Communi virginum, p. 305, praeter sequentia:)",
+   "chant_uuid": "local:e4d5a195-eec5-45d9-aa48-eaf986054be2"
+  }
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "Quae flos amoenus (Lauds) ends on p551 (stanza 6 + Amen); assigned on p550.",
+  "Te beata sponsa Christi runs onto p552 (stanzas 6-7 text and doxology Gloriam Patri canamus, Amen), read p552; nothing else follows before Die 11 februarii.",
+  "gregobase:9381 (index 5475, resolved_with_difficulty, no LH page tie) text reads Te columba virginum; page prints Te turba tollit virginum (OSB/Solesmes text variant of same hymn, mode II matches). No CHECK raised; reviewer may confirm.",
+  "Plain AD VESPERAS under a Festum: VESPERS only, no I Vespers printed.",
+  "Rank (Festum vs universal) question already open on p548; not repeated.",
+  "Resolved by intake_queue #6 (user confirmed ruling 2026-10-16 #1): blank LH1983 placeholder local:e4d5a195-eec5-45d9-aa48-eaf986054be2 in chant_group 9381; index row 5475 relinked to it."
+ ]
+}

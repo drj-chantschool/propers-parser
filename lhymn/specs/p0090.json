@@ -1,0 +1,26 @@
+{
+ "page": "90",
+ "page_kind": "assign",
+ "jurisdiction": "UNIVERSAL",
+ "context_in": "Tempus paschale II > Ab Ascensione Domini > AD VESPERAS (heading printed on p88; Ascension-day hymn ended p89). Running head Tempus Paschale.",
+ "context_out": "Tempus paschale II > AD VESPERAS > In Officio dominicali et feriali > Veni creator Spiritus (H.VIII) stanza 5 begins at foot of p90; ends with Amen on p91 (stanza 6 + doxology). No vel/ad libitum line follows. Next on p91: AD INVITATORIUM, In sollemnitate Ascensionis.",
+ "continues": null,
+ "rows": [
+  {"incipit": "Veni creator Spiritus", "kind": "engraved", "mode": "VIII",
+   "lit_epoch_slugs": ["PASC-ASC","PASC-POST_ASC"], "service": "VESPERS1", "part": "hymn",
+   "wkday": 1, "option_num": 1, "option_txt": null,
+   "rubric": "In Officio dominicali et feriali"},
+  {"incipit": "Veni creator Spiritus", "kind": "engraved", "mode": "VIII",
+   "lit_epoch_slugs": ["PASC-ASC","PASC-POST_ASC"], "service": "VESPERS", "part": "hymn",
+   "wkday": null, "option_num": 1, "option_txt": null,
+   "rubric": "In Officio dominicali et feriali"}
+ ],
+ "common_refs": [],
+ "questions": [],
+ "flags": [
+  "p90 prints no AD VESPERAS heading; hour taken from p88/p89 context (AD VESPERAS under II. Ab Ascensione). Veni creator is the Vespers hymn for Sunday and ferial Office after the Ascension.",
+  "Day-slug rows take precedence: Ascension Day itself (PASC-ASC-06-5) has its own hymn Iesu, nostra redemptio (p88).",
+  "VESPERS1 wkday 1 added per p74 precedent (plain seasonal AD VESPERAS); not printed on page.",
+  "Hymn runs onto p91 (stanzas 5-6, doxology, Amen); read p91 to confirm no vel line follows."
+ ]
+}

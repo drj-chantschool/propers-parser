@@ -18,7 +18,11 @@ every --repoll minutes while waiting. Calibration, from all logged jobs:
     k_session = Σ Δsession% / Σ cost_usd
     cost_est  = median cost_usd of the last 10 successful jobs with this job key (e.g. `OCO:conflicts`,
                 `triage`), else of this kind, else of any
-The account may spend (target − week%) over the hours left to the weekly reset, so jobs start
+--week-target is PRO-RATED over the week: it is the share of what should be left that may be used,
+    cap = 100 − (100 − target)·f      f = hours left to the weekly reset / 168
+so --week-target 70 caps week% at 70 when the week starts and at 97 with 10% of it left. At or over
+the cap, jobs wait until the cap has risen past week%. Below it, the account may spend target% of
+what is left, (target/100)·(100 − week%), over the hours left, so jobs start
 every k_week·cost_est / allowed_rate hours. A job is also held until the 5-hour session reset when
 session% + k_session·cost_est would pass --session-cap (default = --week-target: the same
 share of every 5-hour window stays yours as of the week). Until there is calibration data (Σ cost <
@@ -68,6 +72,7 @@ CALIB_MIN_USD = 15.0        # Σ job cost needed before k_week / k_session are t
 CALIB_WINDOW = 40           # most recent jobs used for calibration
 LIMIT_PCT = 99              # a usage line at/above this means the limit was hit
 RESET_SLACK = dt.timedelta(minutes=3)
+WEEK_HOURS = 168.0
 OK_STATUSES = {"ran", "done", "resolved", "unclaimed", "none"}
 
 SCHEMA = """
@@ -350,6 +355,12 @@ def calibration(db, job=None):
     }
 
 
+def week_cap(target, hours_left):
+    """Pro-rated week% cap: `target`% of what should be left, 100 − (100 − target)·(share of week left)."""
+    f = min(max(hours_left / WEEK_HOURS, 0.0), 1.0)
+    return 100 - (100 - target) * f
+
+
 def plan(db, a, u, last, job):
     """→ (next_due, rule, decision dict). `last` is the previous job row of this run, or None."""
     t = now()
@@ -368,9 +379,17 @@ def plan(db, a, u, last, job):
                 cand = parse(v["resets"]) + RESET_SLACK
                 if not nd or cand > nd:
                     nd, rule = cand, f"{label} at {v['pct']}%: wait for reset"
-    if nd is None and u["week_pct"] >= a.week_target:
-        nd, rule = (week_reset or t + dt.timedelta(hours=6)) + RESET_SLACK, \
-            f"week {u['week_pct']}% ≥ target {a.week_target}%: wait for weekly reset"
+    h = d["hours_to_week_reset"]
+    d["week_cap"] = week_cap(a.week_target, h) if h is not None else a.week_target
+    if nd is None and u["week_pct"] >= d["week_cap"]:
+        if week_reset:
+            # the cap reaches week% when the share of week left falls to (100 − week%)/(100 − target)
+            f_ok = (100 - u["week_pct"]) / (100 - a.week_target) if a.week_target < 100 else 0.0
+            nd = max(week_reset - dt.timedelta(hours=f_ok * WEEK_HOURS), t + dt.timedelta(minutes=a.repoll))
+        else:
+            nd = t + dt.timedelta(hours=6)
+        rule = (f"week ≥ pro-rated cap: {u['week_pct']}% ≥ {d['week_cap']:.1f}% "
+                f"({a.week_target}% of what's left), wait for the cap to rise")
     if nd is None and cal["cost_est"] and cal["k_session"] is not None and u["session_pct"] is not None:
         d["pred_session_delta"] = cal["k_session"] * cal["cost_est"]
         if u["session_pct"] + d["pred_session_delta"] > a.session_cap and sess_reset:
@@ -384,7 +403,7 @@ def plan(db, a, u, last, job):
             rule = f"uncalibrated (Σ${cal['calib_usd']} < ${CALIB_MIN_USD}): initial wait"
         else:
             d["pred_week_delta"] = cal["k_week"] * cal["cost_est"]
-            d["allowed_rate"] = (a.week_target - u["week_pct"]) / d["hours_to_week_reset"]   # %/h
+            d["allowed_rate"] = a.week_target / 100 * (100 - u["week_pct"]) / d["hours_to_week_reset"]   # %/h
             d["interval_s"] = d["pred_week_delta"] / d["allowed_rate"] * 3600
             start_to_start = parse(last["started"]) + dt.timedelta(seconds=d["interval_s"])
             lo = parse(last["ended"]) + dt.timedelta(minutes=a.min_wait)
@@ -629,7 +648,8 @@ def main():
                        help="only these book codes (comma-separated); default all")
 
     p = sp.add_parser("run"); books_arg(p)
-    p.add_argument("--week-target", type=float, required=True, help="account week%% to reach by the weekly reset")
+    p.add_argument("--week-target", type=float, required=True, help="share (%%) of what should be left of the week that may be used: pro-rated cap "
+                        "100 − (100 − T)·(share of week left), e.g. 70 → 70%% at week start, 97%% with 10%% left")
     p.add_argument("--session-cap", type=float,
                    help="don't start a job that would pass this session%% (default: --week-target, so each "
                         "5-hour window leaves you the same headroom as the week)")

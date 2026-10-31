@@ -1,0 +1,22 @@
+{
+ "page": "47",
+ "page_kind": "assign",
+ "context_in": "Tempus Adventus > Dominica IV Adventus > Laudes > B (Benedictus) year A 'Cum esset desponsata' runs over from p46 (rubric 'Die 21 vel 23 decembris antiphona de die currente, ut infra. Secus cantatur:')",
+ "context_out": "Tempus Adventus > Dominica IV Adventus > Laudes > B (Benedictus) year B 'Quomodo fiet istud' (siglum b, staff begins mid-page, text 'obumbrabit' continues on p48)",
+ "continues": {"from_page": "46", "incipit": "Cum esset desponsata"},
+ "rows": [
+  {"incipit": "Quomodo fiet istud", "kind": "engraved", "mode": "7a",
+   "text": "Quomodo fiet istud, angele Dei, quia virum in concipiendo non pertuli? A",
+   "index_id": 2582, "chant_uuid": "gregobase:4347", "chant_group_id": null,
+   "lit_epoch_slug": "ADV-II", "service": "LAUDS", "part": "antB",
+   "wkday": 1, "cycle_sun": 2, "option_num": 1, "option_txt": null, "rubric": null,
+   "notes": "p47 7a siglum b (year B, Lc 1,34-35; CAO 4563; AM 225); index #2582 4A1|L|b; opening e g h i h f-h and angele De-i match group 4347 (4347/5297/11522 all one group)"}
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Top of p47 is the tail of p46's year-A Benedictus antiphon 'Cum esset desponsata' (continues, no row). Tail compared with the two candidates: engraving 'est' (ta EST in) is 3 notes (Verona 11680 est(hji); Dominican 5631 has 4, h!iji), 'tu' of 'Spiritu' is 3 notes (11680 tu(hji); 5631 tu(h!iji) 4 notes), final 'est' = complex neume hiHGhg in both. Verona 11680 confirmed; p46's choice stands.",
+  "The year-B antiphon 'Quomodo fiet istud' begins at the foot of p47 and continues on p48 (printed text ends 'et virtus Altissimi obumbrabit'); the c antiphon is expected on p48.",
+  "No margin numbers on this page."
+ ]
+}

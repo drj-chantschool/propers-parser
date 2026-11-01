@@ -1,0 +1,61 @@
+{
+ "page": "303",
+ "page_kind": "assign",
+ "jurisdiction": null,
+ "context_in": "Hebdomada III Paschae (PASC-AD_ASC-03) > Feria IV > Laudes B 'Dixit Dominus Iesus' continuing from p302",
+ "context_out": "Feria V > Laudes B 'Nemo potest venire' complete on p303",
+ "continues": {
+  "from_page": "302",
+  "incipit": "Dixit Dominus Iesus"
+ },
+ "rows": [
+  {
+   "incipit": "Omne quod dat",
+   "kind": "engraved",
+   "index_id": 2297,
+   "chant_uuid": "gregobase:14882",
+   "chant_group_id": null,
+   "mode": "7c",
+   "text": "Omne quod dat mihi Pater, ad me veniet; et eum qui venit ad me, non eic",
+   "lit_epoch_slug": "PASC-AD_ASC-03-4",
+   "service": "VESPERS",
+   "part": "antM",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "notes": "p303 7c; index 2297 gregobase:14882, CAO 4115 AM 1154"
+  },
+  {
+   "incipit": "Nemo potest venire",
+   "kind": "engraved",
+   "index_id": 2152,
+   "chant_uuid": null,
+   "chant_group_id": 14863,
+   "mode": "3a",
+   "text": "Nemo potest venire ad me, nisi Pater qui misit me traxerit eum; et ego res",
+   "lit_epoch_slug": "PASC-AD_ASC-03-5",
+   "service": "LAUDS",
+   "part": "antB",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "notes": "p303 3a; index group 14863; ref tr. man."
+  }
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Underlined margin number 79 at right (link of unknown meaning), no row.",
+  "Index #2153 (19D L Bb, Nemo potest) and #2298 (Def V M, Omne quod dat) link here but this page prints no cue for them; not placed."
+ ]
+}

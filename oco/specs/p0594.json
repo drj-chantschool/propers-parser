@@ -1,0 +1,91 @@
+{
+ "page": "594",
+ "page_kind": "assign",
+ "context_in": "Hebdomada II > Dominica > Hor. med.: ant2 'In Israel magnum nomen eius' hidden text at foot of p593, staff begins here.",
+ "context_out": "Hebdomada II > Dominica > II Vesp.: ant2 'Nos qui vivimus' (per.) staff begun, runs over to p595.",
+ "continues": null,
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "In Israel magnum: hidden text on p593, staff on p594: row here.",
+  "Nos qui vivimus: staff begins at foot, continues on p595.",
+  "Hymn cue O lux beata (LHym 215): index row 219 is 2.4H1 2V; modeled wknum_mod_2 0 on Sunday II Vespers, as p593."
+ ],
+ "rows": [
+  {
+   "incipit": "In Israel magnum",
+   "kind": "engraved",
+   "mode": "8g",
+   "text": "In Israel magnum nomen eius.",
+   "index_id": 1744,
+   "chant_uuid": "gregobase:10429",
+   "service": "MIDDAY",
+   "part": "ant2",
+   "notes": "p594 8g CAO 3246 AM 66; 10429 Solesmes 1934 cites AM 66, opening c3 h hg fe, Euouae h h g h f matches; 10868 Verona same melody",
+   "lit_epoch_slug": null,
+   "wkday": 1,
+   "wknum_mod_4": 2,
+   "option_num": 1
+  },
+  {
+   "incipit": "Terra tremuit",
+   "kind": "engraved",
+   "mode": "8c",
+   "text": "Terra tremuit et quievit, dum resurgeret in iudicio Deus.",
+   "index_id": 2958,
+   "chant_uuid": "gregobase:10869",
+   "service": "MIDDAY",
+   "part": "ant3",
+   "notes": "p594 8c; 10869 Verona (text 'resurgeret' as printed; 1882 Solesmes same melody, 'exsurgeret')",
+   "lit_epoch_slug": null,
+   "wkday": 1,
+   "wknum_mod_4": 2,
+   "option_num": 1
+  },
+  {
+   "incipit": "O lux beata",
+   "kind": "xref",
+   "ref_book": "LIBER_HYMNARIUS",
+   "ref_page": 215,
+   "chant_uuid": "gregobase:16705",
+   "service": "VESPERS",
+   "part": "hymn",
+   "lit_epoch_slug": null,
+   "wkday": 1,
+   "wknum_mod_2": 0,
+   "option_num": 1,
+   "option_txt": null,
+   "index_id": 219
+  },
+  {
+   "incipit": "Iuravit Dominus",
+   "kind": "engraved",
+   "mode": "8g",
+   "text": "Iuravit Dominus et non pænitebit eum: Tu es sacerdos in æternum.",
+   "index_id": 1908,
+   "chant_uuid": "gregobase:4266",
+   "service": "VESPERS",
+   "part": "ant1",
+   "notes": "p594 8g CAO 3522 ARII 467; 4266 cites ARII 467, opening g i k k j j, cadence matches; 10870 Verona same",
+   "lit_epoch_slug": null,
+   "wkday": 1,
+   "wknum_mod_4": 2,
+   "option_num": 1
+  },
+  {
+   "incipit": "Nos qui vivimus",
+   "kind": "engraved",
+   "mode": "per.",
+   "text": "Nos qui vivimus, benedicimus Domino.",
+   "index_id": 2229,
+   "chant_uuid": "gregobase:20448",
+   "service": "VESPERS",
+   "part": "ant2",
+   "notes": "p594 per.; staff begins here, ends p595; 20448 opening c d f f g matches; 10440 same group",
+   "lit_epoch_slug": null,
+   "wkday": 1,
+   "wknum_mod_4": 2,
+   "option_num": 1
+  }
+ ]
+}

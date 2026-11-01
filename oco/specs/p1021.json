@@ -1,0 +1,61 @@
+{
+ "page": "1021",
+ "page_kind": "assign",
+ "context_in": "COMMUNIA > Apostolorum > II Vesp. > after ant3 'Iam non dicam' (p1020); no hour label printed",
+ "context_out": "COMMUNIA > Apostolorum > II Vesp. > Ɠ br. 'Annuntiate' + TP variant complete; Magnificat antiphon 'In regeneratione' hidden text at foot, staff begins p1022",
+ "continues": null,
+ "rows": [
+  {
+   "chant_uuid": "gregobase:8799",
+   "chant_group_id": null,
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "lit_epoch_slug": "COM-APOST",
+   "service": "VESPERS",
+   "part": "resp",
+   "kind": "engraved",
+   "mode": "6",
+   "incipit": "Annuntiate inter gentes",
+   "index_id": 3225,
+   "text": "Annuntiate inter gentes * Gloriam Domini. In omnibus populis mirabilia",
+   "option_num": 1,
+   "option_txt": null,
+   "notes": "p1021 6; Ps 95,3; ARII 718; Ɠ br.; 8799 (AM III p346, only mode-6 candidate): opening f f f g f f f gh hg, verse starts on h, matches; no Euouae in a responsory."
+  },
+  {
+   "chant_uuid": "local:ef820ac6-12d8-4d45-b20b-bf025d213ac4",
+   "chant_group_id": null,
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "lit_epoch_slug": "COM-APOST",
+   "service": "VESPERS",
+   "part": "resp",
+   "kind": "engraved",
+   "mode": "6",
+   "incipit": "Annuntiate inter gentes ... Alleluia",
+   "index_id": 3226,
+   "text": "Annuntiate inter gentes gloriam Domini * Alleluia alleluia. In omnibus p",
+   "option_num": 2,
+   "option_txt": "TP:",
+   "rubric": "TP:",
+   "notes": "p1021 6; Paschal-time short responsory, separate engraving",
+   "allow_unresolved": true
+  }
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Index dest R[Ap 25/4 11/6 18/10,2V,R] lists St Mark, Barnabas, Luke; the page prints it only under Apostolorum, so rows are on COM-APOST only (those saints take the Common).",
+  "Draft put the TP engraving on PASC/option 1; modelled as COM-APOST option 2 option_txt 'TP:' as the page prints it as an alternative to the Ɠ br.",
+  "Engraving 'In regeneratione' (hidden text at page foot) has its staff on p1022: that page's row; index #1766/#1767 not placed here.",
+  "TP 'Annuntiate ... Alleluia alleluia' (mode 6): no gregobase chant (only 8799, non-alleluia); allow_unresolved, director to create placeholder."
+ ]
+}

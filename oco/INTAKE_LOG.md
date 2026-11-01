@@ -156,3 +156,7 @@
 - 2026-10-31 11:04 — batch 44 (corrected): 591, 46, 1018, 300 finished loaded after initial finish failed on non-JSON summary
 - 2026-10-31 13:57 — p592 placeholder created (no gregobase chant): local:4fa67cfc-9b33-422d-be3d-e85a8d474154 'Confitebimur tibi' rb 6 PM 80 (group 20637, new chant_group row), PSALTER LAUDS.resp wknum_mod_2 0; p47 confirms p46 'Cum esset desponsata' gregobase:11680 (3-note 'est'/'tu' match 11680, not 5631)
 - 2026-10-31 13:57 — batch 46 (driven): 592 loaded (3 rows; 1 placeholder), 47 loaded (1), 1019 loaded (4; all adopted), 301 loaded (3; Feria III Lauds Amen amen group 15520 new). Director viewed all four renders; identities producer-checked, not neume-compared. p34 still blocked on p56, p1002 on p951
+- 2026-10-31 16:48 — batch 47: 593 loaded (7 rows), 48 loaded (2 rows; inherits -> intake #40), 1020 loaded (2), 302 loaded (2; Dixit 14788 checked on opening only)
+- 2026-10-31 16:48 — fix: batch 47 units finished after batch-end (summary arg was not JSON); rows were loaded+verified
+- 2026-10-31 19:43 — p1021 placeholder created: local:ef820ac6-12d8-4d45-b20b-bf025d213ac4 'Annuntiate inter gentes ... alleluia' rb 6 TP (chant_group 20638), COM-APOST VESPERS.resp opt2 'TP:'. p49: ⚠ 18875 mode 4 vs printed 2*a acknowledged (verified_despite).
+- 2026-10-31 19:43 — batch 48: 594 loaded (5 rows), 49 loaded (4), 1021 loaded (2), 303 loaded (2); questions 0

@@ -1,0 +1,60 @@
+{
+ "page": "57",
+ "page_kind": "assign",
+ "context_in": "Tempus Adventus > Antiphonae ipsis diebus decembris a 17 ad 24 assignatae > Die 17 decembris > Laudes B 'Scitote' on p56; O Sapientia hidden text at foot of p56",
+ "context_out": "Tempus Adventus > Antiphonae ipsis diebus decembris a 17 ad 24 assignatae > Die 18 decembris > Laudes B 'Vigilate animo' complete on p57; hidden text of 'O Adonai' (Die 18 Vesperas M) at foot, staff begins p58",
+ "continues": null,
+ "rows": [
+  {
+   "incipit": "O Sapientia",
+   "kind": "engraved",
+   "index_id": 2280,
+   "chant_uuid": null,
+   "chant_group_id": 2169,
+   "draft": "dest A[A-17/12,V,M] → index #2280 (A-17/12 | V | M); index links p56",
+   "mode": "2d",
+   "text": "O Sapientia, quæ ex ore Altissimi prodisti, attingens a fine usque ad finem",
+   "lit_epoch_slug": "ADV-II-00-1",
+   "service": "VESPERS",
+   "part": "antM",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "notes": "p57 Die 17 Vesp M 2d (CAO 4081; ARII 43); index #2280; group 2169 from draft",
+   "rubric": null
+  },
+  {
+   "incipit": "Vigilate animo",
+   "kind": "engraved",
+   "index_id": 3143,
+   "chant_uuid": "gregobase:8631",
+   "chant_group_id": null,
+   "draft": "dest A[A-18/12,L,B] → index #3143 (A-18/12 | L | B)",
+   "mode": "4e",
+   "text": "Vigilate animo, in proximo est Dominus Deus noster.",
+   "lit_epoch_slug": "ADV-II-00-2",
+   "service": "LAUDS",
+   "part": "antB",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "notes": "p57 Die 18 Laudes B 4e (CAO 5418; AM 223); index #3143 gregobase:8631",
+   "rubric": null
+  }
+ ],
+ "flags": [
+  "'O Sapientia' (Die 17 Vesp. M): staff begins p57 (2d, CAO 4081; ARII 43); hidden text on p56. Index #2280.",
+  "'O Adonai' (Die 18 Vesp. M, index #2241): only hidden text at foot of p57; staff begins p58, row belongs to p58."
+ ],
+ "questions": []
+}

@@ -1,0 +1,77 @@
+{
+ "page": "602",
+ "page_kind": "assign",
+ "context_in": "Hebdomada II > Feria III > Off. lect.: ant1 'Revela Domino' on p601; ant2 begins here.",
+ "context_out": "Hebdomada II > Feria III > Laudes: ant1 'Salutare vultus mei' engraved; ant2 'Cunctis diebus vitae nostrae' hidden text at foot, staff begins p603.",
+ "continues": null,
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Foot of page: hidden text 'Cunctis diebus vitae nostrae, salvos nos fac, Domine' (Lauds ant2, index #941) has its staff on p603: that page's row.",
+  "Hymn cue index row #12 is coded 2.4H3 (L); page is Hebdomada II Feria III, modelled wknum_mod_2 0, wkday 3.",
+  "Iunior fui: mode 2d printed on the staff (draft had null)."
+ ],
+ "rows": [
+  {
+   "incipit": "Iunior fui et senui",
+   "kind": "engraved",
+   "mode": "2d",
+   "text": "Iunior fui et senui, et non vidi iustum derelictum.",
+   "index_id": 1907,
+   "chant_uuid": "gregobase:11035",
+   "service": "OFFREAD",
+   "part": "ant2",
+   "lit_epoch_slug": null,
+   "wkday": 3,
+   "wknum_mod_4": 2,
+   "option_num": 1,
+   "rubric": "Ps 36,25; CAO 3521",
+   "notes": "p602 2d; index identity 11035 (Verona, same neighbours 11034/11036); accepted via index."
+  },
+  {
+   "incipit": "Spera in Domino",
+   "kind": "engraved",
+   "mode": "6f",
+   "text": "Spera in Domino et fac bonitatem.",
+   "index_id": 2862,
+   "chant_uuid": "gregobase:11036",
+   "service": "OFFREAD",
+   "part": "ant3",
+   "lit_epoch_slug": null,
+   "wkday": 3,
+   "wknum_mod_4": 2,
+   "option_num": 1,
+   "rubric": "Ps 36,3; tr. man.",
+   "notes": "p602 6f; index identity 11036."
+  },
+  {
+   "incipit": "Aeterne lucis conditor (LHym 226)",
+   "kind": "xref",
+   "ref_book": "LIBER_HYMNARIUS",
+   "ref_page": "226",
+   "chant_uuid": "gregobase:16710",
+   "service": "LAUDS",
+   "part": "hymn",
+   "lit_epoch_slug": null,
+   "wkday": 3,
+   "wknum_mod_2": 0,
+   "option_num": 1
+  },
+  {
+   "incipit": "Salutare vultus mei",
+   "kind": "engraved",
+   "mode": "6f",
+   "text": "Salutare vultus mei, Deus meus.",
+   "index_id": 2672,
+   "chant_uuid": "gregobase:10421",
+   "service": "LAUDS",
+   "part": "ant1",
+   "lit_epoch_slug": null,
+   "wkday": 3,
+   "wknum_mod_4": 2,
+   "option_num": 1,
+   "rubric": "Ps 42,5; CAO 4683; AM 46",
+   "notes": "p602 6f; index identity 10421."
+  }
+ ]
+}

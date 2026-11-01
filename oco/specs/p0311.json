@@ -1,0 +1,64 @@
+{
+ "page": "311",
+ "page_kind": "assign",
+ "jurisdiction": null,
+ "context_in": "Hebdomada IV Paschae > Dominica > II Vesp. ant3 'Benedictio et claritas' staff continues from p310 (tail et fortitudo ... Euouae)",
+ "context_out": "Hebdomada IV Paschae > Dominica > II Vesp. Magnificat Mb 'Alias oves habeo' staff runs over to p312",
+ "continues": {
+  "from_page": "310",
+  "incipit": "Benedictio et claritas"
+ },
+ "rows": [
+  {
+   "incipit": "Ego sum ostium",
+   "kind": "engraved",
+   "index_id": 1303,
+   "chant_uuid": "gregobase:10330",
+   "chant_group_id": null,
+   "mode": "8g",
+   "text": "Ego sum ostium, dicit Dominus; per me si quis introierit, salvabitur et pas",
+   "lit_epoch_slug": "PASC-AD_ASC-04-1",
+   "service": "VESPERS",
+   "part": "antM",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": 1,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": null,
+   "notes": "p311 8g; Magnificat margin Ma (Year A); index identity gregobase:10330"
+  },
+  {
+   "incipit": "Alias oves",
+   "kind": "engraved",
+   "index_id": 510,
+   "chant_uuid": "gregobase:10154",
+   "chant_group_id": null,
+   "mode": "8g",
+   "text": "Alias oves habeo, quæ non sunt ex hoc ovili; et illas oportet me adducere,",
+   "lit_epoch_slug": "PASC-AD_ASC-04-1",
+   "service": "VESPERS",
+   "part": "antM",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": 2,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": null,
+   "notes": "p311 8g; Magnificat margin Mb (Year B); index identity gregobase:10154"
+  }
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Margin Ma/Mb = Magnificat antiphons by Gospel year (Ma Year A Ego sum ostium, Mb Year B Alias oves habeo), mapped cycle_sun 1/2 per draft.",
+  "Index #1304 'Ego sum ostium' (4P2|V|Mbc) and #511 'Alias oves' (4P2|V|Ma) link here: reuse for Easter V, cued elsewhere, not placed.",
+  "Alias oves engraving ends on p312 (et vocem meam audient; et fiet unum ovile ...)."
+ ]
+}

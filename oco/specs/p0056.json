@@ -1,0 +1,64 @@
+{
+ "page": "56",
+ "page_kind": "assign",
+ "context_in": "Tempus Adventus > Antiphonae ad Laudes et Vesperas a die 17 ad diem 23 decembris > Sabbato > ant2 'Rorate caeli' tail (rem. Euouae) on p56",
+ "context_out": "Tempus Adventus > Antiphonae ipsis diebus decembris a 17 ad 24 assignatae > Die 17 decembris > Laudes B 'Scitote quia prope' complete on p56; hidden text of 'O Sapientia' (Die 17 Vesperas M) at foot, staff begins p57",
+ "continues": {
+  "from_page": "55",
+  "incipit": "Rorate cæli desuper"
+ },
+ "rows": [
+  {
+   "incipit": "Paratus esto, Israel",
+   "kind": "engraved",
+   "mode": "2d",
+   "text": "Paratus esto, Israel, in occursum Domini, quoniam venit.",
+   "index_id": null,
+   "chant_uuid": null,
+   "chant_group_id": 4380,
+   "lit_epoch_slug": "ADV-II",
+   "service": "LAUDS",
+   "part": "ant3",
+   "wkday": 7,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": "Antiphonæ ad Laudes et Vesperas a die 17 ad diem 23 decembris",
+   "notes": "p56 Sabbato ant3 2d (CAO 4217; AM 15*); opening f f i h g e ef f / in g f h g (in/oc differ) matches grp 4380 (4380, 13267); grp 5741 has in f oc f; Euouae h h h g ef f"
+  },
+  {
+   "incipit": "Scitote quia prope",
+   "kind": "engraved",
+   "mode": "8g",
+   "text": "Scitote quia prope est regnum Dei; amen dico vobis, quia non tardabit.",
+   "index_id": null,
+   "chant_uuid": null,
+   "chant_group_id": 3005,
+   "lit_epoch_slug": "ADV-II-00-1",
+   "service": "LAUDS",
+   "part": "antB",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": null,
+   "notes": "p56 Die 17 dec Laudes B 8g (Lc 21,31-32; CAO 4834; AM 237); c4 opening h fg g / qui-a g g pro-pe g f re-gnum gh De-i matches grp 3005 (3005, 4469, 11525, 13199); members differ only at 'quia non' by a note"
+  }
+ ],
+ "flags": [
+  "Rorate cæli (p55) ends on p56 with 'rem. Euouae' (continues).",
+  "Sabbato ant3 'Paratus esto' placed on LAUDS only, as p55's Sabbato ant1/ant2 (index #2360 L).",
+  "'O Sapientia' (Die 17 Vespers Magnificat, index #2280, legacy row text_id 10744 printed_page 56): only its hidden text is on p56, staff begins p57; row belongs to p57.",
+  "Margin 3 = antiphon siglum; underlined 26 = link of unknown meaning, no row.",
+  "Scitote: group 3005 members differ by one note at 'qui-a non'; 8324 (grp 8324, 1934 edition) also similar."
+ ],
+ "questions": []
+}

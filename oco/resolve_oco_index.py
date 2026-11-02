@@ -163,7 +163,7 @@ def main():
                         for row in c.execute(text(
                                 "SELECT g.id, g.incipit, g.gabc, m.chant_group_id FROM gregobase_chant_sources s "
                                 "JOIN gregobase_chants g ON g.id=s.chant_id "
-                                "LEFT JOIN gregobase_chant_group_map m ON m.gregobase_id=g.id "
+                                "LEFT JOIN chants m ON m.origin_source = 'GREGOBASE' AND m.origin_id = CAST(g.id AS CHAR) "
                                 "WHERE s.source=:s AND s.page IN :pp AND g.`office-part`=:op "
                                 "AND g.duplicateof IS NULL").bindparams(
                                     bindparam("pp", expanding=True)),
@@ -173,7 +173,7 @@ def main():
                     if cao:
                         for row in c.execute(text(
                                 "SELECT g.id, g.incipit, g.gabc, m.chant_group_id FROM gregobase_chants g "
-                                "LEFT JOIN gregobase_chant_group_map m ON m.gregobase_id=g.id "
+                                "LEFT JOIN chants m ON m.origin_source = 'GREGOBASE' AND m.origin_id = CAST(g.id AS CHAR) "
                                 "WHERE g.cantusid=:k AND g.`office-part`=:op AND g.duplicateof IS NULL"),
                                 {"k": cao.zfill(6), "op": op}):
                             if prefix_match(row.incipit, full):

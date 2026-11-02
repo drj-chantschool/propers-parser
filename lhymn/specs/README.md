@@ -267,10 +267,10 @@ one page off, so use `index_row_id` in that case.
 
 ## User rulings 2026-10-16
 
-1. **Truly absent chants → placeholder `local_chants`.** When a printed chant has no gregobase edition
-   (or only an edition whose text differs from the LH 1983), the director creates a blank `local_chants`
-   row (`version='LH1983'`, `gabc=''`, `status='draft'`, `source_citation='Liber Hymnarius 1983 p. N'`,
-   notes start `PLACEHOLDER`) and the spec row sets `"chant_uuid": "local:<uuid>"`. Use the existing
+1. **Truly absent chants → placeholder local chant.** When a printed chant has no gregobase edition
+   (or only an edition whose text differs from the LH 1983), the director creates a blank local chant: a
+   `chants` row (`chant_uuid='local:<uuid>'`, `elements='[]'`, `version='LH1983'`, `status='draft'`,
+   `source_citation='Liber Hymnarius 1983 p. N'`, notes start `PLACEHOLDER`) and the spec row sets `"chant_uuid": "local:<uuid>"`. Use the existing
    gregobase chant's `chant_group` when the melody is the same, otherwise a new group. Producers still
    write `allow_unresolved` and flag it; the director makes the placeholder.
 2. **O.S.B. uses the LH as normal** except where its Proprium prints overrides: OSB saints citing a Roman
@@ -304,7 +304,8 @@ one page off, so use `index_row_id` in that case.
    Ascension, …) are not covered by a rank row and need explicit epoch rows.
 2. **Text-substitution antiphons** (intake_queue #1): when the LH prints a second text under the same staff
    (e.g. `[appáruit]` under "natus est"), and gregobase has no separate edition of each text, split the engraving into
-   one `local_chants` row per text (derived gabc, `status='draft'`) and link each slot to its own text.
+   one local chant per text (a `chants` row `local:<uuid>` whose `elements` hold the derived gabc,
+   `status='draft'`) and link each slot to its own text.
    When a gregobase edition with the substituted text and the same melody exists (p16 → 13371), link that instead.
 3. **Don't duplicate rows across epochs or weekdays** (intake_queue #2): put a rule on the widest epoch it applies to
    (a subseason or season default) and let narrower epochs override. Holy Week hymns are `TQ-HOLYWEEK` defaults with

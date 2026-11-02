@@ -22,6 +22,7 @@ import sys
 import unicodedata
 
 import keyring
+from gabc_tools.elements import elements_gabc_body, load_elements
 from sqlalchemy import bindparam, create_engine, text
 
 BOOK = AUTH = "LIBER_HYMNARIUS"
@@ -197,10 +198,11 @@ class Resolver:
         if not uuid or not uuid.startswith("gregobase:"):
             return None, []
         gid = int(uuid.split(":")[1])
-        g = self.c.execute(text("SELECT incipit, mode, `office-part` AS op, gabc FROM gregobase_chants WHERE id=:i"),
-                           {"i": gid}).mappings().first()
+        g = self.c.execute(text("SELECT incipit, mode, office_part AS op, elements FROM chants WHERE chant_uuid=:u"),
+                           {"u": uuid}).mappings().first()
         if not g:
-            return None, [f"⚠ CHECK {uuid} does not exist in gregobase_chants"]
+            return None, [f"⚠ CHECK {uuid} does not exist in chants"]
+        g = dict(g, gabc=elements_gabc_body(load_elements(g["elements"]), first_verse=True))
         lh_pages = [r[0] for r in self.c.execute(text(
             "SELECT page FROM gregobase_chant_sources WHERE chant_id=:i AND source=:s"),
             {"i": gid, "s": GREGOBASE_LH_SOURCE})]

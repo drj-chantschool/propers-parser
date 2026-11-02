@@ -5,8 +5,8 @@ Book-specific instructions for directors working on `GRADUALE`. Producers read `
 | | |
 |---|---|
 | Book code | `GRADUALE` |
-| Master PDF | `graduale/graduale romanum.pdf` (906 pages; printed labels stamped; outline written by `build_gr_toc.py`) |
-| Printed-page rule | `page_mapping.json` (printed == pdf up to ~p378, then unnumbered plates shift it) |
+| Master PDF | `graduale/graduale romanum.pdf` (906 pages; printed labels stamped; outline written by `build_gr_toc.py`). Pre-2026-10-22 copy: `graduale romanum.pdf.pre-addenda.bak` |
+| Printed-page rule | **Page labels.** Every GR PDF (master + all 200 splits) is stamped with printed page numbers; look pages up by label (`doc.get_page_numbers("<p>")`), never by pdf index. `page_mapping.json` retired 2026-10-22 (archived in `APPLIED/`; labels reproduce it exactly) |
 | gregobase source | 4 (Graduale Romanum 1974) |
 | Assignment authority | `GRADUALE` |
 | Text layer | yes, but the chant body is garbled; headings/citations usable; read page images |
@@ -29,11 +29,38 @@ Book-specific instructions for directors working on `GRADUALE`. Producers read `
 | 7 Questions | — | `tools/intake.py list --book GRADUALE` |
 | 8 Sweep | ✗ | |
 
+## Addenda (printed 919–921) — added 2026-10-22
+
+A later printing's "Addenda in Graduale Romano" plus "Addenda in Missis propriis O.S.B.", scanned
+separately (CamScanner, **no text layer**: read the page images / `books` rows 919–921) and appended
+in place of a stray CCWatershed web ad (the old `books` 919 row was that ad; now replaced). The same
+day the front CCWatershed inserts were dropped (copyright primer, editions list, Ordinary-Form ad),
+the cover photo cropped (label `0`), and the scanned spread split into Imprimatur (4) and Decree (5);
+front labels are now 0, 1, 3, 4, 5, 7… (p2/p6 are blank versos not in the scan). Outline entries come from `ADDENDA_HEADINGS` in `build_gr_toc.py`. Queued as units in
+`queues/content.json` (11 Masses). Director notes per unit:
+- **Every chant is a page cross-reference** (`IN. Adorate Deum, 264.`); nothing is engraved here.
+  `printed_page_num` = the addenda page, `ref_page_num` = the cited page. Resolve each via
+  `chant_indices` on the cited page as usual.
+- `NAT-EPI-00-0-vigil` (5 Jan, vespertine vigil Mass of the Epiphany) and `PASC-ASC-06-5-vigil`
+  (Hebd. VI Paschae, Feria IV, vespertine vigil of the Ascension) — both temporal vigil leaves already
+  exist with 0 rows. Ascension vigil: `IN. Omnes gentes, 297 (cum alleluia, p. 825)`; `OF. … 231, vel
+  Ascendit Deus, 237` (two options); `CO. Psallite Domino (annis A et B), 238` / `Pater cum essem (anno C), 243`.
+- `st-maximilian-kolbe` (919–920) cites exactly the five chants already loaded from p596
+  (447/125/511/224/470) — confirm and expect `no_rows`.
+- `teresa-benedicta-of-the-cross` prints `(In Europa: Festum)`: RULED 2026-10-22 and already applied —
+  `proper_of_saints` UNIVERSAL = OPTIONAL_MEMORIAL (also `lit_epoch.rank_code`) + an `EU` row = FEAST
+  (the Cyril & Methodius pattern). The chants load as usual (UNIVERSAL); don't raise the rank.
+- `john-paul-ii` runs 920→921; `andrew-dung-lac` heads p921.
+- OSB entries (both tagged `C.S.`, see the `gr-osb-appendix-jurisdiction` memory; `jurisdiction: OSB`):
+  `pontons-rochefort-martyrs-osb` (18 Aug, BB. Martyrum Benedictinorum Pontonum Rupifortium) and
+  `omnium-sanctorum-osb` (8 Nov, Omnium Sanctorum O.S.P.N. Benedicti, Mem.) are **provisional unit ids
+  — no `lit_epoch`/`proper_of_saints` row exists**: raise the slug/epoch question before producing.
+
 ## Stages (read by /book-batch)
 
 | Stage | Queue | Producer agent | Output | Validate | Load + verify |
 |---|---|---|---|---|---|
-| content | `graduale/queues/content.json` (create with `/book-intake GRADUALE`: units = remaining spec slugs) | `content-producer` + `graduale/PRODUCER.md` | `graduale/specs/<slug>.json` | `load_graduale_propers.py --spec-file … --dry-run` | same without `--dry-run`, then `--verify` → VERIFY PASS |
+| content | `graduale/queues/content.json` (created 2026-10-22 with the Addenda units; `Q add` remaining spec slugs via `/book-intake GRADUALE`) | `content-producer` + `graduale/PRODUCER.md` | `graduale/specs/<slug>.json` | `load_graduale_propers.py --spec-file … --dry-run` | same without `--dry-run`, then `--verify` → VERIFY PASS |
 
 ## Director instructions
 

@@ -60,9 +60,7 @@ def main():
                 sys.exit(f"index_fix {fix} doesn't match the row as it stands: {dict(row._mapping)}")
             sets[fix["column"]] = fix["to"]
         if uuid and verdict in ("link", "index_error"):
-            kind, _, ident = uuid.partition(":")
-            exists = (c.execute(text("SELECT 1 FROM gregobase_chants WHERE id=:i"), {"i": ident}).first() if kind == "gregobase"
-                      else c.execute(text("SELECT 1 FROM local_chants WHERE local_chant_id=:i"), {"i": ident}).first())
+            exists = c.execute(text("SELECT 1 FROM chants WHERE chant_uuid=:u"), {"u": uuid}).first()
             if not exists:
                 sys.exit(f"{uuid} does not exist")
             sets["chant_uuid"] = uuid

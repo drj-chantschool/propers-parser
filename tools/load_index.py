@@ -70,8 +70,8 @@ def main():
                 if not u.startswith("gregobase:") or r.get("match_status") not in ("resolved", "resolved_with_difficulty"):
                     errors.append(f"{r['_file']}: id {r.get('id')}: chant_uuid {u!r} / match_status "
                                   f"{r.get('match_status')!r} — only book-supplied gregobase links")
-                elif not c.execute(text("SELECT 1 FROM gregobase_chants WHERE id=:i"), {"i": int(u[10:])}).first():
-                    errors.append(f"{r['_file']}: id {r.get('id')}: {u} not in gregobase_chants")
+                elif not c.execute(text("SELECT 1 FROM chants WHERE chant_uuid=:u"), {"u": u}).first():
+                    errors.append(f"{r['_file']}: id {r.get('id')}: {u} not in chants")
             if r.get("page") is None:
                 continue
             if str(r.get("page")) not in have_pages:

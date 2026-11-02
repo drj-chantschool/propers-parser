@@ -8,14 +8,14 @@
 | gregobase source | none for this edition. Engravings cite AM→7, ARII→6, PM→24, RM→56, AR→9 and CAO (= `cantusid`); see `oco/resolve_oco_index.py` |
 | Assignment authority | `OCO` |
 | Text layer | yes. Each engraving's full text is printed in WHITE just above the staff, then a visible ref line (`cf. Ier 31,10; CAO 1428; ARII 3`). Music font extracts as noise |
-| Unit model | **index row** (one `chant_indices` row = identity + its LPS rows) — user, 2026-10-20 (supersedes "page") |
+| Unit model | **printed page** (one spec per page: every engraving that begins on it + every cue printed on it). The page is the authority for LPS; the index and the PDF's named destinations are a finding aid and a deterministic first pass the producer verifies — user, 2026-10-23 (supersedes "index row", 2026-10-20) |
 | TOC | `oco/toc.json` (outline + 2 fixes, user OK 2026-10-20) → `book_toc` 694 rows |
 | Index | `oco/parse_oco_index.py` → `oco/index/i<page>.json` → `chant_indices` (3,422 rows); report `oco/index_parse_report.txt` |
-| Contract README | `oco/specs/README.md` |
-| Agent instructions | `oco/RESOLVER.md` (agent `index-row-resolver`) |
-| Mapper / loader | `oco/oco_sigla.py` / `oco/load_oco_lps.py` (`--dry-run` / real / `--verify`) |
+| Contract README | `oco/specs/README.md` (page contract) |
+| Agent instructions | `oco/PRODUCER.md` (agent `content-producer`). `oco/RESOLVER.md` = the retired index-rows stage |
+| First pass / loader | `oco/page_draft.py <page>` (named destinations + cue links → `oco/oco_sigla.py` proposals) / `oco/load_oco_page.py --spec … [--dry-run / --verify]`, `--legacy-report`. Identity helpers `oco/show_row.py`, `oco/candidates.py`. Retired index-pass loader: `oco/load_oco_lps.py` (don't run it any more: it would re-add rows the pages replaced) |
 
-## Status (2026-10-20)
+## Status (2026-10-23)
 
 | Phase | State | Evidence |
 |---|---|---|
@@ -25,9 +25,9 @@
 | 3 Index parsed | ✓ 2026-10-20 | 3,422 rows: antiphona 2,779 · hymnus 353 · responsorium breve 212 · invitatorium 78 |
 | 4 Identity | ◐ | 1,115 resolved · 583 resolved_with_difficulty (chant) · 244 resolved_with_difficulty (group) · **1,480 queued** |
 | 5 Epochs | ◐ | mapper places 3,276/3,422 rows (`oco/sigla_coverage.txt`; B1/M2-type rows get their epoch from the agent, intake #22); TOC cross-check `oco/oco_toc.py --check`: 1,750 own-engraving rows, 0 real disagreements; calendar fixes: Elizabeth of Portugal UNIVERSAL 4/7 + US 5/7 (#20), Paul of the Cross UNIVERSAL 19/10 + US 20/10 (#21) |
-| 6 Content (LPS) | ◐ | 2,114 `lit_part_sources` rows (book OCO); 30 conflicts held → stage `conflicts`; 146 ad-lib waiting for a primary |
-| 7 Questions | ◐ | #12–22 done; open: #23 (Lent III–V Year-A sets → option_txt?) |
-| 8 Sweep | ✗ | |
+| 6 Content (LPS) | ◐ | stage `pages` started 2026-10-23: 1,206 pages in 4 lanes. Legacy index-pass rows: 2,203 (notes 'OCO index #…' + 11 Lent xrefs), adopted or replaced page by page (`load_oco_page.py --legacy-report`) |
+| 7 Questions | ◐ | #12–28, #32 done; open #33 (identity), #34 (Marian antiphons), #35 (Alleluia rubric rows); #29–31 withdrawn 2026-10-23 (index-code disagreements: the page decides) |
+| 8 Sweep | ✗ | end of `pages`: review `--legacy-report` (legacy rows no page adopted). **After the Commons lane (975–1161) is loaded** (intake #38): for each Common / sub-Common with a page-owned `VESPERS1.antM`, add a `VESPERS.antM` row, same chant, `rank_code` MEMORIAL, next free `option_num`, `option_txt` 'Ad libitum', `printed_page_num` 975, notes `OCO sweep #38: p975 'Si de Communi, antiphonae ad Magnificat, quae pro I Vesperis indicantur, possunt adhiberi ad libitum ad Vesperas' (In memoriis)` (not 'OCO p…': a page reload would prune it; it shows in `--legacy-report`, expected). Answer said MEMORIAL; if OPTIONAL_MEMORIAL / PROPER_MEMORIAL rows would be needed for it to apply to optional memorials, ask first |
 
 ## Structure notes
 
@@ -62,30 +62,58 @@
 
 | Stage | Queue | Producer agent | Output | Validate | Load + verify |
 |---|---|---|---|---|---|
-| conflicts | `oco/queues/conflicts.json` (log `oco/INTAKE_LOG.md`), 29 units (the rows of `oco/lps_conflicts.txt`), unordered, batch 5, wait 30 | `index-row-resolver` + `oco/RESOLVER.md` § Stage `conflicts` | `oco/index/resolve/c<row_id>.json` | director reads the cited page | `option` → `oco/apply_oco_verdict.py <file> --commit`; `hold` → `tools/intake.py raise` the question (user decides) |
-| index-rows | `oco/queues/index-rows.json` (log `oco/INTAKE_LOG.md`), 1,480 units + 30 identified B1/M2-type rows for verdict `assign` (intake #22), unordered single lane in priority order, batch 5, wait 30 | `index-row-resolver` + `oco/RESOLVER.md` | `oco/index/resolve/r<row_id>.json` | director re-checks against the page (`oco/show_row.py <row_id>`, `tools/render_page.py --book OCO <p>`) | `oco/apply_oco_verdict.py <file> --commit [--apply-index-fix]` (identity → override → LPS → verify) |
+| pages | `oco/queues/pages.json` (log `oco/INTAKE_LOG.md`), 1,206 printed pages, 4 strict lanes, batch 4, wait 30 | `content-producer` + `oco/PRODUCER.md` | `oco/specs/p<NNNN>.json` | `oco/load_oco_page.py --spec … --dry-run` (exit 0 / 3 questions / 4 blocked_dep / 1 error) | `--spec …` then `--verify` → VERIFY PASS |
 
-Brief extras per stage:
-- conflicts: "Read `oco/RESOLVER.md` § Stage `conflicts`. Identity is set; decide only whether the page
-  makes this hymn a further option (`option` + rubric) or not obviously (`hold` + question)."
-- index-rows: "Read and follow `oco/RESOLVER.md` (overrides the generic agent file). Start with
-  `oco/show_row.py <row_id>`. A `group` verdict is allowed. If LPS TARGETS prints a reason, give the
-  `assignment`. Rows with page NULL: find the engraving, `index_fix` the page."
+Retired 2026-10-23 (queues kept as the record, not in this table so nothing picks them up):
+`oco/queues/conflicts.json` (23 loaded, 6 held) and `oco/queues/index-rows.json` (44 loaded, 5 held, 1,460
+never worked). Their held rows are pages now (the page decides).
+
+Brief extra: "The previous page in your lane is {prev}: its spec, if present, is `oco/specs/p{prev:04}.json`;
+read its `context_out` first. Start with `oco/page_draft.py <page>`: it is a proposal from the index codes;
+the page decides."
 
 ## Director instructions
 
-- index-rows: after the batch's verdicts are applied, run `oco/load_oco_lps.py` once (whole book): it
-  picks up ad-lib options whose primary has just arrived; it must report 0 new conflicts beyond
-  `oco/lps_conflicts.txt` (a new one → review, raise if it needs a ruling).
-- An `ambiguous` verdict: apply (status only) and raise its `question` with `tools/intake.py raise`.
-- A unit whose verdict needs an `index_fix` of the page: check the page yourself, then `--apply-index-fix`.
-
-- Index rows: never re-run `parse_oco_index.py` + `load_index.py` in a way that drops links; the
-  loader is an upsert and never overwrites `chant_uuid`.
-- Resolver: `oco/resolve_oco_index.py [--commit] [--units-file …]` only touches rows with NULL
-  status; its report is overwritten each run.
+- **Lanes:** A psalter 548–700 → Appendix 1177–1209 → Sanctorale Aug–Dec 829–973; B Temporale 3–257
+  (Advent → Holy Saturday); C Communia + Officium defunctorum 975–1176 → Sanctorale Jan–Jul 701–828; D Temporale
+  258–547 (Easter Sunday first — the octave pages cite it — then Paschaltide, per annum, solemnities). Rebuilt after batch 1. Commons first in lane C so Sanctorale cues find their
+  target identities; until then those pages exit 4 (`blocked_dep`), expected.
+- **Pre-flight** per unit: run `oco/page_draft.py <page> --quiet` and render the page; pass both paths.
+- **Review** on top of /book-batch step 5: every drop cap beginning on the page has a row and nothing
+  continued from the previous page does; every cue line (hymn, `Ut in hebd.`, `Vel:`, `de Communi`,
+  `ut ad …`, a `vel` inside a cue) has a row; slot/day/option per row match the page's heading, hour label,
+  siglum and rubric (not just the draft); `ADOPTS`/`REPLACES legacy` lines make sense (a replacement means
+  the page prints a different chant there); each identity was checked against the engraving (neumes, mode,
+  termination), not only accepted from `index_id`.
+- **Index disagrees with the page** (wrong day/hour code, wrong link page): the page wins, a `flags` line,
+  no question, no `chant_indices` edit (user, #27).
+- **Load by dry-run exit code:** 0 → load, `--verify`, `Q finish <p> loaded --summary '<last JSON line>'`
+  (`no_rows` for `continuation_only` / `no_chant`); 3 → raise each question, `Q finish <p> held --question <id>`;
+  4 → `Q finish <p> blocked_dep --note "<cited pages>"`, retried in step 3 once the cited page is loaded;
+  1 → fix if certain, else `error` + log.
+- `inherits` entries (`Omnia ut in …`): first time, raise one question (topic_key `oco-omnia-inherits`), then
+  merge later pages into it; the page loads without them.
+- **Allowed without asking:** a missing sub-epoch for a printed subject condition (`lit_epoch` kind as its
+  parent, title = the printed heading, notes 'OCO sub-epoch (user 2026-10-23: structure before option_txt)',
+  plus the `lit_epoch_tree` row; log it); a placeholder local chant (`chants` row `chant_uuid='local:<uuid>'`, `elements='[]'`) for a chant absent from gregobase (LH ruling
+  2026-10-16; add it to the log); a missing saint epoch is a question, not allowed.
+- Never run `oco/load_oco_lps.py` (retired): it re-adds index-code rows. Never re-run `parse_oco_index.py` +
+  `load_index.py` in a way that drops links (the index is still the finding aid).
 
 ## Known decisions for this book
+
+- 2026-10-23 (#38) Communia preamble p975: Commons' I Vespers Magnificat antiphons are ad-lib options at Vespers
+  in memorials only (`rank_codes` MEMORIAL, not Feasts/Solemnities); one sweep after the Commons lane (phase 8).
+- 2026-10-23 **page sweep** (user): the page is the authority for LPS, the index a finding aid with a deterministic
+  first pass (named destinations + cue links → mapper proposals, `oco/page_draft.py`) that the producer verifies
+  on the page. Reasons: the index misses cross-references and isn't accurate (#25, #27, #29–31: codes contradict
+  the body; #32: a printed `vel` hymn the index never lists). Stages `index-rows` and `conflicts` retired; legacy
+  index-pass rows are adopted/replaced by page loads.
+- 2026-10-23 structure before `option_txt` (user): "any time option text can be modeled by our data structure, do
+  that. They should go in sub-epochs." Subject qualifiers → sub-Commons (mapper SUBJECT_EPOCHS for the
+  unambiguous ones); the loader moves a legacy parent-Common row into the sub-epoch (`adopt-move`). 16 legacy rows
+  carry such qualifiers; they move as their pages load. T.P./Q./per annum inside an office stay option_txt
+  (global T.P. logic, earlier user ruling).
 
 - 2026-10-19 printed page = PDF page (seeded with `--identity`).
 - 2026-10-20 toc.json from the outline with Feria II 50→49, Feria III 51→50 (Dec 17–23 antiphons): user OK.

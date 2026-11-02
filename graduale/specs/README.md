@@ -266,15 +266,15 @@ Mass-service-part codes this loader writes. Omit it when the KIND coincides with
 (the norm).
 
 **Before reaching for `office_part`, check whether the correctly-tagged edition is simply
-ungrouped.** A `LookupError` on a chant that gregobase clearly has under the *expected*
-`office-part` (matching its `service_part`) is usually NOT a KIND mismatch — it's that
-gregobase's own row for that edition has no `chant_group_id` (`SELECT chant_group_id FROM
-gregobase_chant_group_map WHERE gregobase_id=<id>` returns nothing), so it's invisible to
-`v_chant_item` and unusable as a `chant_uuid`. That's a one-line DB fix (group it with the
-chant's other editions — same incipit/mode, different `version`), not a spec workaround; do
-NOT paper over it by overriding `office_part` to reach a *different*, worse-edition entry
-that happens to already be grouped. Report the ungrouped id and its expected group in your
-handback rather than silently dropping the chant or forcing a lesser edition.
+missing from `chants`.** A `LookupError` on a chant that gregobase clearly has under the *expected*
+`office-part` (matching its `service_part`) is usually NOT a KIND mismatch. Since 2026-10-23 every
+imported chant has a `chant_group_id`, so check `SELECT chant_group_id FROM chants WHERE
+chant_uuid='gregobase:<id>'`: no row means a `duplicateof`/stub row the import skips, or a chant
+scraped after the last `python -m liturgio_tools.chants_import`. A chant that IS there may sit in a
+singleton group the import created; merging it with the chant's other editions (same
+incipit/mode, different `version`) is a one-line DB fix, not a spec workaround. Do NOT paper over
+it by overriding `office_part` to reach a *different*, worse-edition entry. Report the id and its
+expected group in your handback rather than silently dropping the chant or forcing a lesser edition.
 
 ## `"unmatched": true` — a chant gregobase does not have
 

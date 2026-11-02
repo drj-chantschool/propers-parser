@@ -124,7 +124,7 @@ content specs instead).
    Fill the Stages row (agent `index-row-resolver`). Hand off: `/loop /book-batch <CODE> index-rows`.
 3. The director applies each reviewed verdict with `T apply_index_verdict.py <file> --commit`
    (`--verify` after): a link → `match_status='resolved_with_difficulty'`; no edition in gregobase →
-   `unmatched` (a placeholder `local_chants` row only when content intake needs one); two or more
+   `unmatched` (a placeholder local chant (`chants` row `chant_uuid='local:<uuid>'`, `elements='[]'`) only when content intake needs one); two or more
    defensible picks → `ambiguous` + the verdict's question raised with `T intake.py raise`; an
    index misprint → `--apply-index-fix` after you've looked. Curated rows are never overwritten.
    Ungrouped gregobase chants are reported, not linked around.

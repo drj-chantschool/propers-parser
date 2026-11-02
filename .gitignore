@@ -8,3 +8,4 @@ __pycache__/
 _tmp/
 _tmp_out.txt
 *.bak-*
+*.bak

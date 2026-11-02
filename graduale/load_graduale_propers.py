@@ -10,10 +10,10 @@ subsection (a day/Mass) it turns the engraved proper chants into `lit_part_sourc
 rows (one per chant), with:
 
   - `chant_uuid`     IDENTIFIES the chant: the matched gregobase chant as a
-                     `v_chant_item.chant_item_uid` ('gregobase:<id>'), keyed on
+                     `chants.chant_uuid` ('gregobase:<id>'), keyed on
                      incipit + office-part (the chant's KIND, independent of `service_part`
                      — see `office_part` below) + mode. The full Latin text is reached by
-                     joining `chant_uuid` -> `v_chant_item`/gregobase.
+                     joining `chant_uuid` -> `chants`.
                      `original_text` is left NULL on purpose — OCR of the engraved text
                      is unreliable and the text already lives in gregobase, so we link
                      instead of copying.
@@ -21,8 +21,8 @@ rows (one per chant), with:
                      (additive data not present in gregobase). NULL when none is printed
                      (e.g. the Christmas Alleluia).
   - `book`/`printed_page_num`  the engraving's location by book + PRINTED page number
-                     (the scanner-independent source of truth). The per-scan PDF page (and
-                     its dpi=200 image) is looked up via `books(book, printed_page_num)`.
+                     (the scanner-independent source of truth). The page (and its dpi=200
+                     image) is found by PDF page label / `books(book, printed_page_num)`.
   - `bbox`           the chant's box on the BODY page, computed from the PDF text layer
                      in the dpi=200 page-image pixel space (the space `books` uses).
   - `lit_epoch_slug` + `wkday`  the liturgical assignment (per the subsection spec).
@@ -55,7 +55,7 @@ Reading the curated id keeps load-time identity consistent with that one-time re
 (and any human review) and avoids re-running the matcher. It falls back to LIVE matching
 (match_gregobase / resolve_xref) only when the curated id is unusable — no index row, an
 unresolved row (gregobase_id NULL: status ambiguous/unmatched), an incipit matching
-several rows with different ids, or an ungrouped chant with no v_chant_item uid — which
+several rows with different ids, or an id that is not in `chants` — which
 preserves the live matcher's raise / multi-candidate review-queue behavior for exactly
 those cases. The dry-run prints `via index` or `via live` per row so the source is plain.
 
@@ -137,7 +137,7 @@ populated rows (and may have picked a specific edition), the match is on the ASS
 the exact chant: an existing row counts as the same assignment when it shares the SLOT —
 (lit_epoch_slug, wkday, part_id, assignment_authority_code, book, cycle_sun, cycle_wkday,
 option_num), NULL-safe `<=>` — AND its chant is in the SAME `chant_group` as the loaded chant
-(join via `v_chant_item`). `option_num` was ADDED to this key on 2026-09-06 so the loader stops
+(join via `chants`). `option_num` was ADDED to this key on 2026-09-06 so the loader stops
 being narrower than `uq_lps_slot`: without it, two DIFFERENT printed options of one part in one
 slot whose chants share a chant_group (two editions of one chant) could not both be loaded — the
 second matched the first and silently UPDATEd it, one row short, invisible to `--dry-run`. Then:
@@ -568,55 +568,41 @@ def make_engine():
     return create_engine(url)
 
 
-_PAGE_MAPPING_CANDIDATES = (
-    os.path.join(_HERE, "page_mapping.json"),
-    os.path.join(_HERE, "APPLIED", "page_mapping.json"),
-)
-_printed_to_pdf_page_cache = None
+def page_for_printed(doc, printed_page):
+    """The fitz page whose stamped label is PRINTED page `printed_page`.
 
-
-def printed_to_pdf_page(printed_page):
-    """Translate a PRINTED Graduale page number to its 1-based PDF page index.
-
-    Below ~p378 the two coincide, but unnumbered plates inserted later in the
-    book (Communia p392+, Proprium de Sanctis p529+, ...) shift PDF pages ahead
-    of their printed number by a growing, non-constant offset (e.g. printed 434
-    is PDF page 432; printed 585 is PDF page 582). `graduale/page_mapping.json`
-    (built by pdf_page_mapper.py, keyed pdf_page->printed_page) is the
-    calibrated source of truth; invert it here rather than assuming identity.
+    The master PDF's page labels are the printed page numbers (plates and the CCWatershed
+    inserts make printed != pdf index), so look pages up by label, never by pdf arithmetic.
     """
-    global _printed_to_pdf_page_cache
-    if _printed_to_pdf_page_cache is None:
-        for path in _PAGE_MAPPING_CANDIDATES:
-            if os.path.exists(path):
-                with open(path, encoding="utf-8") as fh:
-                    mapping = json.load(fh)["mapping"]
-                _printed_to_pdf_page_cache = {
-                    str(printed): int(pdf_str) for pdf_str, printed in mapping.items()
-                }
-                break
-        else:
-            raise FileNotFoundError(
-                "page_mapping.json not found in any of: "
-                + ", ".join(_PAGE_MAPPING_CANDIDATES)
-            )
-    pdf_page = _printed_to_pdf_page_cache.get(str(printed_page))
-    if pdf_page is None:
-        raise LookupError(f"no PDF page mapped for printed page {printed_page!r}")
-    return pdf_page
+    hits = doc.get_page_numbers(str(printed_page))
+    if len(hits) != 1:
+        raise LookupError(f"printed page {printed_page!r} labels {len(hits)} PDF pages, expected 1")
+    return doc[hits[0]]
 
 
-def compute_bbox(doc, pdf_page, band):
-    """Union of text blocks centred in `band` on PDF page `pdf_page` (1-based), in dpi=200 px space.
+_SCAN_WATERMARKS = {"CamScanner"}  # only "text" on the scanned Addenda (p919-921)
+
+
+def _block_text(b):
+    return "".join(s["text"] for l in b["lines"] for s in l["spans"]).strip()
+
+
+def compute_bbox(doc, printed_page, band):
+    """Union of text blocks centred in `band` on PRINTED page `printed_page`, in dpi=200 px space.
 
     Returns 'x0,y0,x1,y1' (ints) or None if no blocks fall in the band.
+    A page with NO text layer (the scanned Addenda, p919-921: only a CamScanner watermark)
+    falls back to the band itself across the full page width (intake_queue #36).
     """
     ytop, ybot = band
-    pg = doc[pdf_page - 1]
+    pg = page_for_printed(doc, printed_page)
+    blocks = [b for b in pg.get_text("dict")["blocks"]
+              if "lines" in b and _block_text(b) not in _SCAN_WATERMARKS]
+    if not blocks:
+        return "{},{},{},{}".format(
+            0, round(ytop * SCALE), round(pg.rect.width * SCALE), round(ybot * SCALE))
     xs0 = ys0 = xs1 = ys1 = None
-    for b in pg.get_text("dict")["blocks"]:
-        if "lines" not in b:
-            continue
+    for b in blocks:
         bx0, by0, bx1, by1 = b["bbox"]
         cy = (by0 + by1) / 2.0
         if not (ytop <= cy < ybot):
@@ -694,7 +680,7 @@ def match_gregobase(conn, service_part, mode, incipit, office_part=None):
     (office_part 'hy'). service_part governs storage; office_part governs identity.
 
       candidates : LIST of (chant_uuid, gregobase_id, chant_group_id). chant_uuid is the
-                   'gregobase:<id>' value v_chant_item exposes. Normally length 1. It is
+                   'gregobase:<id>' key of chants. Normally length 1. It is
                    length>1 only when several DISTINCT chant_groups tie at the very best
                    (version, incipit) rank — a genuine same-edition ambiguity — in which
                    case the caller writes one row per candidate (the review queue) for a
@@ -724,7 +710,7 @@ def match_gregobase(conn, service_part, mode, incipit, office_part=None):
     rows = list(conn.execute(sa_text(
         "SELECT g.id, g.incipit, g.version, m.chant_group_id "
         "FROM gregobase_chants g "
-        "LEFT JOIN gregobase_chant_group_map m ON m.gregobase_id = g.id "
+        "LEFT JOIN chants m ON m.origin_source = 'GREGOBASE' AND m.origin_id = CAST(g.id AS CHAR) "
         f"WHERE g.`office-part` = :op AND {mode_pred} "
         # GregoBase redirects a duplicate to its original (duplicateof > 0) or retires it
         # (-1) and hides both from its own listings; never let one win a match.
@@ -735,7 +721,7 @@ def match_gregobase(conn, service_part, mode, incipit, office_part=None):
     target = condense(incipit)
     pool = []
     for gid, inc, ver, cg in rows:
-        if cg is None:  # not in v_chant_item -> cannot be a chant_uuid
+        if cg is None:  # not in chants (duplicate/stub skipped by chants_import) -> no chant_uuid
             continue
         sea, dist = _incipit_quality(inc, target)
         if dist is None:
@@ -744,7 +730,7 @@ def match_gregobase(conn, service_part, mode, incipit, office_part=None):
                          rank=(version_rank(ver), sea, dist)))
     if not pool:
         raise LookupError(
-            f"no gregobase match in v_chant_item for part={service_part!r} mode={mode} "
+            f"no gregobase match in chants for part={service_part!r} mode={mode} "
             f"incipit={incipit!r}"
         )
 
@@ -848,8 +834,8 @@ def resolve_via_index(conn, service_part, incipit, page, office_part=None):
       * no index row for this part+incipit on `page`;
       * the row is unresolved (chant_uuid NULL — status ambiguous/unmatched/null);
       * the incipit matches several index rows carrying DIFFERENT ids (ambiguous);
-      * the resolved chant is ungrouped (no gregobase_chant_group_map / local_chants group), so it has no
-        v_chant_item chant_uuid and cannot be written as a valid link.
+      * the resolved chant is not in `chants` (a duplicate or stub chants_import skipped), so it
+        cannot be written as a valid link.
     """
     from sqlalchemy import text as sa_text
 
@@ -878,19 +864,12 @@ def resolve_via_index(conn, service_part, incipit, page, office_part=None):
     (uuid,) = uuids
     row = next(r for r in cands if r["chant_uuid"] == uuid)
     gid = row["gregobase_id"]
-    if gid is not None:
-        cg = conn.execute(sa_text(
-            "SELECT chant_group_id FROM gregobase_chant_group_map WHERE gregobase_id = :g"
-        ), {"g": gid}).scalar()
-    elif uuid.startswith("local:"):
-        cg = conn.execute(sa_text(
-            "SELECT chant_group_id FROM local_chants WHERE local_chant_id = :i"
-        ), {"i": uuid.split(":", 1)[1]}).scalar()
-    else:
-        cg = None
+    cg = conn.execute(sa_text(
+        "SELECT chant_group_id FROM chants WHERE chant_uuid = :u"
+    ), {"u": uuid}).scalar()
     if cg is None:
-        print(f"      ⚠ index resolves {service_part} {incipit!r} on p{page} to ungrouped "
-              f"{uuid} (no v_chant_item uid) — live-matching instead")
+        print(f"      ⚠ index resolves {service_part} {incipit!r} on p{page} to "
+              f"{uuid}, which is not in chants — live-matching instead")
         return None
     return (uuid, gid, cg, row["mode"])
 
@@ -945,12 +924,13 @@ def build_rows(conn, doc, spec):
     # weekday option refines the SAME day, recorded via the cycle_sun/wkday columns, and must
     # NOT append a "<base>-1" child (no such lit_epoch exists). See build loop below.
     # kind='common' (a Communia formulary, GR ch. 2) is a leaf for the same reason: it is not
-    # a calendar day at all, so it has no week→day layer to promote into.
+    # a calendar day at all, so it has no week→day layer to promote into. kind='mass' (a
+    # second Mass of one day, e.g. PASC-ASC-06-5-vigil) is a leaf too: it has no children.
     base_kind = conn.execute(
         sa_text("SELECT kind FROM lit_epoch WHERE slug = :s"),
         {"s": spec["lit_epoch_slug"]},
     ).scalar()
-    base_is_day = base_kind in ("day", "common")
+    base_is_day = base_kind in ("day", "common", "mass")
     # Almost every spec is UNIVERSAL (the GR's own calendar); a spec may override this to
     # load into an order/rite-specific calendar (e.g. "OSB" for the Missae Propriae O.S.B.
     # appendix) that shares the same book/page/bbox machinery but is a DIFFERENT jurisdiction
@@ -997,8 +977,7 @@ def build_rows(conn, doc, spec):
             source = "live"
         # For BOTH kinds the bbox/page are on `page`: an engraved chant's box on its own page,
         # or (for an xref) the box of the reference LINE on the citing page.
-        pdf_page = printed_to_pdf_page(c["page"])
-        bbox = compute_bbox(doc, pdf_page, c["band"])
+        bbox = compute_bbox(doc, c["page"], c["band"])
         if bbox is None:
             raise ValueError(f"empty bbox band for {part} on p{c['page']}: {c['band']}")
         # One row per candidate chant_group. >1 means an unresolved gregobase split:
@@ -1097,7 +1076,7 @@ def slot_group_matches(conn, row, chant_group_id):
     different chant is a different group and does NOT match — so several `Vel:`/`or:`
     alternates in one slot, and un-collapsed review candidates, are each independent and never
     clobbered. Authority is in the key, so other sources' rows (MISSAL text, GREGORIAN_MISSAL)
-    are never matched. A row whose chant_uuid is not in v_chant_item (NULL / ungrouped) simply
+    are never matched. A row whose chant_uuid is not in chants (NULL) simply
     doesn't join, hence doesn't match.
 
     An `unmatched` row (declared absent from gregobase: chant_uuid NULL, see read_spec_file)
@@ -1131,7 +1110,7 @@ def slot_group_matches(conn, row, chant_group_id):
         return []
     return [r[0] for r in conn.execute(sa_text(
         "SELECT l.text_id FROM lit_part_sources l "
-        "JOIN v_chant_item vci ON vci.chant_item_uid = l.chant_uuid "
+        "JOIN chants vci ON vci.chant_uuid = l.chant_uuid "
         "WHERE (l.jurisdiction <=> :jurisdiction) "
         "AND l.lit_epoch_slug = :slug AND (l.wkday <=> :wkday) AND l.part_id = :part_id "
         "AND l.assignment_authority_code = :auth AND (l.book <=> :book) "

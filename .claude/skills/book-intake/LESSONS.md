@@ -99,8 +99,7 @@ full story. Rules for one book live in that book's BOOK.md / PRODUCER.md / specs
   chants; two index rows hitting the same chant is a red flag. (gregobase-sine-cum-alleluia-variants)
 - ~100 imported gregobase chants are ungrouped and unreachable by matchers, so a worse (even
   English) edition wins with a clean result. Hold, don't load-then-fix. (gregobase-ungrouped-import-tail)
-- A chant truly absent from gregobase gets a blank placeholder `local_chants` row (draft, empty
-  gabc) and `local:<uuid>`; keep the placeholder list for the user to transcribe. (lh-page-intake-pipeline)
+- A chant truly absent from gregobase gets a blank placeholder local chant (`chants` row `chant_uuid='local:<uuid>'`, `elements='[]'`) (draft); keep the placeholder list for the user to transcribe. (lh-page-intake-pipeline)
 - Fixing an index link later does not touch rows already loaded from it: repoint the
   `lit_part_sources` rows (and any GM twin). (gr-curated-index-fix-doesnt-reload)
 

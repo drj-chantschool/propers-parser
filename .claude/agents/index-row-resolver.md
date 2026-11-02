@@ -33,8 +33,9 @@ INSERT anything.**
      AND s.page IN (<p-1>,<p>,<p+1>)` (source id in BOOK.md).
    - Any edition: `SELECT id, incipit, mode, version, \`office-part\` FROM gregobase_chants WHERE
      incipit LIKE '<first two words>%'` and the condensed-prefix rule (`tools/index_util.py:prefix_match`).
-   - For each candidate: `chant_group_id` from `gregobase_chant_group_map` (none = ungrouped: report it,
-     an ungrouped chant can't be linked safely); `duplicateof`; the first ~200 chars of `gabc`.
+   - For each candidate: `chant_group_id` from `chants` (`chant_uuid='gregobase:<id>'`; no row = a
+     duplicate or stub the chants import skips: report it, it can't be linked); `duplicateof`; the first
+     ~200 chars of `gabc`.
 4. **Compare, in this order:** full opening words (not just the incipit's first word), mode, office-
    part, then the **opening neumes and one cadence** of the GABC against the engraving. Same text with
    a different melody is a different chant; same melody with different words is `unmatched`. Suffixes

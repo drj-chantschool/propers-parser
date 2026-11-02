@@ -31,7 +31,7 @@ def candidates(c, source, office_part, page):
     rows = c.execute(text(
         "SELECT g.id, g.incipit, g.mode, s.page, m.chant_group_id "
         "FROM gregobase_chant_sources s JOIN gregobase_chants g ON g.id = s.chant_id "
-        "LEFT JOIN gregobase_chant_group_map m ON m.gregobase_id = g.id "
+        "LEFT JOIN chants m ON m.origin_source = 'GREGOBASE' AND m.origin_id = CAST(g.id AS CHAR) "
         "WHERE s.source = :src AND s.page IN :pages AND g.`office-part` = :op AND g.duplicateof IS NULL"
     ).bindparams(bindparam("pages", expanding=True)),
         {"src": source, "pages": pages, "op": office_part}).all()

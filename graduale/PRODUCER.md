@@ -22,9 +22,10 @@ chants, each with a rough band), then refine.
 - PDF `graduale/graduale romanum.pdf` (PyMuPDF `fitz`); chapter/section splits under `graduale/<n>/`.
   The chant-body text layer is garbled (neume syllables interleave) and can crash `charmap`
   without `PYTHONUTF8=1`; headings and citations are usable.
-- Printed == pdf page up to ~p378; past that, unnumbered plates shift it (printed 402 = pdf 400).
-  Render by PRINTED page with `tools/render_page.py --book GRADUALE <p>`; for fitz block geometry
-  map via `graduale/page_mapping.json`. The loader stores `printed_page_num` and derives the pdf page.
+- Work in PRINTED pages only, never pdf page numbers (plates and inserts make them differ). Every
+  GR PDF (master and splits) carries the printed numbers as page labels: render with
+  `tools/render_page.py --book GRADUALE <p>`; for fitz block geometry take the page by label,
+  `doc[doc.get_page_numbers("<p>")[0]]`. The loader does the same.
 - Native Read rejects PDFs over ~4 pages / 450 KB as "password-protected" (a size limit):
   `tools/chunk_pdf.py`, or read page PNGs.
 

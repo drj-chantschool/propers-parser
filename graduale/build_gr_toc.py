@@ -2,12 +2,12 @@
 Build a bookmark outline (table of contents) for graduale romanum.pdf from the
 chapter/section meta.json files and the reviewed subsections*.json files.
 
-Page arithmetic (all 1-indexed):
-  chapter meta.page_offset C   = page in graduale romanum.pdf where the chapter starts
-  section meta.page_offset S   = page in the chapter PDF where the section starts
-  subsections.json "page" p    = page in the PDF that file describes
-  -> chapter-level file:  C + p - 1
-  -> section-level file:  C + S + p - 2
+Pages are PRINTED page numbers throughout, never pdf indices. Every PDF here (the master and
+the chapter/section splits) carries the printed numbers as page labels:
+  subsections.json "page" p  = p-th page of the PDF that file describes -> that page's label
+  hard-coded headings below  = printed page
+and main() finds the master page for a printed number by its label, so inserting or removing
+pages (e.g. the 2026-10-22 Addenda) never shifts anything.
 
 Usage:
   python build_gr_toc.py            # dry run: print outline
@@ -120,27 +120,27 @@ def clean(text):
 # ---- spec-derived headings ---------------------------------------------------
 # Chapters without a subsections file get their Mass headings from specs/*.json
 # (one spec per Mass; the spec's `label` carries the Latin title after " — ").
-# Group headings the specs can't supply are listed here: (level, title, pdf page, y),
+# Group headings the specs can't supply are listed here: (level, title, printed page, y),
 # page/y read off the text layer. Masses without chants of their own have no spec
 # and are listed here too.
 CH4_HEADINGS = [
-    (2, "MISSAE RITUALES", 638, 37),
-    (3, "I. In conferendis sacramentis initiationis christianae", 638, 89),
-    (3, "II. In conferendis sacris Ordinibus", 639, 295),
-    (3, "III. Ad ministrandum Viaticum", 640, 359),
-    (3, "IV. Pro sponsis", 640, 427),
-    (3, "V. In benedictione abbatis vel abbatissae", 642, 245),
-    (3, "VI. In die consecrationis virginum et in professione religiosorum", 642, 355),
-    (2, "MISSAE AD DIVERSA", 645, 38),
-    (3, "I. Pro sancta Ecclesia", 645, 76),
-    (3, "II. Pro rebus publicis", 648, 88),
-    (3, "III. In diversis circumstantiis publicis", 648, 387),
-    (3, "IV. Pro quibusdam necessitatibus particularibus", 652, 52),
-    (2, "MISSAE VOTIVAE", 653, 38),
-    (3, "De Ss.ma Trinitate", 653, 78),
-    (3, "De Mysterio S. Crucis", 653, 124),
-    (3, "De beata Maria Virgine", 657, 190),
-    (3, "De uno sancto Apostolo", 661, 382),
+    (2, "MISSAE RITUALES", 643, 37),
+    (3, "I. In conferendis sacramentis initiationis christianae", 643, 89),
+    (3, "II. In conferendis sacris Ordinibus", 644, 295),
+    (3, "III. Ad ministrandum Viaticum", 645, 359),
+    (3, "IV. Pro sponsis", 645, 427),
+    (3, "V. In benedictione abbatis vel abbatissae", 647, 245),
+    (3, "VI. In die consecrationis virginum et in professione religiosorum", 647, 355),
+    (2, "MISSAE AD DIVERSA", 650, 38),
+    (3, "I. Pro sancta Ecclesia", 650, 76),
+    (3, "II. Pro rebus publicis", 653, 88),
+    (3, "III. In diversis circumstantiis publicis", 653, 387),
+    (3, "IV. Pro quibusdam necessitatibus particularibus", 657, 52),
+    (2, "MISSAE VOTIVAE", 658, 38),
+    (3, "De Ss.ma Trinitate", 658, 78),
+    (3, "De Mysterio S. Crucis", 658, 124),
+    (3, "De beata Maria Virgine", 662, 190),
+    (3, "De uno sancto Apostolo", 666, 382),
 ]
 # group headings whose children are the specs that follow them
 CH4_GROUPS = {t for lvl, t, _, _ in CH4_HEADINGS
@@ -162,8 +162,38 @@ SPEC_TITLES = {
     "hildegardis-osb": "S. HILDEGARDIS, VIRGINIS",
 }
 
+# Addenda (printed 919-921): a later printing's supplement, scanned separately and
+# appended 2026-10-22 (replacing a stray CCWatershed web ad at the end of the book). The scan has no text layer,
+# so titles and y are read off the page image. (level, title, printed page, y)
+ADDENDA_HEADINGS = [
+    (1, "ADDENDA", 919, None),
+    (2, "ADDENDA IN GRADUALE ROMANO", 919, 58),
+    (3, "Die 5 ianuarii", 919, 99),
+    (4, "IN MISSA VESPERTINA IN VIGILIA EPIPHANIAE", 919, 108),
+    (3, "Hebdomada VI Paschae - Feria IV", 919, 189),
+    (4, "IN MISSA VESPERTINA IN VIGILIA ASCENSIONIS", 919, 198),
+    (3, "Die 9 augusti", 919, 307),
+    (4, "S. TERESIAE BENEDICTAE A CRUCE, VIRGINIS ET MARTYRIS", 919, 316),
+    (3, "Die 14 augusti", 919, 401),
+    (4, "S. MAXIMILIANI MARIAE KOLBE, PRESBYTERI ET MARTYRIS", 919, 410),
+    (3, "Die 20 septembris", 920, 152),
+    (4, "SS. ANDREAE KIM TAEGON, PRESBYTERI, ET PAULI CHONG HASANG ET SOCIORUM, MARTYRUM", 920, 161),
+    (3, "Die 23 septembris", 920, 248),
+    (4, "S. PII DE PETRELCINA, PRESBYTERI", 920, 257),
+    (3, "Die 11 octobris", 920, 339),
+    (4, "S. IOANNIS XXIII, PAPAE", 920, 348),
+    (3, "Die 22 octobris", 920, 434),
+    (4, "S. IOANNIS PAULI II, PAPAE", 920, 443),
+    (3, "Die 24 novembris", 921, 128),
+    (4, "SS. ANDREAE DUNG-LAC, PRESBYTERI, ET SOCIORUM, MARTYRUM", 921, 137),
+    (2, "ADDENDA IN MISSIS PROPRIIS ORDINIS SANCTI BENEDICTI", 921, 200),
+    (3, "Die 18 augusti (C.S.)", 921, 244),
+    (4, "BB. MARTYRUM BENEDICTINORUM PONTONUM RUPIFORTIUM", 921, 258),
+    (3, "Die 8 novembris (C.S.)", 921, 344),
+    (4, "OMNIUM SANCTORUM ORDINIS SANCTI P.N. BENEDICTI", 921, 358),
+]
+
 _doc = None
-_printed_to_pdf = None
 
 
 def doc():
@@ -173,20 +203,27 @@ def doc():
     return _doc
 
 
-def pdf_page_for(printed):
-    global _printed_to_pdf
-    if _printed_to_pdf is None:
-        mapping = load(GR / "page_mapping.json")["mapping"]
-        _printed_to_pdf = {v: int(k) for k, v in mapping.items() if v}
-    return _printed_to_pdf.get(printed)
+def index_of(printed):
+    """0-based index of the master-PDF page labelled `printed`, or None."""
+    hits = doc().get_page_numbers(str(printed))
+    return hits[0] if len(hits) == 1 else None
+
+
+def labels_of(pdfs):
+    """Printed page numbers (from page labels) of the pages of `pdfs`, concatenated."""
+    out = []
+    for f in pdfs:
+        d = fitz.open(f)
+        out += [int(d[i].get_label()) for i in range(d.page_count)]
+    return out
 
 
 def norm(text):
     return re.sub(r"[^a-z]", "", text.lower())
 
 
-def specs_between(first_pdf, last_pdf):
-    """(slug, title, pdf_page, y) for each spec whose first chant lies in the page range.
+def specs_between(first, last):
+    """(slug, title, printed page, y) for each spec whose first chant lies in the printed range.
     y is the heading found in the text layer, else just above the first chant's band."""
     out = []
     for f in sorted(SPECS.glob("*.json")):
@@ -195,26 +232,26 @@ def specs_between(first_pdf, last_pdf):
         if not chants:
             continue
         printed, band_top = min((c["page"], (c.get("band") or [60])[0]) for c in chants)
-        page = pdf_page_for(printed)
-        if page is None or not first_pdf <= page <= last_pdf:
+        i = index_of(printed)
+        if i is None or not first <= printed <= last:
             continue
         title = SPEC_TITLES.get(f.stem) or spec["label"].split(" — ")[-1].strip()
         key = norm(title)[:30]
         found = None
         # the BVM forms share prefixes (and A/B/C share a heading), so trust their bands
-        for p in () if f.stem.startswith("de-beata-maria-virgine") else (page, page - 1):
-            hits = [b[1] for b in doc()[p - 1].get_text("blocks")
+        for j in () if f.stem.startswith("de-beata-maria-virgine") else (i, i - 1):
+            hits = [b[1] for b in doc()[j].get_text("blocks")
                     if len(b[4]) < 120 and key in norm(b[4])]
             if hits:
-                found = (p, hits[0])
+                found = (int(doc()[j].get_label()), hits[0])
                 break
-        out.append((f.stem, title, *(found or (page, max(0, band_top - 25)))))
+        out.append((f.stem, title, *(found or (printed, max(0, band_top - 25)))))
     return sorted(out, key=lambda r: (r[2], r[3]))
 
 
 def chapter4_rows():
     items = [("h", lvl, t, p, y) for lvl, t, p, y in CH4_HEADINGS]
-    items += [("s", slug, t, p, y) for slug, t, p, y in specs_between(637, 661)
+    items += [("s", slug, t, p, y) for slug, t, p, y in specs_between(640, 666)
               if slug not in CH4_SKIP_SPECS]
     items.sort(key=lambda r: (r[3], r[4]))
     rows, group_lvl = [], 2
@@ -232,10 +269,10 @@ def chapter4_rows():
 
 
 def entries_for(chapter_dir):
-    """Yield (level, title, pdf_page, y) for one chapter; level 1 = chapter."""
+    """Yield (level, title, printed page, y) for one chapter; level 1 = chapter."""
     num = chapter_dir.name
-    c = load(chapter_dir / "meta.json")["page_offset"]
-    yield 1, CHAPTER_TITLES[num], c, None
+    chapter = labels_of(sorted(chapter_dir.glob("*.pdf")))   # 4/ is split in three
+    yield 1, CHAPTER_TITLES[num], chapter[0], None
 
     chapter_file = next((chapter_dir / f for f in ("subsections.json", "subsections_ai.json")
                          if (chapter_dir / f).exists()), None)
@@ -246,7 +283,7 @@ def entries_for(chapter_dir):
         for i, e in enumerate(entries):
             t = clean(e.get("text") or e.get("heading", ""))
             seen.add(t.lower())
-            row = [2 + e.get("level", 0), t, c + e["page"] - 1, e.get("y")]
+            row = [2 + e.get("level", 0), t, chapter[e["page"] - 1], e.get("y")]
             rows.append(row)
             if t in FEAST_TITLES:
                 nxt = entries[i + 1] if i + 1 < len(entries) else None
@@ -260,22 +297,22 @@ def entries_for(chapter_dir):
         for r in rows[ordo + 1:]:
             r[0] += 1
         # the Vigil has a spec but no subsections entry
-        for slug, title, page, y in specs_between(672, 672):
+        for slug, title, page, y in specs_between(678, 678):
             if slug == "ordo-exsequiarum-vigilia":
                 rows.insert(ordo + 1, [3, title, page, y])
     if num == "4":
         rows += chapter4_rows()
     if num == "7":
         # only the O.S.B. proper Masses have specs so far
-        rows.append([2, "MISSAE PROPRIAE ORDINIS SANCTI BENEDICTI", 849, 58])
-        rows += [[3, t, p, y] for _, t, p, y in specs_between(849, 879)]
+        rows.append([2, "MISSAE PROPRIAE ORDINIS SANCTI BENEDICTI", 858, 58])
+        rows += [[3, t, p, y] for _, t, p, y in specs_between(858, 889)]
 
     sections = sorted((d for d in chapter_dir.iterdir()
                        if d.is_dir() and d.name.split("_")[0].isdigit()
                        and (d / "meta.json").exists()),
                       key=lambda d: int(d.name.split("_")[0]))
     for d in sections:
-        s = load(d / "meta.json")["page_offset"]
+        section = labels_of([next(d.glob("0_*.pdf"))])
         sub = d / "subsections.json"
         if chapter_file:
             # chapter-level file already lists sections; only add headings it lacks,
@@ -284,12 +321,12 @@ def entries_for(chapter_dir):
                 for e in load(sub):
                     t = clean(e.get("text") or e.get("heading", ""))
                     if t.lower() not in seen:
-                        page = c + s + e["page"] - 2
+                        page = section[e["page"] - 1]
                         at = max(i for i, r in enumerate(rows) if r[2] <= page) + 1
                         rows.insert(at, [3 + e.get("level", 0), t, page, e.get("y") or None])
             continue
         title = clean(load(d / "meta.json")["title"])
-        rows.append([2, title, c + s - 1, None])
+        rows.append([2, title, section[0], None])
         if sub.exists():
             entries = load(sub)
             top = [e for e in entries if e.get("level", 0) == 0]
@@ -297,7 +334,7 @@ def entries_for(chapter_dir):
                 t = clean(e.get("text") or e.get("heading", ""))
                 if len(top) == 1 and e is top[0] and t.lower() == title.lower():
                     continue  # sole top heading just repeats the section title
-                rows.append([3 + e.get("level", 0), t, c + s + e["page"] - 2, e.get("y")])
+                rows.append([3 + e.get("level", 0), t, section[e["page"] - 1], e.get("y")])
     yield from rows
 
 
@@ -308,20 +345,22 @@ def build():
                      key=lambda d: int(d.name)):
         for lvl, title, page, y in entries_for(ch):
             toc.append([lvl, title, page, y])
+    toc += [list(h) for h in ADDENDA_HEADINGS]
     return toc
 
 
 def main():
     toc = build()
     doc = fitz.open(PDF)
-    n = doc.page_count
     out, prev = [], 0
-    for lvl, title, page, y in toc:
+    for lvl, title, printed, y in toc:
         lvl = min(lvl, prev + 1)
         prev = lvl
-        if not 1 <= page <= n:
-            print(f"!! page {page} out of range: {title}")
+        i = index_of(printed)
+        if i is None:
+            print(f"!! no page labelled {printed}: {title}")
             continue
+        page = i + 1
         if y:
             dest = {"kind": fitz.LINK_GOTO, "page": page - 1,
                     "to": fitz.Point(0, max(0, y - 20)), "zoom": 0}

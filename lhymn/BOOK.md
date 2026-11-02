@@ -65,8 +65,8 @@ completed 2026-10-18; the queue is kept as the record. To redo a page: `Q reset 
   Sanctorale (from p541) waits on lane B's Commons, expected; dependency checks read the QUEUE status,
   so `Q finish` a newly loaded Common page before retrying its dependents; 1 → `error` + log.
 - **Allowed without asking:** a missing OSB saint epoch (kind `saint`, child of `OSB-PROPRIUM`, plus a
-  `proper_of_saints` row with jurisdiction `OSB`); a placeholder `local_chants` row (version LH1983,
-  empty gabc, draft) for a chant absent from gregobase — add it to the placeholder list in the log.
+  `proper_of_saints` row with jurisdiction `OSB`); a placeholder local chant (`chants` row `chant_uuid='local:<uuid>'`, `elements='[]'`) (version LH1983,
+  draft) for a chant absent from gregobase — add it to the placeholder list in the log.
 
 ## Known decisions
 `lhymn/specs/README.md` "User rulings"; memory `lh-page-intake-pipeline`.

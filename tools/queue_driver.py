@@ -449,10 +449,12 @@ def next_job(db, a, last, dropped):
         nd, rule, _ = plan(db, a, u, last, job)
         if nd <= now():
             return job, u
-        msg = f"next: {job.key} at {nd.astimezone():%a %H:%M} — {rule}"
-        if msg != shown:
-            say(msg)
-            shown = msg
+        # print only real changes: the plan drifts a minute per re-poll as the hours left to the reset
+        # shrink (every re-plan is still in `decisions`)
+        kind = (job.key, rule.split(":")[0])
+        if not isinstance(shown, tuple) or shown[0] != kind or abs((nd - shown[1]).total_seconds()) > 600:
+            say(f"next: {job.key} at {nd.astimezone():%a %H:%M} — {rule}")
+            shown = (kind, nd)
         if not sleep_until(min(nd, now() + dt.timedelta(minutes=a.repoll))):
             return None, "STOP file"
 

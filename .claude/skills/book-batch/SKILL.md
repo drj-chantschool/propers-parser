@@ -143,7 +143,7 @@ on each cited page and every same-page collision (LESSONS §6).
 - Error you can't fix → `Q finish <u> error --note "…"` and `Q log "⛔ <u>: …"`.
 
 Also `Q log` any ⚠ you accepted, and anything structural you created (an epoch, a saint, a
-placeholder `local_chants` row). New tables, columns or `service_part` rows are schema changes: hold
+placeholder local chant (`chants` row `chant_uuid='local:<uuid>'`, `elements='[]'`)). New tables, columns or `service_part` rows are schema changes: hold
 and ask. When the same producer mistake shows up twice, add a one-line rule to the contract README's
 "Known quirks" and log that you did.
 

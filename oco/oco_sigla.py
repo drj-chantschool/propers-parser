@@ -248,6 +248,37 @@ PLACE_QUALIFIERS = [  # suffixes of a place code → option_txt (order matters)
 ]
 
 
+# Subject qualifiers are modelled as sub-epochs, not option_txt (user, 2026-10-23: "any time option text can be
+# modelled by our data structure, do that. They should go in sub-epochs"). Unambiguous ones are mapped here;
+# the rest stay option_txt in the proposal and page_draft.py notes them for the producer to place from the page.
+SUBJECT_EPOCHS = {
+    ("COM-SANCT-VIR", "pro pluribus"): ["COM-SANCT-VIR-PLUR"],
+    ("COM-SANCT-MULIER", "pro pluribus"): ["COM-SANCT-MULIER-PLUR"],
+    ("COM-PAST", "pro pluribus"): ["COM-PAST-PLUR"],
+    ("COM-VIRG", "pro pluribus"): ["COM-VIRG-PLUR"],
+    ("COM-PAST", "pro papa vel episcopo"): ["COM-PAST-UNO-PAPA", "COM-PAST-UNO-EPISC"],
+    ("COM-PAST", "pro presbytero"): ["COM-PAST-UNO-PRESB"],
+}
+SUBJECT_WORDS = re.compile(r"^pro (?!ecclesiis)", re.I)  # 'pro ecclesiis minoribus' is no subject
+
+
+def sub_epochs(slug, option_txt):
+    """(slugs, option_txt) after moving subject qualifiers into sub-epochs; ambiguous ones are kept."""
+    opts = [o for o in (option_txt or "").split(", ") if o]
+    slugs = [slug]
+    for o in list(opts):
+        hit = SUBJECT_EPOCHS.get((slug, o.lower()))
+        if hit:
+            slugs = hit
+            opts.remove(o)
+    # Ante/Post Ascensionem is already said by the PASC-AD_ASC / PASC-POST_ASC epoch
+    if slug and slug.startswith(("PASC-AD_ASC", "PASC-OCT")) and "Ante Ascensionem" in opts:
+        opts.remove("Ante Ascensionem")
+    if slug and slug.startswith(("PASC-POST_ASC", "PASC-ASC")) and "Post Ascensionem" in opts:
+        opts.remove("Post Ascensionem")
+    return slugs, ", ".join(opts) or None
+
+
 def split_place(place):
     """'Mbc ad lib' → ('M', 'bc', None, ['Ad libitum']); '2TpA' → ('2', '', None, [...])."""
     p, opts = (place or "").strip(), []
@@ -432,11 +463,13 @@ def targets(row, saints, override=None):
               for s, p, e in ps]
     out = []
     for d, (svc, part, extra) in product(ds, ps):
-        out.append({"slug": d["slug"], "wkday": d.get("wkday"), "wknum_mod_2": d.get("wknum_mod_2"),
-                    "wknum_mod_4": d.get("wknum_mod_4"), "rank_codes": d.get("rank_codes"),
-                    "cycle_sun": extra.get("cycle_sun"), "cycle_wkday": extra.get("cycle_wkday"),
-                    "service": svc, "part": part, "option_num": extra.get("option_num"),
-                    "option_txt": ", ".join(x for x in (d.get("option_txt"), extra.get("option_txt")) if x) or None})
+        slugs, opt = sub_epochs(d["slug"], ", ".join(x for x in (d.get("option_txt"), extra.get("option_txt")) if x))
+        for slug in slugs:
+            out.append({"slug": slug, "wkday": d.get("wkday"), "wknum_mod_2": d.get("wknum_mod_2"),
+                        "wknum_mod_4": d.get("wknum_mod_4"), "rank_codes": d.get("rank_codes"),
+                        "cycle_sun": extra.get("cycle_sun"), "cycle_wkday": extra.get("cycle_wkday"),
+                        "service": svc, "part": part, "option_num": extra.get("option_num"),
+                        "option_txt": opt})
     return out, None
 
 

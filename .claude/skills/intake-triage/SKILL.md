@@ -25,8 +25,8 @@ Your job is to make an answer **happen**. Protocol and column shapes:
    Stop.
 4. **Carry it out.** Typical changes: edit the held spec(s) and dry-run / load / `--verify` them with
    the book's loader (its `BOOK.md` says how to load and verify); fix a `chant_indices` row (then repoint already-loaded
-   `lit_part_sources` rows — loaders never overwrite `chant_uuid`); create a placeholder
-   `local_chants` row; a loader change. Schema/API changes get a `../maintenance.md` entry.
+   `lit_part_sources` rows — loaders never overwrite `chant_uuid`); create a
+   placeholder local chant (`chants` row `chant_uuid='local:<uuid>'`, `elements='[]'`); a loader change. Schema/API changes get a `../maintenance.md` entry.
 5. **Standing rule?** If `is_standing_rule=1` (or the answer is plainly general), add it to the
    contract README's "User rulings" with the date and `intake_queue #<id>`, and to the book's
    memory file if one exists.

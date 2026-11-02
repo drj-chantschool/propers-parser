@@ -74,7 +74,7 @@ def main():
             key = condense(full).replace("oe", "ae")
             cands = c.execute(text(
                 "SELECT g.id, g.incipit, g.mode, g.version, g.cantusid, m.chant_group_id grp, g.gabc FROM gregobase_chants g "
-                "LEFT JOIN gregobase_chant_group_map m ON m.gregobase_id=g.id WHERE g.`office-part`=:op "
+                "LEFT JOIN chants m ON m.origin_source = 'GREGOBASE' AND m.origin_id = CAST(g.id AS CHAR) WHERE g.`office-part`=:op "
                 "AND g.duplicateof IS NULL AND g.incipit LIKE :w"),
                 {"op": op, "w": " ".join(re.findall(r"\w+", r["incipit"])[:1]) + "%"}).all()
             for g in cands:

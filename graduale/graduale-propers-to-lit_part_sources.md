@@ -65,8 +65,8 @@ One row per proper chant of a Mass. Columns and where each value comes from:
 | `cycle_sun` | anno A/B/C or I/II marker | usually null |
 | `cycle_wkday` | week-parity marker | usually null |
 | `part_id` | chant kind label above drop-cap → `service_part.part_code` → **`part_id`** | **REQUIRED**. The column is now `part_id BIGINT` (FK → `service_part(part_id)`); the old `service_part VARCHAR` was dropped 2026-06-19. The loader's spec still uses codes (in/gr/tr/al/of/co/seq/tr2/gr2) and maps code→part_id. |
-| `original_text` | **left NULL for GRADUALE rows** | OCR of the engraved text is unreliable; the Latin text is reached via `chant_uuid` → `v_chant_item`/gregobase instead of being copied/OCR'd in. |
-| `chant_uuid` | the matched gregobase chant as `v_chant_item.chant_item_uid` (`gregobase:<id>`) | **the chant identity link** (varchar(80), added by step 7d). Found by incipit + service_part + mode. No FK (target is a view). |
+| `original_text` | **left NULL for GRADUALE rows** | OCR of the engraved text is unreliable; the Latin text is reached via `chant_uuid` → `chants` instead of being copied/OCR'd in. |
+| `chant_uuid` | the matched gregobase chant as `chants.chant_uuid` (`gregobase:<id>`) | **the chant identity link** (varchar(80), added by step 7d). Found by incipit + service_part + mode. |
 | `vernacular_text` | English translation | NOT in GR; left null for GRADUALE rows (existing GR rows have it null) |
 | `text_src` | scripture citation printed top-right of the chant | e.g. "Is. 9, 6; Ps. 97", "Zach. 9, 9" — in text layer, fairly clean |
 | `original_lang` | 'la' | default |
@@ -383,7 +383,7 @@ page (drop-cap/part-label position via the text layer, confirmed by vision).
 So: **index = which chants + their identity/part/mode (the checklist); body page (text-layer +
 vision) = where each chant starts (for ordering, epoch assignment, and the stored `bbox`).**
 `original_text` (full antiphon) comes from the **matched gregobase chant**
-(`gregobase_chants_texts` via `gregobase_chant_group_map`), keyed on index incipit + mode + part.
+(`gregobase_chants_texts`, groups from `chants`), keyed on index incipit + mode + part.
 
 ⚠ **Data-quality note:** `gr_index_entry.page` has OCR artifacts (values up to 5518; valid body
 pages are ≤ ~900). Sanity-check the page number before using it as a join/boundary key.
@@ -433,7 +433,7 @@ its own home; a column there is acceptable for now.) Note `gregobase_chants` alr
    be mid-page) to (a) order the chants and (b) assign each to the heading above it. Drop chants
    whose start-y is above this subsection's start-y on the first page (previous Mass's tail).
 4. For each engraved chant: match to gregobase (via incipit+service_part+mode) → set
-   **`chant_uuid`** = the matched chant's `v_chant_item.chant_item_uid` (`gregobase:<id>`). Leave
+   **`chant_uuid`** = the matched chant's `chants.chant_uuid` (`gregobase:<id>`). Leave
    `original_text` **NULL** (the text is reachable via `chant_uuid`; do NOT OCR it). Read `text_src`
    (citation) from the page text layer (vision to verify) — this is additive 1974-GR data.
 5. Resolve any **cross-reference** (not-engraved) chants named in the page rubrics: they specify an
@@ -478,13 +478,13 @@ gregobase match yields full Latin text *and* `chant_group_id` (the join key the 
 
 ### chant_uuid realignment (user direction, 2026-06-19)
 **Don't OCR or copy the chant's Latin text. Identify the chant and LINK it.** Schema step 7d added
-`lit_part_sources.chant_uuid VARCHAR(80) NULL` holding a `v_chant_item.chant_item_uid`
-(`gregobase:<id>` or `local:<uuid>`; no FK — target is a view). The loader now:
+`lit_part_sources.chant_uuid VARCHAR(80) NULL` holding a `chants.chant_uuid` (`v_chant_item` until
+2026-10-23) (`gregobase:<id>` or `local:<uuid>`). The loader now:
 - matches the chant to gregobase (incipit + service_part + mode, exact-first) and sets
-  `chant_uuid='gregobase:<id>'`; it **requires** the match to be present in `v_chant_item` (i.e. to
-  have a `chant_group_id`) and fails otherwise — so `chant_uuid` always points at a live view row.
+  `chant_uuid='gregobase:<id>'`; it **requires** the match to be present in `chants` and fails
+  otherwise — so `chant_uuid` always points at a live row.
 - leaves **`original_text` NULL** (user decision): the full Latin text is reached via
-  `chant_uuid` → `v_chant_item`/gregobase, not duplicated and never OCR'd (OCR is unreliable).
+  `chant_uuid` → `chants`, not duplicated and never OCR'd (OCR is unreliable).
 - gained a **`--reconcile`** mode that UPDATEs already-loaded rows to current computed values; used it
   to backfill `chant_uuid` and NULL `original_text` on the 5 AD MISSAM IN DIE rows (1466–1470).
 

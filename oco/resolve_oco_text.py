@@ -49,7 +49,7 @@ def main():
         by_key = defaultdict(list)  # (office-part, first KEY letters) → [(id, lyrics, group)]
         for g in c.execute(text(
                 "SELECT g.id, g.`office-part` op, g.gabc, m.chant_group_id grp FROM gregobase_chants g "
-                "LEFT JOIN gregobase_chant_group_map m ON m.gregobase_id=g.id "
+                "LEFT JOIN chants m ON m.origin_source = 'GREGOBASE' AND m.origin_id = CAST(g.id AS CHAR) "
                 "WHERE g.duplicateof IS NULL AND g.`office-part` IN ('an','rb','re')")):
             ly = fold(lyrics(g.gabc))
             if len(ly) >= KEY:

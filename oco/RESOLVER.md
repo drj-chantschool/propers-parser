@@ -1,3 +1,8 @@
+> **RETIRED 2026-10-23.** The index-rows and conflicts stages are closed: OCO is now worked page by page
+> (`oco/PRODUCER.md`, contract `oco/specs/README.md`), because the page, not the index, is the authority
+> for lit_part_sources (user). Kept as the record of how ~2,200 legacy rows were loaded. Its identity rules
+> live on in the contract's "Identity" section.
+
 # OCO — index-rows stage: instructions for the `index-row-resolver` agent
 
 You resolve ONE `chant_indices` row of the Ordo Cantus Officii (book `OCO`, unit `r<row_id>`) and

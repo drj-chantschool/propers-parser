@@ -1,0 +1,33 @@
+{
+ "page": "337",
+ "page_kind": "assign",
+ "context_in": "Hebdomada VI Paschae > Feria V > Laudes > B Modicum et non runs over from p336",
+ "context_out": "Feria VI > Laudes > B Mulier cum parit (staff runs over to p338)",
+ "continues": {"from_page": "336", "incipit": "Modicum et non videbitis me"},
+ "rows": [
+  {
+   "incipit": "Tristitia vestra", "kind": "engraved", "mode": "8g",
+   "text": "Tristitia vestra vertetur in gaudium, et gaudium vestrum nemo tollet a vo",
+   "index_id": 2987, "chant_uuid": null, "chant_group_id": null,
+   "lit_epoch_slug": "PASC-AD_ASC-06-5", "service": "VESPERS", "part": "antM",
+   "wkday": null, "wknum_mod_2": null, "wknum_mod_4": null, "rank_codes": null,
+   "cycle_sun": null, "cycle_wkday": null, "option_num": 1, "option_txt": null, "rubric": null
+  },
+  {
+   "incipit": "Mulier cum parit", "kind": "engraved", "mode": "7a",
+   "text": "Mulier, cum parit, tristitiam habet, quia venit hora eius; cum autem pepe",
+   "index_id": 2115, "chant_uuid": "gregobase:14861", "chant_group_id": null,
+   "lit_epoch_slug": "PASC-AD_ASC-06-6", "service": "LAUDS", "part": "antB",
+   "wkday": null, "wknum_mod_2": null, "wknum_mod_4": null, "rank_codes": null,
+   "cycle_sun": null, "cycle_wkday": null, "option_num": 1, "option_txt": null, "rubric": null,
+   "notes": "CAO 3819; candidates 14861 (Verona m7, c3 opening e e g h ij i matches the engraving's two low notes then rising) vs 4544 (Solesmes m6, differs)."
+  }
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Top of page is the tail of p336 Modicum et non videbitis (Feria V Lauds B): continues, no row.",
+  "Tristitia vestra (Vesp. M, printed before the Feria VI heading) is Feria V Vespers; engraving ref AM 490.",
+  "Mulier cum parit staff begins at page foot and runs over to p338; margin number 86 underlined (unknown meaning)."
+ ]
+}

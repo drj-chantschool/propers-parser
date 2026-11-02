@@ -1,0 +1,35 @@
+{
+ "page": "83",
+ "page_kind": "assign",
+ "context_in": "Tempus Nativitatis > S. Familiae > II Vesp. > ant1 'Post triduum' (engraving runs over from p82)",
+ "context_out": "Tempus Nativitatis > S. Familiae > II Vesp. > resp 'Debuit per omnia' (Ɽ br.) runs over to p84",
+ "continues": {"from_page": "82", "incipit": "Post triduum"},
+ "rows": [
+  {"incipit": "Descendit Iesus cum eis", "kind": "engraved", "mode": "8g",
+   "text": "Descendit Iesus cum eis et venit Nazareth, et erat + subditus illis.",
+   "index_id": 1014, "chant_uuid": "gregobase:16720",
+   "lit_epoch_slug": "NAT-IO-01-0", "service": "VESPERS", "part": "ant2",
+   "option_num": 1, "option_txt": null, "rubric": null,
+   "notes": "Lc 2,51; ARII 65 cites 16720. Opening g gf d, Ie(ef) sus(gh) cum(h) e(g)is, Ná(jk) matches; same group as Verona 14363."},
+  {"incipit": "Puer Iesus proficiebat", "kind": "engraved", "mode": "6f",
+   "text": "Puer Iesus proficiebat ætate et sapientia coram Deo et hominibus.",
+   "index_id": 2444, "chant_uuid": "gregobase:14431",
+   "lit_epoch_slug": "NAT-IO-01-0", "service": "VESPERS", "part": "ant3",
+   "option_num": 1, "option_txt": null, "rubric": null,
+   "notes": "Lc 2,52; CAO 4410; ARII 66. Candidates 2178/8341/13006 (Solesmes, 'Je'/'ae') vs Verona 14431 (Iesus, æ, same spelling as the page); melodies differ only in small ornaments (ffg vs ffog on sus; a-end). Verona chosen as on p82."},
+  {"incipit": "Debuit per omnia", "kind": "engraved", "mode": "6",
+   "text": "Debuit per omnia fratribus similari * Ut misericors fieret. In terris visus",
+   "index_id": 3273, "chant_uuid": "gregobase:8244",
+   "lit_epoch_slug": "NAT-IO-01-0", "service": "VESPERS", "part": "resp",
+   "option_num": 1, "option_txt": null, "rubric": null,
+   "notes": "Heb 2,17; ARII 67. Engraving begins at foot of p83, continues on p84. Index identity 8244."}
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Post triduum (II Vesp. ant1, begun p82) ends at top of this page (los et interrogantem eos. Euouae): continues, no row.",
+  "Index #1015 'Descendit Iesus cum eis' (19/3, II Vesp. ant3, St Joseph) links to this page but p83 prints it only under S. Familiae ant2; not placed. Index-only claim.",
+  "Puer Iesus identity: Solesmes and Verona editions differ only in minor ornaments; 14431 chosen for spelling consistent with the OCO text.",
+  "Responsory Debuit per omnia: engraving continues on p84 (verse, Gloria)."
+ ]
+}

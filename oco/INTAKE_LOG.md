@@ -176,3 +176,5 @@
 - 2026-11-01 16:34 — ⚠ p1029 accepted: 'Martyres Domini' (TQ, CAO 3717) has no gregobase chant, allow_unresolved row, no local placeholder created
 - 2026-11-01 16:34 — batch 56: 602 loaded (4 rows), 57 loaded (2), 1029 loaded (3), 311 loaded (2)
 - 2026-11-01 16:34 — batch 56 correction: p1029 first verify FAILED (replace+adopt of legacy 11036 in one load, same as p601); second load inserted TP opt3 row, VERIFY PASS. p1029 'Martyres Domini' and p1028 'Cum essent in tormentis' still allow_unresolved rows, no placeholder chants yet (review)
+- 2026-11-01 19:16 — ⚠ accepted: p603 Vocem meam audi and p1030 Lætitia sempiterna (TP) loaded unresolved (no gregobase chant); p312 3 legacy rows replaced (index years crossed vs page)
+- 2026-11-01 19:16 — batch 57: 603 loaded (3 rows), 58 loaded (2), 1030 loaded (2), 312 loaded (7)

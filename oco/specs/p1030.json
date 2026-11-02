@@ -1,0 +1,34 @@
+{
+ "page": "1030",
+ "page_kind": "assign",
+ "context_in": "COMMUNIA > Plurimorum martyrum > Laudes > ant 3 'Martyrum chorus' (tail at top of p1030, TP: Dominum alleluia)",
+ "context_out": "COMMUNIA > Plurimorum martyrum > Laudes > resp br. TP: 'Lætitia sempiterna' (staff and doxology run on to p1031)",
+ "continues": {"from_page": "1029", "incipit": "Martyrum chorus"},
+ "rows": [
+  {
+   "chant_group_id": null, "lit_epoch_slug": "COM-MART-PLUR", "wkday": null, "wknum_mod_2": null, "wknum_mod_4": null,
+   "rank_codes": null, "cycle_sun": null, "cycle_wkday": null, "rubric": null,
+   "service": "LAUDS", "option_num": 1, "option_txt": null,
+   "incipit": "Iusti autem", "kind": "engraved", "mode": "6",
+   "text": "Iusti autem * In perpetuum vivent. Et apud Dominum est merces eorum",
+   "index_id": 3339, "chant_uuid": "gregobase:16700", "part": "resp",
+   "notes": "p1030 Ɠ br. 6, Sap 5,16, CAO 7053, AR 35; 16700 c4 f f gh hg, in per-pé-tu-um f gh g f g g f, Et a-pud h h h, e-ó-rum hg matches."
+  },
+  {
+   "chant_group_id": null, "lit_epoch_slug": "COM-MART-PLUR", "wkday": null, "wknum_mod_2": null, "wknum_mod_4": null,
+   "rank_codes": null, "cycle_sun": null, "cycle_wkday": null, "rubric": null,
+   "service": "LAUDS", "option_num": 2, "option_txt": "Tempore paschali",
+   "incipit": "Lætitia sempiterna", "kind": "engraved", "mode": "6",
+   "text": "Lætitia sempiterna super capita eorum * Alleluia alleluia. Gaudium et læ",
+   "index_id": 3348, "chant_uuid": null, "allow_unresolved": true, "part": "resp",
+   "notes": "p1030 TP: Ɠ br. 6, Is 35,10, AR 27; only gregobase:16694 has this text, but it is a mode-8 antiphon, different melody. Siglum TP."
+  }
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Index dest 'PlM TP UnM TP' for Lætitia sempiterna also covers Unius martyris; the page prints it only under Plurimorum martyrum, so only COM-MART-PLUR is modelled (draft's PASC and COM-MART-UNO rows dropped).",
+  "Option numbering: Iusti autem option 1, TP Lætitia option 2 by order of printing; option_txt carries the season.",
+  "Lætitia sempiterna (mode 6 responsory) has no gregobase chant: allow_unresolved. Its text continues onto p1031 (doxology), no further row."
+ ]
+}

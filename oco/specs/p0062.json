@@ -1,0 +1,29 @@
+{
+ "page": "62",
+ "page_kind": "assign",
+ "context_in": "Tempus Adventus > Antiphonae ipsis diebus decembris a 17 ad 24 assignatae > Die 22 decembris > Vesp. M 'O Rex gentium' (hidden text at foot of p61, staff begins p62)",
+ "context_out": "Tempus Adventus > Antiphonae ipsis diebus decembris a 17 ad 24 assignatae > Die 23 decembris > Laudes B 'Ecce completa' complete; hidden text of Vesp. M 'O Emmanuel' at foot, staff begins p63",
+ "continues": null,
+ "rows": [
+  {"incipit": "O Rex gentium", "kind": "engraved", "mode": "2d",
+   "text": "O Rex gentium et desideratus earum, lapisque angularis qui facis utraqu",
+   "index_id": 2277, "chant_uuid": null, "chant_group_id": 2133,
+   "lit_epoch_slug": "ADV-II-00-6", "service": "VESPERS", "part": "antM",
+   "wkday": null, "wknum_mod_2": null, "wknum_mod_4": null, "rank_codes": null,
+   "cycle_sun": null, "cycle_wkday": null, "option_num": 1, "option_txt": null, "rubric": null,
+   "notes": "p62 2d; CAO 4078, ARII 45; group 2133 (all members O Rex gentium m2, same melody family); staff begins p62, hidden text on p61 (Die 22 decembris)"},
+  {"incipit": "Ecce completa", "kind": "engraved", "mode": "8c",
+   "text": "Ecce completa sunt omnia quæ dicta sunt per Angelum de Virgine Maria",
+   "index_id": 1219, "chant_uuid": "gregobase:4467", "chant_group_id": null,
+   "lit_epoch_slug": "ADV-II-00-7", "service": "LAUDS", "part": "antB",
+   "wkday": null, "wknum_mod_2": null, "wknum_mod_4": null, "rank_codes": null,
+   "cycle_sun": null, "cycle_wkday": null, "option_num": 1, "option_txt": null, "rubric": null,
+   "notes": "p62 8c; CAO 2498; AM 220; 4467 opening j ji, sunt hg~, omni h, Ange(e e f) match; 7458 (AM 220) has single-note 'sunt' and gh 'omni', does not match"}
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Vesp. M 'O Emmanuel' (Die 23 decembris, index #2265): only its hidden text is on p62; the staff begins on p63, so its row belongs to p63.",
+  "Legacy loaded row text_id 10738 (ADV-II-00-7 VESPERS.antM, index #2265) is that p63 chant; not claimed here."
+ ]
+}

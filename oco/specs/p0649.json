@@ -1,0 +1,83 @@
+{
+ "page": "649",
+ "page_kind": "assign",
+ "context_in": "Hebdomada III > Feria VI > Off. lect. > ant1 Zelus domus tuae continues from p648",
+ "context_out": "Hebdomada III > Feria VI > Laudes > ant1 Tibi soli peccavi staff begins here, runs over to p650",
+ "continues": {
+  "from_page": "648",
+  "incipit": "Zelus domus tuae"
+ },
+ "rows": [
+  {
+   "incipit": "Tibi soli peccavi",
+   "kind": "engraved",
+   "index_id": 2964,
+   "chant_uuid": "gregobase:10425",
+   "chant_group_id": null,
+   "mode": "8g",
+   "text": "Tibi soli peccavi, Domine; miserere mei.",
+   "lit_epoch_slug": null,
+   "service": "LAUDS",
+   "part": "ant1",
+   "wkday": 6,
+   "wknum_mod_2": null,
+   "wknum_mod_4": 3,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "notes": "p649 8g; identity from index #2964, to be checked in dry-run",
+   "rubric": null
+  },
+  {
+   "incipit": "Consolantem me",
+   "kind": "engraved",
+   "index_id": 869,
+   "chant_uuid": "gregobase:11068",
+   "chant_group_id": null,
+   "mode": "8c",
+   "text": "Consolantem me quæsivi, et non inveni; dederunt in escam meam fel, et i",
+   "lit_epoch_slug": null,
+   "service": "OFFREAD",
+   "part": "ant2",
+   "wkday": 6,
+   "wknum_mod_2": null,
+   "wknum_mod_4": 3,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "notes": "p649 8c; identity from index #869, to be checked in dry-run"
+  },
+  {
+   "incipit": "Quærite Dominum",
+   "kind": "engraved",
+   "index_id": 2590,
+   "chant_uuid": "gregobase:14237",
+   "chant_group_id": null,
+   "mode": "8g",
+   "text": "Quærite Dominum, et vivet anima vestra.",
+   "lit_epoch_slug": null,
+   "service": "OFFREAD",
+   "part": "ant3",
+   "wkday": 6,
+   "wknum_mod_2": null,
+   "wknum_mod_4": 3,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "notes": "p649 8g; identity from index #2590, to be checked in dry-run"
+  }
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Laudes H Ut in hebd. I.: week I hymn row covers week III; no row (as p645/p648).",
+  "Margin numbers 2 and 3 are plain antiphon numbers.",
+  "Tibi soli peccavi staff begins here and likely continues on p650."
+ ]
+}

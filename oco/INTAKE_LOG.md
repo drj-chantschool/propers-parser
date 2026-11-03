@@ -264,3 +264,4 @@
 - 2026-11-03 07:19 — ⚠ p1075 Sacerdotes tui resp br. (6, COM-PAST-PLUR opt1 and TP opt2) loaded unresolved: no gregobase mode-6 match, no placeholder (review). p103 identities from index, not neume-compared; p357 Dum venerit 14797 partial melody check, Pater sancte 4550 mode 4 vs printed 2*-4a acknowledged. p648 Elegit 10747 by asterisk placement
 - 2026-11-03 07:19 — p1075 correction: TP row option_num null -> 2 in spec, reloaded (1 stale pruned), VERIFY PASS. Added README Known quirk (second occurrence after p1065)
 - 2026-11-03 07:19 — batch 102: 648 loaded (5 rows; 2 xref), 103 loaded (3), 1075 loaded (2; 2 unresolved), 357 loaded (2). Director viewed all four renders
+- 2026-11-03 09:35 — batch 103: 649 loaded (3 rows), 104 loaded (2; resp Christe Fili Dei vivi unresolved, CAO 6276 verse has no gregobase match), 1076 loaded (10; 3 legacy LAUDS.antB replaced), 358 loaded (2; Exspectate promissum = Verona 14828 by melody, medium confidence)

@@ -1,0 +1,45 @@
+{
+ "page": "355",
+ "page_kind": "assign",
+ "continues": {"from_page": "354", "incipit": "Non pro his rogo"},
+ "context_in": "Hebdomada VII Paschae > Dominica > Laudes Bc (year C, Io 17,20.21) 'Non pro his rogo' running over from p354",
+ "context_out": "Hebdomada VII Paschae > Feria II > Laudes B 'Ecce nunc palam loqueris' runs over to p356",
+ "rows": [
+  {
+   "incipit": "Cum venerit Paraclitus",
+   "kind": "engraved",
+   "index_id": 935,
+   "chant_uuid": "gregobase:10290",
+   "mode": "8g",
+   "text": "Cum venerit Paraclitus quem ego mittam vobis, Spiritum veritatis qui a P",
+   "lit_epoch_slug": "PASC-POST_ASC-07-1",
+   "service": "VESPERS",
+   "part": "antM",
+   "option_num": 1,
+   "option_txt": null,
+   "notes": "Io 15,26; CAO 2043; ARII 274; index #935 gregobase:10290 (dry-run identity line)",
+   "rubric": null
+  },
+  {
+   "incipit": "Ecce nunc palam",
+   "kind": "engraved",
+   "index_id": 1246,
+   "chant_uuid": "gregobase:14800",
+   "mode": "8g2",
+   "text": "Ecce nunc palam loqueris et proverbium nullum dicis; nunc scimus, quia",
+   "lit_epoch_slug": "PASC-POST_ASC-07-2",
+   "service": "LAUDS",
+   "part": "antB",
+   "option_num": 1,
+   "option_txt": null,
+   "notes": "Io 16,29-30; CAO 2530; index #1246 gregobase:14800; engraving continues on p356",
+   "rubric": null
+  }
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Top of page: tail of Bc 'Non pro his rogo' (engraved p354). Margin number 90 (underlined) beside II Vesp. M: link of unknown meaning, no row.",
+  "'Ecce nunc palam' engraving continues past the foot of the page."
+ ]
+}

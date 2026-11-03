@@ -1,0 +1,164 @@
+{
+ "page": "355",
+ "toc_in_force": [
+  "L4 Hebdomada VII Paschae p351",
+  "L5 Dominica p351",
+  "L5 Feria II p355"
+ ],
+ "reading": [
+  {
+   "y": 261.8,
+   "kind": "ENGRAVING",
+   "text": "Cum venerit Paraclitus quem ego mittam vobis, Spiritum veritatis qui a P"
+  },
+  {
+   "y": 285.0,
+   "x": 60.7,
+   "kind": "hour",
+   "text": "II Vesp."
+  },
+  {
+   "y": 285.3,
+   "x": 125.9,
+   "kind": "siglum",
+   "text": "M"
+  },
+  {
+   "y": 502.3,
+   "x": 59.5,
+   "kind": "heading",
+   "text": "Feria II"
+  },
+  {
+   "y": 516.1,
+   "kind": "ENGRAVING",
+   "text": "Ecce nunc palam loqueris et proverbium nullum dicis; nunc scimus, quia"
+  },
+  {
+   "y": 539.6,
+   "x": 125.9,
+   "kind": "siglum",
+   "text": "B"
+  },
+  {
+   "y": 539.9,
+   "x": 60.7,
+   "kind": "hour",
+   "text": "Laudes"
+  }
+ ],
+ "engravings": [
+  {
+   "y": 261.8,
+   "text": "Cum venerit Paraclitus quem ego mittam vobis, Spiritum veritatis qui a P",
+   "ref_line": "Io 15,26; CAO 2043; ARII 274",
+   "refs": {
+    "6": [
+     "274"
+    ]
+   },
+   "cao": "2043",
+   "siglum": "M",
+   "mode": "8g",
+   "left": "II Vesp.",
+   "overflow": false,
+   "dest": "A[7P1,2V,M]",
+   "index_ids": [
+    935
+   ]
+  },
+  {
+   "y": 516.1,
+   "text": "Ecce nunc palam loqueris et proverbium nullum dicis; nunc scimus, quia",
+   "ref_line": "Io 16,29-30; CAO 2530",
+   "refs": {},
+   "cao": "2530",
+   "siglum": "B",
+   "mode": "8g2",
+   "left": "Laudes",
+   "overflow": false,
+   "dest": "A[7P2,L,B]",
+   "index_ids": [
+    1246
+   ]
+  }
+ ],
+ "links": [],
+ "rows": [
+  {
+   "incipit": "Cum venerit Paraclitus",
+   "kind": "engraved",
+   "index_id": 935,
+   "chant_uuid": "gregobase:10290",
+   "chant_group_id": null,
+   "draft": "dest A[7P1,2V,M] → index #935 (7P1 | 2V | M)",
+   "mode": "8g",
+   "text": "Cum venerit Paraclitus quem ego mittam vobis, Spiritum veritatis qui a P",
+   "lit_epoch_slug": "PASC-POST_ASC-07-1",
+   "service": "VESPERS",
+   "part": "antM",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null
+  },
+  {
+   "incipit": "Ecce nunc palam",
+   "kind": "engraved",
+   "index_id": 1246,
+   "chant_uuid": "gregobase:14800",
+   "chant_group_id": null,
+   "draft": "dest A[7P2,L,B] → index #1246 (7P2 | L | B)",
+   "mode": "8g2",
+   "text": "Ecce nunc palam loqueris et proverbium nullum dicis; nunc scimus, quia",
+   "lit_epoch_slug": "PASC-POST_ASC-07-2",
+   "service": "LAUDS",
+   "part": "antB",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null
+  }
+ ],
+ "notes": [],
+ "loaded_on_this_page": [
+  {
+   "text_id": 10070,
+   "lit_epoch_slug": "PASC-POST_ASC-07-1",
+   "svc": "VESPERS.antM",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_code": null,
+   "cycle_sun": null,
+   "option_num": 1,
+   "option_txt": null,
+   "chant_uuid": "gregobase:10290",
+   "chant_group_id": null,
+   "notes": "OCO index #935: 7P1 | 2V | M"
+  },
+  {
+   "text_id": 10238,
+   "lit_epoch_slug": "PASC-POST_ASC-07-2",
+   "svc": "LAUDS.antB",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_code": null,
+   "cycle_sun": null,
+   "option_num": 1,
+   "option_txt": null,
+   "chant_uuid": "gregobase:14800",
+   "chant_group_id": null,
+   "notes": "OCO index #1246: 7P2 | L | B"
+  }
+ ]
+}

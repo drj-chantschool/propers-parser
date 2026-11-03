@@ -246,3 +246,16 @@
 - 2026-11-03 00:51 — ⚠ p1065 'Sacerdotes Domini' resp br. (6, VESPERS1.resp COM-PAST opt1 and TP opt2) loaded unresolved: no gregobase match, no placeholder (review). p93 Rubum 16727 / Propter 16728 producer-checked, not neume-compared; p347 O Rex gloriae 10289 producer-checked
 - 2026-11-03 00:51 — batch 92: 638 loaded (4 rows), 93 loaded (2), 1065 loaded (2; 2 unresolved), 347 loaded (1). Director viewed all four renders
 - 2026-11-03 00:52 — p1065 correction: first verify FAILED (1 stale; spec TP row option_num null -> duplicate opt2). Set option_num 2 in spec, reloaded (1 stale pruned), VERIFY PASS. Finish had been recorded before the fix.
+- 2026-11-03 01:28 — batch 93: 639 loaded (4 rows), 94 loaded (3), 1066 loaded (3), 348 loaded (4); ⚠ p348 invitatory Christum Dominum gregobase:19829 mode 7 vs printed 6* acknowledged, melody not note-checked
+- 2026-11-03 02:08 — ⚠ p1067 TP invitatory Christum pastorum (6*, COM-PAST opt2) loaded unresolved: page melody differs from index #373 gregobase:20015 (mode 3), replaced legacy 9812; no placeholder (review). p349 resp br. Surrexit 9214 chosen by producer from melody opening
+- 2026-11-03 02:08 — batch 94: 640 loaded (3 rows), 95 loaded (4), 1067 loaded (5; 1 unresolved), 349 loaded (11). Director viewed all four renders
+- 2026-11-03 02:42 — ⚠ accepted p1068 Beatus ille servus group 2182: gabc has extra 'quem', melody matches
+- 2026-11-03 02:42 — batch 95: 641 loaded (4 rows), 96 loaded (2), 1068 loaded (4), 350 loaded (3)
+- 2026-11-03 03:20 — ⚠ p1069: LAUDS.ant1 'Vos estis lux huius mundi' (7a, CAO 5498) unresolved, no gregobase chant; loaded without identity
+- 2026-11-03 03:20 — batch 96: 642 loaded (4 rows), 97 loaded (2), 1069 loaded (3, 1 unresolved), 351 loaded (2)
+- 2026-11-03 04:34 — batch 97: 643 loaded (4 rows), 98 loaded (2 rows; Sexta group->14461 refined), 1070 loaded (2 rows; TP resp 'Super te Ierusalem constitui...Alleluia' unresolved, no gregobase), 352 loaded (2 rows; Data est mihi group 2917 replaced by Verona 15057)
+- 2026-11-03 05:08 — batch 98: 644 loaded (3 rows), 99 loaded (5; 3 xref), 1071 loaded (2; Non enim 14869 replaces legacy 8781), 353 loaded (2; ⚠ LAUDS.resp Christe Fili Dei vivi 6 unresolved, no gregobase match, no placeholder; Sublevatis cycle_sun=1 from index)
+- 2026-11-03 05:42 — batch 99: 645 loaded (5 rows), 100 loaded (12), 1072 loaded (2; Stolam iucunditatis unresolved, CAO 5034, no gregobase match), 354 loaded (2). Blocked units re-checked at step 3: all 19 still exit 1
+- 2026-11-03 06:14 — ⚠ p646 Fundamenta eius 10740 / Ecce Dominus 10741 by producer melody check; p101 and p355 identities from index, not neume-compared; p1073 Evangelii factus sum 8787 (mode None in gabc) accepted by producer opening check
+- 2026-11-03 06:14 — batch 100: 646 loaded (3 rows), 101 loaded (2), 1073 loaded (4; 2 hymn xrefs), 355 loaded (2). Director viewed all four renders
+- 2026-11-03 06:14 — batch 100 bookkeeping: first finish calls failed (summary not JSON) and batch-end returned units to pending; re-finished 646/101/1073/355 as loaded

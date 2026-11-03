@@ -1,0 +1,212 @@
+{
+ "page": "1073",
+ "toc_in_force": [
+  "L2 Plurimorum martyrum p1022",
+  "L2 Unius martyris p1045",
+  "L2 Pastorum p1063"
+ ],
+ "reading": [
+  {
+   "y": 141.2,
+   "x": 58.1,
+   "kind": "hour",
+   "text": "II Vesp."
+  },
+  {
+   "y": 141.2,
+   "x": 123.3,
+   "kind": "siglum",
+   "text": "H",
+   "cue": "Pro uno pastore: Vir celse (LHym 297). Pro pluribus pas-"
+  },
+  {
+   "y": 153.2,
+   "x": 161.6,
+   "kind": "rubric",
+   "text": "toribus: Sacrata nobis gaudia (LHym 299)"
+  },
+  {
+   "y": 169.4,
+   "kind": "ENGRAVING",
+   "text": "Evangelii factus sum ego minister, secundum operationem virtutis Dei. (T"
+  },
+  {
+   "y": 195.6,
+   "x": 125.9,
+   "kind": "siglum",
+   "text": "1"
+  },
+  {
+   "y": 376.4,
+   "kind": "ENGRAVING",
+   "text": "Fidelis servus et prudens, quem constituit Dominus super familiam suam"
+  },
+  {
+   "y": 401.5,
+   "x": 125.9,
+   "kind": "siglum",
+   "text": "2"
+  },
+  {
+   "y": 582.4,
+   "kind": "ENGRAVING",
+   "text": "Oves meæ vocem meam audient et fiet unum ovile et unus pastor. (TP: al"
+  }
+ ],
+ "engravings": [
+  {
+   "y": 169.4,
+   "text": "Evangelii factus sum ego minister, secundum operationem virtutis Dei. (T",
+   "ref_line": "Col 1,23.25; Propre de Mende; ARII 544",
+   "refs": {
+    "6": [
+     "544"
+    ]
+   },
+   "cao": null,
+   "siglum": "1",
+   "mode": "8c",
+   "left": null,
+   "overflow": false,
+   "dest": "A[Past,2V,1]",
+   "index_ids": [
+    1403
+   ]
+  },
+  {
+   "y": 376.4,
+   "text": "Fidelis servus et prudens, quem constituit Dominus super familiam suam",
+   "ref_line": "Mt 24,45; CAO 2868; AM 671",
+   "refs": {
+    "7": [
+     "671"
+    ]
+   },
+   "cao": "2868",
+   "siglum": "2",
+   "mode": "3a",
+   "left": null,
+   "overflow": false,
+   "dest": "A[Past,2V,2]",
+   "index_ids": [
+    1491
+   ]
+  },
+  {
+   "y": 582.4,
+   "text": "Oves meæ vocem meam audient et fiet unum ovile et unus pastor. (TP: al",
+   "ref_line": null,
+   "refs": {},
+   "cao": null,
+   "siglum": null,
+   "mode": null,
+   "left": null,
+   "overflow": true
+  }
+ ],
+ "links": [
+  [
+   141.1,
+   "Vir celse (LHym 297). Pro pluribus pas-",
+   "hymn",
+   17946
+  ],
+  [
+   153.1,
+   "Sacrata nobis gaudia (LHym 299)",
+   "hymn",
+   17949
+  ],
+  [
+   153.1,
+   "toribus:",
+   "hymn",
+   17946
+  ]
+ ],
+ "rows": [
+  {
+   "incipit": "Evangelii factus sum",
+   "kind": "engraved",
+   "index_id": 1403,
+   "chant_uuid": "gregobase:8787",
+   "chant_group_id": null,
+   "draft": "dest A[Past,2V,1] → index #1403 (Past | 2V | 1); index links p767",
+   "mode": "8c",
+   "text": "Evangelii factus sum ego minister, secundum operationem virtutis Dei. (T",
+   "lit_epoch_slug": "COM-PAST",
+   "service": "VESPERS",
+   "part": "ant1",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null
+  },
+  {
+   "incipit": "Fidelis servus 2",
+   "kind": "engraved",
+   "index_id": 1491,
+   "chant_uuid": null,
+   "chant_group_id": null,
+   "draft": "dest A[Past,2V,2] → index #1491 (Past | 2V | 2)",
+   "mode": "3a",
+   "text": "Fidelis servus et prudens, quem constituit Dominus super familiam suam",
+   "lit_epoch_slug": "COM-PAST",
+   "service": "VESPERS",
+   "part": "ant2",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null
+  },
+  {
+   "incipit": "Vir celse",
+   "kind": "xref",
+   "ref_book": "LIBER_HYMNARIUS",
+   "ref_page": 297,
+   "chant_uuid": "gregobase:17946",
+   "service": null,
+   "part": "hymn",
+   "draft": "hymn cue 'Vir celse (LHym 297). Pro pluribus pas-' (gregobase:17946) at y=141, hour ['2V']; slot to be read from the page"
+  },
+  {
+   "incipit": "Sacrata nobis gaudia",
+   "kind": "xref",
+   "ref_book": "LIBER_HYMNARIUS",
+   "ref_page": 299,
+   "chant_uuid": "gregobase:17949",
+   "service": null,
+   "part": "hymn",
+   "draft": "hymn cue 'Sacrata nobis gaudia (LHym 299)' (gregobase:17949) at y=153, hour ['2V']; slot to be read from the page"
+  },
+  {
+   "incipit": "toribus:",
+   "kind": "xref",
+   "ref_book": "LIBER_HYMNARIUS",
+   "ref_page": null,
+   "chant_uuid": "gregobase:17946",
+   "service": null,
+   "part": "hymn",
+   "draft": "hymn cue 'toribus:' (gregobase:17946) at y=153, hour ['2V']; slot to be read from the page"
+  }
+ ],
+ "notes": [
+  "engraving y=582 'Oves meæ vocem meam audient et fiet unum': only its hidden text is here, the staff begins on p1074 — that page's row",
+  "destination A[Past,2V,3] (index #2350 'Oves meæ'): no engraving on this page starts with that incipit",
+  "hymn cue 'Vir celse (LHym 297). Pro pluribus pas-' (gregobase:17946) at y=141, hour ['2V']: no hymn index row with this page's day codes ['Past']; index rows for this hymn: [(346, 'Past', 'V')]",
+  "hymn cue 'Sacrata nobis gaudia (LHym 299)' (gregobase:17949) at y=153, hour ['2V']: no hymn index row with this page's day codes ['Past']; index rows for this hymn: [(282, 'PastPl', 'V')]",
+  "hymn cue 'toribus:' (gregobase:17946) at y=153, hour ['2V']: no hymn index row with this page's day codes ['Past']; index rows for this hymn: [(346, 'Past', 'V')]",
+  "index #1492 'Fidelis servus 2' (Rel | None | ad lib 12 pro abbate) links here but was not placed: a reuse cued on another page, an index error, or a row to add",
+  "index #1493 'Fidelis servus 2' (19/6 | L | B) links here but was not placed: a reuse cued on another page, an index error, or a row to add",
+  "index #1494 'Fidelis servus 2' (23/11 | L | B2) links here but was not placed: a reuse cued on another page, an index error, or a row to add"
+ ],
+ "loaded_on_this_page": []
+}

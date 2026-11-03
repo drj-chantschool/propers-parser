@@ -1,0 +1,191 @@
+{
+ "page": "646",
+ "toc_in_force": [
+  "L3 Feria III p637",
+  "L3 Feria IV p641",
+  "L3 Feria V p645"
+ ],
+ "reading": [
+  {
+   "y": 141.2,
+   "x": 58.1,
+   "kind": "hour",
+   "text": "Laudes"
+  },
+  {
+   "y": 141.2,
+   "x": 123.3,
+   "kind": "siglum",
+   "text": "H",
+   "cue": "Ut in hebd. I."
+  },
+  {
+   "y": 166.2,
+   "kind": "ENGRAVING",
+   "text": "Fundamenta eius in montibus sanctis."
+  },
+  {
+   "y": 190.8,
+   "x": 125.9,
+   "kind": "siglum",
+   "text": "1"
+  },
+  {
+   "y": 311.9,
+   "kind": "ENGRAVING",
+   "text": "Ecce Dominus noster cum virtute veniet et brachio excelso."
+  },
+  {
+   "y": 337.7,
+   "x": 125.9,
+   "kind": "siglum",
+   "text": "2"
+  },
+  {
+   "y": 458.1,
+   "kind": "ENGRAVING",
+   "text": "Iustus et sanctus Deus noster."
+  },
+  {
+   "y": 484.5,
+   "x": 125.9,
+   "kind": "siglum",
+   "text": "3"
+  }
+ ],
+ "engravings": [
+  {
+   "y": 166.2,
+   "text": "Fundamenta eius in montibus sanctis.",
+   "ref_line": "Ps 86,1; CAO 2911; PM 206",
+   "refs": {
+    "24": [
+     "206"
+    ]
+   },
+   "cao": "2911",
+   "siglum": "1",
+   "mode": "1g",
+   "left": null,
+   "overflow": false,
+   "dest": "A[3H5,L,1]",
+   "index_ids": [
+    1530
+   ]
+  },
+  {
+   "y": 311.9,
+   "text": "Ecce Dominus noster cum virtute veniet et brachio excelso.",
+   "ref_line": null,
+   "refs": {},
+   "cao": null,
+   "siglum": "2",
+   "mode": null,
+   "left": null,
+   "overflow": false,
+   "dest": "A[3H5,L,2]",
+   "index_ids": [
+    1227
+   ]
+  },
+  {
+   "y": 458.1,
+   "text": "Iustus et sanctus Deus noster.",
+   "ref_line": "cf. Ps 144,17; CAO 3546",
+   "refs": {},
+   "cao": "3546",
+   "siglum": "3",
+   "mode": null,
+   "left": null,
+   "overflow": false,
+   "dest": "A[3H5,L,3]",
+   "index_ids": [
+    1925
+   ]
+  }
+ ],
+ "links": [],
+ "rows": [
+  {
+   "incipit": "Fundamenta eius",
+   "kind": "engraved",
+   "index_id": 1530,
+   "chant_uuid": null,
+   "chant_group_id": null,
+   "draft": "dest A[3H5,L,1] → index #1530 (3H5 | L | 1)",
+   "mode": "1g",
+   "text": "Fundamenta eius in montibus sanctis.",
+   "lit_epoch_slug": null,
+   "service": "LAUDS",
+   "part": "ant1",
+   "wkday": 5,
+   "wknum_mod_2": null,
+   "wknum_mod_4": 3,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null
+  },
+  {
+   "incipit": "Ecce Dominus noster... et brachio",
+   "kind": "engraved",
+   "index_id": 1227,
+   "chant_uuid": null,
+   "chant_group_id": null,
+   "draft": "dest A[3H5,L,2] → index #1227 (3H5 | L | 2)",
+   "mode": null,
+   "text": "Ecce Dominus noster cum virtute veniet et brachio excelso.",
+   "lit_epoch_slug": null,
+   "service": "LAUDS",
+   "part": "ant2",
+   "wkday": 5,
+   "wknum_mod_2": null,
+   "wknum_mod_4": 3,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null
+  },
+  {
+   "incipit": "Iustus et sanctus",
+   "kind": "engraved",
+   "index_id": 1925,
+   "chant_uuid": "gregobase:10742",
+   "chant_group_id": null,
+   "draft": "dest A[3H5,L,3] → index #1925 (3H5 | L | 3)",
+   "mode": null,
+   "text": "Iustus et sanctus Deus noster.",
+   "lit_epoch_slug": null,
+   "service": "LAUDS",
+   "part": "ant3",
+   "wkday": 5,
+   "wknum_mod_2": null,
+   "wknum_mod_4": 3,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null
+  }
+ ],
+ "notes": [],
+ "loaded_on_this_page": [
+  {
+   "text_id": 10563,
+   "lit_epoch_slug": null,
+   "svc": "LAUDS.ant3",
+   "wkday": 5,
+   "wknum_mod_2": null,
+   "wknum_mod_4": 3,
+   "rank_code": null,
+   "cycle_sun": null,
+   "option_num": 1,
+   "option_txt": null,
+   "chant_uuid": "gregobase:10742",
+   "chant_group_id": null,
+   "notes": "OCO index #1925: 3H5 | L | 3"
+  }
+ ]
+}

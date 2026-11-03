@@ -1,0 +1,179 @@
+{
+ "page": "101",
+ "toc_in_force": [
+  "L4 Die 1 ianuarii -- In sollemnitate Sanctae Dei Genetricis Mariae p91",
+  "L4 Diebus inter octavam Nativitatis et Epiphaniam p100",
+  "L5 Dominica II post Nativitatem p101"
+ ],
+ "reading": [
+  {
+   "y": 216.1,
+   "x": 59.5,
+   "kind": "heading",
+   "text": "Dominica II post Nativitatem"
+  },
+  {
+   "y": 247.0,
+   "kind": "ENGRAVING",
+   "text": "Virgo verbo concepit, Virgo permansit, Virgo peperit Regem omnium reg"
+  },
+  {
+   "y": 272.9,
+   "x": 60.7,
+   "kind": "hour",
+   "text": "I Vesp."
+  },
+  {
+   "y": 273.2,
+   "x": 125.9,
+   "kind": "siglum",
+   "text": "1"
+  },
+  {
+   "y": 455.3,
+   "kind": "ENGRAVING",
+   "text": "Omne datum optimum et omne donum perfectum desursum est, descen"
+  },
+  {
+   "y": 481.6,
+   "x": 125.9,
+   "kind": "siglum",
+   "text": "2"
+  }
+ ],
+ "engravings": [
+  {
+   "y": 247.0,
+   "text": "Virgo verbo concepit, Virgo permansit, Virgo peperit Regem omnium reg",
+   "ref_line": "CAO 5456; ARII 86",
+   "refs": {
+    "6": [
+     "86"
+    ]
+   },
+   "cao": "5456",
+   "siglum": "1",
+   "mode": null,
+   "left": "I Vesp.",
+   "overflow": false,
+   "dest": "A[2N1,1V,1]",
+   "index_ids": [
+    3162
+   ]
+  },
+  {
+   "y": 455.3,
+   "text": "Omne datum optimum et omne donum perfectum desursum est, descen",
+   "ref_line": "Iac 1,17; CAO 4114; ARII 87",
+   "refs": {
+    "6": [
+     "87"
+    ]
+   },
+   "cao": "4114",
+   "siglum": "2",
+   "mode": "8g",
+   "left": null,
+   "overflow": false,
+   "dest": "A[2N1,1V,2]",
+   "index_ids": [
+    2296
+   ]
+  }
+ ],
+ "links": [],
+ "rows": [
+  {
+   "incipit": "Virgo verbo",
+   "kind": "engraved",
+   "index_id": 3162,
+   "chant_uuid": "gregobase:17713",
+   "chant_group_id": null,
+   "draft": "dest A[2N1,1V,1] → index #3162 (2N1 | 1V | 1)",
+   "mode": null,
+   "text": "Virgo verbo concepit, Virgo permansit, Virgo peperit Regem omnium reg",
+   "lit_epoch_slug": "NAT-PO-02-0",
+   "service": "VESPERS1",
+   "part": "ant1",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null
+  },
+  {
+   "incipit": "Omne datum",
+   "kind": "engraved",
+   "index_id": 2296,
+   "chant_uuid": "gregobase:14418",
+   "chant_group_id": null,
+   "draft": "dest A[2N1,1V,2] → index #2296 (2N1 | 1V | 2)",
+   "mode": "8g",
+   "text": "Omne datum optimum et omne donum perfectum desursum est, descen",
+   "lit_epoch_slug": "NAT-PO-02-0",
+   "service": "VESPERS1",
+   "part": "ant2",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null
+  }
+ ],
+ "notes": [
+  "index #3163 'Virgo verbo' (25/3 | L | 3) links here but was not placed: a reuse cued on another page, an index error, or a row to add"
+ ],
+ "loaded_on_this_page": [
+  {
+   "text_id": 11191,
+   "lit_epoch_slug": "NAT-PO-02-0",
+   "svc": "VESPERS1.ant1",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_code": null,
+   "cycle_sun": null,
+   "option_num": 1,
+   "option_txt": null,
+   "chant_uuid": "gregobase:17713",
+   "chant_group_id": null,
+   "notes": "OCO index #3162: 2N1 | 1V | 1"
+  },
+  {
+   "text_id": 10752,
+   "lit_epoch_slug": "NAT-PO-02-0",
+   "svc": "VESPERS1.ant2",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_code": null,
+   "cycle_sun": null,
+   "option_num": 1,
+   "option_txt": null,
+   "chant_uuid": "gregobase:14418",
+   "chant_group_id": null,
+   "notes": "OCO index #2296: 2N1 | 1V | 2"
+  },
+  {
+   "text_id": 11192,
+   "lit_epoch_slug": "annunciation",
+   "svc": "LAUDS.ant3",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_code": null,
+   "cycle_sun": null,
+   "option_num": 1,
+   "option_txt": null,
+   "chant_uuid": "gregobase:17713",
+   "chant_group_id": null,
+   "notes": "OCO index #3163: 25/3 | L | 3"
+  }
+ ]
+}

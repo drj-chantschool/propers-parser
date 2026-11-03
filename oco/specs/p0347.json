@@ -1,0 +1,23 @@
+{
+ "page": "347",
+ "page_kind": "assign",
+ "context_in": "In Ascensione Domini > II Vesp. > Ɽ br. Ascendo ad Patrem continues from p346 (tail: verse Gloria Patri 'o et Spiritui Sancto')",
+ "context_out": "In Ascensione Domini > II Vesp. > M O Rex gloriae (end of Ascension II Vespers; next page 348 starts the following heading)",
+ "continues": {"from_page": "346", "incipit": "Ascendo ad Patrem"},
+ "rows": [
+  {
+   "incipit": "O Rex gloriæ", "kind": "engraved", "mode": "2d",
+   "text": "O Rex gloriæ, Domine virtutum, qui triumphator hodie super omnes cæl",
+   "index_id": 2278, "chant_uuid": "gregobase:10289", "chant_group_id": null,
+   "lit_epoch_slug": "PASC-ASC-06-5", "service": "VESPERS", "part": "antM",
+   "wkday": null, "wknum_mod_2": null, "wknum_mod_4": null, "rank_codes": null,
+   "cycle_sun": null, "cycle_wkday": null, "option_num": 1, "option_txt": null, "rubric": null,
+   "notes": "CAO 4079; ARII 262. Verona 14880 and Solesmes 1916 same group; 10289 (Solesmes 1934, cao match) has quilisma on 'Domine' and 'super' as engraved."
+  }
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Page top is the tail of the p346 responsory Ascendo ad Patrem (verse Gloria Patri), continues, no row."
+ ]
+}

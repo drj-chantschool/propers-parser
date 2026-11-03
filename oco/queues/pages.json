@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 82,
+  "batch_id": 92,
   "batch_open": false,
-  "batch_started": "2026-11-02T17:52:12",
-  "batch_finished": "2026-11-02T17:53:59",
-  "next_due": "2026-11-02T18:28:59",
+  "batch_started": "2026-11-03T00:50:33",
+  "batch_finished": "2026-11-03T00:51:52",
+  "next_due": "2026-11-03T01:26:52",
   "limit_hits": 1,
   "batch_units": [
-   "628",
-   "83",
-   "1055",
-   "337"
+   "638",
+   "93",
+   "1065",
+   "347"
   ]
  },
  "lanes": {
@@ -2248,43 +2248,138 @@
   },
   "629": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 83,
+   "claimed_at": "2026-11-02T18:36:07",
+   "finished_at": "2026-11-02T18:38:09",
+   "summary": {
+    "spec": "p0629.json",
+    "page": "629",
+    "rows": 4,
+    "verify": "PASS"
+   }
   },
   "630": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 84,
+   "claimed_at": "2026-11-02T19:20:07",
+   "finished_at": "2026-11-02T19:21:28",
+   "summary": {
+    "spec": "p0630.json",
+    "mode": "load",
+    "page": "630",
+    "rows": 3,
+    "insert": 3,
+    "replace-legacy": 2
+   }
   },
   "631": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 85,
+   "claimed_at": "2026-11-02T20:03:58",
+   "finished_at": "2026-11-02T20:05:07",
+   "summary": {
+    "page": "631",
+    "rows": 3,
+    "verify": "PASS"
+   }
   },
   "632": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 86,
+   "claimed_at": "2026-11-02T20:47:43",
+   "finished_at": "2026-11-02T20:49:04",
+   "summary": {
+    "spec": "p0632.json",
+    "rows": 3,
+    "verify": "PASS"
+   }
   },
   "633": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 87,
+   "claimed_at": "2026-11-02T21:28:57",
+   "finished_at": "2026-11-02T21:30:18",
+   "summary": {
+    "page": "633",
+    "rows": 3,
+    "verify": "PASS"
+   }
   },
   "634": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 88,
+   "claimed_at": "2026-11-02T22:10:09",
+   "finished_at": "2026-11-02T22:11:33",
+   "summary": {
+    "spec": "p0634.json",
+    "mode": "verify",
+    "page": "634",
+    "page_kind": "assign",
+    "rows": 3,
+    "xref": 0,
+    "unresolved": 0,
+    "keep": 3,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "635": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 89,
+   "claimed_at": "2026-11-02T22:52:00",
+   "finished_at": "2026-11-02T22:55:45",
+   "summary": {
+    "page": "635",
+    "rows": 4,
+    "insert": 2,
+    "adopt": 2,
+    "replace": 1
+   }
   },
   "636": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 90,
+   "claimed_at": "2026-11-02T23:32:35",
+   "finished_at": "2026-11-02T23:34:03",
+   "summary": {
+    "page": "636",
+    "rows": 4
+   }
   },
   "637": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 91,
+   "claimed_at": "2026-11-03T00:12:02",
+   "finished_at": "2026-11-03T00:13:44",
+   "summary": {
+    "page": "637",
+    "rows": 4
+   }
   },
   "638": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 92,
+   "claimed_at": "2026-11-03T00:50:33",
+   "finished_at": "2026-11-03T00:51:36",
+   "summary": {
+    "page": "638",
+    "rows": 4,
+    "verify": "PASS"
+   }
   },
   "639": {
    "lane": "A",
@@ -4233,43 +4328,137 @@
   },
   "84": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 83,
+   "claimed_at": "2026-11-02T18:36:07",
+   "finished_at": "2026-11-02T18:37:08",
+   "summary": {
+    "spec": "p0084.json",
+    "mode": "verify",
+    "page": "84",
+    "rows": 1,
+    "verify": "PASS"
+   }
   },
   "85": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 84,
+   "claimed_at": "2026-11-02T19:20:07",
+   "finished_at": "2026-11-02T19:21:11",
+   "summary": {
+    "spec": "p0085.json",
+    "mode": "load",
+    "page": "85",
+    "rows": 2,
+    "insert": 1,
+    "adopt": 1
+   }
   },
   "86": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 85,
+   "claimed_at": "2026-11-02T20:03:58",
+   "finished_at": "2026-11-02T20:05:07",
+   "summary": {
+    "page": "86",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "87": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 86,
+   "claimed_at": "2026-11-02T20:47:43",
+   "finished_at": "2026-11-02T20:48:51",
+   "summary": {
+    "spec": "p0087.json",
+    "rows": 3,
+    "verify": "PASS"
+   }
   },
   "88": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 87,
+   "claimed_at": "2026-11-02T21:28:57",
+   "finished_at": "2026-11-02T21:30:00",
+   "summary": {
+    "page": "88",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "89": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 88,
+   "claimed_at": "2026-11-02T22:10:09",
+   "finished_at": "2026-11-02T22:11:38",
+   "summary": {
+    "spec": "p0089.json",
+    "mode": "verify",
+    "page": "89",
+    "page_kind": "assign",
+    "rows": 3,
+    "xref": 0,
+    "unresolved": 0,
+    "keep": 3,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "90": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 89,
+   "claimed_at": "2026-11-02T22:52:00",
+   "finished_at": "2026-11-02T22:53:40",
+   "summary": {
+    "page": "90",
+    "rows": 3,
+    "insert": 3
+   }
   },
   "91": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 90,
+   "claimed_at": "2026-11-02T23:32:35",
+   "finished_at": "2026-11-02T23:33:52",
+   "summary": {
+    "page": "91",
+    "rows": 4
+   }
   },
   "92": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 91,
+   "claimed_at": "2026-11-03T00:12:02",
+   "finished_at": "2026-11-03T00:13:44",
+   "summary": {
+    "page": "92",
+    "rows": 1
+   }
   },
   "93": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 92,
+   "claimed_at": "2026-11-03T00:50:33",
+   "finished_at": "2026-11-03T00:51:45",
+   "summary": {
+    "page": "93",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "94": {
    "lane": "B",
@@ -5891,43 +6080,91 @@
   },
   "1056": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 83,
+   "claimed_at": "2026-11-02T18:36:07",
+   "finished_at": "2026-11-02T18:37:22",
+   "note": "spec oco/specs/p1056.json complete (2 rows: antM opt1 In caelestibus group:1886, TP resp Fulgebunt unresolved); dry-run exit 1: COM-MART-UNO VESPERS.antM opt1 held by p1043's option_num-null ad lib row (text_id 12032), same class as p1053; needs p1043 option fix / placeholder local chants"
   },
   "1057": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 84,
+   "claimed_at": "2026-11-02T19:20:07",
+   "finished_at": "2026-11-02T19:21:37",
+   "note": "spec oco/specs/p1057.json complete (19 rows); dry-run exit 1: COM-MART-UNO 'Armis divinis' null-identity clash with p1043 (text_ids 12030-12032), plus cites p1320 (unloaded); not neume-reviewed against page yet"
   },
   "1058": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 85,
+   "claimed_at": "2026-11-02T20:03:58",
+   "finished_at": "2026-11-02T20:05:12",
+   "note": "spec oco/specs/p1058.json complete (6 unresolved rows: ad lib 7 Beati eritis, 8 Beatificavit illum x3 hours); dry-run exit 1: COM-MART-UNO LAUDS.antB/VESPERS1.antM/VESPERS.antM null-identity slot clash with p1043 (text_id 12030-12032), same class as p1053/1056/1057; director has not viewed render"
   },
   "1059": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 86,
+   "claimed_at": "2026-11-02T20:47:43",
+   "finished_at": "2026-11-02T20:48:54",
+   "note": "spec oco/specs/p1059.json complete (6 rows: ad lib 9 Cum dixerint omne unresolved x3, ad lib 10 Hic est vere martyr 4941 x3); dry-run exit 1: COM-MART-UNO LAUDS.antB/VESPERS1.antM/VESPERS.antM null-identity clash with p1043 (text_id 12030-12032), same class as p1053-1058; render not viewed"
   },
   "1060": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 87,
+   "claimed_at": "2026-11-02T21:28:57",
+   "finished_at": "2026-11-02T21:30:24",
+   "note": "spec oco/specs/p1060.json complete (6 rows: ad lib 11 Hic est vir unresolved x3, ad lib 12 Iste est qui gregobase:5809 x3); dry-run exit 1: COM-MART-UNO LAUDS.antB/VESPERS1.antM/VESPERS.antM null-identity slot clash with p1043 (text_id 12030-12032), same class as p1053-1059; needs placeholder local chants; render not reviewed"
   },
   "1061": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 88,
+   "claimed_at": "2026-11-02T22:10:09",
+   "finished_at": "2026-11-02T22:12:12",
+   "note": "spec oco/specs/p1061.json reviewed vs page (items 13 Iste sanctus, 14 Magnificavit eum unresolved x3, 15 Volo Pater), complete; dry-run exit 1: COM-MART-UNO null-identity/slot clashes with p1043/p1048 rows (text_id 12030-12032, 12059), same class as p1036-1060; needs placeholder local chants / p1043 fix"
   },
   "1062": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 89,
+   "claimed_at": "2026-11-02T22:52:00",
+   "finished_at": "2026-11-02T22:56:53",
+   "note": "spec oco/specs/p1062.json complete (33 rows: items 10 Hic est vere martyr, 11 Hic est vir unresolved x3, TP cue 1-9 xrefs); dry-run exit 1: COM-MART-UNO null-identity slot clash with p1043 (text_id 12030-12032), cites p1041/p1044/p1045 unloaded; needs placeholder local chants; render not viewed"
   },
   "1063": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 90,
+   "claimed_at": "2026-11-02T23:32:35",
+   "finished_at": "2026-11-02T23:34:31",
+   "note": "spec oco/specs/p1063.json complete (6 rows: Iste sanctus ad lib 32 unresolved x3, Dabo vobis unresolved, hymn cues Vir celse/Sacrata nobis); dry-run exit 1: COM-MART-UNO LAUDS.antB/VESPERS1.antM/VESPERS.antM null-identity slot clash with p1043 (text_id 12030-12032), same class as p1036-1062; needs placeholder local chants"
   },
   "1064": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 91,
+   "claimed_at": "2026-11-03T00:12:02",
+   "finished_at": "2026-11-03T00:13:44",
+   "summary": {
+    "page": "1064",
+    "rows": 2
+   }
   },
   "1065": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 92,
+   "claimed_at": "2026-11-03T00:50:33",
+   "finished_at": "2026-11-03T00:51:52",
+   "summary": {
+    "page": "1065",
+    "rows": 2,
+    "unresolved": 2,
+    "verify": "PASS"
+   }
   },
   "1066": {
    "lane": "C",
@@ -7862,43 +8099,130 @@
   },
   "338": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 83,
+   "claimed_at": "2026-11-02T18:36:07",
+   "finished_at": "2026-11-02T18:37:52",
+   "summary": {
+    "spec": "p0338.json",
+    "page": "338",
+    "rows": 1,
+    "verify": "PASS"
+   }
   },
   "339": {
    "lane": "D",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 84,
+   "claimed_at": "2026-11-02T19:20:07",
+   "finished_at": "2026-11-02T19:21:12",
+   "note": "spec oco/specs/p0339.json reviewed, complete; Laudes cue cites p350 (unloaded)"
   },
   "340": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 85,
+   "claimed_at": "2026-11-02T20:03:58",
+   "finished_at": "2026-11-02T20:07:36",
+   "summary": {
+    "page": "340",
+    "rows": 3,
+    "verify": "PASS"
+   }
   },
   "341": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 86,
+   "claimed_at": "2026-11-02T20:47:43",
+   "finished_at": "2026-11-02T20:49:14",
+   "summary": {
+    "spec": "p0341.json",
+    "rows": 3,
+    "verify": "PASS"
+   }
   },
   "342": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 87,
+   "claimed_at": "2026-11-02T21:28:57",
+   "finished_at": "2026-11-02T21:30:18",
+   "summary": {
+    "page": "342",
+    "rows": 4,
+    "verify": "PASS"
+   }
   },
   "343": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 88,
+   "claimed_at": "2026-11-02T22:10:09",
+   "finished_at": "2026-11-02T22:11:36",
+   "summary": {
+    "spec": "p0343.json",
+    "mode": "verify",
+    "page": "343",
+    "page_kind": "assign",
+    "rows": 3,
+    "xref": 0,
+    "unresolved": 0,
+    "keep": 3,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "344": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 89,
+   "claimed_at": "2026-11-02T22:52:00",
+   "finished_at": "2026-11-02T22:53:02",
+   "summary": {
+    "page": "344",
+    "rows": 2,
+    "insert": 1,
+    "adopt": 1
+   }
   },
   "345": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 90,
+   "claimed_at": "2026-11-02T23:32:35",
+   "finished_at": "2026-11-02T23:33:52",
+   "summary": {
+    "page": "345",
+    "rows": 4
+   }
   },
   "346": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 91,
+   "claimed_at": "2026-11-03T00:12:02",
+   "finished_at": "2026-11-03T00:13:44",
+   "summary": {
+    "page": "346",
+    "rows": 3
+   }
   },
   "347": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 92,
+   "claimed_at": "2026-11-03T00:50:33",
+   "finished_at": "2026-11-03T00:51:26",
+   "summary": {
+    "page": "347",
+    "rows": 1,
+    "verify": "PASS"
+   }
   },
   "348": {
    "lane": "D",

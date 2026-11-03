@@ -1,0 +1,63 @@
+{
+ "page": "106",
+ "page_kind": "assign",
+ "context_in": "Tempus Nativitatis > Dominica II post Nativitatem > II Vesp. > ant3 'Ecce Agnus Dei' tail (mundi. Euouae) at top, then Magnificat",
+ "context_out": "Tempus Nativitatis > Die 2 ianuarii > Laudes > Benedictus 'In praesepio iacebat' complete on p106",
+ "continues": {
+  "from_page": "105",
+  "incipit": "Ecce Agnus Dei"
+ },
+ "rows": [
+  {
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": null,
+   "chant_group_id": null,
+   "kind": "engraved",
+   "incipit": "Beata viscera",
+   "mode": "8g",
+   "text": "Beata viscera quæ portaverunt æterni Patris Filium, et beata ubera quæ l",
+   "index_id": 667,
+   "chant_uuid": "gregobase:14358",
+   "lit_epoch_slug": "NAT-PO-02-0",
+   "service": "VESPERS",
+   "part": "antM",
+   "notes": "p106 8g; 14358 Verona matches opening (low c-d-f-e), text, ends alleluia x3 Euouae; 20435 Solesmes differs at 'quae portaverunt'"
+  },
+  {
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": null,
+   "chant_group_id": null,
+   "kind": "engraved",
+   "incipit": "In præsepio iacebat",
+   "mode": "8g",
+   "text": "In præsepio iacebat et in cælis fulgebat; ad nos veniebat et apud Patrem m",
+   "index_id": 1764,
+   "chant_uuid": "gregobase:14396",
+   "lit_epoch_slug": "NAT-PO-02-1",
+   "service": "LAUDS",
+   "part": "antB",
+   "notes": "p106 8g; only candidate 14396 Verona, opening g g g gh matches"
+  }
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Top staff 'mundi. Euouae' is the tail of p105 ant3 Ecce Agnus Dei: continues, no row.",
+  "Margin number 36 (underlined) = link of unknown meaning, no row.",
+  "Epoch for 'Die 2 ianuarii' = NAT-PO-02-1 (January 2), from index code N-2/1; index #1764 now placed on this page (draft had not matched it)."
+ ]
+}

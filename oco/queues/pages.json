@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 103,
+  "batch_id": 107,
   "batch_open": false,
-  "batch_started": "2026-11-03T09:33:33",
-  "batch_finished": "2026-11-03T09:35:44",
-  "next_due": "2026-11-03T10:10:44",
+  "batch_started": "2026-11-03T10:21:32",
+  "batch_finished": "2026-11-03T10:21:33",
+  "next_due": "2026-11-03T10:56:33",
   "limit_hits": 1,
   "batch_units": [
-   "649",
-   "104",
-   "1076",
-   "358"
+   "651",
+   "106",
+   "1078",
+   "360"
   ]
  },
  "lanes": {
@@ -2516,11 +2516,25 @@
   },
   "650": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 104,
+   "claimed_at": "2026-11-03T09:56:17",
+   "finished_at": "2026-11-03T09:57:28",
+   "summary": {
+    "spec": "p0650.json",
+    "rows": 4,
+    "verify": "PASS"
+   }
   },
   "651": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 107,
+   "claimed_at": "2026-11-03T10:21:32",
+   "finished_at": "2026-11-03T10:21:33",
+   "summary": {
+    "rows": 3
+   }
   },
   "652": {
    "lane": "A",
@@ -4683,11 +4697,25 @@
   },
   "105": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 104,
+   "claimed_at": "2026-11-03T09:56:17",
+   "finished_at": "2026-11-03T09:57:36",
+   "summary": {
+    "spec": "p0105.json",
+    "rows": 3,
+    "verify": "PASS"
+   }
   },
   "106": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 107,
+   "claimed_at": "2026-11-03T10:21:32",
+   "finished_at": "2026-11-03T10:21:33",
+   "summary": {
+    "rows": 2
+   }
   },
   "107": {
    "lane": "B",
@@ -6481,11 +6509,21 @@
   },
   "1077": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 104,
+   "claimed_at": "2026-11-03T09:56:17",
+   "finished_at": "2026-11-03T09:58:07",
+   "note": "spec oco/specs/p1077.json complete (9 rows: ad lib 4 Quinque mihi + 6 In pauca fuisti unresolved, ad lib 5 Euge serve gregobase:8798 not group 2179); dry-run exit 1: null-identity slot clash on COM-PAST LAUDS.antB/VESPERS1.antM/VESPERS.antM with p1076's unresolved rows (text_id 12223/12226/12220); needs placeholder local chants, same as p1036-1063"
   },
   "1078": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 107,
+   "claimed_at": "2026-11-03T10:21:32",
+   "finished_at": "2026-11-03T10:21:33",
+   "summary": {
+    "rows": 6
+   }
   },
   "1079": {
    "lane": "C",
@@ -8628,11 +8666,25 @@
   },
   "359": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 104,
+   "claimed_at": "2026-11-03T09:56:17",
+   "finished_at": "2026-11-03T09:57:30",
+   "summary": {
+    "spec": "p0359.json",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "360": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 107,
+   "claimed_at": "2026-11-03T10:21:32",
+   "finished_at": "2026-11-03T10:21:33",
+   "summary": {
+    "rows": 2
+   }
   },
   "361": {
    "lane": "D",

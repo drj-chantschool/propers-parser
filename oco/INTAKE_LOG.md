@@ -265,3 +265,8 @@
 - 2026-11-03 07:19 — p1075 correction: TP row option_num null -> 2 in spec, reloaded (1 stale pruned), VERIFY PASS. Added README Known quirk (second occurrence after p1065)
 - 2026-11-03 07:19 — batch 102: 648 loaded (5 rows; 2 xref), 103 loaded (3), 1075 loaded (2; 2 unresolved), 357 loaded (2). Director viewed all four renders
 - 2026-11-03 09:35 — batch 103: 649 loaded (3 rows), 104 loaded (2; resp Christe Fili Dei vivi unresolved, CAO 6276 verse has no gregobase match), 1076 loaded (10; 3 legacy LAUDS.antB replaced), 358 loaded (2; Exspectate promissum = Verona 14828 by melody, medium confidence)
+- 2026-11-03 09:58 — ⚠ p650/p105/p359 identities from index, not neume-compared (p105 Ecce Agnus Dei 14367 mode 7 vs printed 8g acknowledged; p359 Petite et accipietis Verona 14898 first line only, recheck on p360). p1077: Euge serve 8798 over group 2179 by melody; Quinque mihi / In pauca fuisti unresolved, blocked on placeholder local chants
+- 2026-11-03 09:58 — batch 104: 650 loaded (4 rows; 1 xref), 105 loaded (3), 1077 blocked_dep (9 rows; null-identity slot clash with p1076), 359 loaded (2)
+- 2026-11-03 10:21 — batch 105: 651 loaded (3 rows, Alieni replaces legacy index chant 15135 with engraved 10752), 106 loaded (2), 1078 loaded (6), 360 loaded (2)
+- 2026-11-03 10:21 — batch 105 (re-claimed after summary-format error; loads verified PASS): 651 loaded (3 rows; Alieni replaces legacy index chant 15135 with engraved 10752), 106 loaded (2), 1078 loaded (6), 360 loaded (2)
+- 2026-11-03 10:21 — batch 105 (re-claimed as 107 after summary-format errors; loads verified PASS): 651 loaded (3 rows; Alieni replaces legacy index chant 15135 with engraved 10752), 106 loaded (2), 1078 loaded (6), 360 loaded (2)

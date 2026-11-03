@@ -1,0 +1,82 @@
+{
+ "page": "651",
+ "page_kind": "assign",
+ "context_in": "Hebdomada III > Feria VI > Hor. med. > ant1 Labia insurgentium ends at top (continues from p650)",
+ "context_out": "Hebdomada III > Feria VI > Vesp. > ant1 Omnia quaecumque voluit (ends on page); p652 follows",
+ "continues": {
+  "from_page": "650",
+  "incipit": "Labia insurgentium"
+ },
+ "rows": [
+  {
+   "incipit": "Alieni insurrexerunt",
+   "kind": "engraved",
+   "index_id": 512,
+   "chant_uuid": "gregobase:10752",
+   "chant_group_id": null,
+   "mode": "2*a",
+   "text": "Alieni insurrexerunt in me, et fortes quæsierunt animam meam.",
+   "lit_epoch_slug": null,
+   "service": "MIDDAY",
+   "part": "ant2",
+   "wkday": 6,
+   "wknum_mod_2": null,
+   "wknum_mod_4": 3,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "notes": "p651 2*a; index #512 -> 15135 (m4 Sandhofe) rejected: engraving \"et for(f)tes\" and \"quae(h)si(g)\" match Verona 10752 (m2), 15135 has g/i,h; index id kept as finding aid"
+  },
+  {
+   "incipit": "Metuant Dominum",
+   "kind": "engraved",
+   "index_id": 2067,
+   "chant_uuid": "gregobase:10753",
+   "chant_group_id": null,
+   "mode": "8c",
+   "text": "Metuant Dominum omnes fines terræ.",
+   "lit_epoch_slug": null,
+   "service": "MIDDAY",
+   "part": "ant3",
+   "wkday": 6,
+   "wknum_mod_2": null,
+   "wknum_mod_4": 3,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "notes": "p651 8c; no index identity; candidates: 10753 (m8, c3) opening h g h f e, cadence f f e, Euouae h h f h i h matches; 20137/20138 other modes"
+  },
+  {
+   "incipit": "Omnia quæcumque",
+   "kind": "engraved",
+   "index_id": 2313,
+   "chant_uuid": "gregobase:10124",
+   "chant_group_id": null,
+   "mode": "3g",
+   "text": "Omnia, quæcumque voluit, Dominus fecit.",
+   "lit_epoch_slug": null,
+   "service": "VESPERS",
+   "part": "ant1",
+   "wkday": 6,
+   "wknum_mod_2": null,
+   "wknum_mod_4": 3,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "notes": "p651; identity from index #2313, checked in dry-run"
+  }
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Vesp. H 'Ut in hebd. I.': week I hymn row covers week III (1.3H); no row (as p645/p648/p650).",
+  "Margin numbers 2, 3, 1 are plain antiphon numbers.",
+  "Index #512 points to gregobase:15135 (mode 4); page engraving is mode 2*a and matches Verona gregobase:10752 note by note (for-tes f, quae-si h g); row uses 10752."
+ ]
+}

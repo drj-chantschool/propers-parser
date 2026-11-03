@@ -1,0 +1,29 @@
+{
+ "page": "360",
+ "page_kind": "assign",
+ "continues": {"from_page": "359", "incipit": "Petite et accipietis"},
+ "context_in": "Hebdomada VII Paschae > Feria VI > Laudes B 'Petite et accipietis' running over from p359",
+ "context_out": "Hebdomada VII Paschae > Sabbato > Laudes B 'Ultimo festivitatis die' runs over to p361",
+ "rows": [
+  {"incipit": "Non enim loquetur", "kind": "engraved", "mode": "8g",
+   "text": "Non enim loquetur a semetipso, sed quæcumque audiet loquetur, et quæ ventura sunt annuntiabit vobis, alleluia.",
+   "index_id": 2183, "chant_uuid": "gregobase:10232",
+   "lit_epoch_slug": "PASC-POST_ASC-07-6", "service": "VESPERS", "part": "antM",
+   "option_num": 1, "option_txt": null, "rubric": null,
+   "notes": "Io 16,13; CAO 3909. Index #2183 identity 10232 not neume-compared."},
+  {"incipit": "Ultimo festivitatis die", "kind": "engraved", "mode": "6f",
+   "text": "Ultimo festivitatis die, dicebat Iesus: Qui in me credit, flumina de ventre eius current aquae vivae, alleluia.",
+   "index_id": 3034, "chant_uuid": "gregobase:14944",
+   "lit_epoch_slug": "PASC-POST_ASC-07-7", "service": "LAUDS", "part": "antB",
+   "option_num": 1, "option_txt": null, "rubric": null,
+   "notes": "Io 7,37.38.39; CAO 5263. Index #3034 identity 14944; only opening on this page, rest on p361."}
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Top of page: tail of Feria VI Lauds B 'Petite et accipietis' ('strum plenum sit; ipse enim Pater amat vos, quia vos me amastis et credidistis, alleluia' + Euouae); its identity choice (p359 note: 14898 vs 4554) not decided here.",
+  "Non enim loquetur: Vesp. M follows the Feria VI Lauds on p359-360 and precedes the 'Sabbato' heading, so it is Feria VI Vespers (matches draft/index 7P6).",
+  "Underlined margin number '91' before 'Sabbato': link of unknown meaning, no row.",
+  "Ultimo festivitatis die: draft text was truncated, full text supplied."
+ ]
+}

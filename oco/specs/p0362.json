@@ -1,0 +1,27 @@
+{
+ "page": "362",
+ "page_kind": "assign",
+ "continues": null,
+ "context_in": "Dominica Pentecostes > I Vesp. > ant2 'Apparuerunt apostolis' (hidden text at foot of p361, staff begins here)",
+ "context_out": "Dominica Pentecostes > I Vesp. > ant3 done; hidden text of 'Spiritus Paraclitus' (antM) at foot, staff begins p363",
+ "rows": [
+  {"incipit": "Apparuerunt apostolis", "kind": "engraved", "mode": "7a",
+   "text": "Apparuerunt apostolis dispertitæ linguæ tamquam ignis, seditque supra",
+   "index_id": 589, "chant_uuid": "gregobase:14764",
+   "lit_epoch_slug": "PASC-PENT-08-1", "service": "VESPERS1", "part": "ant2",
+   "option_num": 1, "option_txt": null, "rubric": null,
+   "notes": "Act 2,3; CAO 1454; ARII 277. Verona 14764 (7a-gb): opening e g hi ih fe de matches; 14765 (7a-gg) opens e-eh g, i-level, does not."},
+  {"incipit": "Spiritus qui a Patre", "kind": "engraved", "mode": "8g",
+   "text": "Spiritus qui a Patre procedit, alleluia, ille me clarificabit, alleluia.",
+   "index_id": 2875, "chant_uuid": "gregobase:10332",
+   "lit_epoch_slug": "PASC-PENT-08-1", "service": "VESPERS1", "part": "ant3",
+   "option_num": 1, "option_txt": null, "rubric": null,
+   "notes": "Io 15,26; 16,14; CAO 5003; ARII 278."}
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Margin numbers 2 and 3 are the antiphon numbers of I Vesp.",
+  "Foot: hidden text 'Spiritus Paraclitus * Alleluia alleluia. Docebit vos omnia.' (index #3400, Magnificat antiphon): staff begins p363, row belongs there."
+ ]
+}

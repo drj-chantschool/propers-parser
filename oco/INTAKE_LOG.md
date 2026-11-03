@@ -270,3 +270,8 @@
 - 2026-11-03 10:21 — batch 105: 651 loaded (3 rows, Alieni replaces legacy index chant 15135 with engraved 10752), 106 loaded (2), 1078 loaded (6), 360 loaded (2)
 - 2026-11-03 10:21 — batch 105 (re-claimed after summary-format error; loads verified PASS): 651 loaded (3 rows; Alieni replaces legacy index chant 15135 with engraved 10752), 106 loaded (2), 1078 loaded (6), 360 loaded (2)
 - 2026-11-03 10:21 — batch 105 (re-claimed as 107 after summary-format errors; loads verified PASS): 651 loaded (3 rows; Alieni replaces legacy index chant 15135 with engraved 10752), 106 loaded (2), 1078 loaded (6), 360 loaded (2)
+- 2026-11-03 10:43 — ⚠ p1079 Ecce sacerdos magnus 1914 TP text 'iustus, alleluia' not in gabc, melody not note-checked; PAPA+EPISC sub-epochs used for 'Pro papa vel episcopo' (COM-PAST-PAPIS exists). p652 Ut in hebd. I. cues (ant3 resp M hymn) covered by week-I rows, flagged not rowed, as p651
+- 2026-11-03 10:43 — batch 108: 652 loaded (5 rows), 107 loaded (2; Verbum caro 14454 replaces legacy 8383), 1079 loaded (9), 361 loaded (2)
+- 2026-11-03 14:34 — ⚠ accepted p653 'Mecum sit' gregobase mode 5 vs printed 2d (same melody, acknowledged in spec)
+- 2026-11-03 14:34 — batch 109: 653 loaded (3 rows), 108 loaded (2), 1080 loaded (12), 362 loaded (2)
+- 2026-11-03 14:34 — correction batch 109: batch-end ran before finish (summary JSON error); 653, 108, 1080, 362 all loaded + VERIFY PASS, re-marked loaded

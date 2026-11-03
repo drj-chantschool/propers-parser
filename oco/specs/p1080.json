@@ -1,0 +1,121 @@
+{
+ "page": "1080",
+ "page_kind": "assign",
+ "context_in": "COMMUNIA > Pastorum > Antiphonæ ad libitum, 'Pro papa vel episcopo:'; tail of ad lib 10 'Ecce sacerdos magnus' (from p1079)",
+ "context_out": "COMMUNIA > Pastorum > Antiphonæ ad libitum, Pro papa vel episcopo, after ad lib 12 'Ideo iureiurando'",
+ "continues": {
+  "from_page": "1079",
+  "incipit": "Ecce sacerdos magnus"
+ },
+ "rows": [
+  {
+   "incipit": "Non est inventus",
+   "kind": "engraved",
+   "index_id": 2196,
+   "chant_uuid": "gregobase:2613",
+   "mode": "7c",
+   "text": "Non est inventus similis illi qui conservaret legem Excelsi. (TP: alleluia.)",
+   "service": "LAUDS",
+   "part": "antB",
+   "option_txt": "Ad libitum 11",
+   "rubric": "Antiphonæ ad libitum pro canticis evangelicis: Pro papa vel episcopo:",
+   "notes": "p1080 engraving; index identity, same text/mode/CAO as ref line",
+   "lit_epoch_slugs": [
+    "COM-PAST-UNO-PAPA",
+    "COM-PAST-UNO-EPISC"
+   ]
+  },
+  {
+   "incipit": "Non est inventus",
+   "kind": "engraved",
+   "index_id": 2196,
+   "chant_uuid": "gregobase:2613",
+   "mode": "7c",
+   "text": "Non est inventus similis illi qui conservaret legem Excelsi. (TP: alleluia.)",
+   "service": "VESPERS1",
+   "part": "antM",
+   "option_txt": "Ad libitum 11",
+   "rubric": "Antiphonæ ad libitum pro canticis evangelicis: Pro papa vel episcopo:",
+   "notes": "p1080 engraving; index identity, same text/mode/CAO as ref line",
+   "lit_epoch_slugs": [
+    "COM-PAST-UNO-PAPA",
+    "COM-PAST-UNO-EPISC"
+   ]
+  },
+  {
+   "incipit": "Non est inventus",
+   "kind": "engraved",
+   "index_id": 2196,
+   "chant_uuid": "gregobase:2613",
+   "mode": "7c",
+   "text": "Non est inventus similis illi qui conservaret legem Excelsi. (TP: alleluia.)",
+   "service": "VESPERS",
+   "part": "antM",
+   "option_txt": "Ad libitum 11",
+   "rubric": "Antiphonæ ad libitum pro canticis evangelicis: Pro papa vel episcopo:",
+   "notes": "p1080 engraving; index identity, same text/mode/CAO as ref line",
+   "lit_epoch_slugs": [
+    "COM-PAST-UNO-PAPA",
+    "COM-PAST-UNO-EPISC"
+   ]
+  },
+  {
+   "incipit": "Ideo iureiurando",
+   "kind": "engraved",
+   "index_id": 1667,
+   "chant_uuid": "gregobase:2858",
+   "mode": "8g2",
+   "text": "Ideo iureiurando fecit illum Dominus crescere in plebem suam. (TP: allel",
+   "service": "LAUDS",
+   "part": "antB",
+   "option_txt": "Ad libitum 12",
+   "rubric": "Antiphonæ ad libitum pro canticis evangelicis: Pro papa vel episcopo:",
+   "notes": "p1080 engraving; index identity, same text/mode/CAO as ref line",
+   "lit_epoch_slugs": [
+    "COM-PAST-UNO-PAPA",
+    "COM-PAST-UNO-EPISC"
+   ]
+  },
+  {
+   "incipit": "Ideo iureiurando",
+   "kind": "engraved",
+   "index_id": 1667,
+   "chant_uuid": "gregobase:2858",
+   "mode": "8g2",
+   "text": "Ideo iureiurando fecit illum Dominus crescere in plebem suam. (TP: allel",
+   "service": "VESPERS1",
+   "part": "antM",
+   "option_txt": "Ad libitum 12",
+   "rubric": "Antiphonæ ad libitum pro canticis evangelicis: Pro papa vel episcopo:",
+   "notes": "p1080 engraving; index identity, same text/mode/CAO as ref line",
+   "lit_epoch_slugs": [
+    "COM-PAST-UNO-PAPA",
+    "COM-PAST-UNO-EPISC"
+   ]
+  },
+  {
+   "incipit": "Ideo iureiurando",
+   "kind": "engraved",
+   "index_id": 1667,
+   "chant_uuid": "gregobase:2858",
+   "mode": "8g2",
+   "text": "Ideo iureiurando fecit illum Dominus crescere in plebem suam. (TP: allel",
+   "service": "VESPERS",
+   "part": "antM",
+   "option_txt": "Ad libitum 12",
+   "rubric": "Antiphonæ ad libitum pro canticis evangelicis: Pro papa vel episcopo:",
+   "notes": "p1080 engraving; index identity, same text/mode/CAO as ref line",
+   "lit_epoch_slugs": [
+    "COM-PAST-UNO-PAPA",
+    "COM-PAST-UNO-EPISC"
+   ]
+  }
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Ad lib 11-12 printed without hour: expanded to LAUDS.antB, VESPERS1.antM, VESPERS.antM as on p1079.",
+  "Margin numbers 11, 12 are ad lib numbers.",
+  "Index #1668/#1669/#2197/#2198 (saints' reuses of Ideo iureiurando / Non est inventus) link here but are reuses cued elsewhere; not placed."
+ ]
+}

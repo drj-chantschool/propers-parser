@@ -259,3 +259,8 @@
 - 2026-11-03 06:14 — ⚠ p646 Fundamenta eius 10740 / Ecce Dominus 10741 by producer melody check; p101 and p355 identities from index, not neume-compared; p1073 Evangelii factus sum 8787 (mode None in gabc) accepted by producer opening check
 - 2026-11-03 06:14 — batch 100: 646 loaded (3 rows), 101 loaded (2), 1073 loaded (4; 2 hymn xrefs), 355 loaded (2). Director viewed all four renders
 - 2026-11-03 06:14 — batch 100 bookkeeping: first finish calls failed (summary not JSON) and batch-end returned units to pending; re-finished 646/101/1073/355 as loaded
+- 2026-11-03 06:47 — ⚠ p1074 'Oves meæ' (8g, VESPERS.ant3 COM-PAST) and TP resp br. 'Hic est fratrum amator… Alleluia' (6, opt2) loaded unresolved: no gregobase match, no placeholder (review). p102 Qui de terra est group:14434 producer-checked by melody opening; p356 Usque modo 10277 / Nisi ego abiero group:4546 producer-checked
+- 2026-11-03 06:47 — batch 101: 647 loaded (4 rows; 1 xref), 102 loaded (2), 1074 loaded (3; 2 unresolved), 356 loaded (2)
+- 2026-11-03 07:19 — ⚠ p1075 Sacerdotes tui resp br. (6, COM-PAST-PLUR opt1 and TP opt2) loaded unresolved: no gregobase mode-6 match, no placeholder (review). p103 identities from index, not neume-compared; p357 Dum venerit 14797 partial melody check, Pater sancte 4550 mode 4 vs printed 2*-4a acknowledged. p648 Elegit 10747 by asterisk placement
+- 2026-11-03 07:19 — p1075 correction: TP row option_num null -> 2 in spec, reloaded (1 stale pruned), VERIFY PASS. Added README Known quirk (second occurrence after p1065)
+- 2026-11-03 07:19 — batch 102: 648 loaded (5 rows; 2 xref), 103 loaded (3), 1075 loaded (2; 2 unresolved), 357 loaded (2). Director viewed all four renders

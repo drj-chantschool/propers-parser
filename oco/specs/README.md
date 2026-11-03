@@ -286,3 +286,5 @@ Exit 0 `DRY-RUN OK`; 3 = open questions (fine when genuine); 4 = a cited page is
 - A cited edition (`RM 149` → 17966) or an index identity (#2606 → 17892) is not proof: in pages batch 3 both lost to a
   Verona edition on a note-by-note check (p550 In lege Domini → 11002, p259 Redemptor noster → 14915). Compare every
   syllable + Euouae of each candidate before writing `chant_uuid`, even when the ref line cites it.
+- A 'TP:' / 'Vel:' alternative row sharing a slot with its plain version needs an explicit `option_num` (2), never null:
+  null makes verify report a stale duplicate (seen p1065, p1075).

@@ -1,0 +1,83 @@
+{
+ "page": "103",
+ "page_kind": "assign",
+ "context_in": "Tempus Nativitatis > Dominica II post Nativitatem > I Vesp. > tail of Magnificat antiphon 'Qui de terra est' runs over from p102",
+ "context_out": "Tempus Nativitatis > Dominica II post Nativitatem > Laudes > antiphon 3 'Populo qui ambulabat' begins at page foot, text/staff runs over to p104",
+ "continues": {
+  "from_page": "102",
+  "incipit": "Qui de terra est"
+ },
+ "rows": [
+  {
+   "incipit": "Lux orta est super nos",
+   "kind": "engraved",
+   "index_id": 1977,
+   "chant_uuid": "gregobase:18117",
+   "chant_group_id": null,
+   "mode": "1f",
+   "text": "Lux orta est super nos, quia natus est Salvator mundi, alleluia.",
+   "lit_epoch_slug": "NAT-PO-02-0",
+   "service": "LAUDS",
+   "part": "ant1",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "notes": "p103 1f"
+  },
+  {
+   "incipit": "Hymnum dicamus",
+   "kind": "engraved",
+   "index_id": 1640,
+   "chant_uuid": "gregobase:11117",
+   "chant_group_id": null,
+   "mode": "8g",
+   "text": "Hymnum dicamus Domino Deo nostro, alleluia.",
+   "lit_epoch_slug": "NAT-PO-02-0",
+   "service": "LAUDS",
+   "part": "ant2",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "notes": "p103 8g"
+  },
+  {
+   "incipit": "Populo qui ambulabat",
+   "kind": "engraved",
+   "index_id": 2402,
+   "chant_uuid": "gregobase:14426",
+   "chant_group_id": null,
+   "mode": "8g",
+   "text": "Populo qui ambulabat in tenebris, lux orta est ei.",
+   "lit_epoch_slug": "NAT-PO-02-0",
+   "service": "LAUDS",
+   "part": "ant3",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "notes": "p103 8g"
+  }
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Top of page: tail of 'Qui de terra est' (p102 I Vesp. antM), continues, no row.",
+  "Laudes ant1 engraving prints 'quia hodie natus est'; white text omits 'hodie'.",
+  "Ant3 'Populo qui ambulabat' carries 'Is 9,2; Propre de Bayeux' above it; its staff continues onto p104.",
+  "Index #1639 'Hymnum dicamus' (1H1 | L | 2) links here but nothing on the page cues it; not placed."
+ ]
+}

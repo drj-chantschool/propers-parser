@@ -9,3 +9,6 @@ _tmp/
 _tmp_out.txt
 *.bak-*
 *.bak
+
+# OCO page specs are working files (regenerable from the pages), not tracked
+oco/specs/

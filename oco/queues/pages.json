@@ -133,6 +133,7 @@
    "651",
    "652",
    "653",
+   "951",
    "654",
    "655",
    "656",
@@ -335,7 +336,6 @@
    "948",
    "949",
    "950",
-   "951",
    "952",
    "953",
    "954",
@@ -2561,27 +2561,51 @@
   },
   "654": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:29",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "655": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:29",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "656": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:29",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "657": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:29",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "658": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:29",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "659": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:30",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "660": {
    "lane": "A",
@@ -4757,27 +4781,48 @@
   },
   "109": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:27",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "110": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:27",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "111": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:28",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "112": {
    "lane": "B",
-   "status": "pending"
+   "status": "no_rows",
+   "finished_at": "2026-11-03T21:08:30"
   },
   "113": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:28",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "114": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:28",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "115": {
    "lane": "B",
@@ -6128,43 +6173,63 @@
   },
   "1037": {
    "lane": "C",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 64,
    "claimed_at": "2026-11-02T02:09:49",
-   "finished_at": "2026-11-02T02:12:06",
-   "note": "spec oco/specs/p1037.json complete (6 unresolved rows, ad lib 12 Hæc est vera fraternitas, 13 Isti sunt sancti qui pro lege); dry-run exit 1: null-identity slot clash on COM-MART-PLUR LAUDS.antB with p1031 row (text_id 11962); needs placeholder local chants, same as p1036. Option numbers on VESPERS.antM to recheck after p1036 loads"
+   "finished_at": "2026-11-03T21:07:47",
+   "note": "spec oco/specs/p1037.json complete (6 unresolved rows, ad lib 12 Hæc est vera fraternitas, 13 Isti sunt sancti qui pro lege); dry-run exit 1: null-identity slot clash on COM-MART-PLUR LAUDS.antB with p1031 row (text_id 11962); needs placeholder local chants, same as p1036. Option numbers on VESPERS.antM to recheck after p1036 loads",
+   "summary": {
+    "verify": "PASS",
+    "note": "placeholders"
+   }
   },
   "1038": {
    "lane": "C",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 65,
    "claimed_at": "2026-11-02T02:58:30",
-   "finished_at": "2026-11-02T03:00:03",
-   "note": "spec oco/specs/p1038.json complete (6 unresolved rows, ad lib 14 Isti sunt triumphatores, 15 Martyres Christi); dry-run exit 1: null-identity slot clash on COM-MART-PLUR LAUDS.antB with p1031 row (text_id 11962), same as p1036/p1037; needs placeholder local chants"
+   "finished_at": "2026-11-03T21:07:47",
+   "note": "spec oco/specs/p1038.json complete (6 unresolved rows, ad lib 14 Isti sunt triumphatores, 15 Martyres Christi); dry-run exit 1: null-identity slot clash on COM-MART-PLUR LAUDS.antB with p1031 row (text_id 11962), same as p1036/p1037; needs placeholder local chants",
+   "summary": {
+    "verify": "PASS",
+    "note": "placeholders"
+   }
   },
   "1039": {
    "lane": "C",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 66,
    "claimed_at": "2026-11-02T03:46:05",
-   "finished_at": "2026-11-02T03:47:31",
-   "note": "spec oco/specs/p1039.json complete (6 unresolved rows, ad lib 16 Nolite timere eos, 17 Sanctum est verum lumen); dry-run exit 1: LAUDS.antB null-identity slot clash with p1031 (text_id 11962), same as p1036-1038; needs placeholder local chants"
+   "finished_at": "2026-11-03T21:07:47",
+   "note": "spec oco/specs/p1039.json complete (6 unresolved rows, ad lib 16 Nolite timere eos, 17 Sanctum est verum lumen); dry-run exit 1: LAUDS.antB null-identity slot clash with p1031 (text_id 11962), same as p1036-1038; needs placeholder local chants",
+   "summary": {
+    "verify": "PASS",
+    "note": "placeholders"
+   }
   },
   "1040": {
    "lane": "C",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 67,
    "claimed_at": "2026-11-02T04:36:52",
-   "finished_at": "2026-11-02T04:38:03",
-   "note": "spec oco/specs/p1040.json complete (6 rows: ad lib 18 Tradiderunt corpora gregobase:16138, ad lib 19 Verbera carnificum unresolved); dry-run exit 1: LAUDS.antB null-identity slot clash with p1031 (text_id 11962), same as p1036-1039; needs placeholder local chants"
+   "finished_at": "2026-11-03T21:07:47",
+   "note": "spec oco/specs/p1040.json complete (6 rows: ad lib 18 Tradiderunt corpora gregobase:16138, ad lib 19 Verbera carnificum unresolved); dry-run exit 1: LAUDS.antB null-identity slot clash with p1031 (text_id 11962), same as p1036-1039; needs placeholder local chants",
+   "summary": {
+    "verify": "PASS",
+    "note": "placeholders"
+   }
   },
   "1041": {
    "lane": "C",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 68,
    "claimed_at": "2026-11-02T05:24:39",
-   "finished_at": "2026-11-02T05:26:23",
-   "note": "spec oco/specs/p1041.json complete (6 rows: ad lib 20 Vestri capilli group 2177, ad lib 21 Pretiosa unresolved); dry-run exit 1: LAUDS.antB null-identity slot clash with p1031 (text_id 11962), same as p1036-1040; needs placeholder local chants"
+   "finished_at": "2026-11-03T21:07:47",
+   "note": "spec oco/specs/p1041.json complete (6 rows: ad lib 20 Vestri capilli group 2177, ad lib 21 Pretiosa unresolved); dry-run exit 1: LAUDS.antB null-identity slot clash with p1031 (text_id 11962), same as p1036-1040; needs placeholder local chants",
+   "summary": {
+    "verify": "PASS",
+    "note": "placeholders"
+   }
   },
   "1042": {
    "lane": "C",
@@ -6192,19 +6257,27 @@
   },
   "1044": {
    "lane": "C",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 71,
    "claimed_at": "2026-11-02T07:47:25",
-   "finished_at": "2026-11-02T07:49:14",
-   "note": "spec oco/specs/p1044.json complete (6 rows: ad lib 6 Ipse enim Pater group 10278, ad lib 7 Iustorum animae unresolved); dry-run exit 1: LAUDS.antB null-identity slot clash with p1031 (text_id 11962), same as p1036-1043; needs placeholder local chants"
+   "finished_at": "2026-11-03T21:07:47",
+   "note": "spec oco/specs/p1044.json complete (6 rows: ad lib 6 Ipse enim Pater group 10278, ad lib 7 Iustorum animae unresolved); dry-run exit 1: LAUDS.antB null-identity slot clash with p1031 (text_id 11962), same as p1036-1043; needs placeholder local chants",
+   "summary": {
+    "verify": "PASS",
+    "note": "placeholders"
+   }
   },
   "1045": {
    "lane": "C",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 72,
    "claimed_at": "2026-11-02T08:34:15",
-   "finished_at": "2026-11-02T08:35:41",
-   "note": "spec oco/specs/p1045.json complete (8 rows: ad lib 8 Sancti tui unresolved x3, ad lib 9 Stabunt 10097 x3, hymns Deus tuorum/Virginis proles); dry-run exit 1: LAUDS.antB COM-MART-PLUR null-identity slot clash with p1031 (text_id 11962), same as p1036-1044; needs placeholder local chants"
+   "finished_at": "2026-11-03T21:07:48",
+   "note": "spec oco/specs/p1045.json complete (8 rows: ad lib 8 Sancti tui unresolved x3, ad lib 9 Stabunt 10097 x3, hymns Deus tuorum/Virginis proles); dry-run exit 1: LAUDS.antB COM-MART-PLUR null-identity slot clash with p1031 (text_id 11962), same as p1036-1044; needs placeholder local chants",
+   "summary": {
+    "verify": "PASS",
+    "note": "placeholders"
+   }
   },
   "1046": {
    "lane": "C",
@@ -6282,11 +6355,15 @@
   },
   "1053": {
    "lane": "C",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 80,
    "claimed_at": "2026-11-02T16:23:48",
-   "finished_at": "2026-11-02T16:25:36",
-   "note": "spec oco/specs/p1053.json reviewed vs page, complete (4 rows; Laetitia sempiterna TP resp unresolved); dry-run exit 1: COM-MART-UNO LAUDS.antB null-identity clash with p1043 (text_id 12030, unresolved Fulgebunt iusti) on Qui odit opt1 and Gaudete TP xref; needs placeholder local chant"
+   "finished_at": "2026-11-03T21:07:48",
+   "note": "spec oco/specs/p1053.json reviewed vs page, complete (4 rows; Laetitia sempiterna TP resp unresolved); dry-run exit 1: COM-MART-UNO LAUDS.antB null-identity clash with p1043 (text_id 12030, unresolved Fulgebunt iusti) on Qui odit opt1 and Gaudete TP xref; needs placeholder local chant",
+   "summary": {
+    "verify": "PASS",
+    "note": "placeholders"
+   }
   },
   "1054": {
    "lane": "C",
@@ -6315,11 +6392,15 @@
   },
   "1056": {
    "lane": "C",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 83,
    "claimed_at": "2026-11-02T18:36:07",
-   "finished_at": "2026-11-02T18:37:22",
-   "note": "spec oco/specs/p1056.json complete (2 rows: antM opt1 In caelestibus group:1886, TP resp Fulgebunt unresolved); dry-run exit 1: COM-MART-UNO VESPERS.antM opt1 held by p1043's option_num-null ad lib row (text_id 12032), same class as p1053; needs p1043 option fix / placeholder local chants"
+   "finished_at": "2026-11-03T21:07:48",
+   "note": "spec oco/specs/p1056.json complete (2 rows: antM opt1 In caelestibus group:1886, TP resp Fulgebunt unresolved); dry-run exit 1: COM-MART-UNO VESPERS.antM opt1 held by p1043's option_num-null ad lib row (text_id 12032), same class as p1053; needs p1043 option fix / placeholder local chants",
+   "summary": {
+    "verify": "PASS",
+    "note": "placeholders"
+   }
   },
   "1057": {
    "lane": "C",
@@ -6331,51 +6412,75 @@
   },
   "1058": {
    "lane": "C",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 85,
    "claimed_at": "2026-11-02T20:03:58",
-   "finished_at": "2026-11-02T20:05:12",
-   "note": "spec oco/specs/p1058.json complete (6 unresolved rows: ad lib 7 Beati eritis, 8 Beatificavit illum x3 hours); dry-run exit 1: COM-MART-UNO LAUDS.antB/VESPERS1.antM/VESPERS.antM null-identity slot clash with p1043 (text_id 12030-12032), same class as p1053/1056/1057; director has not viewed render"
+   "finished_at": "2026-11-03T21:07:48",
+   "note": "spec oco/specs/p1058.json complete (6 unresolved rows: ad lib 7 Beati eritis, 8 Beatificavit illum x3 hours); dry-run exit 1: COM-MART-UNO LAUDS.antB/VESPERS1.antM/VESPERS.antM null-identity slot clash with p1043 (text_id 12030-12032), same class as p1053/1056/1057; director has not viewed render",
+   "summary": {
+    "verify": "PASS",
+    "note": "placeholders"
+   }
   },
   "1059": {
    "lane": "C",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 86,
    "claimed_at": "2026-11-02T20:47:43",
-   "finished_at": "2026-11-02T20:48:54",
-   "note": "spec oco/specs/p1059.json complete (6 rows: ad lib 9 Cum dixerint omne unresolved x3, ad lib 10 Hic est vere martyr 4941 x3); dry-run exit 1: COM-MART-UNO LAUDS.antB/VESPERS1.antM/VESPERS.antM null-identity clash with p1043 (text_id 12030-12032), same class as p1053-1058; render not viewed"
+   "finished_at": "2026-11-03T21:07:48",
+   "note": "spec oco/specs/p1059.json complete (6 rows: ad lib 9 Cum dixerint omne unresolved x3, ad lib 10 Hic est vere martyr 4941 x3); dry-run exit 1: COM-MART-UNO LAUDS.antB/VESPERS1.antM/VESPERS.antM null-identity clash with p1043 (text_id 12030-12032), same class as p1053-1058; render not viewed",
+   "summary": {
+    "verify": "PASS",
+    "note": "placeholders"
+   }
   },
   "1060": {
    "lane": "C",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 87,
    "claimed_at": "2026-11-02T21:28:57",
-   "finished_at": "2026-11-02T21:30:24",
-   "note": "spec oco/specs/p1060.json complete (6 rows: ad lib 11 Hic est vir unresolved x3, ad lib 12 Iste est qui gregobase:5809 x3); dry-run exit 1: COM-MART-UNO LAUDS.antB/VESPERS1.antM/VESPERS.antM null-identity slot clash with p1043 (text_id 12030-12032), same class as p1053-1059; needs placeholder local chants; render not reviewed"
+   "finished_at": "2026-11-03T21:07:48",
+   "note": "spec oco/specs/p1060.json complete (6 rows: ad lib 11 Hic est vir unresolved x3, ad lib 12 Iste est qui gregobase:5809 x3); dry-run exit 1: COM-MART-UNO LAUDS.antB/VESPERS1.antM/VESPERS.antM null-identity slot clash with p1043 (text_id 12030-12032), same class as p1053-1059; needs placeholder local chants; render not reviewed",
+   "summary": {
+    "verify": "PASS",
+    "note": "placeholders"
+   }
   },
   "1061": {
    "lane": "C",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 88,
    "claimed_at": "2026-11-02T22:10:09",
-   "finished_at": "2026-11-02T22:12:12",
-   "note": "spec oco/specs/p1061.json reviewed vs page (items 13 Iste sanctus, 14 Magnificavit eum unresolved x3, 15 Volo Pater), complete; dry-run exit 1: COM-MART-UNO null-identity/slot clashes with p1043/p1048 rows (text_id 12030-12032, 12059), same class as p1036-1060; needs placeholder local chants / p1043 fix"
+   "finished_at": "2026-11-03T21:07:49",
+   "note": "spec oco/specs/p1061.json reviewed vs page (items 13 Iste sanctus, 14 Magnificavit eum unresolved x3, 15 Volo Pater), complete; dry-run exit 1: COM-MART-UNO null-identity/slot clashes with p1043/p1048 rows (text_id 12030-12032, 12059), same class as p1036-1060; needs placeholder local chants / p1043 fix",
+   "summary": {
+    "verify": "PASS",
+    "note": "placeholders"
+   }
   },
   "1062": {
    "lane": "C",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 89,
    "claimed_at": "2026-11-02T22:52:00",
-   "finished_at": "2026-11-02T22:56:53",
-   "note": "spec oco/specs/p1062.json complete (33 rows: items 10 Hic est vere martyr, 11 Hic est vir unresolved x3, TP cue 1-9 xrefs); dry-run exit 1: COM-MART-UNO null-identity slot clash with p1043 (text_id 12030-12032), cites p1041/p1044/p1045 unloaded; needs placeholder local chants; render not viewed"
+   "finished_at": "2026-11-03T21:07:49",
+   "note": "spec oco/specs/p1062.json complete (33 rows: items 10 Hic est vere martyr, 11 Hic est vir unresolved x3, TP cue 1-9 xrefs); dry-run exit 1: COM-MART-UNO null-identity slot clash with p1043 (text_id 12030-12032), cites p1041/p1044/p1045 unloaded; needs placeholder local chants; render not viewed",
+   "summary": {
+    "verify": "PASS",
+    "note": "placeholders"
+   }
   },
   "1063": {
    "lane": "C",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 90,
    "claimed_at": "2026-11-02T23:32:35",
-   "finished_at": "2026-11-02T23:34:31",
-   "note": "spec oco/specs/p1063.json complete (6 rows: Iste sanctus ad lib 32 unresolved x3, Dabo vobis unresolved, hymn cues Vir celse/Sacrata nobis); dry-run exit 1: COM-MART-UNO LAUDS.antB/VESPERS1.antM/VESPERS.antM null-identity slot clash with p1043 (text_id 12030-12032), same class as p1036-1062; needs placeholder local chants"
+   "finished_at": "2026-11-03T21:07:49",
+   "note": "spec oco/specs/p1063.json complete (6 rows: Iste sanctus ad lib 32 unresolved x3, Dabo vobis unresolved, hymn cues Vir celse/Sacrata nobis); dry-run exit 1: COM-MART-UNO LAUDS.antB/VESPERS1.antM/VESPERS.antM null-identity slot clash with p1043 (text_id 12030-12032), same class as p1036-1062; needs placeholder local chants",
+   "summary": {
+    "verify": "PASS",
+    "note": "placeholders"
+   }
   },
   "1064": {
    "lane": "C",
@@ -6539,11 +6644,15 @@
   },
   "1077": {
    "lane": "C",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 104,
    "claimed_at": "2026-11-03T09:56:17",
-   "finished_at": "2026-11-03T09:58:07",
-   "note": "spec oco/specs/p1077.json complete (9 rows: ad lib 4 Quinque mihi + 6 In pauca fuisti unresolved, ad lib 5 Euge serve gregobase:8798 not group 2179); dry-run exit 1: null-identity slot clash on COM-PAST LAUDS.antB/VESPERS1.antM/VESPERS.antM with p1076's unresolved rows (text_id 12223/12226/12220); needs placeholder local chants, same as p1036-1063"
+   "finished_at": "2026-11-03T21:07:49",
+   "note": "spec oco/specs/p1077.json complete (9 rows: ad lib 4 Quinque mihi + 6 In pauca fuisti unresolved, ad lib 5 Euge serve gregobase:8798 not group 2179); dry-run exit 1: null-identity slot clash on COM-PAST LAUDS.antB/VESPERS1.antM/VESPERS.antM with p1076's unresolved rows (text_id 12223/12226/12220); needs placeholder local chants, same as p1036-1063",
+   "summary": {
+    "verify": "PASS",
+    "note": "placeholders"
+   }
   },
   "1078": {
    "lane": "C",
@@ -6580,27 +6689,49 @@
   },
   "1081": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:30",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "1082": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:30",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "1083": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:30",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "1084": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "finished_at": "2026-11-03T21:08:30",
+   "note": "per driver log; recheck"
   },
   "1085": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:30",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "1086": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:30",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "1087": {
    "lane": "C",
@@ -8464,11 +8595,15 @@
   },
   "339": {
    "lane": "D",
-   "status": "blocked_dep",
+   "status": "loaded",
    "batch": 84,
    "claimed_at": "2026-11-02T19:20:07",
-   "finished_at": "2026-11-02T19:21:12",
-   "note": "spec oco/specs/p0339.json reviewed, complete; Laudes cue cites p350 (unloaded)"
+   "finished_at": "2026-11-03T20:59:31",
+   "note": "spec oco/specs/p0339.json reviewed, complete; Laudes cue cites p350 (unloaded)",
+   "summary": {
+    "rows": 4,
+    "verify": "PASS"
+   }
   },
   "340": {
    "lane": "D",
@@ -8757,27 +8892,51 @@
   },
   "363": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:28",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "364": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:28",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "365": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:28",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "366": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:28",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "367": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:29",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "368": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "finished_at": "2026-11-03T21:08:29",
+   "summary": {
+    "note": "reconciled from driver log+DB 2026-11-03"
+   }
   },
   "369": {
    "lane": "D",

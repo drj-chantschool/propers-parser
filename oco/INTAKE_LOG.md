@@ -275,3 +275,4 @@
 - 2026-11-03 14:34 — ⚠ accepted p653 'Mecum sit' gregobase mode 5 vs printed 2d (same melody, acknowledged in spec)
 - 2026-11-03 14:34 — batch 109: 653 loaded (3 rows), 108 loaded (2), 1080 loaded (12), 362 loaded (2)
 - 2026-11-03 14:34 — correction batch 109: batch-end ran before finish (summary JSON error); 653, 108, 1080, 362 all loaded + VERIFY PASS, re-marked loaded
+- 2026-11-03 21:07 — Director 2026-11-03: 47 blank placeholder local chants (one chant_group each, OCO p1028-1077 unresolved engravings) created; specs rewritten with chant_uuid; 16 blocked pages loaded+verified (1037-1041,1044,1045,1053,1056,1058-1063,1077); p339 loaded (p350 cue given explicit chant_uuid gregobase:14762); p951 bumped to lane A head. Still blocked: 1002 (p951), 1036/1057 (cue to p1320 = blank last page).

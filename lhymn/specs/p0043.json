@@ -1,8 +1,0 @@
-{"page":"43","page_kind":"assign","jurisdiction":"UNIVERSAL",
-"context_in":"Tempus Nativitatis II NAT-EPI > AD NONAM hymn Ternis horarum terminis (H.VIII), from p42; this page has end of stanza 1 music, stanzas 2-3 and doxology.",
-"context_out":"In Baptismate Domini (Dominica post diem 6 ianuarii occurrente, Festum) NAT-BAPT-01-0 > AD I VESPERAS > hymn A Patre Unigenite (H.IV) begins p43 (stanzas 1-2), runs over onto p44 (stanzas 3-5, doxology-like stanza 5, Amen); no vel line follows. p44 then begins AD INVITATORIUM Christum Filium dilectum (A.VII), continuing on p44.",
-"continues":{"from_page":"42","incipit":"Ternis horarum terminis"},
-"rows":[
-{"incipit":"A Patre Unigenite","kind":"engraved","mode":"IV","lit_epoch_slug":"NAT-BAPT-01-0","service":"VESPERS1","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"Dominica post diem 6 ianuarii occurrente. IN BAPTISMATE DOMINI. Festum. AD I VESPERAS"}],
-"common_refs":[],"questions":[],
-"flags":["Heading is plain AD I VESPERAS (not 'I et II'), so only VESPERS1 emitted.","A Patre Unigenite runs over to p44 (stanzas 3-5, Amen); nothing vel follows."]}

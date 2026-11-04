@@ -1,9 +1,0 @@
-{"page":"54","page_kind":"assign","jurisdiction":"UNIVERSAL",
-"context_in":"TQ-LENT > AD OFFICIUM LECTIONIS: Ex more docti (Officio dominicali) ended on p53. p54 opens with rubric 'In Officio feriali'.",
-"context_out":"TQ-LENT > AD OFFICIUM LECTIONIS > In Officio feriali: Nunc tempus acceptabile (H.I) ends on p54 at Amen, rest of page blank, no vel line. p55 (running head 'Usque ad sabbatum hebdomadae V') opens AD LAUDES MATUTINAS > In Officio dominicali: Precemur omnes cernui (H.II), engraved on p55.",
-"continues":null,
-"rows":[
-{"incipit":"Nunc tempus acceptabile","kind":"engraved","mode":"I","lit_epoch_slug":"TQ-LENT","service":"OFFREAD","part":"hymn","wkdays":[2,3,4,5,6,7],"option_num":1,"option_txt":null,"rubric":"In Officio feriali"}
-],
-"common_refs":[],"questions":[],
-"flags":["AD OFFICIUM LECTIONIS heading is on an earlier page; Officio feriali = wkdays 2-7 per task notes."]}

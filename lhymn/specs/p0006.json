@@ -1,9 +1,0 @@
-{"page":"6","page_kind":"assign","jurisdiction":"UNIVERSAL",
-"context_in":"TEMPUS ADVENTUS › I. Usque ad diem 16 decembris (running head p. 7 confirms; p. 6 head reads 'Tempus Adventus') › AD OFFICIUM LECTIONIS: end of Verbum supernum prodiens (stanza 5 + Amen) from p. 5, followed by rubric 'Ad libitum hymnus cantari potest in tono hymni Vox clara de laudibus matutinis.'",
-"context_out":"TEMPUS ADVENTUS › I. Usque ad diem 16 decembris › AD LAUDES MATUTINAS: Vox clara ecce intonat (H.D) begins on p. 6, stanzas 1-2 and start of 3 engraved/printed; runs onto p. 7 (stanzas 3-5 + Amen, final double bar). Then AD TERTIAM begins on p. 7 with Nunc Sancte nobis (H.IV).",
-"continues":{"from_page":"5","incipit":"Verbum supernum prodiens (end of stanza 4/5 + Amen; plus 'Ad libitum hymnus cantari potest in tono hymni Vox clara' rubric, handled by director)"},
-"rows":[
-{"incipit":"Vox clara ecce intonat obscura quaeque increpat","kind":"engraved","mode":"D","lit_epoch_slug":"ADV-I","service":"LAUDS","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD LAUDES MATUTINAS (Usque ad diem 16 decembris)"}
-],
-"common_refs":[],"questions":[],
-"flags":["Vox clara runs p. 6 -> p. 7 (final double bar after 'Amen' on p. 7); read p. 7 to confirm.","Mode printed as H.D (mode D, per brief).","'Ad libitum hymnus cantari potest in tono hymni Vox clara' belongs to Verbum supernum (p. 5); no row here, director handles it."]}

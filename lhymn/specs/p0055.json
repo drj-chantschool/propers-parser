@@ -1,9 +1,0 @@
-{"page":"55","page_kind":"assign","jurisdiction":"UNIVERSAL",
-"context_in":"TQ-LENT > AD OFFICIUM LECTIONIS ended p54 (Nunc tempus acceptabile, Officio feriali, complete). p55 opens AD LAUDES MATUTINAS.",
-"context_out":"TQ-LENT > AD LAUDES MATUTINAS > In Officio dominicali: Precemur omnes cernui ends p56 top (stanza 5 + Amen). p56 then prints 'In Officio feriali' Iam Christe sol iustitiae (H.D, begins p56, belongs to p56 spec, LAUDS wkdays 2-7), then AD TERTIAM: Dei fide qua vivimus (H.II) begins p56.",
-"continues":null,
-"rows":[
-{"incipit":"Precemur omnes cernui","kind":"engraved","mode":"II","lit_epoch_slug":"TQ-LENT","service":"LAUDS","part":"hymn","wkday":1,"option_num":1,"option_txt":null,"rubric":"AD LAUDES MATUTINAS. In Officio dominicali"}
-],
-"common_refs":[],"questions":[],
-"flags":["Hymn runs onto p56 (stanza 5 and Amen); read p56. Iam Christe sol iustitiae (feriali) begins on p56, not assigned here."]}

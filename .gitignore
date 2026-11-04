@@ -12,3 +12,6 @@ _tmp_out.txt
 
 # OCO page specs are working files (regenerable from the pages), not tracked
 oco/specs/
+graduale/specs/
+GM/specs/
+lhymn/specs/

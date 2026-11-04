@@ -1,9 +1,0 @@
-{"page":"45","page_kind":"assign","jurisdiction":"UNIVERSAL",
-"context_in":"In Baptismate Domini NAT-BAPT-01-0 > AD INVITATORIUM: end of Christum Filium dilectum (A.VII) (ado-remus) with cue Ps. Venite, p. 160 (both assigned on p44).",
-"context_out":"In Baptismate Domini NAT-BAPT-01-0 > AD OFFICIUM LECTIONIS: hymn Implente munus debitum (H.I) begun p45, stanzas 4-5 and Amen on p46. p46 then has AD LAUDES MATUTINAS: Iesus refulsit omnium (H.IV), begins p46 (not assigned here).",
-"continues":{"from_page":"44","incipit":"Christum Filium dilectum (ado-remus; Ps. Venite, p. 160)"},
-"rows":[
-{"incipit":"Implente munus debitum","kind":"engraved","mode":"I","lit_epoch_slug":"NAT-BAPT-01-0","service":"OFFREAD","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD OFFICIUM LECTIONIS"}
-],
-"common_refs":[],"questions":[],
-"flags":["Hymn runs onto p46 (stanzas 4 cont.-5, Amen); p46 starts AD LAUDES hymn Iesus refulsit, not mine."]}

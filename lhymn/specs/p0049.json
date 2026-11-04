@@ -1,9 +1,0 @@
-{"page":"49","page_kind":"assign","jurisdiction":"UNIVERSAL",
-"context_in":"TEMPUS QUADRAGESIMAE I TQ-LENT > 'In Officiis de Tempore ab initio Officii feriae IV Cinerum usque ad Horam mediam sabbati hebdomadae V Quadragesimae inclusive' > AD VESPERAS > In Officio dominicali: hymn Audi benigne Conditor (H.II) running over from p48 (stanza 3 end, 4, 5, Amen).",
-"context_out":"TEMPUS QUADRAGESIMAE I TQ-LENT > AD VESPERAS > In Officio feriali: hymn Iesu quadragenariae dicator abstinentiae (H.IV) begins p49 and ends with Amen on p50 (stanzas 2-5 on p50); nothing follows it on p50.",
-"continues":{"from_page":"48","incipit":"Audi benigne Conditor"},
-"rows":[
-{"incipit":"Iesu quadragenariae dicator abstinentiae","kind":"engraved","mode":"IV","lit_epoch_slug":"TQ-LENT","service":"VESPERS","part":"hymn","wkdays":[2,3,4,5,6,7],"option_num":1,"option_txt":null,"rubric":"In Officiis de Tempore ab initio Officii feriae IV Cinerum usque ad Horam mediam sabbati hebdomadae V Quadragesimae inclusive: AD VESPERAS. In Officio feriali"}
-],
-"common_refs":[],"questions":[],
-"flags":["Top of p49 is the end of Audi benigne (assigned p48), in continues. Feriali hymn runs onto p50 (read; ends Amen, no vel/ad lib line). I Vespers of Sunday belongs to the Sunday (p48), so only VESPERS on wkdays 2-7."]}

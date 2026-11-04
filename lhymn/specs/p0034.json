@@ -1,9 +1,0 @@
-{"page":"34","page_kind":"assign","jurisdiction":"UNIVERSAL",
-"context_in":"Die 1 ianuarii > SOLLEMNITAS SANCTAE DEI GENETRICIS MARIAE (NAT-OCT-02-0) > AD OFFICIUM LECTIONIS: Radix Iesse (H.VIII) running over from p33 (stanzas 3-5, doxology, Amen).",
-"context_out":"Die 1 ianuarii > NAT-OCT-02-0 > AD LAUDES MATUTINAS: Fit porta Christi (H.II) begun p34, runs over to p35 (stanzas 2-5, doxology, Amen; final double bar on p35, no vel after it). No Little Hours printed on p34 or p35 head.",
-"continues":{"from_page":"33","incipit":"Radix Iesse iam floruit"},
-"rows":[
-{"incipit":"Fit porta Christi pervia","kind":"engraved","mode":"II","lit_epoch_slug":"NAT-OCT-02-0","service":"LAUDS","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD LAUDES MATUTINAS"}
-],
-"common_refs":[],"questions":[],
-"flags":["Fit porta Christi runs over to p35 (stanzas 2-5, doxology, Amen); nothing follows it on p35."]}

@@ -1,9 +1,0 @@
-{"page":"42","page_kind":"assign","jurisdiction":"UNIVERSAL",
-"context_in":"Tempus Nativitatis II (A sollemnitate Epiphaniae) NAT-EPI > AD TERTIAM hymn Certum tenentes ordinem (H.VIII), stanza 1 from p41; this page has the end of the first stanza music, stanzas 2-3 and doxology.",
-"context_out":"NAT-EPI > AD NONAM hymn Ternis horarum terminis (H.VIII) begins at foot of p42 and ends on p43 (stanza 1 music finishes, stanzas 2-3, doxology Amen). p43 then begins In Baptismate Domini (Dominica post diem 6 ianuarii occurrente, Festum) NAT-BAPT-01-0, AD I VESPERAS hymn A Patre Unigenite (H.IV).",
-"continues":{"from_page":"41","incipit":"Certum tenentes ordinem"},
-"rows":[
-{"incipit":"Dicamus laudes Domino","kind":"engraved","mode":"VIII","lit_epoch_slug":"NAT-EPI","service":"SEXT","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD SEXTAM"},
-{"incipit":"Ternis horarum terminis","kind":"engraved","mode":"VIII","lit_epoch_slug":"NAT-EPI","service":"NONE","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD NONAM"}],
-"common_refs":[],"questions":[],
-"flags":["Ternis horarum terminis runs over to p43 (final bar and doxology there); no vel/Ad libitum follows.","Last page of NAT section II."]}

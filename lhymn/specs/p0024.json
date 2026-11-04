@@ -1,9 +1,0 @@
-{"page":"24","page_kind":"assign","jurisdiction":"UNIVERSAL",
-"context_in":"TEMPUS NATIVITATIS > I. Usque ad sollemnitatem Epiphaniae > In Officio dominicali et feriali ... nisi adsint hymni proprii > AD LAUDES MATUTINAS: A solis ortus cardine (H.III, begun p22) runs to top of p24 (stanzas 6-8 + Amen).",
-"context_out":"TEMPUS NATIVITATIS > I. Usque ad sollemnitatem Epiphaniae > AD TERTIAM: Nunc Sancte nobis (H.II) begins p24, runs over onto p25 (final stanza + Amen, no vel/ad lib line). Then p25: AD SEXTAM Rector potens (H.II) and AD NONAM Rerum Deus tenax (H.II) both begin on p25 (p25's producer).",
-"continues":{"from_page":"22","incipit":"A solis ortus cardine"},
-"rows":[
-{"incipit":"Nunc Sancte nobis Spiritus","kind":"engraved","mode":"II","lit_epoch_slugs":["NAT-DAY","NAT-IO","NAT-OCT","NAT-PO"],"service":"TERCE","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD TERTIAM (section-wide rule: In Officio dominicali et feriali a I Vesperis Nativitatis Domini usque ad I Vesperas Epiphaniae Domini exclusive, nisi adsint hymni proprii)"}
-],
-"common_refs":[],"questions":[],
-"flags":["Top of p24 is stanzas 6-8 + Amen of A solis ortus cardine (assigned p22); ends there, no vel/ad lib line.","No narrower rubric printed for Terce; section-wide rule applied to the four NAT slugs, wkday null, as p22.","Nunc Sancte runs over onto p25 (last stanza + Amen); Sext and None hymns begin on p25 and are assigned there."]}

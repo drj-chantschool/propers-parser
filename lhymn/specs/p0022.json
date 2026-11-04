@@ -1,9 +1,0 @@
-{"page":"22","page_kind":"assign","jurisdiction":"UNIVERSAL",
-"context_in":"TEMPUS NATIVITATIS › I. Usque ad sollemnitatem Epiphaniae › AD OFFICIUM LECTIONIS › 'Alter tonus ad libitum pro diebus infra octavam': H.IV Candor aeternae Deitatis (begun p21) runs to top of p22, ends stanza 5 + Amen.",
-"context_out":"TEMPUS NATIVITATIS › I. Usque ad sollemnitatem Epiphaniae › In Officio dominicali et feriali ... nisi adsint hymni proprii › AD LAUDES MATUTINAS: A solis ortus cardine (H.III) begins p22 (stanza 1), runs over p23 (stanzas 1-6) and p24 (stanzas 6-8, Amen; final double bar); no vel/ad lib line. Next on p24: AD TERTIAM, Nunc Sancte nobis (H.II) begins p24 (p24's producer).",
-"continues":{"from_page":"21","incipit":"Candor aeternae Deitatis"},
-"rows":[
-{"incipit":"A solis ortus cardine","kind":"engraved","mode":"III","lit_epoch_slugs":["NAT-DAY","NAT-IO","NAT-OCT","NAT-PO"],"service":"LAUDS","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"In Officio dominicali et feriali a I Vesperis Nativitatis Domini usque ad I Vesperas Epiphaniae Domini exclusive, nisi adsint hymni proprii: AD LAUDES MATUTINAS"}
-],
-"common_refs":[],"questions":[],
-"flags":["Page prints no narrower rubric for Lauds; section-wide rule from p14 applied to the four NAT season slugs, wkday null.","Hymn is 8 stanzas + Amen, ending p24 with no vel/ad lib line (read p23, p24).","Top of p22 is stanzas 3-5 + Amen of H.IV Candor (assigned p21)."]}

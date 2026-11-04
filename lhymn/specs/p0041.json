@@ -1,7 +1,0 @@
-{"page":"41","page_kind":"assign","jurisdiction":"UNIVERSAL",
-"context_in":"NAT-EPI (Tempus Nativitatis II, A sollemnitate Epiphaniae) > AD LAUDES MATUTINAS hymn Quicumque Christum quaeritis (from p40), stanzas 4(end)-7 + Amen.",
-"context_out":"NAT-EPI > AD TERTIAM hymn Certum tenentes ordinem (H.VIII) begins at foot of p41, runs over to p42 (Amen, no vel/Ad libitum). p42 then has AD SEXTAM (Dicamus laudes Domino, H.VIII) and AD NONAM (Ternis horarum terminis, H.VIII) starting there.",
-"continues":{"from_page":"40","incipit":"Quicumque Christum quaeritis"},
-"rows":[{"incipit":"Certum tenentes ordinem","kind":"engraved","mode":"VIII","lit_epoch_slug":"NAT-EPI","service":"TERCE","part":"hymn","wkday":null,"option_num":1,"option_txt":null,"rubric":"AD TERTIAM"}],
-"common_refs":[],"questions":[],
-"flags":["Terce hymn stanzas 2-3 and doxology on p42; Sext and None hymns begin on p42 (not assigned here)."]}

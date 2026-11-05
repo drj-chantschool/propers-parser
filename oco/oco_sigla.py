@@ -34,7 +34,7 @@ SEASONS = {  # whole-season / feast codes → slug list (+ optional wkday)
     "D": [("OT-OT", 1)],
     "Trn": ["OT-FOL-00-1"], "Corp": ["OT-FOL-00-2"], "Cord": ["OT-FOL-00-3"], "Reg": ["OT-FOL-00-4"],
     "Sabb-p-D2-p-Pent": ["OT-FOL-00-5"],
-    "Def": ["officium-defunctorum"], "DefTP": ["officium-defunctorum"],
+    "Def": ["liturgia-defunctorum"], "DefTP": ["liturgia-defunctorum"],
 }
 COMMONS = {
     "Ded": "COM-DED", "BMV": "COM-BMV", "BMV Sab": "COM-BMV-SAB", "Ap": "COM-APOST",

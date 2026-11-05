@@ -35,7 +35,7 @@ COMMON_RANGES = {
     "COM-DED": (247, 253), "COM-BMV": (253, 263), "COM-BMV-SAB": (263, 266), "COM-APOST": (266, 273),
     "COM-MART-PLUR": (273, 280), "COM-MART-UNO": (280, 289), "COM-PAST": (289, 301),
     "COM-DOCT": (301, 305), "COM-VIRG": (305, 311), "COM-SANCT-VIR": (311, 318),
-    "COM-SANCT-MULIER": (318, 324), "COM-SANCT-RELIG": (324, 328), "officium-defunctorum": (328, 336),
+    "COM-SANCT-MULIER": (318, 324), "COM-SANCT-RELIG": (324, 328), "liturgia-defunctorum": (328, 336),
     "COM-MON": (537, 541),
 }
 

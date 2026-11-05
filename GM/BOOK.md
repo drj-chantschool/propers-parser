@@ -77,7 +77,7 @@ Other sections: find the slug in `lit_epoch`, then the PDF by title. **Advent Su
 base** `ADV-I-0N` (no cycles). The Feasts folder's 19 PDFs are not 19 Masses: §15–19 are chantless
 (prayers only), §14 is a chapter, §13 splits into two epochs. Holy Week sections are rites: ritual
 `service_part` codes (`gfgr`, `vigcan2`, `vigasp`…), and COMPLETENESS warnings there are benign; the
-Exsultet is not modellable (open). The Funeral Mass (`missa-pro-defunctis`) and Last Farewell
+Exsultet is not modellable (open). The Funeral Mass (`liturgia-defunctorum`) and Last Farewell
 (`EXSEQCOM`, one ritual epoch) are loaded; Dedication is two epochs (`COM-DED-IPSA` / `COM-DED-ALIIS`).
 
 ### Review and load

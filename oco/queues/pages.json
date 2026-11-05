@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 138,
+  "batch_id": 140,
   "batch_open": false,
-  "batch_started": "2026-11-05T14:44:38",
-  "batch_finished": "2026-11-05T14:47:08",
-  "next_due": "2026-11-05T15:22:08",
+  "batch_started": "2026-11-05T17:51:56",
+  "batch_finished": "2026-11-05T17:54:40",
+  "next_due": "2026-11-05T18:29:40",
   "limit_hits": 1,
   "batch_units": [
-   "684",
-   "140",
-   "1112",
-   "394"
+   "686",
+   "142",
+   "1114",
+   "396"
   ]
  },
  "lanes": {
@@ -2965,11 +2965,22 @@
   },
   "685": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 139,
+   "claimed_at": "2026-11-05T16:16:09",
+   "finished_at": "2026-11-05T16:19:13",
+   "summary": {
+    "spec": "p0685.json",
+    "rows": 6,
+    "unresolved": 2,
+    "verify": "PASS"
+   }
   },
   "686": {
    "lane": "A",
-   "status": "pending"
+   "status": "pending",
+   "batch": 140,
+   "claimed_at": "2026-11-05T17:51:56"
   },
   "687": {
    "lane": "A",
@@ -5464,11 +5475,21 @@
   },
   "141": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 139,
+   "claimed_at": "2026-11-05T16:16:09",
+   "finished_at": "2026-11-05T16:18:01",
+   "summary": {
+    "spec": "p0141.json",
+    "rows": 19,
+    "verify": "PASS"
+   }
   },
   "142": {
    "lane": "B",
-   "status": "pending"
+   "status": "pending",
+   "batch": 140,
+   "claimed_at": "2026-11-05T17:51:56"
   },
   "143": {
    "lane": "B",
@@ -7633,11 +7654,22 @@
   },
   "1113": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 139,
+   "claimed_at": "2026-11-05T16:16:09",
+   "finished_at": "2026-11-05T16:19:35",
+   "summary": {
+    "spec": "p1113.json",
+    "rows": 5,
+    "unresolved": 1,
+    "verify": "PASS"
+   }
   },
   "1114": {
    "lane": "C",
-   "status": "pending"
+   "status": "pending",
+   "batch": 140,
+   "claimed_at": "2026-11-05T17:51:56"
   },
   "1115": {
    "lane": "C",
@@ -10085,11 +10117,22 @@
   },
   "395": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 139,
+   "claimed_at": "2026-11-05T16:16:09",
+   "finished_at": "2026-11-05T16:17:21",
+   "summary": {
+    "spec": "p0395.json",
+    "rows": 4,
+    "xref": 2,
+    "verify": "PASS"
+   }
   },
   "396": {
    "lane": "D",
-   "status": "pending"
+   "status": "pending",
+   "batch": 140,
+   "claimed_at": "2026-11-05T17:51:56"
   },
   "397": {
    "lane": "D",

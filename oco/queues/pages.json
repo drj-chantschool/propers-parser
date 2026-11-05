@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 134,
+  "batch_id": 135,
   "batch_open": false,
-  "batch_started": "2026-11-05T08:38:21",
-  "batch_finished": "2026-11-05T08:38:26",
-  "next_due": "2026-11-05T09:13:26",
+  "batch_started": "2026-11-05T10:04:56",
+  "batch_finished": "2026-11-05T10:06:53",
+  "next_due": "2026-11-05T10:41:53",
   "limit_hits": 1,
   "batch_units": [
-   "680",
-   "136",
-   "1108",
-   "390"
+   "681",
+   "137",
+   "1109",
+   "391"
   ]
  },
  "lanes": {
@@ -2916,7 +2916,18 @@
   },
   "681": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 135,
+   "claimed_at": "2026-11-05T10:04:56",
+   "finished_at": "2026-11-05T10:06:52",
+   "summary": {
+    "spec": "p0681.json",
+    "mode": "verify",
+    "page": "681",
+    "rows": 3,
+    "unresolved": 1,
+    "verify": "PASS"
+   }
   },
   "682": {
    "lane": "A",
@@ -5384,7 +5395,17 @@
   },
   "137": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 135,
+   "claimed_at": "2026-11-05T10:04:56",
+   "finished_at": "2026-11-05T10:06:03",
+   "summary": {
+    "spec": "p0137.json",
+    "mode": "verify",
+    "page": "137",
+    "rows": 3,
+    "verify": "PASS"
+   }
   },
   "138": {
    "lane": "B",
@@ -7527,7 +7548,11 @@
   },
   "1109": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 135,
+   "claimed_at": "2026-11-05T10:04:56",
+   "finished_at": "2026-11-05T10:06:23",
+   "note": "spec oco/specs/p1109.json (14 rows) complete per producer; dry-run exit 4: 3 xref cues wait on p1140 (Simile est regnum); not reviewed against page image yet"
   },
   "1110": {
    "lane": "C",
@@ -9946,7 +9971,17 @@
   },
   "391": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 135,
+   "claimed_at": "2026-11-05T10:04:56",
+   "finished_at": "2026-11-05T10:06:23",
+   "summary": {
+    "spec": "p0391.json",
+    "mode": "verify",
+    "page": "391",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "392": {
    "lane": "D",

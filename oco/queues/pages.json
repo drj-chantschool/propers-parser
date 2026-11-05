@@ -2978,9 +2978,13 @@
   },
   "686": {
    "lane": "A",
-   "status": "pending",
+   "status": "loaded",
    "batch": 140,
-   "claimed_at": "2026-11-05T17:51:56"
+   "claimed_at": "2026-11-05T17:51:56",
+   "finished_at": "2026-11-05T17:54:54",
+   "summary": {
+    "rows": 4
+   }
   },
   "687": {
    "lane": "A",
@@ -5487,9 +5491,13 @@
   },
   "142": {
    "lane": "B",
-   "status": "pending",
+   "status": "loaded",
    "batch": 140,
-   "claimed_at": "2026-11-05T17:51:56"
+   "claimed_at": "2026-11-05T17:51:56",
+   "finished_at": "2026-11-05T17:54:54",
+   "summary": {
+    "rows": 11
+   }
   },
   "143": {
    "lane": "B",
@@ -7667,9 +7675,13 @@
   },
   "1114": {
    "lane": "C",
-   "status": "pending",
+   "status": "loaded",
    "batch": 140,
-   "claimed_at": "2026-11-05T17:51:56"
+   "claimed_at": "2026-11-05T17:51:56",
+   "finished_at": "2026-11-05T17:54:55",
+   "summary": {
+    "rows": 2
+   }
   },
   "1115": {
    "lane": "C",
@@ -10130,9 +10142,13 @@
   },
   "396": {
    "lane": "D",
-   "status": "pending",
+   "status": "loaded",
    "batch": 140,
-   "claimed_at": "2026-11-05T17:51:56"
+   "claimed_at": "2026-11-05T17:51:56",
+   "finished_at": "2026-11-05T17:54:55",
+   "summary": {
+    "rows": 5
+   }
   },
   "397": {
    "lane": "D",

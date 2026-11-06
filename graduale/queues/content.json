@@ -1,0 +1,173 @@
+{
+ "meta": {
+  "book": "GRADUALE",
+  "stage": "content",
+  "created": "2026-10-22T14:36:26",
+  "log": "graduale/queues/content.log.md"
+ },
+ "config": {
+  "wait_minutes": 20,
+  "batch_size": 3,
+  "stale_minutes": 60,
+  "strict_lanes": false
+ },
+ "state": {
+  "batch_id": 6,
+  "batch_open": true,
+  "batch_started": "2026-11-05T22:08:49",
+  "batch_finished": "2026-10-27T18:03:53",
+  "next_due": "2026-10-27T18:23:53",
+  "limit_hits": 0,
+  "batch_units": [
+   "pontons-rochefort-martyrs-osb",
+   "omnium-sanctorum-osb"
+  ]
+ },
+ "lanes": {
+  "A": [
+   "NAT-EPI-00-0-vigil",
+   "PASC-ASC-06-5-vigil",
+   "teresa-benedicta-of-the-cross",
+   "st-maximilian-kolbe",
+   "andrew-kim-taegon-paul-chong-hasang",
+   "pio-of-pietrelcina",
+   "pope-john-xxiii",
+   "john-paul-ii",
+   "andrew-dung-lac",
+   "pontons-rochefort-martyrs-osb",
+   "omnium-sanctorum-osb"
+  ]
+ },
+ "units": {
+  "NAT-EPI-00-0-vigil": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 2,
+   "claimed_at": "2026-10-24T05:54:45",
+   "finished_at": "2026-10-24T05:56:29",
+   "note": "Addenda p919 has no text layer; loader bbox fallback needed",
+   "question_id": 36,
+   "summary": {
+    "inserted": 5,
+    "verify": "PASS"
+   }
+  },
+  "PASC-ASC-06-5-vigil": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 2,
+   "claimed_at": "2026-10-24T05:54:45",
+   "finished_at": "2026-10-24T05:56:29",
+   "note": "Addenda p919 has no text layer; loader bbox fallback needed",
+   "question_id": 36,
+   "summary": {
+    "inserted": 8,
+    "verify": "PASS"
+   }
+  },
+  "teresa-benedicta-of-the-cross": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 2,
+   "claimed_at": "2026-10-24T05:54:45",
+   "finished_at": "2026-10-24T05:56:29",
+   "note": "Addenda p919 has no text layer; loader bbox fallback needed",
+   "question_id": 36,
+   "summary": {
+    "inserted": 5,
+    "verify": "PASS"
+   }
+  },
+  "st-maximilian-kolbe": {
+   "lane": "A",
+   "status": "no_rows",
+   "batch": 3,
+   "claimed_at": "2026-10-24T18:05:34",
+   "finished_at": "2026-10-24T18:07:05",
+   "summary": {
+    "slug": "st-maximilian-kolbe",
+    "rows": 0,
+    "note": "Addenda p919-920 cites 447/125/511/224/470 = the 5 rows already loaded from p596; Mem. matches rank"
+   }
+  },
+  "andrew-kim-taegon-paul-chong-hasang": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 3,
+   "claimed_at": "2026-10-24T18:05:34",
+   "finished_at": "2026-10-24T18:07:05",
+   "summary": {
+    "inserted": 5,
+    "verify": "PASS"
+   }
+  },
+  "pio-of-pietrelcina": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 3,
+   "claimed_at": "2026-10-24T18:05:34",
+   "finished_at": "2026-10-24T18:07:05",
+   "summary": {
+    "inserted": 5,
+    "verify": "PASS"
+   }
+  },
+  "pope-john-xxiii": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 4,
+   "claimed_at": "2026-10-25T06:17:31",
+   "finished_at": "2026-10-25T06:18:58",
+   "summary": {
+    "inserted": 5,
+    "updated": 0,
+    "skipped": 0,
+    "verify": "PASS"
+   }
+  },
+  "john-paul-ii": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 4,
+   "claimed_at": "2026-10-25T06:17:31",
+   "finished_at": "2026-10-25T06:18:58",
+   "summary": {
+    "inserted": 5,
+    "updated": 0,
+    "skipped": 0,
+    "verify": "PASS"
+   }
+  },
+  "andrew-dung-lac": {
+   "lane": "A",
+   "status": "loaded",
+   "batch": 4,
+   "claimed_at": "2026-10-25T06:17:31",
+   "finished_at": "2026-10-25T06:18:58",
+   "summary": {
+    "inserted": 5,
+    "updated": 0,
+    "skipped": 0,
+    "verify": "PASS"
+   }
+  },
+  "pontons-rochefort-martyrs-osb": {
+   "lane": "A",
+   "status": "claimed",
+   "batch": 6,
+   "claimed_at": "2026-11-05T22:08:49",
+   "finished_at": "2026-10-27T18:03:53",
+   "note": "needs lit_epoch slug/rank ruling",
+   "question_id": 39
+  },
+  "omnium-sanctorum-osb": {
+   "lane": "A",
+   "status": "claimed",
+   "batch": 6,
+   "claimed_at": "2026-11-05T22:08:49",
+   "finished_at": "2026-10-27T18:03:53",
+   "note": "needs lit_epoch slug/rank ruling",
+   "question_id": 39
+  }
+ }
+}

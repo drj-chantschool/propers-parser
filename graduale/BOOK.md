@@ -51,10 +51,10 @@ front labels are now 0, 1, 3, 4, 5, 7… (p2/p6 are blank versos not in the scan
   `proper_of_saints` UNIVERSAL = OPTIONAL_MEMORIAL (also `lit_epoch.rank_code`) + an `EU` row = FEAST
   (the Cyril & Methodius pattern). The chants load as usual (UNIVERSAL); don't raise the rank.
 - `john-paul-ii` runs 920→921; `andrew-dung-lac` heads p921.
-- OSB entries (both tagged `C.S.`, see the `gr-osb-appendix-jurisdiction` memory; `jurisdiction: OSB`):
+- OSB entries (epochs created 2026-11-05, intake_queue #39; both tagged `C.S.`, see the `gr-osb-appendix-jurisdiction` memory; `jurisdiction: OSB`):
   `pontons-rochefort-martyrs-osb` (18 Aug, BB. Martyrum Benedictinorum Pontonum Rupifortium) and
-  `omnium-sanctorum-osb` (8 Nov, Omnium Sanctorum O.S.P.N. Benedicti, Mem.) are **provisional unit ids
-  — no `lit_epoch`/`proper_of_saints` row exists**: raise the slug/epoch question before producing.
+  `omnium-sanctorum-osb` (8 Nov, Omnium Sanctorum O.S.P.N. Benedicti, Mem.) are now real epochs
+  (rank NULL/UNDETERMINED and MEMORIAL); produce the specs as usual.
 
 ## Stages (read by /book-batch)
 

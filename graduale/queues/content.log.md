@@ -21,3 +21,4 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-10-27 18:03 — batch 5 (stage content, driven): pontons-rochefort-martyrs-osb, omnium-sanctorum-osb held (0 rows) pending #39; no producers spawned
 - 2026-11-05 21:04 — ↩ intake_queue #39 answered: released pontons-rochefort-martyrs-osb, omnium-sanctorum-osb to pending
 - 2026-11-05 21:05 — ✅ intake_queue #39 resolved: created lit_epoch/lit_epoch_tree/proper_of_saints rows pontons-rochefort-martyrs-osb (rank NULL/UNDETERMINED) and omnium-sanctorum-osb (MEMORIAL), jurisdiction OSB
+- 2026-11-05 22:09 — batch 6 (stage content, driven): pontons-rochefort-martyrs-osb loaded (5 rows), omnium-sanctorum-osb loaded (5 rows); director wrote page cross-reference specs from p921 (jurisdiction OSB), index-matched, no producers spawned

@@ -352,3 +352,41 @@
 - 2026-11-06 13:43 — batch 150: 696 loaded (1 row), 152 loaded (3), 1124 loaded (5; adopt 3, adopt-move 2), 406 loaded (3; 2 xref); 1002/1036/1057/1109 still blocked_dep
 - 2026-11-06 13:43 — note batch 150: units finished loaded after batch-end (summary arg first mis-formatted); status consistent: 591 loaded, 607 remaining
 - 2026-11-06 15:18 — batch 151: 697 loaded (1 row), 153 loaded (2), 1125 loaded (3; TP responsory Iustus Dominus Alleluia has no identity, allow_unresolved), 407 loaded (3)
+- 2026-11-06 16:52 — ⚠ p698 'Lætatus sum' (Tertia ant3, m8g, PM 288) and p1126 TP 'Oculi Domini... Alleluia' (COM-SANCT-VIR-PLUR VESPERS.resp opt2, m6; staff runs to p1127) loaded unresolved, no gregobase match, no placeholder yet; p698 Auxilium meum 10697 and p408 Fratres/Ne reminiscaris neumes not compared note by note; p408 wkday=1 per precedent, rubric copied from p407
+- 2026-11-06 16:52 — batch 152: 698 loaded (3 rows), 154 loaded (2), 1126 loaded (2), 408 loaded (3)
+- 2026-11-06 18:24 — batch 153: 699 loaded (4 rows), 155 loaded (3), 1127 loaded (2; Beati servi mode 2*a vs gb 4 acknowledged), 409 loaded (2)
+- 2026-11-06 19:52 — p1128 accepted: Beatus vir qui inventus est has no gregobase chant (allow_unresolved, runs on to p1129); load replaced legacy text_ids 11306 (Dabo sanctis meis, ad lib 11) and 11351 (Si culmen, ad lib 9) at VERIFY options 2/4 — their own pages re-add them. p700 18328 and p410 7065 text variants accepted (verified_despite).
+- 2026-11-06 19:52 — batch 154: 700 loaded (2 rows), 156 loaded (2), 1128 loaded (9), 410 loaded (2)
+- 2026-11-06 21:18 — ⏸ session limit inferred (wakeup due 2026-11-06T20:27:51 was missed); wait between batches → 40 min
+- 2026-11-06 21:20 — ⚠ 411: 'Attingit sapientia' (8g, OT-OT-31-1 M) loaded unresolved: no gregobase chant, placeholder wanted. 411 'Da pacem' engraving continues p412 (mark continues). 157: Si ergo vos text 'cum estis' accepted (verified_despite).
+- 2026-11-06 21:20 — batch 155: 1177 no_rows (0), 157 loaded (2), 411 loaded (3), 1129 blocked_dep (null-identity clash with p1128; needs placeholders/loader fix)
+- 2026-11-06 22:44 — ⏸ driven: batch 156 note: p1130 blocked on null-identity clash (same as p1129/p1128 Commons pile); p412 'Ornaverunt faciem templi' CAO 4199 unresolved (no gregobase; placeholder needed); p412 Lugebat placed as Vel opt2 (index #1972 coded 33D, page cites dom. XXXI one-year cycle)
+- 2026-11-06 22:44 — batch 156: 1178 no_rows (0), 158 loaded (2), 412 loaded (2), 1130 blocked_dep (null-identity clash with p1128)
+- 2026-11-07 00:04 — ⚠ p1179: 'Gaude et laetare, filia Sion' (6f, CAO 2921) unresolved (allow_unresolved; gregobase candidates are mode 1) - needs a placeholder local chant eventually. O regem caeli staff is on p1180.
+- 2026-11-07 00:04 — batch 157: 1179 loaded (4 rows), 159 loaded (1), 413 loaded (2), 1131 blocked_dep (null-identity clash with p1128, same class as 1129/1130)
+- 2026-11-07 01:24 — p1180 accepted ⚠ CHECK on 16742 (Genetrix vs Genitrix spelling; engraving printed Genetrix)
+- 2026-11-07 01:24 — batch 158: 1180 loaded (2 rows), 160 loaded (2), 1132 loaded (9), 414 loaded (2)
+- 2026-11-07 02:40 — batch 159: 415 loaded (2 rows), 1181 loaded (2), 161 loaded (2), 1133 blocked_dep (null-identity clash with p1128, same class as p1129-1131: 4 Commons pages now wait on placeholder local chants / loader fix)
+- 2026-11-07 03:57 — batch 160: 1182 loaded (6 rows), 162 loaded (3), 1134 loaded (3), 416 loaded (2); blocked_dep units unchanged (1002,1036,1057,1109,1129-1131,1133)
+- 2026-11-07 05:18 — ⚠ 1135: 2 unresolved m6 responsories (Exsultabo et lætabor, no gregobase chant) loaded allow_unresolved, no placeholder
+- 2026-11-07 05:19 — 1135: placeholder local chants created (2940531a…, 96502728…) for Exsultabo et lætabor responsories; supersedes the earlier unresolved note
+- 2026-11-07 05:19 — batch 161: 1183 loaded (2 rows), 163 loaded (2), 1135 loaded (2, placeholders), 417 loaded (2)
+- 2026-11-07 06:41 — batch 162: 1184 loaded (7 rows), 164 loaded (3), 1136 loaded (4; Laetentur omnes unresolved, no identity), 418 loaded (1; replaced legacy 10782 with gregobase:15794). Flags: p1184 Dum complerentur staff on p1185; p418 Estote ergo vos belongs to p419 (legacy 10318 stamped 418)
+- 2026-11-07 08:00 — ⚠ p1185: placeholder local chants created for 'Ecce Deus noster' (8g, group 20713) and 'Surrexit enim' (4e, group 20714); load replaced 8 legacy rows (#2220 Nonne cor nostrum wks 4/12/20/28, #3036 Undecim discipuli wks 9/17/25/33) since page prints 'dominicis 2-33' — their own pages (p299, p1189) should re-add them as option 2. p1137: Hæc femina cue uses 20036 (index #136 / PDF link carry wrong 17984); Inv cue 'Ut supra' owned by p1117, no row; Dilexisti iustitiam belongs to p1138.
+- 2026-11-07 08:00 — batch 163: 1185 loaded (37 rows, 2 placeholders), 165 loaded (2), 1137 loaded (3), 419 loaded (3)
+- 2026-11-07 09:22 — p1186: Post passionem Domini / Et incipiens a Moyse (8g) loaded unresolved (no gregobase match); option 2 beside p1185 Ecce Deus noster
+- 2026-11-07 09:24 — p1138: accepted office-part CHECK on Dilexisti (15452)/Afferentur (15494: Simplex gabc lacks TP Alleluia the page prints); Benedicam te Domine 5a loaded unresolved
+- 2026-11-07 09:24 — batch 164: 1186 loaded (8 rows), 166 loaded (3), 1138 loaded (5), 420 loaded (2)
+- 2026-11-07 10:49 — p1187: Surrexit Dominus de sepulcro (4e) and Quem quaerebam (2d) loaded unresolved (no gregobase match); options 2/3 follow p1186. p1139: Ego Christum confiteor (7c) loaded unresolved
+- 2026-11-07 10:49 — batch 165: 1187 loaded (12 rows), 167 loaded (2), 1139 loaded (2), 421 loaded (2)
+- 2026-11-07 12:11 — p1188: Mitte manum tuam (8g) and Dixit Iesus discipulis (1g) loaded unresolved (no gregobase match), opt 2 following p1187; no placeholder
+- 2026-11-07 12:11 — p422: Convocatis (VESPERS.antM) set to Verona gregobase:15949 replacing legacy Solesmes 8519 (same melody, spelling Iesus/apostolis matches Verona); Rogate = Verona 16028, Eudists rubric. p1140: 'Simile est regnum' is engraved on p1141, not p1140 - p1109's cue to p1140 should resolve via p1141 (same for index #2835-2841). Anno A assumed on p422 (no year label)
+- 2026-11-07 12:11 — batch 166: 1188 loaded (8 rows, unresolved), 168 loaded (2), 1140 loaded (3), 422 loaded (2)
+- 2026-11-07 13:38 — batch 167: 1189 loaded (6 rows), 169 loaded (2, replaced legacy 10878 w/ Verona 15914), 1141 loaded (2; Aquae multae 16951 lacks TP ending), 423 loaded (2, replaced legacy 11167/10853 w/ Verona; Anno A from index). Blocked 8 re-checked: still exit 1/4
+- 2026-11-07 15:04 — batch 168: 1190 loaded (2 rows; mode flags verified_despite), 170 loaded (2), 1142 loaded (5; 2 unresolved Cor meum/Talis est), 424 loaded (4; 1 legacy replaced)
+- 2026-11-07 16:32 — batch 169 notes: p1143 two unresolved (allow_unresolved) Fundamenta aeterna / Mens mea (no gregobase); p1191 accepted CHECK on gregobase:17866 mode 1 vs printed 6f (text incl. TP matches, other candidates lack TP); p171 Fili recordare gregobase:1904 moderate confidence
+- 2026-11-07 16:32 — batch 169: 425 loaded (1 row), 171 loaded (2), 1143 loaded (2), 1191 loaded (2)
+- 2026-11-07 18:02 — ⚠ p1192: 'Inseparabilis fides' (CAO 3354, 3a, VIGILIAE.antcv ss-peter-paul) loaded unresolved (no gregobase chant); Gaude et lætare xref mode 6f vs gregobase 1 acknowledged as on p1191; engraving continues on p1193
+- 2026-11-07 18:02 — batch 170: 1192 loaded (3 rows), 172 loaded (2), 1144 loaded (2), 426 loaded (2)
+- 2026-11-07 19:31 — ⚠ p1145: placeholder local chants created for Laudamini responsories (rb mode 6, opt1 + TP opt2; local:a1145001/2…). p1193: placeholder for 'O quam speciosa' (1f, local:a1193001…); underlined margin '278' on p1193 meaning unknown, no row. p173: Sacrificabo row uses Verona 14671, replacing legacy Solesmes 13108 (page engraves c4 form).
+- 2026-11-07 19:31 — batch 171: 1193 loaded (2 rows, 1 placeholder), 173 loaded (3), 1145 loaded (2, placeholders), 427 loaded (2)

@@ -417,3 +417,7 @@
 - 2026-11-08 12:36 — batch 184: 186 loaded (2 rows), 1206 loaded (3), 1158 loaded (6), 440 loaded (2)
 - 2026-11-08 13:48 — ⚠ p1159: placeholder local chant created for 'Mensuram bonam' (1a3, local:a1159001…, chant_group 20718; ad lib 7, 3 slots); Frange esurienti = gregobase:10963 (GS 100, office-part of, acknowledged). p1207 Vigilemus omnes (Compline Nunc, opt2) new; Illumina Domine = group 11190. p187 Extollens = gregobase:14568 (new). p441 Intravit autem rex staff starts p442 (p442 should adopt legacy 10529). p1157 'Date eleemosynam' still group:None (no placeholder).
 - 2026-11-08 13:48 — batch 185: 1207 loaded (3 rows), 187 loaded (2), 1159 loaded (6, 1 placeholder), 441 loaded (1)
+- 2026-11-08 14:58 — ⚠ p1160: placeholder local chant created for 'Præbe fili' (4e, local:a1160001…, chant_group 20719; COM-SANCT-EDUC Lauds B). p188 Nos ergo = index id (neumes not compared); Stans a longe = Verona 14694 (new). p442 Magister scimus = 8617 (Dominican 5579 equally fits). p1208 Lucem tuam staff cut at page foot, check p1209; Compline rows modelled OT-OT+WEEKDAY.
+- 2026-11-08 14:58 — batch 186: 1208 loaded (2 rows), 188 loaded (2), 1160 loaded (2, 1 placeholder), 442 loaded (2)
+- 2026-11-08 16:08 — ⏸ note: step 'Q due' was run once in driven mode by mistake (no side effects, action RUN)
+- 2026-11-08 16:08 — batch 187: 189 loaded (3 rows), 1161 loaded (1), 1209 loaded (1), 443 loaded (2)

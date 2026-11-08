@@ -421,3 +421,4 @@
 - 2026-11-08 14:58 — batch 186: 1208 loaded (2 rows), 188 loaded (2), 1160 loaded (2, 1 placeholder), 442 loaded (2)
 - 2026-11-08 16:08 — ⏸ note: step 'Q due' was run once in driven mode by mistake (no side effects, action RUN)
 - 2026-11-08 16:08 — batch 187: 189 loaded (3 rows), 1161 loaded (1), 1209 loaded (1), 443 loaded (2)
+- 2026-11-08 17:20 — batch 188: 829 loaded (3 rows), 190 loaded (3), 1162 loaded (4), 444 loaded (3)

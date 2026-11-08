@@ -411,3 +411,9 @@
 - 2026-11-08 08:56 — batch 181: 1203 loaded (1 row), 183 loaded (12), 437 loaded (1), 1155 blocked_dep (10 rows, null-identity clash)
 - 2026-11-08 10:07 — ⚠ accepted: p184 Amen dico vobis (v.6 hidden-text mismatch, engraving followed); p1204 Visita 11174 vs 19649 close call; p1156 Amen dico vobis Quod uni 15183 not melody-checked
 - 2026-11-08 10:07 — batch 182: 1204 loaded (3 rows), 184 loaded (3), 1156 loaded (2), 438 loaded (2)
+- 2026-11-08 11:20 — ⚠ p1157: 'Abscondite eleemosynam' (1g) and 'Date eleemosynam' (1f) loaded unresolved (no gregobase), need placeholders; opt2/3 ad lib replaced legacy p1158 ad lib 4 (gregobase:18126, text_ids 11319-21) at opt2 — p1158 must re-add at later options. First load left 3 stale rows, second load pruned them, VERIFY PASS. p185 Serve nequam 8599 (AM 613, not neume-compared); index #2769 links p185 but page has no cue. Margin 283 on p1205 unknown, no row.
+- 2026-11-08 11:20 — batch 183: 1205 loaded (3 rows), 185 loaded (2), 1157 loaded (6, unresolved), 439 loaded (2)
+- 2026-11-08 12:36 — ⚠ accepted p440: Malos male perdet gregobase:10920 typed mode 6 vs printed 8g (producer compared staff; same melody)
+- 2026-11-08 12:36 — batch 184: 186 loaded (2 rows), 1206 loaded (3), 1158 loaded (6), 440 loaded (2)
+- 2026-11-08 13:48 — ⚠ p1159: placeholder local chant created for 'Mensuram bonam' (1a3, local:a1159001…, chant_group 20718; ad lib 7, 3 slots); Frange esurienti = gregobase:10963 (GS 100, office-part of, acknowledged). p1207 Vigilemus omnes (Compline Nunc, opt2) new; Illumina Domine = group 11190. p187 Extollens = gregobase:14568 (new). p441 Intravit autem rex staff starts p442 (p442 should adopt legacy 10529). p1157 'Date eleemosynam' still group:None (no placeholder).
+- 2026-11-08 13:48 — batch 185: 1207 loaded (3 rows), 187 loaded (2), 1159 loaded (6, 1 placeholder), 441 loaded (1)

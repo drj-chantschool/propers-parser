@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 182,
+  "batch_id": 185,
   "batch_open": false,
-  "batch_started": "2026-11-08T10:05:57",
-  "batch_finished": "2026-11-08T10:07:43",
-  "next_due": "2026-11-08T10:47:43",
+  "batch_started": "2026-11-08T13:44:52",
+  "batch_finished": "2026-11-08T13:48:10",
+  "next_due": "2026-11-08T14:28:10",
   "limit_hits": 2,
   "batch_units": [
-   "1204",
-   "184",
-   "1156",
-   "438"
+   "1207",
+   "187",
+   "1159",
+   "441"
   ]
  },
  "lanes": {
@@ -3466,15 +3466,37 @@
   },
   "1205": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 183,
+   "claimed_at": "2026-11-08T11:18:11",
+   "finished_at": "2026-11-08T11:20:46",
+   "summary": {
+    "spec": "p1205.json",
+    "rows": 3,
+    "verify": "PASS"
+   }
   },
   "1206": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 184,
+   "claimed_at": "2026-11-08T12:33:43",
+   "finished_at": "2026-11-08T12:34:51",
+   "summary": {
+    "page": "1206",
+    "rows": 3,
+    "verify": "PASS"
+   }
   },
   "1207": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 185,
+   "claimed_at": "2026-11-08T13:44:52",
+   "finished_at": "2026-11-08T13:48:09",
+   "summary": {
+    "rows": 3
+   }
   },
   "1208": {
    "lane": "A",
@@ -6292,15 +6314,37 @@
   },
   "185": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 183,
+   "claimed_at": "2026-11-08T11:18:11",
+   "finished_at": "2026-11-08T11:20:46",
+   "summary": {
+    "spec": "p0185.json",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "186": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 184,
+   "claimed_at": "2026-11-08T12:33:43",
+   "finished_at": "2026-11-08T12:34:44",
+   "summary": {
+    "page": "186",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "187": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 185,
+   "claimed_at": "2026-11-08T13:44:52",
+   "finished_at": "2026-11-08T13:48:09",
+   "summary": {
+    "rows": 2
+   }
   },
   "188": {
    "lane": "B",
@@ -8756,15 +8800,37 @@
   },
   "1157": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 183,
+   "claimed_at": "2026-11-08T11:18:11",
+   "finished_at": "2026-11-08T11:20:46",
+   "summary": {
+    "spec": "p1157.json",
+    "rows": 6,
+    "verify": "PASS"
+   }
   },
   "1158": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 184,
+   "claimed_at": "2026-11-08T12:33:43",
+   "finished_at": "2026-11-08T12:35:04",
+   "summary": {
+    "page": "1158",
+    "rows": 6,
+    "verify": "PASS"
+   }
   },
   "1159": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 185,
+   "claimed_at": "2026-11-08T13:44:52",
+   "finished_at": "2026-11-08T13:48:10",
+   "summary": {
+    "rows": 6
+   }
   },
   "1160": {
    "lane": "C",
@@ -11535,15 +11601,37 @@
   },
   "439": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 183,
+   "claimed_at": "2026-11-08T11:18:11",
+   "finished_at": "2026-11-08T11:20:46",
+   "summary": {
+    "spec": "p0439.json",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "440": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 184,
+   "claimed_at": "2026-11-08T12:33:43",
+   "finished_at": "2026-11-08T12:36:11",
+   "summary": {
+    "page": "440",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "441": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 185,
+   "claimed_at": "2026-11-08T13:44:52",
+   "finished_at": "2026-11-08T13:48:10",
+   "summary": {
+    "rows": 1
+   }
   },
   "442": {
    "lane": "D",

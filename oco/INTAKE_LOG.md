@@ -422,3 +422,5 @@
 - 2026-11-08 16:08 — ⏸ note: step 'Q due' was run once in driven mode by mistake (no side effects, action RUN)
 - 2026-11-08 16:08 — batch 187: 189 loaded (3 rows), 1161 loaded (1), 1209 loaded (1), 443 loaded (2)
 - 2026-11-08 17:20 — batch 188: 829 loaded (3 rows), 190 loaded (3), 1162 loaded (4), 444 loaded (3)
+- 2026-11-08 18:31 — ⚠ p830: placeholder local chants (chant_group 20720/20721) for John Vianney 'Hic est fratrum amator' (1f, Lauds B) and 'Confitemini alterutrum' (2d, Vespers M; CAO 1878); Confitemini staff continues p831. p1163: Sitivit = gregobase:17090 over 2638/15659 (near-identical, not note-checked); p1164 should adopt legacy 10364 (Exsultabunt, Lauds ant1). p191 In cymbalis/De torrente/Iucundus = index ids (neumes not compared); Iucundus continues p192. p445 Dum autem irent tail on p446.
+- 2026-11-08 18:31 — batch 189: 830 loaded (6 rows, 2 placeholders), 191 loaded (3), 1163 loaded (3), 445 loaded (2)

@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 192,
+  "batch_id": 195,
   "batch_open": false,
-  "batch_started": "2026-11-08T22:11:16",
-  "batch_finished": "2026-11-08T22:13:33",
-  "next_due": "2026-11-08T22:53:33",
+  "batch_started": "2026-11-09T01:58:28",
+  "batch_finished": "2026-11-09T02:01:05",
+  "next_due": "2026-11-09T02:41:05",
   "limit_hits": 2,
   "batch_units": [
-   "833",
-   "194",
-   "1166",
-   "448"
+   "836",
+   "197",
+   "1169",
+   "451"
   ]
  },
  "lanes": {
@@ -3593,15 +3593,40 @@
   },
   "834": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 193,
+   "claimed_at": "2026-11-08T23:26:42",
+   "finished_at": "2026-11-08T23:28:49",
+   "summary": {
+    "page": "834",
+    "rows": 2,
+    "unresolved": 1,
+    "verify": "PASS"
+   }
   },
   "835": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 194,
+   "claimed_at": "2026-11-09T00:42:29",
+   "finished_at": "2026-11-09T00:44:16",
+   "summary": {
+    "spec": "p0835.json",
+    "page": "835",
+    "rows": 5,
+    "verify": "PASS"
+   }
   },
   "836": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 195,
+   "claimed_at": "2026-11-09T01:58:28",
+   "finished_at": "2026-11-09T02:01:05",
+   "summary": {
+    "page": "836",
+    "rows": 2
+   }
   },
   "837": {
    "lane": "A",
@@ -6504,15 +6529,42 @@
   },
   "195": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 193,
+   "claimed_at": "2026-11-08T23:26:42",
+   "finished_at": "2026-11-08T23:27:55",
+   "summary": {
+    "spec": "p0195.json",
+    "mode": "verify",
+    "page": "195",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "196": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 194,
+   "claimed_at": "2026-11-09T00:42:29",
+   "finished_at": "2026-11-09T00:43:40",
+   "summary": {
+    "spec": "p0196.json",
+    "mode": "verify",
+    "page": "196",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "197": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 195,
+   "claimed_at": "2026-11-09T01:58:28",
+   "finished_at": "2026-11-09T02:01:05",
+   "summary": {
+    "page": "197",
+    "rows": 2
+   }
   },
   "198": {
    "lane": "B",
@@ -9056,15 +9108,31 @@
   },
   "1167": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 193,
+   "claimed_at": "2026-11-08T23:26:42",
+   "finished_at": "2026-11-08T23:31:23",
+   "note": "spec oco/specs/p1167.json complete (3 rows: Requiem aeternam 6097; Animam de corpore 7c + Qui Lazarum 1g unresolved); dry-run exit 1: null-identity slot clash in LAUDS.antB with p1166 Suscipiat te placeholder (text_id 13252); same class as p1129-1155; needs placeholder local chants (Suscipiat te 6f, Animam, Qui Lazarum) or loader fix. Not neume-reviewed vs page"
   },
   "1168": {
    "lane": "C",
-   "status": "pending"
+   "status": "held",
+   "batch": 194,
+   "claimed_at": "2026-11-09T00:42:29",
+   "finished_at": "2026-11-09T00:46:03",
+   "note": "Hor. med. hymn cue: no MIDDAY.hymn service_part",
+   "question_id": 41
   },
   "1169": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 195,
+   "claimed_at": "2026-11-09T01:58:28",
+   "finished_at": "2026-11-09T02:01:05",
+   "summary": {
+    "page": "1169",
+    "rows": 3
+   }
   },
   "1170": {
    "lane": "C",
@@ -11922,15 +11990,41 @@
   },
   "449": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 193,
+   "claimed_at": "2026-11-08T23:26:42",
+   "finished_at": "2026-11-08T23:28:25",
+   "summary": {
+    "spec": "p0449.json",
+    "mode": "verify",
+    "page": "449",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "450": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 194,
+   "claimed_at": "2026-11-09T00:42:29",
+   "finished_at": "2026-11-09T00:43:55",
+   "summary": {
+    "spec": "p0450.json",
+    "page": "450",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "451": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 195,
+   "claimed_at": "2026-11-09T01:58:28",
+   "finished_at": "2026-11-09T02:01:04",
+   "summary": {
+    "page": "451",
+    "rows": 2
+   }
   },
   "452": {
    "lane": "D",

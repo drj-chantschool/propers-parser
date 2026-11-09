@@ -1,0 +1,29 @@
+{
+ "page": "210",
+ "page_kind": "assign",
+ "context_in": "TQ Lent > Hebdomada V > Dominica > Laudes B, Anno A 'Domine, ecce quem' staff runs over from p209",
+ "context_out": "TQ Lent > Hebdomada V > Dominica > Sexta 'Domine, si hic fuisses'; Nona 'Dixit Dominus Iesus' hidden text at foot, staff begins p211",
+ "continues": {"from_page": "209", "incipit": "Domine, ecce quem"},
+ "rows": [
+  {"kind": "engraved", "incipit": "Lazarus amicus", "mode": "1g",
+   "text": "Lazarus amicus noster dormit; eamus et a somno suscitemus eum.",
+   "index_id": 1949, "chant_uuid": "gregobase:14591",
+   "lit_epoch_slug": "TQ-LENT-05-1", "service": "TERCE", "part": "ant",
+   "option_num": null, "option_txt": "cum Evangelio de Lazaro",
+   "notes": "p210 1g; Io 11,11; CAO 3603; AM 380; 14591 (Verona) text 'somno suscitemus' matches the engraving, opening f ghg h g e f g fe d and cadence match; 4200/12696/2165 read 'excitemus'"},
+  {"kind": "engraved", "incipit": "Domine, si hic fuisses", "mode": "1g",
+   "text": "Domine, si hic fuisses, Lazarus non esset mortuus; ecce iam fœtet quatrid",
+   "index_id": 1143, "chant_uuid": "gregobase:4203",
+   "lit_epoch_slug": "TQ-LENT-05-1", "service": "SEXT", "part": "ant",
+   "option_num": null, "option_txt": "cum Evangelio de Lazaro",
+   "notes": "p210 1g; Io 11,32.39.17; CAO 2383; AM 380; 4203 cites AM 380 (7:380), opening f gh h g ixi g h ghg and cadence match"}
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Top of page: tail of 'Domine, ecce quem' (Euouae) from p209: continues, no row.",
+  "Tertia/Sexta Anno A Lazarus antiphons: per ruling #13 no cycle_sun, option_txt 'cum Evangelio de Lazaro' (legacy rows 11386/11385 opt 2).",
+  "Nona 'Dixit Dominus Iesus: Ego sum resurrectio' (index #1094): only hidden text at foot of p210, staff begins p211: its row belongs to p211.",
+  "Index #1950 (Lauds B*, 'Lazarus amicus') and #1144 (2V M*, 'Domine si hic fuisses') link here but this page prints no cue for them; reuses cued elsewhere (the p209 'Antiphona ut infra' cue); not placed."
+ ]
+}

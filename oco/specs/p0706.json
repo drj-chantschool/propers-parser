@@ -1,0 +1,30 @@
+{
+ "page": "706",
+ "page_kind": "assign",
+ "jurisdiction": null,
+ "context_in": "IANUARIUS > Die 21: S. Agnetis > Vesp.; Beata Agnes (Magnificat ant) hidden text at foot of p705, staff begins here",
+ "context_out": "Die 21: S. Agnetis > Vesp. after Magnificat antiphon; page ends (next: Die 22 or later)",
+ "continues": null,
+ "rows": [
+  {
+   "wkday": null, "wknum_mod_2": null, "wknum_mod_4": null, "rank_codes": null,
+   "cycle_sun": null, "cycle_wkday": null, "option_num": 1, "option_txt": null, "rubric": null,
+   "lit_epoch_slug": "st-agnes",
+   "service": "VESPERS",
+   "part": "antM",
+   "incipit": "Beata Agnes",
+   "kind": "engraved",
+   "mode": "8g",
+   "text": "Beata Agnes, in medio flammarum, expansis manibus orabat: Te depreco",
+   "index_id": 655,
+   "chant_uuid": "gregobase:14300",
+   "notes": "CAO 1559; AM 785; engraving text 'et hostis tentamina' matches 14300 (Solesmes 2008) only; 2814/12750 read 'et carnis spurcitias', 9317 same; 6305 Dominican c3 other melody. Opening g gj hGF, cadence 'optavi' g, Euouae j j i j h g fit."
+  }
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Index #655 carries chant_uuid gregobase:998 (Domine, Dominus noster) with incipit 'Beata Agnes': wrong index identity; the page's chant is gregobase:14300.",
+  "Staff begins on p706; hidden text sits at the foot of p705 (carried by the draft). Margin 'M' = Magnificat siglum."
+ ]
+}

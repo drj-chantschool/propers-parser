@@ -458,3 +458,4 @@
 - 2026-11-09 15:53 — batch 207: 848 loaded (11 rows), 209 loaded (2), 705 loaded (4), 463 loaded (2; replaced legacy Nemo potest group 14863 with 15904). Flags: p209 Lazaro option now opt1 (legacy opt3); Beata Agnes -> p706; Ego sum panis vivus -> p464
 - 2026-11-09 15:53 — batch 207 (re-closed after summary-quoting slip): 848,209,705,463 loaded
 - 2026-11-09 17:00 — batch 209: p849 loaded (2 rows), p210 loaded (2), p706 loaded (1), p464 loaded (2)
+- 2026-11-09 17:01 — batch 209 correction: all four units loaded + VERIFY PASS (finish ran after batch-end)

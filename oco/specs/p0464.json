@@ -1,0 +1,39 @@
+{
+ "page": "464",
+ "page_kind": "assign",
+ "jurisdiction": null,
+ "context_in": "Tempus per annum > Dominica XIX > Laudes B complete on p463; II Vesp. Magnificat antiphon next (hidden text at foot of p463)",
+ "context_out": "Tempus per annum > Dominica XX > Laudes B; at foot hidden text of 'Caro mea vere est cibus' (II Vesp. M, staff begins p465)",
+ "continues": null,
+ "rows": [
+  {
+   "chant_group_id": null, "wkday": null, "wknum_mod_2": null, "wknum_mod_4": null, "rank_codes": null,
+   "cycle_sun": 2, "cycle_wkday": null, "option_num": 1, "option_txt": null, "rubric": null,
+   "incipit": "Ego sum panis vivus qui de caelo descendi. Si quis manducaverit",
+   "kind": "engraved", "mode": "1f",
+   "text": "Ego sum panis vivus qui de cælo descendi. Si quis manducaverit ex hoc p",
+   "index_id": 1307, "chant_uuid": "gregobase:2047",
+   "lit_epoch_slug": "OT-OT-19-1", "service": "VESPERS", "part": "antM",
+   "notes": "p464 1f; 2047 Solesmes (cites 3:895, 48:512) d d d_c f g f_h h; 'et pa-nis quem ego dabo' d e ff pa deDC d matches; has Euouae h h g f g h; 12391/7964 same melody variants; Verona 14807/15905 differ at Si"
+  },
+  {
+   "chant_group_id": null, "wkday": null, "wknum_mod_2": null, "wknum_mod_4": null, "rank_codes": null,
+   "cycle_sun": 2, "cycle_wkday": null, "option_num": 1, "option_txt": null, "rubric": null,
+   "incipit": "Ego sum panis vivus qui de caelo descendi; si quis manducaverit",
+   "kind": "engraved", "mode": "8g2",
+   "text": "Ego sum panis vivus qui de cælo descendi; si quis manducaverit ex hoc p",
+   "index_id": 1306, "chant_uuid": "gregobase:15836",
+   "lit_epoch_slug": "OT-OT-20-1", "service": "LAUDS", "part": "antB",
+   "notes": "p464 8g2 short form ending 'vivet in aeternum, alleluia'; 15836 Verona 'alleluia 2' (cites 64:111) is the index identity; 15527 ('alleluia 1 mode 8') has identical gabc; 15528 is mode 1, not this"
+  }
+ ],
+ "inherits": [],
+ "questions": [],
+ "flags": [
+  "Hidden text at foot 'Caro mea vere est cibus et sanguis meus vere est potus' (index #795, A[20D,V,Mb]): staff begins on p465, its row belongs there.",
+  "Year B (John 6) as on pp462-463: cycle_sun 2; epochs OT-OT-19-1 / OT-OT-20-1 (index codes 19D/20D, Mb/Bb).",
+  "Draft proposed no rows (no destination on the engravings); both identified by index #1307/#1306 text and melody.",
+  "Underlined margin number 116 beside 'Dominica XX': link of unknown meaning, no row.",
+  "15836 and 15527 have identical gabc; 15836 chosen as the edition cited (64:111) and labelled 'alleluia 2' as the index."
+ ]
+}

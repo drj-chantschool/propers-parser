@@ -1,0 +1,63 @@
+{
+ "page": "849",
+ "page_kind": "assign",
+ "context_in": "PROPRIUM DE SANCTIS > Augustus > Die 15: In Assumptione B.M.V. > I Vesp., antiphon 1 'Quæ est ista' runs over from p848 (tail 'consurgens, pulchra ut luna ... ordinata? Euouae')",
+ "context_out": "PROPRIUM DE SANCTIS > Augustus > Die 15: In Assumptione B.M.V. > I Vesp. antiphon 3 'Exaltata est' begun (staff ends 'angelorum:'; runs over to p850)",
+ "continues": {
+  "from_page": "848",
+  "incipit": "Quæ est ista"
+ },
+ "rows": [
+  {
+   "incipit": "Paradisi porta",
+   "kind": "engraved",
+   "mode": "1f",
+   "text": "Paradisi porta per Evam cunctis clausa est et per Mariam Virginem iteru",
+   "index_id": 2358,
+   "chant_uuid": "gregobase:10563",
+   "chant_group_id": null,
+   "lit_epoch_slug": "assumption",
+   "service": "VESPERS1",
+   "part": "ant2",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": null,
+   "notes": "CAO 4214; ARII 627. 10563 (Solesmes 2000s) opening c4 d dc f g f matches staff, cadence and Euouae ok; 8063 same group, different opening."
+  },
+  {
+   "incipit": "Exaltata est gloriosa",
+   "kind": "engraved",
+   "mode": "1f",
+   "text": "Exaltata est gloriosa semper Maria Virgo super choros angelorum: venite",
+   "index_id": 1424,
+   "chant_uuid": "gregobase:10564",
+   "chant_group_id": null,
+   "lit_epoch_slug": "assumption",
+   "service": "VESPERS1",
+   "part": "ant3",
+   "wkday": null,
+   "wknum_mod_2": null,
+   "wknum_mod_4": null,
+   "rank_codes": null,
+   "cycle_sun": null,
+   "cycle_wkday": null,
+   "option_num": 1,
+   "option_txt": null,
+   "rubric": null,
+   "notes": "CAO 2763; ARII 628. 10564 opening d dc f gh h, 'Vir-go' cadence matches staff; 4100 same group (1957)."
+  }
+ ],
+ "questions": [],
+ "flags": [
+  "Top of page: tail of Quæ est ista (I Vesp. ant 1, begun p848); continues, no row.",
+  "Sigla 2 and 3 are printed without hour label; they follow ant 1 of I Vesp. under Die 15 (p848 hymn cue 'Vesp. I & II'), matching engraving destinations A[15/8,1V,2/3].",
+  "Index #2357 'Paradisi porta' (BMV | L | B) links here but this page prints no Lauds Benedictus cue: not placed (reuse cued elsewhere, if at all).",
+  "Exaltata est ends the page mid-chant ('venite' follows on p850)."
+ ]
+}

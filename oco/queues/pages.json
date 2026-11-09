@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 202,
+  "batch_id": 208,
   "batch_open": false,
-  "batch_started": "2026-11-09T10:12:40",
-  "batch_finished": "2026-11-09T10:14:40",
-  "next_due": "2026-11-09T10:54:40",
+  "batch_started": "2026-11-09T15:53:41",
+  "batch_finished": "2026-11-09T15:53:42",
+  "next_due": "2026-11-09T16:33:42",
   "limit_hits": 2,
   "batch_units": [
-   "843",
-   "204",
-   "1176",
-   "458"
+   "848",
+   "209",
+   "705",
+   "463"
   ]
  },
  "lanes": {
@@ -3706,23 +3706,73 @@
   },
   "844": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 203,
+   "claimed_at": "2026-11-09T11:23:26",
+   "finished_at": "2026-11-09T11:25:08",
+   "summary": {
+    "page": "844",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "845": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 204,
+   "claimed_at": "2026-11-09T12:28:46",
+   "finished_at": "2026-11-09T12:30:06",
+   "summary": {
+    "spec": "p0845.json",
+    "mode": "verify",
+    "page": "845",
+    "page_kind": "assign",
+    "rows": 3,
+    "xref": 0,
+    "unresolved": 0,
+    "keep": 3,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "846": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 205,
+   "claimed_at": "2026-11-09T13:34:33",
+   "finished_at": "2026-11-09T13:36:22",
+   "summary": {
+    "page": "846",
+    "rows": 3,
+    "unresolved": 1,
+    "verify": "PASS"
+   }
   },
   "847": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 206,
+   "claimed_at": "2026-11-09T14:41:10",
+   "finished_at": "2026-11-09T14:43:00",
+   "summary": {
+    "rows": 2,
+    "unresolved": 1,
+    "verify": "PASS"
+   }
   },
   "848": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 208,
+   "claimed_at": "2026-11-09T15:53:41",
+   "finished_at": "2026-11-09T15:53:41",
+   "summary": {
+    "rows": 11
+   }
   },
   "849": {
    "lane": "A",
@@ -6706,23 +6756,71 @@
   },
   "205": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 203,
+   "claimed_at": "2026-11-09T11:23:26",
+   "finished_at": "2026-11-09T11:25:08",
+   "summary": {
+    "page": "205",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "206": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 204,
+   "claimed_at": "2026-11-09T12:28:46",
+   "finished_at": "2026-11-09T12:30:08",
+   "summary": {
+    "spec": "p0206.json",
+    "mode": "verify",
+    "page": "206",
+    "page_kind": "assign",
+    "rows": 2,
+    "xref": 0,
+    "unresolved": 0,
+    "keep": 2,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "207": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 205,
+   "claimed_at": "2026-11-09T13:34:33",
+   "finished_at": "2026-11-09T13:36:22",
+   "summary": {
+    "page": "207",
+    "rows": 3,
+    "verify": "PASS"
+   }
   },
   "208": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 206,
+   "claimed_at": "2026-11-09T14:41:10",
+   "finished_at": "2026-11-09T14:43:01",
+   "summary": {
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "209": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 208,
+   "claimed_at": "2026-11-09T15:53:41",
+   "finished_at": "2026-11-09T15:53:41",
+   "summary": {
+    "rows": 2
+   }
   },
   "210": {
    "lane": "B",
@@ -9325,23 +9423,48 @@
   },
   "701": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 203,
+   "claimed_at": "2026-11-09T11:23:26",
+   "finished_at": "2026-11-09T11:25:01",
+   "note": "spec oco/specs/p0701.json complete (4 rows) vs page; dry-run exit 4: 'Benedictum nomen' cue (Holy Name Jan 3) cites p1320 (Appendix/blank dest) - waits on that page"
   },
   "702": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 204,
+   "claimed_at": "2026-11-09T12:28:46",
+   "finished_at": "2026-11-09T12:31:03",
+   "note": "spec oco/specs/p0702.json complete (8 rows) vs producer; dry-run exit 4: cues wait on p1057 (Armis divinis) and p1152 (Iste est qui contempsit); not neume-reviewed vs page image yet"
   },
   "703": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 205,
+   "claimed_at": "2026-11-09T13:34:33",
+   "finished_at": "2026-11-09T13:36:23",
+   "note": "spec oco/specs/p0703.json complete (6 rows); dry-run exit 4: Sebastian 'Armis divinis' cue waits on p1057; not neume-reviewed vs page image"
   },
   "704": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 206,
+   "claimed_at": "2026-11-09T14:41:10",
+   "finished_at": "2026-11-09T14:43:00",
+   "summary": {
+    "rows": 4,
+    "verify": "PASS"
+   }
   },
   "705": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 208,
+   "claimed_at": "2026-11-09T15:53:41",
+   "finished_at": "2026-11-09T15:53:41",
+   "summary": {
+    "rows": 4
+   }
   },
   "706": {
    "lane": "C",
@@ -12282,23 +12405,60 @@
   },
   "459": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 203,
+   "claimed_at": "2026-11-09T11:23:26",
+   "finished_at": "2026-11-09T11:25:08",
+   "summary": {
+    "page": "459",
+    "rows": 3,
+    "verify": "PASS"
+   }
   },
   "460": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 204,
+   "claimed_at": "2026-11-09T12:28:46",
+   "finished_at": "2026-11-09T12:29:55",
+   "summary": {
+    "spec": "p0460.json",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "461": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 205,
+   "claimed_at": "2026-11-09T13:34:33",
+   "finished_at": "2026-11-09T13:36:23",
+   "summary": {
+    "page": "461",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "462": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 206,
+   "claimed_at": "2026-11-09T14:41:10",
+   "finished_at": "2026-11-09T14:43:00",
+   "summary": {
+    "rows": 1,
+    "verify": "PASS"
+   }
   },
   "463": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 208,
+   "claimed_at": "2026-11-09T15:53:41",
+   "finished_at": "2026-11-09T15:53:41",
+   "summary": {
+    "rows": 2
+   }
   },
   "464": {
    "lane": "D",

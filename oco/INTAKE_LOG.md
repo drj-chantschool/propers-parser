@@ -449,3 +449,11 @@
 - 2026-11-09 09:07 — ⚠ p842: placeholder local chant + chant_group 20722 for 'Docete eos servare' (1g, local:a0842001…, S. Dominici Vespers M). p203: margin '57' unknown meaning, no row; Et me scitis continues p204. p457: 'Loquente Iesu' staff begins p458 (legacy 10588 on p457 to be adopted/replaced by p458). p1175: Crucifixus surrexit opt6 (Tempore paschali), margin '5' ignored.
 - 2026-11-09 09:07 — batch 201: 842 loaded (8 rows), 203 loaded (3), 1175 loaded (1), 457 loaded (2)
 - 2026-11-09 10:14 — batch 202: 843 blocked_dep (6 rows, cue p1320), 204 loaded (2 rows), 1176 no_rows (blank), 458 loaded (2 rows)
+- 2026-11-09 11:25 — batch 203: 844 loaded (2 rows), 205 loaded (2), 459 loaded (3), 701 blocked_dep (p1320 cue)
+- 2026-11-09 12:31 — batch 204: 460 loaded (2 rows), 845 loaded (3 rows), 206 loaded (2 rows, 1 new), 702 blocked_dep (p1057, p1152)
+- 2026-11-09 13:36 — ⚠ p846: 'Gratias ago Deo' (4e, Vespers ant2, St Laurence) loaded unresolved (no gregobase match), needs placeholder; staff continues p847. p461: Ut autem saturati tail on p462; Cum sublevasset 15900 short form (not note-by-note)
+- 2026-11-09 13:36 — batch 205: 846 loaded (3 rows, 1 unresolved), 207 loaded (3), 461 loaded (2), 703 blocked_dep (p1057 cue)
+- 2026-11-09 14:43 — ⚠ accepted: p847 'Veni desiderator bone' (VESPERS.ant3 St Laurence) loaded unresolved (no gregobase chant; no placeholder made, no slot clash); p208 'B Antiphona ut infra' cue = pointer to p209 Benedictus antiphons, no row
+- 2026-11-09 14:43 — batch 206: 462 loaded (1 row), 704 loaded (4), 847 loaded (2, 1 unresolved), 208 loaded (2)
+- 2026-11-09 15:53 — batch 207: 848 loaded (11 rows), 209 loaded (2), 705 loaded (4), 463 loaded (2; replaced legacy Nemo potest group 14863 with 15904). Flags: p209 Lazaro option now opt1 (legacy opt3); Beata Agnes -> p706; Ego sum panis vivus -> p464
+- 2026-11-09 15:53 — batch 207 (re-closed after summary-quoting slip): 848,209,705,463 loaded

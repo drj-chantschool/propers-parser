@@ -448,3 +448,4 @@
 - 2026-11-09 07:59 — batch 200: 841 loaded (2 rows), 202 loaded (2), 456 loaded (2; Ascendente Iesu identity changed 8530->15831 Verona), 1174 blocked_dep (null-identity slot clash with p1173, same class as p1129-1173)
 - 2026-11-09 09:07 — ⚠ p842: placeholder local chant + chant_group 20722 for 'Docete eos servare' (1g, local:a0842001…, S. Dominici Vespers M). p203: margin '57' unknown meaning, no row; Et me scitis continues p204. p457: 'Loquente Iesu' staff begins p458 (legacy 10588 on p457 to be adopted/replaced by p458). p1175: Crucifixus surrexit opt6 (Tempore paschali), margin '5' ignored.
 - 2026-11-09 09:07 — batch 201: 842 loaded (8 rows), 203 loaded (3), 1175 loaded (1), 457 loaded (2)
+- 2026-11-09 10:14 — batch 202: 843 blocked_dep (6 rows, cue p1320), 204 loaded (2 rows), 1176 no_rows (blank), 458 loaded (2 rows)

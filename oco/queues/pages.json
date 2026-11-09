@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 201,
+  "batch_id": 202,
   "batch_open": false,
-  "batch_started": "2026-11-09T09:04:30",
-  "batch_finished": "2026-11-09T09:07:40",
-  "next_due": "2026-11-09T09:47:40",
+  "batch_started": "2026-11-09T10:12:40",
+  "batch_finished": "2026-11-09T10:14:40",
+  "next_due": "2026-11-09T10:54:40",
   "limit_hits": 2,
   "batch_units": [
-   "842",
-   "203",
-   "1175",
-   "457"
+   "843",
+   "204",
+   "1176",
+   "458"
   ]
  },
  "lanes": {
@@ -3698,7 +3698,11 @@
   },
   "843": {
    "lane": "A",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 202,
+   "claimed_at": "2026-11-09T10:12:40",
+   "finished_at": "2026-11-09T10:14:40",
+   "note": "spec oco/specs/p0843.json complete (6 rows) vs page; dry-run exit 4: 'Nos autem gloriari' cue (Teresa Benedicta M) cites p1320 (blank last page; named dest) - wait for the Exaltation of the Cross Magnificat page"
   },
   "844": {
    "lane": "A",
@@ -6680,7 +6684,25 @@
   },
   "204": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 202,
+   "claimed_at": "2026-11-09T10:12:40",
+   "finished_at": "2026-11-09T10:14:40",
+   "summary": {
+    "spec": "p0204.json",
+    "mode": "load",
+    "page": "204",
+    "page_kind": "assign",
+    "rows": 2,
+    "xref": 0,
+    "unresolved": 0,
+    "insert": 2,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0
+   }
   },
   "205": {
    "lane": "B",
@@ -9282,7 +9304,24 @@
   },
   "1176": {
    "lane": "C",
-   "status": "pending"
+   "status": "no_rows",
+   "batch": 202,
+   "claimed_at": "2026-11-09T10:12:40",
+   "finished_at": "2026-11-09T10:14:40",
+   "summary": {
+    "spec": "p1176.json",
+    "mode": "load",
+    "page": "1176",
+    "page_kind": "no_chant",
+    "rows": 0,
+    "xref": 0,
+    "unresolved": 0,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0
+   }
   },
   "701": {
    "lane": "C",
@@ -12221,7 +12260,25 @@
   },
   "458": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 202,
+   "claimed_at": "2026-11-09T10:12:40",
+   "finished_at": "2026-11-09T10:14:40",
+   "summary": {
+    "spec": "p0458.json",
+    "mode": "load",
+    "page": "458",
+    "page_kind": "assign",
+    "rows": 2,
+    "xref": 0,
+    "unresolved": 0,
+    "adopt": 2,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0
+   }
   },
   "459": {
    "lane": "D",

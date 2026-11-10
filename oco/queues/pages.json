@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 210,
+  "batch_id": 211,
   "batch_open": false,
-  "batch_started": "2026-11-09T18:05:02",
-  "batch_finished": "2026-11-09T18:07:05",
-  "next_due": "2026-11-09T18:47:05",
+  "batch_started": "2026-11-09T19:11:29",
+  "batch_finished": "2026-11-09T19:14:04",
+  "next_due": "2026-11-09T19:54:04",
   "limit_hits": 2,
   "batch_units": [
-   "850",
-   "211",
-   "707",
-   "465"
+   "851",
+   "212",
+   "708",
+   "466"
   ]
  },
  "lanes": {
@@ -3798,7 +3798,14 @@
   },
   "851": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 211,
+   "claimed_at": "2026-11-09T19:11:29",
+   "finished_at": "2026-11-09T19:13:38",
+   "summary": {
+    "verify": "PASS",
+    "rows": 3
+   }
   },
   "852": {
    "lane": "A",
@@ -6860,7 +6867,14 @@
   },
   "212": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 211,
+   "claimed_at": "2026-11-09T19:11:29",
+   "finished_at": "2026-11-09T19:14:04",
+   "summary": {
+    "verify": "PASS",
+    "rows": 3
+   }
   },
   "213": {
    "lane": "B",
@@ -9518,7 +9532,14 @@
   },
   "708": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 211,
+   "claimed_at": "2026-11-09T19:11:29",
+   "finished_at": "2026-11-09T19:13:38",
+   "summary": {
+    "verify": "PASS",
+    "rows": 2
+   }
   },
   "709": {
    "lane": "C",
@@ -12526,7 +12547,14 @@
   },
   "466": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 211,
+   "claimed_at": "2026-11-09T19:11:29",
+   "finished_at": "2026-11-09T19:14:04",
+   "summary": {
+    "verify": "PASS",
+    "rows": 2
+   }
   },
   "467": {
    "lane": "D",

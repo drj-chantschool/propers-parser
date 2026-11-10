@@ -460,3 +460,4 @@
 - 2026-11-09 17:00 — batch 209: p849 loaded (2 rows), p210 loaded (2), p706 loaded (1), p464 loaded (2)
 - 2026-11-09 17:01 — batch 209 correction: all four units loaded + VERIFY PASS (finish ran after batch-end)
 - 2026-11-09 18:07 — batch 210: 850 loaded (2 rows), 211 loaded (4), 707 loaded (7; Saule Saule unresolved allow_unresolved, staff continues p708), 465 loaded (3; replaced 2 legacy identities, Verona per neumes)
+- 2026-11-09 19:14 — batch 211: 851 loaded (3 rows), 212 loaded (3 rows; Sext REPLACES legacy 10858 w/ Verona 16022), 708 loaded (2 rows), 466 loaded (2 rows; Vespers 8142->15990 on melody check)

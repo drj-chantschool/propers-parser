@@ -459,3 +459,4 @@
 - 2026-11-09 15:53 — batch 207 (re-closed after summary-quoting slip): 848,209,705,463 loaded
 - 2026-11-09 17:00 — batch 209: p849 loaded (2 rows), p210 loaded (2), p706 loaded (1), p464 loaded (2)
 - 2026-11-09 17:01 — batch 209 correction: all four units loaded + VERIFY PASS (finish ran after batch-end)
+- 2026-11-09 18:07 — batch 210: 850 loaded (2 rows), 211 loaded (4), 707 loaded (7; Saule Saule unresolved allow_unresolved, staff continues p708), 465 loaded (3; replaced 2 legacy identities, Verona per neumes)

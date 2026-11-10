@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 217,
+  "batch_id": 218,
   "batch_open": false,
-  "batch_started": "2026-11-10T01:05:07",
-  "batch_finished": "2026-11-10T01:06:58",
-  "next_due": "2026-11-10T01:46:58",
+  "batch_started": "2026-11-10T02:04:14",
+  "batch_finished": "2026-11-10T02:06:57",
+  "next_due": "2026-11-10T02:46:57",
   "limit_hits": 2,
   "batch_units": [
-   "857",
-   "218",
-   "714",
-   "472"
+   "858",
+   "219",
+   "715",
+   "473"
   ]
  },
  "lanes": {
@@ -3878,7 +3878,11 @@
   },
   "858": {
    "lane": "A",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 218,
+   "claimed_at": "2026-11-10T02:04:14",
+   "finished_at": "2026-11-10T02:06:56",
+   "note": "spec oco/specs/p0858.json complete (9 rows, reviewed by producer); dry-run exit 4: cues wait on p1129, p1152. Check Ave Regina cue p691 vs p692; Casimir/Pius cue rows dropped (page prints Stephen of Hungary, John Eudes)"
   },
   "859": {
    "lane": "A",
@@ -6993,7 +6997,15 @@
   },
   "219": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 218,
+   "claimed_at": "2026-11-10T02:04:14",
+   "finished_at": "2026-11-10T02:06:56",
+   "summary": {
+    "page": "219",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "220": {
    "lane": "B",
@@ -9702,7 +9714,11 @@
   },
   "715": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 218,
+   "claimed_at": "2026-11-10T02:04:14",
+   "finished_at": "2026-11-10T02:06:57",
+   "note": "spec oco/specs/p0715.json complete (4 rows); dry-run exit 4: 'Veni sponsa Christi' cue waits on p1109 (itself exit 1 on p1140 incipit). 'Ecce ego mitto vos' unresolved (needs placeholder local chant)"
   },
   "716": {
    "lane": "C",
@@ -12761,7 +12777,15 @@
   },
   "473": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 218,
+   "claimed_at": "2026-11-10T02:04:14",
+   "finished_at": "2026-11-10T02:06:56",
+   "summary": {
+    "page": "473",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "474": {
    "lane": "D",

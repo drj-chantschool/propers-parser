@@ -473,3 +473,4 @@
 - 2026-11-10 01:06 — ⚠ accepted p714: VESPERS.resp 'Confitebor tibi Domine' (mode 6, CAO 6318) loaded unresolved, no gregobase chant; p218 Abraham pater vester→gregobase:9943 by AM 393/eye, neumes not note-compared
 - 2026-11-10 01:06 — batch 217: 857 loaded (2 rows), 218 loaded (3), 714 loaded (2), 472 loaded (2)
 - 2026-11-10 01:07 — note: batch 217 finish order slip (batch-end ran before finish; units re-marked loaded afterwards, state correct)
+- 2026-11-10 02:06 — batch 218: 473 loaded (2 rows), 219 loaded (2 rows), 858 blocked_dep (p1129,p1152), 715 blocked_dep (p1109)

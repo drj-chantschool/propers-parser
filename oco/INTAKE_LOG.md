@@ -498,3 +498,6 @@
 - 2026-11-10 13:45 — batch 231: 871 loaded (4 rows; Quando nata est unresolved, no placeholder), 232 loaded (3), 728 loaded (8; Scholastica 'In columbae specie' unresolved; accepted CHECK on truncated Simile est regnum cue), 486 loaded (2)
 - 2026-11-10 15:34 — ⚠ accepted p872: Nativitas tua → gregobase:8980 (sung text 'Genitrix' vs printed 'Genetrix', verified_despite); p487 In diebus illis 8518 kept over near-identical 12201; p729 Ave Maria 12056 chosen for the † / T.Q. two-ending form (over AM 228 source 18893)
 - 2026-11-10 15:34 — batch 232 (driven, lanes A/B/C/D): 872 loaded (2 rows), 233 loaded (2), 729 loaded (2), 487 loaded (2)
+- 2026-11-10 17:14 — ❓ intake_queue #42: loader null-identity slot clash (unresolved chants share 'group:None') blocks p1129-1174 Commons/Defunctorum pages; raised, units stay blocked_dep/error
+- 2026-11-10 17:16 — ⚠ accepted p730: Isti sunt viri sancti group:2341 gregobase m1 vs printed 2*-4a (ARII 513, melody matches, verified_despite); p730 In sanctitate 9740 over 11868 by neumes; p234 Clarifica me 12415 by neumes/syllabification (director removed producer's false 'index #828 → gregobase:1252' note; #828 has no identity)
+- 2026-11-10 17:16 — batch 233 (driven, lanes A/B/C/D): 873 loaded (2 rows), 234 loaded (3), 730 loaded (2), 488 loaded (1); intake #42 raised (null-identity clash, blocks p1129-1174)

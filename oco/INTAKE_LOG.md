@@ -474,3 +474,15 @@
 - 2026-11-10 01:06 — batch 217: 857 loaded (2 rows), 218 loaded (3), 714 loaded (2), 472 loaded (2)
 - 2026-11-10 01:07 — note: batch 217 finish order slip (batch-end ran before finish; units re-marked loaded afterwards, state correct)
 - 2026-11-10 02:06 — batch 218: 473 loaded (2 rows), 219 loaded (2 rows), 858 blocked_dep (p1129,p1152), 715 blocked_dep (p1109)
+- 2026-11-10 02:58 — ⚠ accepted p859 row 2 Quidam homo fecit cenam -> gregobase:4232 (text-order variant of 'Homo quidam fecit coenam magnam'; CAO 4536/AM 557 match)
+- 2026-11-10 02:58 — batch 219: 859 loaded (2 rows), 220 loaded (1), 716 loaded (5; 'Spiritu intellegentiae' unresolved), 474 loaded (2)
+- 2026-11-10 03:54 — ⚠ p221: Redemisti nos (LAUDS.resp, mode 4, CAO 7514) loaded unresolved (no gregobase match); no placeholder made. Rows placed once on TQ-HOLYWEEK-00 (Pro cunctis diebus); 2 legacy rows moved from TQ-HOLYWEEK
+- 2026-11-10 03:54 — batch 220 (driven): 860 loaded (5 rows), 221 loaded (9 rows), 717 loaded (2 rows), 475 loaded (1 row)
+- 2026-11-10 04:48 — batch 221: 718 loaded (3 rows), 222 loaded (2), 476 loaded (2), 861 blocked_dep (p1109)
+- 2026-11-10 05:39 — ⚠ accepted p223: VESPERS.resp 'Adoramus te Christe' (Ɽ br. m4) allow_unresolved, no gregobase match (same as p221 precedent)
+- 2026-11-10 05:41 — ⚠ accepted p862: Ecce vere 4789 catalogued m1 vs printed 2*d, melody matches; Cognovit 'eum/eos' vs gregobase 'eum'
+- 2026-11-10 05:41 — batch 222: 719 loaded (3 rows), 477 loaded (2 rows), 223 loaded (2 rows), 862 blocked_dep (p1131)
+- 2026-11-10 06:29 — ⚠ accepted p863: Monica 'Absterget Deus' (LAUDS.antB 1f) and 'Exaudisti Domine' (VESPERS.antM 5a) loaded unresolved (no gregobase match; no placeholders). p224: Dominus Deus auxiliator → Verona 14549 by text/syllabification, neumes not note-compared. p720: Super te Ierusalem 2303 verified_despite mode. p478: 'Amen dico vobis quia non' 7369 (ref line says Non Moyses, p184 quirk) as Dom XXXIII yr B Vespers Mag.
+- 2026-11-10 06:29 — batch 223: 863 loaded (5 rows, 2 unresolved), 224 loaded (2), 720 loaded (4), 478 loaded (2)
+- 2026-11-10 06:29 — note: batch 223 finish ran after batch-end (summary-JSON slip); units re-marked loaded, state correct
+- 2026-11-10 07:18 — batch 224: 864 loaded (1 rows), 225 loaded (2), 721 loaded (3), 479 loaded (2)

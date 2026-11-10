@@ -461,3 +461,15 @@
 - 2026-11-09 17:01 — batch 209 correction: all four units loaded + VERIFY PASS (finish ran after batch-end)
 - 2026-11-09 18:07 — batch 210: 850 loaded (2 rows), 211 loaded (4), 707 loaded (7; Saule Saule unresolved allow_unresolved, staff continues p708), 465 loaded (3; replaced 2 legacy identities, Verona per neumes)
 - 2026-11-09 19:14 — batch 211: 851 loaded (3 rows), 212 loaded (3 rows; Sext REPLACES legacy 10858 w/ Verona 16022), 708 loaded (2 rows), 466 loaded (2 rows; Vespers 8142->15990 on melody check)
+- 2026-11-09 20:15 — ⚠ p852: placeholder local chant + chant_group 20723 for 'Gloriosa dicta sunt de te' (7a, local:a0852001…, Assumption Off. lect. ant3, GS 327). p852 Elegit/Pulchra neumes not compared (index identity); Pulchra es continues p853. p709 Ne magnitudo continues p710; index #2741 (29/6 Scio cui credidi) has no cue on p709, not placed. p213 margin '59' unknown meaning, no row; Ego si exaltatus continues p214. p467 Quanto eis = Verona 16005 (replaces legacy Solesmes 8143, single-note melody check).
+- 2026-11-09 20:15 — batch 212: 852 loaded (4 rows), 213 loaded (2), 709 loaded (3), 467 loaded (2)
+- 2026-11-09 21:15 — ⚠ p853: placeholder local chant + chant_group 20724 for 'Virgo gloriosa Maria' (7a, local:a0853001…, Assumption Lauds ant2, CAO 4698). p214: Inclinavit se Iesus = Verona 14584 by melody (podatus on 'lapidem'; not note-by-note vs 19723). p710: Gratia Dei in me 10402 mode 4 in gregobase vs 2*a printed, melody matches (verified_despite); Tu es vas electionis 14311 neumes not compared. p468: Quem dicunt = Verona 16006, Qui perdiderit = Verona 15851; margin '117' unknown link, no row.
+- 2026-11-09 21:15 — batch 213: 853 loaded (2 rows), 214 loaded (3), 710 loaded (2), 468 loaded (2)
+- 2026-11-09 22:11 — 2026-11-09 note: p711 placeholder created (no gregobase chant): local:5a1ecde4-a6e3-4d4e-a575-3ccd49e97a18 'A Christo de cælo' 8g CAO 1188 (group 20725)
+- 2026-11-09 22:11 — batch 214: 854 loaded (2 rows), 215 loaded (2 rows), 711 loaded (2 rows; 1 placeholder), 469 loaded (2 rows)
+- 2026-11-09 23:10 — ⚠ accepted p855: Quasi cedrus, Caeli reginam, Exaltata es sancta Dei Genetrix loaded unresolved (no gregobase chant matches; no placeholders created)
+- 2026-11-09 23:10 — batch 215: 855 loaded (3 rows), 216 loaded (17), 712 loaded (4), 470 loaded (2)
+- 2026-11-10 00:09 — batch 216: 856 loaded (2 rows), 217 loaded (3), 713 loaded (2), 471 loaded (2)
+- 2026-11-10 01:06 — ⚠ accepted p714: VESPERS.resp 'Confitebor tibi Domine' (mode 6, CAO 6318) loaded unresolved, no gregobase chant; p218 Abraham pater vester→gregobase:9943 by AM 393/eye, neumes not note-compared
+- 2026-11-10 01:06 — batch 217: 857 loaded (2 rows), 218 loaded (3), 714 loaded (2), 472 loaded (2)
+- 2026-11-10 01:07 — note: batch 217 finish order slip (batch-end ran before finish; units re-marked loaded afterwards, state correct)

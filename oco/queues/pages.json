@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 224,
+  "batch_id": 231,
   "batch_open": false,
-  "batch_started": "2026-11-10T07:16:46",
-  "batch_finished": "2026-11-10T07:18:17",
-  "next_due": "2026-11-10T07:58:17",
+  "batch_started": "2026-11-10T13:43:08",
+  "batch_finished": "2026-11-10T13:45:31",
+  "next_due": "2026-11-10T14:25:31",
   "limit_hits": 2,
   "batch_units": [
-   "864",
-   "225",
-   "721",
-   "479"
+   "871",
+   "232",
+   "728",
+   "486"
   ]
  },
  "lanes": {
@@ -3946,31 +3946,98 @@
   },
   "865": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 225,
+   "claimed_at": "2026-11-10T08:04:51",
+   "finished_at": "2026-11-10T08:06:33",
+   "summary": {
+    "page": "865",
+    "rows": 4,
+    "verify": "PASS"
+   }
   },
   "866": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 226,
+   "claimed_at": "2026-11-10T08:53:23",
+   "finished_at": "2026-11-10T08:55:21",
+   "summary": {
+    "page": "866",
+    "rows": 3,
+    "unresolved": 3
+   }
   },
   "867": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 227,
+   "claimed_at": "2026-11-10T10:32:25",
+   "finished_at": "2026-11-10T10:33:54",
+   "summary": {
+    "page": "867",
+    "rows": 3,
+    "verify": "PASS"
+   }
   },
   "868": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 228,
+   "claimed_at": "2026-11-10T11:20:05",
+   "finished_at": "2026-11-10T11:22:13",
+   "summary": {
+    "rows": 3,
+    "insert": 1,
+    "adopt": 2,
+    "unresolved": 1
+   }
   },
   "869": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 229,
+   "claimed_at": "2026-11-10T12:07:56",
+   "finished_at": "2026-11-10T12:09:40",
+   "summary": {
+    "spec": "p0869.json",
+    "mode": "verify",
+    "page": "869",
+    "page_kind": "assign",
+    "rows": 3,
+    "xref": 2,
+    "unresolved": 0,
+    "keep": 3,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "870": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 230,
+   "claimed_at": "2026-11-10T12:55:32",
+   "finished_at": "2026-11-10T12:56:51",
+   "summary": {
+    "page": "870",
+    "rows": 3
+   }
   },
   "871": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 231,
+   "claimed_at": "2026-11-10T13:43:08",
+   "finished_at": "2026-11-10T13:44:54",
+   "summary": {
+    "page": "871",
+    "rows": 4,
+    "verify": "PASS"
+   }
   },
   "872": {
    "lane": "A",
@@ -7112,31 +7179,92 @@
   },
   "226": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 225,
+   "claimed_at": "2026-11-10T08:04:51",
+   "finished_at": "2026-11-10T08:06:06",
+   "summary": {
+    "page": "226",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "227": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 226,
+   "claimed_at": "2026-11-10T08:53:23",
+   "finished_at": "2026-11-10T08:55:21",
+   "summary": {
+    "page": "227",
+    "rows": 2
+   }
   },
   "228": {
    "lane": "B",
-   "status": "pending"
+   "status": "held",
+   "batch": 227,
+   "claimed_at": "2026-11-10T10:32:25",
+   "finished_at": "2026-11-10T10:34:22",
+   "note": "Hor. med. hymn cue (Celsae salutis gaudia): no MIDDAY.hymn; merged into #41",
+   "question_id": 41
   },
   "229": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 228,
+   "claimed_at": "2026-11-10T11:20:05",
+   "finished_at": "2026-11-10T11:22:13",
+   "summary": {
+    "rows": 2,
+    "adopt": 2
+   }
   },
   "230": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 229,
+   "claimed_at": "2026-11-10T12:07:56",
+   "finished_at": "2026-11-10T12:09:40",
+   "summary": {
+    "spec": "p0230.json",
+    "mode": "verify",
+    "page": "230",
+    "page_kind": "assign",
+    "rows": 3,
+    "xref": 0,
+    "unresolved": 0,
+    "keep": 3,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "231": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 230,
+   "claimed_at": "2026-11-10T12:55:32",
+   "finished_at": "2026-11-10T12:57:31",
+   "summary": {
+    "page": "231",
+    "rows": 3
+   }
   },
   "232": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 231,
+   "claimed_at": "2026-11-10T13:43:08",
+   "finished_at": "2026-11-10T13:44:20",
+   "summary": {
+    "page": "232",
+    "rows": 3,
+    "verify": "PASS"
+   }
   },
   "233": {
    "lane": "B",
@@ -9868,31 +9996,95 @@
   },
   "722": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 225,
+   "claimed_at": "2026-11-10T08:04:51",
+   "finished_at": "2026-11-10T08:06:33",
+   "summary": {
+    "page": "722",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "723": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 226,
+   "claimed_at": "2026-11-10T08:53:23",
+   "finished_at": "2026-11-10T08:54:43",
+   "summary": {
+    "page": "723",
+    "rows": 2
+   }
   },
   "724": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 227,
+   "claimed_at": "2026-11-10T10:32:25",
+   "finished_at": "2026-11-10T10:34:22",
+   "summary": {
+    "page": "724",
+    "rows": 4,
+    "verify": "PASS"
+   }
   },
   "725": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 228,
+   "claimed_at": "2026-11-10T11:20:05",
+   "finished_at": "2026-11-10T11:22:13",
+   "summary": {
+    "rows": 2,
+    "adopt": 2
+   }
   },
   "726": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 229,
+   "claimed_at": "2026-11-10T12:07:56",
+   "finished_at": "2026-11-10T12:09:40",
+   "summary": {
+    "spec": "p0726.json",
+    "mode": "verify",
+    "page": "726",
+    "page_kind": "assign",
+    "rows": 5,
+    "xref": 4,
+    "unresolved": 0,
+    "keep": 5,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "727": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 230,
+   "claimed_at": "2026-11-10T12:55:32",
+   "finished_at": "2026-11-10T12:56:51",
+   "summary": {
+    "page": "727",
+    "rows": 1
+   }
   },
   "728": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 231,
+   "claimed_at": "2026-11-10T13:43:08",
+   "finished_at": "2026-11-10T13:45:30",
+   "summary": {
+    "page": "728",
+    "rows": 8,
+    "verify": "PASS"
+   }
   },
   "729": {
    "lane": "C",
@@ -12978,31 +13170,96 @@
   },
   "480": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 225,
+   "claimed_at": "2026-11-10T08:04:51",
+   "finished_at": "2026-11-10T08:06:06",
+   "summary": {
+    "page": "480",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "481": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 226,
+   "claimed_at": "2026-11-10T08:53:23",
+   "finished_at": "2026-11-10T08:54:43",
+   "summary": {
+    "page": "481",
+    "rows": 2
+   }
   },
   "482": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 227,
+   "claimed_at": "2026-11-10T10:32:25",
+   "finished_at": "2026-11-10T10:33:39",
+   "summary": {
+    "page": "482",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "483": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 228,
+   "claimed_at": "2026-11-10T11:20:05",
+   "finished_at": "2026-11-10T11:22:13",
+   "summary": {
+    "rows": 2,
+    "insert": 1,
+    "adopt": 1
+   }
   },
   "484": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 229,
+   "claimed_at": "2026-11-10T12:07:56",
+   "finished_at": "2026-11-10T12:09:40",
+   "summary": {
+    "spec": "p0484.json",
+    "mode": "verify",
+    "page": "484",
+    "page_kind": "assign",
+    "rows": 2,
+    "xref": 0,
+    "unresolved": 0,
+    "keep": 2,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "485": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 230,
+   "claimed_at": "2026-11-10T12:55:32",
+   "finished_at": "2026-11-10T12:57:14",
+   "summary": {
+    "page": "485",
+    "rows": 2
+   }
   },
   "486": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 231,
+   "claimed_at": "2026-11-10T13:43:08",
+   "finished_at": "2026-11-10T13:44:34",
+   "summary": {
+    "page": "486",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "487": {
    "lane": "D",

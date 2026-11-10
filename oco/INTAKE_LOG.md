@@ -486,3 +486,13 @@
 - 2026-11-10 06:29 — batch 223: 863 loaded (5 rows, 2 unresolved), 224 loaded (2), 720 loaded (4), 478 loaded (2)
 - 2026-11-10 06:29 — note: batch 223 finish ran after batch-end (summary-JSON slip); units re-marked loaded, state correct
 - 2026-11-10 07:18 — batch 224: 864 loaded (1 rows), 225 loaded (2), 721 loaded (3), 479 loaded (2)
+- 2026-11-10 08:06 — batch 225: 865 loaded (4 rows, 1 placeholder invitatory unresolved), 226 loaded (2), 722 loaded (2), 480 loaded (2)
+- 2026-11-10 08:55 — batch 226: 866 loaded (3 rows, all unresolved: Metuebat Herodes, Audito eo, Vos misistis - no gregobase candidate), 227 loaded (2 rows; Coeperunt omnes gb 901 chosen over equivalent 2267), 723 loaded (2), 481 loaded (2)
+- 2026-11-10 10:34 — ❓ HELD 228: intake_queue #41 Hor. med. hymn cue (merged)
+- 2026-11-10 10:34 — batch 227: 867 loaded (3 rows), 228 held (#41; 2 rows ready), 724 loaded (4 rows), 482 loaded (2 rows)
+- 2026-11-10 11:22 — batch 228: 868 loaded (3 rows; resp 'Amicus sponsi gaudet' m6 unresolved, no gregobase match, left as allow_unresolved), 229 loaded (2), 725 loaded (2), 483 loaded (2)
+- 2026-11-10 11:22 — batch 228 correction: finish calls initially failed (bad summary JSON) and batch-end returned units to pending; units re-finished as loaded
+- 2026-11-10 12:09 — batch 229: 869 loaded (3 rows), 230 loaded (3 rows), 726 loaded (5 rows), 484 loaded (2 rows); flags: p870 should adopt/correct legacy text_id 10796 (Pastor eximius, printed 869)
+- 2026-11-10 12:57 — ⚠ accepted p231 row 2 Non est ei species: printed mode 2*-4a vs gregobase 4 (same AM 1047 source, verified_despite mode); p231 rows 1/3 identities 2291 / 14569 chosen by producer neume check (near-identical editions)
+- 2026-11-10 12:57 — batch 230: 870 loaded (3 rows), 231 loaded (3), 727 loaded (1), 485 loaded (2)
+- 2026-11-10 13:45 — batch 231: 871 loaded (4 rows; Quando nata est unresolved, no placeholder), 232 loaded (3), 728 loaded (8; Scholastica 'In columbae specie' unresolved; accepted CHECK on truncated Simile est regnum cue), 486 loaded (2)

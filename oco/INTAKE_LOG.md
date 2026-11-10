@@ -496,3 +496,5 @@
 - 2026-11-10 12:57 — ⚠ accepted p231 row 2 Non est ei species: printed mode 2*-4a vs gregobase 4 (same AM 1047 source, verified_despite mode); p231 rows 1/3 identities 2291 / 14569 chosen by producer neume check (near-identical editions)
 - 2026-11-10 12:57 — batch 230: 870 loaded (3 rows), 231 loaded (3), 727 loaded (1), 485 loaded (2)
 - 2026-11-10 13:45 — batch 231: 871 loaded (4 rows; Quando nata est unresolved, no placeholder), 232 loaded (3), 728 loaded (8; Scholastica 'In columbae specie' unresolved; accepted CHECK on truncated Simile est regnum cue), 486 loaded (2)
+- 2026-11-10 15:34 — ⚠ accepted p872: Nativitas tua → gregobase:8980 (sung text 'Genitrix' vs printed 'Genetrix', verified_despite); p487 In diebus illis 8518 kept over near-identical 12201; p729 Ave Maria 12056 chosen for the † / T.Q. two-ending form (over AM 228 source 18893)
+- 2026-11-10 15:34 — batch 232 (driven, lanes A/B/C/D): 872 loaded (2 rows), 233 loaded (2), 729 loaded (2), 487 loaded (2)

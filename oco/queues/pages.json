@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 237,
+  "batch_id": 238,
   "batch_open": false,
-  "batch_started": "2026-11-11T00:54:02",
-  "batch_finished": "2026-11-11T00:56:02",
-  "next_due": "2026-11-11T01:36:02",
+  "batch_started": "2026-11-11T03:14:15",
+  "batch_finished": "2026-11-11T03:16:43",
+  "next_due": "2026-11-11T03:56:43",
   "limit_hits": 2,
   "batch_units": [
-   "877",
-   "238",
-   "734",
-   "492"
+   "878",
+   "239",
+   "735",
+   "493"
   ]
  },
  "lanes": {
@@ -4140,7 +4140,18 @@
   },
   "878": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 238,
+   "claimed_at": "2026-11-11T03:14:15",
+   "finished_at": "2026-11-11T03:16:42",
+   "summary": {
+    "spec": "p0878.json",
+    "mode": "load",
+    "rows": 3,
+    "adopt": 2,
+    "insert": 1,
+    "errors": 0
+   }
   },
   "879": {
    "lane": "A",
@@ -7442,7 +7453,17 @@
   },
   "239": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 238,
+   "claimed_at": "2026-11-11T03:14:15",
+   "finished_at": "2026-11-11T03:16:42",
+   "summary": {
+    "spec": "p0239.json",
+    "mode": "load",
+    "rows": 3,
+    "insert": 3,
+    "errors": 0
+   }
   },
   "240": {
    "lane": "B",
@@ -10339,7 +10360,20 @@
   },
   "735": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 238,
+   "claimed_at": "2026-11-11T03:14:15",
+   "finished_at": "2026-11-11T03:16:42",
+   "summary": {
+    "spec": "p0735.json",
+    "mode": "load",
+    "rows": 4,
+    "xref": 1,
+    "unresolved": 1,
+    "insert": 2,
+    "adopt": 2,
+    "errors": 0
+   }
   },
   "736": {
    "lane": "C",
@@ -13586,7 +13620,17 @@
   },
   "493": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 238,
+   "claimed_at": "2026-11-11T03:14:15",
+   "finished_at": "2026-11-11T03:16:42",
+   "summary": {
+    "spec": "p0493.json",
+    "mode": "load",
+    "rows": 2,
+    "adopt": 2,
+    "errors": 0
+   }
   },
   "494": {
    "lane": "D",

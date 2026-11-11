@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 236,
+  "batch_id": 237,
   "batch_open": false,
-  "batch_started": "2026-11-10T22:37:16",
-  "batch_finished": "2026-11-10T22:40:04",
-  "next_due": "2026-11-10T23:20:04",
+  "batch_started": "2026-11-11T00:54:02",
+  "batch_finished": "2026-11-11T00:56:02",
+  "next_due": "2026-11-11T01:36:02",
   "limit_hits": 2,
   "batch_units": [
-   "876",
-   "237",
-   "733",
-   "491"
+   "877",
+   "238",
+   "734",
+   "492"
   ]
  },
  "lanes": {
@@ -4126,7 +4126,17 @@
   },
   "877": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 237,
+   "claimed_at": "2026-11-11T00:54:02",
+   "finished_at": "2026-11-11T00:56:01",
+   "summary": {
+    "page": "877",
+    "rows": 3,
+    "insert": 2,
+    "adopt": 1,
+    "verify": "PASS"
+   }
   },
   "878": {
    "lane": "A",
@@ -7418,7 +7428,17 @@
   },
   "238": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 237,
+   "claimed_at": "2026-11-11T00:54:02",
+   "finished_at": "2026-11-11T00:56:01",
+   "summary": {
+    "page": "238",
+    "rows": 3,
+    "insert": 2,
+    "adopt": 1,
+    "verify": "PASS"
+   }
   },
   "239": {
    "lane": "B",
@@ -10305,7 +10325,17 @@
   },
   "734": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 237,
+   "claimed_at": "2026-11-11T00:54:02",
+   "finished_at": "2026-11-11T00:56:01",
+   "summary": {
+    "page": "734",
+    "rows": 2,
+    "insert": 2,
+    "unresolved": 1,
+    "verify": "PASS"
+   }
   },
   "735": {
    "lane": "C",
@@ -13543,7 +13573,16 @@
   },
   "492": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 237,
+   "claimed_at": "2026-11-11T00:54:02",
+   "finished_at": "2026-11-11T00:56:01",
+   "summary": {
+    "page": "492",
+    "rows": 2,
+    "adopt": 2,
+    "verify": "PASS"
+   }
   },
   "493": {
    "lane": "D",

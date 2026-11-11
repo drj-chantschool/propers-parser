@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 241,
+  "batch_id": 242,
   "batch_open": false,
-  "batch_started": "2026-11-11T11:08:01",
-  "batch_finished": "2026-11-11T11:12:49",
-  "next_due": "2026-11-11T11:52:49",
+  "batch_started": "2026-11-11T13:58:08",
+  "batch_finished": "2026-11-11T14:00:27",
+  "next_due": "2026-11-11T14:40:27",
   "limit_hits": 2,
   "batch_units": [
-   "881",
-   "242",
-   "738",
-   "496"
+   "882",
+   "243",
+   "739",
+   "497"
   ]
  },
  "lanes": {
@@ -4207,7 +4207,26 @@
   },
   "882": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 242,
+   "claimed_at": "2026-11-11T13:58:08",
+   "finished_at": "2026-11-11T14:00:02",
+   "summary": {
+    "spec": "p0882.json",
+    "mode": "verify",
+    "page": "882",
+    "page_kind": "assign",
+    "rows": 2,
+    "xref": 0,
+    "unresolved": 0,
+    "keep": 2,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "883": {
    "lane": "A",
@@ -7553,7 +7572,26 @@
   },
   "243": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 242,
+   "claimed_at": "2026-11-11T13:58:08",
+   "finished_at": "2026-11-11T14:00:00",
+   "summary": {
+    "spec": "p0243.json",
+    "mode": "verify",
+    "page": "243",
+    "page_kind": "assign",
+    "rows": 3,
+    "xref": 1,
+    "unresolved": 0,
+    "keep": 3,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "244": {
    "lane": "B",
@@ -10504,7 +10542,11 @@
   },
   "739": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 242,
+   "claimed_at": "2026-11-11T13:58:08",
+   "finished_at": "2026-11-11T14:00:27",
+   "note": "spec oco/specs/p0739.json complete (10 rows) vs page; dry-run exit 4: John of God M 'Multitudo languentium' waits on p1155 (itself blocked, #42), Frances of Rome M 'Vos qui reliquistis' cites p1320 (blank-page named dest). 'In fide state' (Perpetua M, 7a, AS 856) unresolved, no gregobase match"
   },
   "740": {
    "lane": "C",
@@ -13802,7 +13844,26 @@
   },
   "497": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 242,
+   "claimed_at": "2026-11-11T13:58:08",
+   "finished_at": "2026-11-11T14:00:01",
+   "summary": {
+    "spec": "p0497.json",
+    "mode": "verify",
+    "page": "497",
+    "page_kind": "assign",
+    "rows": 2,
+    "xref": 0,
+    "unresolved": 0,
+    "keep": 2,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "498": {
    "lane": "D",

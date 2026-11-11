@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 233,
+  "batch_id": 234,
   "batch_open": false,
-  "batch_started": "2026-11-10T17:13:53",
-  "batch_finished": "2026-11-10T17:16:15",
-  "next_due": "2026-11-10T17:56:15",
+  "batch_started": "2026-11-10T18:52:47",
+  "batch_finished": "2026-11-10T18:57:14",
+  "next_due": "2026-11-10T19:37:14",
   "limit_hits": 2,
   "batch_units": [
-   "873",
-   "234",
-   "730",
-   "488"
+   "874",
+   "235",
+   "731",
+   "489"
   ]
  },
  "lanes": {
@@ -4079,7 +4079,19 @@
   },
   "874": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 234,
+   "claimed_at": "2026-11-10T18:52:47",
+   "finished_at": "2026-11-10T18:57:13",
+   "summary": {
+    "spec": "p0874.json",
+    "mode": "load",
+    "page": "874",
+    "rows": 3,
+    "insert": 2,
+    "adopt": 1,
+    "errors": 0
+   }
   },
   "875": {
    "lane": "A",
@@ -7336,7 +7348,18 @@
   },
   "235": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 234,
+   "claimed_at": "2026-11-10T18:52:47",
+   "finished_at": "2026-11-10T18:57:13",
+   "summary": {
+    "spec": "p0235.json",
+    "mode": "load",
+    "page": "235",
+    "rows": 2,
+    "insert": 2,
+    "errors": 0
+   }
   },
   "236": {
    "lane": "B",
@@ -10186,7 +10209,21 @@
   },
   "731": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 234,
+   "claimed_at": "2026-11-10T18:52:47",
+   "finished_at": "2026-11-10T18:57:13",
+   "summary": {
+    "spec": "p0731.json",
+    "mode": "load",
+    "page": "731",
+    "rows": 7,
+    "xref": 5,
+    "unresolved": 3,
+    "insert": 5,
+    "adopt": 2,
+    "errors": 0
+   }
   },
   "732": {
    "lane": "C",
@@ -13390,7 +13427,18 @@
   },
   "489": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 234,
+   "claimed_at": "2026-11-10T18:52:47",
+   "finished_at": "2026-11-10T18:57:14",
+   "summary": {
+    "spec": "p0489.json",
+    "mode": "load",
+    "page": "489",
+    "rows": 2,
+    "insert": 2,
+    "errors": 0
+   }
   },
   "490": {
    "lane": "D",

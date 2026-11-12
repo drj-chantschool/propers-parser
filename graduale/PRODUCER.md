@@ -96,7 +96,7 @@ chants, each with a rough band), then refine.
   the second = `al`. "In feriis omittitur AL. <incipit>" ⇒ that `al` gets `wkday:1` (Sunday only).
 - **Lenten ferias** print only In/Gr/Of/Co (no Tract/Alleluia); the loader's missing-al/tr
   COMPLETENESS warning is a known false positive there — confirm and say so.
-- **Dec 17–24:** ADV-II+wkday ferias vs the dated `ADV-II-00-seq` days; your brief says which.
+- **Dec 17–24:** weekday ferias are `ADV-II`+wkday (2–7); the 4th Sunday is `ADV-II-01-1`; date-specific parts go on the kind='date' epochs `O-SAPIENTIA`…`O-EMMANUEL`, `DEC-24` (Dec 17…24). Your brief says which.
 
 ## Validate
 

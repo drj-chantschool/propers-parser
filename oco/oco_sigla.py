@@ -2,8 +2,9 @@
 """oco_sigla.py — OCO index codes (chant_indices.day_code / hour_code / place_code) → lit_part_sources
 slot fields. Deterministic; the sigla legend is OCO pp1210–1213. Conventions follow the LH contract
 (lhymn/specs/README.md): per-annum psalter = null epoch + wknum_mod_2/4 + wkday; Paschaltide variants of
-a Common stay on the Common with option_txt; rank-conditioned rows carry rank_code; Advent IV and the
-17–23 Dec weekday sets are ADV-II + wkday (GR precedent).
+a Common stay on the Common with option_txt; rank-conditioned rows carry rank_code; Advent IV is ADV-II-01-1,
+the 17–23 Dec weekday sets are ADV-II + wkday (GR precedent), and the dated days are the kind='date' epochs
+O-SAPIENTIA .. DEC-24 (2026-11-11).
 
     targets(row) -> (list of slot dicts, None)  or  ([], "why it can't be mapped")
 
@@ -20,9 +21,12 @@ from itertools import product
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "tools"))
 
+DATED_DEC = {17: "O-SAPIENTIA", 18: "O-ADONAI", 19: "O-RADIX-JESSE", 20: "O-CLAVIS-DAVID",  # kind='date'
+             21: "O-ORIENS", 22: "O-REX-GENTIUM", 23: "O-EMMANUEL", 24: "DEC-24"}
+
 SEASONS = {  # whole-season / feast codes → slug list (+ optional wkday)
     "A": ["ADV"], "Adv": ["ADV"], "Al": [("ADV", 1)], "A1": [("ADV", 1)],
-    "Adv ante 17/12": ["ADV-I"], "Adv post 17/12": ["ADV-II"], "Adv 24/12": ["ADV-II-00-8"],
+    "Adv ante 17/12": ["ADV-I"], "Adv post 17/12": ["ADV-II"], "Adv 24/12": ["DEC-24"],
     "N": ["NAT"], "N ante Ep": ["NAT-DAY", "NAT-IO", "NAT-OCT", "NAT-PO"], "N post Ep": ["NAT-EPI"],
     "N-25/12": ["NAT-DAY-00-0"], "N-1/1": ["NAT-OCT-02-0"], "Fam": ["NAT-IO-01-0"],
     "2N1": ["NAT-PO-02-0"], "Ep": ["NAT-EPI-00-0"], "Bapt": ["NAT-BAPT-01-0"],
@@ -125,7 +129,7 @@ def days(code, saints, pick=None):
         return [one(hits[0])]
     m = re.fullmatch(r"A-(\d{1,2})/12", code)
     if m and 17 <= int(m.group(1)) <= 24:
-        return [one(f"ADV-II-00-{int(m.group(1)) - 16}")]
+        return [one(DATED_DEC[int(m.group(1))])]
     m = re.fullmatch(r"N-(\d{1,2})/(12|1)", code)
     if m:
         d, mo = int(m.group(1)), int(m.group(2))
@@ -142,7 +146,9 @@ def days(code, saints, pick=None):
         w, d = int(m.group(1)), int(m.group(2))
         if w <= 3:
             return [one(f"ADV-I-0{w}-{d}")]
-        return [one("ADV-II", d)]  # 4A1 = Dom. IV; 5A2..7 = Feria II.. post 16 dec.
+        if d == 1:
+            return [one("ADV-II-01-1")]  # 4A1 = Dom. IV
+        return [one("ADV-II", d)]  # 5A2..7 = Feria II.. post 16 dec.
     m = re.fullmatch(r"(\d)Q(\d)", code)
     if m:
         w, d = int(m.group(1)), int(m.group(2))

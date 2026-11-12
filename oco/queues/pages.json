@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 247,
+  "batch_id": 248,
   "batch_open": false,
-  "batch_started": "2026-11-12T00:35:43",
-  "batch_finished": "2026-11-12T00:38:03",
-  "next_due": "2026-11-12T01:18:03",
+  "batch_started": "2026-11-12T02:55:22",
+  "batch_finished": "2026-11-12T02:57:59",
+  "next_due": "2026-11-12T03:37:59",
   "limit_hits": 2,
   "batch_units": [
-   "886",
-   "247",
-   "743",
-   "501"
+   "887",
+   "248",
+   "744",
+   "502"
   ]
  },
  "lanes": {
@@ -4300,7 +4300,19 @@
   },
   "887": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 248,
+   "claimed_at": "2026-11-12T02:55:22",
+   "finished_at": "2026-11-12T02:57:42",
+   "summary": {
+    "spec": "p0887.json",
+    "mode": "verify",
+    "rows": 3,
+    "unresolved": 1,
+    "keep": 3,
+    "stale": 0,
+    "verify": "PASS"
+   }
   },
   "888": {
    "lane": "A",
@@ -7720,7 +7732,18 @@
   },
   "248": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 248,
+   "claimed_at": "2026-11-12T02:55:22",
+   "finished_at": "2026-11-12T02:57:42",
+   "summary": {
+    "spec": "p0248.json",
+    "mode": "verify",
+    "rows": 4,
+    "keep": 4,
+    "stale": 0,
+    "verify": "PASS"
+   }
   },
   "249": {
    "lane": "B",
@@ -10724,7 +10747,18 @@
   },
   "744": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 248,
+   "claimed_at": "2026-11-12T02:55:22",
+   "finished_at": "2026-11-12T02:57:42",
+   "summary": {
+    "spec": "p0744.json",
+    "mode": "verify",
+    "rows": 3,
+    "keep": 3,
+    "stale": 0,
+    "verify": "PASS"
+   }
   },
   "745": {
    "lane": "C",
@@ -14095,7 +14129,19 @@
   },
   "502": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 248,
+   "claimed_at": "2026-11-12T02:55:22",
+   "finished_at": "2026-11-12T02:56:35",
+   "summary": {
+    "spec": "p0502.json",
+    "mode": "verify",
+    "page": "502",
+    "rows": 2,
+    "keep": 2,
+    "stale": 0,
+    "verify": "PASS"
+   }
   },
   "503": {
    "lane": "D",

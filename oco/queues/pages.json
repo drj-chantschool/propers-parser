@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 254,
+  "batch_id": 255,
   "batch_open": false,
-  "batch_started": "2026-11-12T15:42:03",
-  "batch_finished": "2026-11-12T15:44:50",
-  "next_due": "2026-11-12T16:24:50",
+  "batch_started": "2026-11-12T17:46:28",
+  "batch_finished": "2026-11-12T17:49:20",
+  "next_due": "2026-11-12T18:29:20",
   "limit_hits": 2,
   "batch_units": [
-   "893",
-   "254",
-   "750",
-   "508"
+   "894",
+   "255",
+   "751",
+   "509"
   ]
  },
  "lanes": {
@@ -4417,7 +4417,11 @@
   },
   "894": {
    "lane": "A",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 255,
+   "claimed_at": "2026-11-12T17:46:28",
+   "finished_at": "2026-11-12T17:49:19",
+   "note": "spec oco/specs/p0894.json complete (4 rows) vs page; dry-run exit 4: Pio 'Iugum enim meum' cue waits on p1152; Cosmas&Damian 'Sanctorum precibus' unresolved (no gregobase; placeholder needed), staff runs to p895"
   },
   "895": {
    "lane": "A",
@@ -7942,7 +7946,27 @@
   },
   "255": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 255,
+   "claimed_at": "2026-11-12T17:46:28",
+   "finished_at": "2026-11-12T17:49:19",
+   "summary": {
+    "spec": "p0255.json",
+    "mode": "load",
+    "page": "255",
+    "page_kind": "assign",
+    "rows": 4,
+    "xref": 1,
+    "unresolved": 0,
+    "insert": 3,
+    "replace-legacy": 1,
+    "adopt": 1,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0
+   }
   },
   "256": {
    "lane": "B",
@@ -11050,7 +11074,26 @@
   },
   "751": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 255,
+   "claimed_at": "2026-11-12T17:46:28",
+   "finished_at": "2026-11-12T17:49:19",
+   "summary": {
+    "spec": "p0751.json",
+    "mode": "load",
+    "page": "751",
+    "page_kind": "assign",
+    "rows": 6,
+    "xref": 4,
+    "unresolved": 0,
+    "insert": 2,
+    "adopt": 4,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0
+   }
   },
   "752": {
    "lane": "C",
@@ -14524,7 +14567,26 @@
   },
   "509": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 255,
+   "claimed_at": "2026-11-12T17:46:28",
+   "finished_at": "2026-11-12T17:49:19",
+   "summary": {
+    "spec": "p0509.json",
+    "mode": "load",
+    "page": "509",
+    "page_kind": "assign",
+    "rows": 2,
+    "xref": 0,
+    "unresolved": 0,
+    "insert": 1,
+    "adopt": 1,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0
+   }
   },
   "510": {
    "lane": "D",

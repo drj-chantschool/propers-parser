@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 246,
+  "batch_id": 247,
   "batch_open": false,
-  "batch_started": "2026-11-11T22:04:48",
-  "batch_finished": "2026-11-11T22:06:57",
-  "next_due": "2026-11-11T22:46:57",
+  "batch_started": "2026-11-12T00:35:43",
+  "batch_finished": "2026-11-12T00:38:03",
+  "next_due": "2026-11-12T01:18:03",
   "limit_hits": 2,
   "batch_units": [
-   "885",
-   "246",
-   "742",
-   "500"
+   "886",
+   "247",
+   "743",
+   "501"
   ]
  },
  "lanes": {
@@ -4287,7 +4287,16 @@
   },
   "886": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 247,
+   "claimed_at": "2026-11-12T00:35:43",
+   "finished_at": "2026-11-12T00:38:02",
+   "summary": {
+    "page": "886",
+    "rows": 2,
+    "adopt": 2,
+    "verify": "PASS"
+   }
   },
   "887": {
    "lane": "A",
@@ -7697,7 +7706,17 @@
   },
   "247": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 247,
+   "claimed_at": "2026-11-12T00:35:43",
+   "finished_at": "2026-11-12T00:38:02",
+   "summary": {
+    "page": "247",
+    "rows": 5,
+    "xref": 3,
+    "adopt": 5,
+    "verify": "PASS"
+   }
   },
   "248": {
    "lane": "B",
@@ -10697,7 +10716,11 @@
   },
   "743": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 247,
+   "claimed_at": "2026-11-12T00:35:43",
+   "finished_at": "2026-11-12T00:38:02",
+   "note": "spec oco/specs/p0743.json complete (4 rows) vs page; dry-run exit 4: TP: Inv. cue 'Alleluia, Christum Dominum' waits on p772 (May 1). Angelus Domini 17656 (OCO edition; 12078 same opening, not note-compared)"
   },
   "744": {
    "lane": "C",
@@ -14059,7 +14082,16 @@
   },
   "501": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 247,
+   "claimed_at": "2026-11-12T00:35:43",
+   "finished_at": "2026-11-12T00:38:02",
+   "summary": {
+    "page": "501",
+    "rows": 2,
+    "adopt": 2,
+    "verify": "PASS"
+   }
   },
   "502": {
    "lane": "D",

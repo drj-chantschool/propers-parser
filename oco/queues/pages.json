@@ -12,16 +12,16 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 260,
+  "batch_id": 261,
   "batch_open": false,
-  "batch_started": "2026-11-13T04:02:48",
-  "batch_finished": "2026-11-13T04:04:28",
-  "next_due": "2026-11-13T04:44:28",
+  "batch_started": "2026-11-13T05:58:33",
+  "batch_finished": "2026-11-13T06:00:01",
+  "next_due": "2026-11-13T06:40:01",
   "limit_hits": 2,
   "batch_units": [
-   "899",
-   "756",
-   "514"
+   "900",
+   "757",
+   "515"
   ]
  },
  "lanes": {
@@ -4520,7 +4520,17 @@
   },
   "900": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 261,
+   "claimed_at": "2026-11-13T05:58:33",
+   "finished_at": "2026-11-13T06:00:00",
+   "summary": {
+    "page": "900",
+    "rows": 4,
+    "unresolved": 2,
+    "adopt": 2,
+    "verify": "PASS"
+   }
   },
   "901": {
    "lane": "A",
@@ -11299,7 +11309,11 @@
   },
   "757": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 261,
+   "claimed_at": "2026-11-13T05:58:33",
+   "finished_at": "2026-11-13T05:59:48",
+   "note": "spec oco/specs/p0757.json complete (3 rows) vs page; dry-run exit 4: Lauds Rbr. 'Ave, Maria' de Communi BMV cue cites p1320 (blank last page named dest). Benedicta tu 4405, Virgo verbo 17713 (adopts 11192)"
   },
   "758": {
    "lane": "C",
@@ -14869,7 +14883,16 @@
   },
   "515": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 261,
+   "claimed_at": "2026-11-13T05:58:33",
+   "finished_at": "2026-11-13T05:59:39",
+   "summary": {
+    "page": "515",
+    "rows": 3,
+    "adopt": 3,
+    "verify": "PASS"
+   }
   },
   "516": {
    "lane": "D",

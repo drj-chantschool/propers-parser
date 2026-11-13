@@ -12,17 +12,17 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 256,
+  "batch_id": 257,
   "batch_open": false,
-  "batch_started": "2026-11-12T19:54:03",
-  "batch_finished": "2026-11-12T19:56:12",
-  "next_due": "2026-11-12T20:36:12",
+  "batch_started": "2026-11-12T22:00:31",
+  "batch_finished": "2026-11-12T22:03:31",
+  "next_due": "2026-11-12T22:43:31",
   "limit_hits": 2,
   "batch_units": [
-   "895",
-   "256",
-   "752",
-   "510"
+   "896",
+   "257",
+   "753",
+   "511"
   ]
  },
  "lanes": {
@@ -4448,7 +4448,17 @@
   },
   "896": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 257,
+   "claimed_at": "2026-11-12T22:00:31",
+   "finished_at": "2026-11-12T22:03:30",
+   "summary": {
+    "page": "896",
+    "rows": 7,
+    "insert": 4,
+    "adopt": 3,
+    "verify": "PASS"
+   }
   },
   "897": {
    "lane": "A",
@@ -8012,7 +8022,16 @@
   },
   "257": {
    "lane": "B",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 257,
+   "claimed_at": "2026-11-12T22:00:31",
+   "finished_at": "2026-11-12T22:03:30",
+   "summary": {
+    "page": "257",
+    "rows": 3,
+    "insert": 3,
+    "verify": "PASS"
+   }
   },
   "975": {
    "lane": "C",
@@ -11158,7 +11177,17 @@
   },
   "753": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 257,
+   "claimed_at": "2026-11-12T22:00:31",
+   "finished_at": "2026-11-12T22:03:30",
+   "note": "both rows in DB (13604 opt1, 13605 opt2 T.P.); --verify reports 13605 stale: two null-identity rows in one slot (same clash as p1131). Do not reload: load could prune opt2",
+   "summary": {
+    "page": "753",
+    "rows": 2,
+    "unresolved": 2,
+    "verify": "FAIL (false stale 13605)"
+   }
   },
   "754": {
    "lane": "C",
@@ -14671,7 +14700,17 @@
   },
   "511": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 257,
+   "claimed_at": "2026-11-12T22:00:31",
+   "finished_at": "2026-11-12T22:03:30",
+   "summary": {
+    "page": "511",
+    "rows": 1,
+    "insert": 1,
+    "replace-legacy": 1,
+    "verify": "PASS"
+   }
   },
   "512": {
    "lane": "D",

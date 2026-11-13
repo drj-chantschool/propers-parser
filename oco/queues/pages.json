@@ -12,16 +12,16 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 266,
+  "batch_id": 267,
   "batch_open": false,
-  "batch_started": "2026-11-13T14:33:10",
-  "batch_finished": "2026-11-13T14:35:40",
-  "next_due": "2026-11-13T15:15:40",
+  "batch_started": "2026-11-13T16:09:56",
+  "batch_finished": "2026-11-13T16:12:39",
+  "next_due": "2026-11-13T16:52:39",
   "limit_hits": 2,
   "batch_units": [
-   "905",
-   "762",
-   "520"
+   "906",
+   "763",
+   "521"
   ]
  },
  "lanes": {
@@ -4621,7 +4621,26 @@
   },
   "906": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 267,
+   "claimed_at": "2026-11-13T16:09:56",
+   "finished_at": "2026-11-13T16:12:37",
+   "summary": {
+    "spec": "p0906.json",
+    "mode": "verify",
+    "page": "906",
+    "page_kind": "assign",
+    "rows": 3,
+    "xref": 1,
+    "unresolved": 1,
+    "keep": 3,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "907": {
    "lane": "A",
@@ -11468,7 +11487,26 @@
   },
   "763": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 267,
+   "claimed_at": "2026-11-13T16:09:56",
+   "finished_at": "2026-11-13T16:12:38",
+   "summary": {
+    "spec": "p0763.json",
+    "mode": "verify",
+    "page": "763",
+    "page_kind": "assign",
+    "rows": 14,
+    "xref": 13,
+    "unresolved": 1,
+    "keep": 14,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "764": {
    "lane": "C",
@@ -15112,7 +15150,26 @@
   },
   "521": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 267,
+   "claimed_at": "2026-11-13T16:09:56",
+   "finished_at": "2026-11-13T16:12:39",
+   "summary": {
+    "spec": "p0521.json",
+    "mode": "verify",
+    "page": "521",
+    "page_kind": "assign",
+    "rows": 6,
+    "xref": 4,
+    "unresolved": 0,
+    "keep": 6,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "522": {
    "lane": "D",

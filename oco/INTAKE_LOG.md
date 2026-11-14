@@ -595,3 +595,5 @@
 - 2026-11-14 11:58 — batch 280 (driven, stage pages): 919 loaded (2), 776 loaded (2), 534 loaded (4); no blocked unit cleared; #41/#43 still open
 - 2026-11-14 13:25 — ⚠ accepted p777 Vesp ant1 'Philippe, qui me videt' → gregobase:9232 (CAO 4291, same melody; Nova Vulgata word order) via verified_despite text
 - 2026-11-14 13:25 — batch 281 (stage pages): 920 loaded (2 rows), 777 loaded (2 rows), 535 loaded (3 rows); lane B head 228 held #41
+- 2026-11-14 14:59 — ⚠ accepted p921: All Saints I Vesp M 'Salvator mundi' (Vel, ad libitum, 2d, CAO 4689) loaded unresolved (gb 6707 is Dominican m1): placeholder needed. p536: Popule meus 15577 (Verona m2) replaces legacy 4196 (m4); Contritum est 15578. p778: Nereus & Achilleus cues TP/Per annum → p1043/p1025/p1045/p1027
+- 2026-11-14 14:59 — batch 282 (driven, stage pages): 921 loaded (1), 778 loaded (6), 536 loaded (2); no blocked unit cleared; #41/#43 still open

@@ -597,3 +597,5 @@
 - 2026-11-14 13:25 — batch 281 (stage pages): 920 loaded (2 rows), 777 loaded (2 rows), 535 loaded (3 rows); lane B head 228 held #41
 - 2026-11-14 14:59 — ⚠ accepted p921: All Saints I Vesp M 'Salvator mundi' (Vel, ad libitum, 2d, CAO 4689) loaded unresolved (gb 6707 is Dominican m1): placeholder needed. p536: Popule meus 15577 (Verona m2) replaces legacy 4196 (m4); Contritum est 15578. p778: Nereus & Achilleus cues TP/Per annum → p1043/p1025/p1045/p1027
 - 2026-11-14 14:59 — batch 282 (driven, stage pages): 921 loaded (1), 778 loaded (6), 536 loaded (2); no blocked unit cleared; #41/#43 still open
+- 2026-11-14 16:23 — ⚠ accepted p779: Matthias Vesp M cue 'Non vos me elegistis... et posui' → gregobase:14875 (from the p1012 spec) verified_despite text (the cue's ellipsis); Pancras option_txt TP/Per annum with 'Vel: S. Pancratii' only in rubric; margin '188' unmodeled. p537: Suavi iugo tuo → 15581 (Verona). p922: All Saints Inv/Off. lect. adopted
+- 2026-11-14 16:23 — batch 283 (driven, stage pages): 922 loaded (3), 779 loaded (13), 537 loaded (3); no blocked unit cleared; #41/#43 still open

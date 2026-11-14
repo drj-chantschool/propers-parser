@@ -577,3 +577,5 @@
 - 2026-11-13 20:55 — batch 270 (driven, stage pages): 909 loaded (5), 766 loaded (2; 1 unresolved), 524 loaded (3); intake #45 raised (p766 siglum); lane B head 228 held (#41); #41/#43 still open
 - 2026-11-13 22:29 — ⚠ accepted: p910 'In flore mater' (4e, CAO 3274) loaded unresolved, no gregobase; p525 Angelorum esca index identity 8570 (Solesmes m2) replaced by 11089 (page prints 3g), legacy 9910 replaced; Cibavit index #819 links p239 but is engraved on p525
 - 2026-11-13 22:29 — batch 271 (stage pages): 910 loaded (3 rows), 525 loaded (4 rows), 767 blocked_dep (p764)
+- 2026-11-14 00:01 — ⚠ accepted p911: Rosary B Sancta Maria succurre 1d2 (CAO 4703) unresolved (gregobase candidates all mode 4), Vesp. ant1 Angelus Domini 3327 (AM 191; runs to p912). p526: Corpus Christi Laudes ant2 Sacerdotes 8726, ant3 Vincenti 8727 adopt; Rbr. Educas panem 5470 chosen by melody (index #3281 had no identity)
+- 2026-11-14 00:01 — batch 272 (driven, stage pages): 911 loaded (2; 1 unresolved), 768 blocked_dep (p1320), 526 loaded (3); lane B head 228 held (#41)

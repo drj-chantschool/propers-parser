@@ -589,3 +589,5 @@
 - 2026-11-14 07:32 — ⚠ accepted p773: Iustus germinabit → gregobase:12410 (catalogued m5, printed 6, same melody; 12626 identical m7 alt). p531: Ego sum pastor bonus → group 14808 (Verona). p743 loaded on retry (4 rows).
 - 2026-11-14 07:32 — batch 277 (stage pages): 916 blocked_dep (p764), 773 loaded (3 rows), 531 loaded (2 rows); retry: 743 loaded (4 rows)
 - 2026-11-14 08:59 — batch 278 (stage pages): 917 blocked_dep (11 rows, waits p767/p1320), 774 loaded (3 rows), 532 loaded (2 rows); no blocked unit cleared
+- 2026-11-14 10:28 — ⚠ accepted p918: Simon & Jude M 'In regeneratione' printed under Laudes label → VESPERS.antM (as p934); B 'Dum steteritis' xref p1017 placeholder local:6057070e; Lux perpetua 16181 (ARII 664). p533: Apud te est fons vitae 15585 verified_despite mode (gb 2, printed 3a); Viderunt omnes left to p534. p775: Domine ostende 9229 (AM 893), Tanto tempore 9228 runs to p776
+- 2026-11-14 10:28 — batch 279 (driven, stage pages): 918 loaded (10), 775 loaded (3), 533 loaded (4); lane B head 228 held (#41); #41/#43 still open

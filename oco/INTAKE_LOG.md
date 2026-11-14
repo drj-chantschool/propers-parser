@@ -588,3 +588,4 @@
 - 2026-11-14 06:07 — batch 276 (driven, stage pages): 915 loaded (2; 2 unresolved), 772 loaded (6; 1 unresolved), 530 loaded (4); 33 blocked_dep re-dry-run, none clear; lane B head 228 held (#41)
 - 2026-11-14 07:32 — ⚠ accepted p773: Iustus germinabit → gregobase:12410 (catalogued m5, printed 6, same melody; 12626 identical m7 alt). p531: Ego sum pastor bonus → group 14808 (Verona). p743 loaded on retry (4 rows).
 - 2026-11-14 07:32 — batch 277 (stage pages): 916 blocked_dep (p764), 773 loaded (3 rows), 531 loaded (2 rows); retry: 743 loaded (4 rows)
+- 2026-11-14 08:59 — batch 278 (stage pages): 917 blocked_dep (11 rows, waits p767/p1320), 774 loaded (3 rows), 532 loaded (2 rows); no blocked unit cleared

@@ -12,16 +12,16 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 277,
+  "batch_id": 278,
   "batch_open": false,
-  "batch_started": "2026-11-14T07:30:26",
-  "batch_finished": "2026-11-14T07:32:35",
-  "next_due": "2026-11-14T08:12:35",
+  "batch_started": "2026-11-14T08:56:39",
+  "batch_finished": "2026-11-14T08:59:51",
+  "next_due": "2026-11-14T09:39:51",
   "limit_hits": 2,
   "batch_units": [
-   "916",
-   "773",
-   "531"
+   "917",
+   "774",
+   "532"
   ]
  },
  "lanes": {
@@ -4823,7 +4823,11 @@
   },
   "917": {
    "lane": "A",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 278,
+   "claimed_at": "2026-11-14T08:56:39",
+   "finished_at": "2026-11-14T08:59:51",
+   "note": "spec oco/specs/p0917.json complete (11 rows) vs page; dry-run exit 4: Luke Vesp ant2 'Misit Dominus' waits on p767, resp 'Annuntiate' cites p1320 (blank-page dest; index says p1021); 'Ecce super montes' 1f unresolved (no gregobase; placeholder needed)"
   },
   "918": {
    "lane": "A",
@@ -11820,7 +11824,17 @@
   },
   "774": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 278,
+   "claimed_at": "2026-11-14T08:56:39",
+   "finished_at": "2026-11-14T08:59:50",
+   "summary": {
+    "page": "774",
+    "rows": 3,
+    "adopt": 2,
+    "insert": 1,
+    "verify": "PASS"
+   }
   },
   "775": {
    "lane": "C",
@@ -15646,7 +15660,16 @@
   },
   "532": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 278,
+   "claimed_at": "2026-11-14T08:56:39",
+   "finished_at": "2026-11-14T08:59:51",
+   "summary": {
+    "page": "532",
+    "rows": 2,
+    "insert": 2,
+    "verify": "PASS"
+   }
   },
   "533": {
    "lane": "D",

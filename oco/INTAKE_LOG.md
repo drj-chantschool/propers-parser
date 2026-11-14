@@ -593,3 +593,5 @@
 - 2026-11-14 10:28 — batch 279 (driven, stage pages): 918 loaded (10), 775 loaded (3), 533 loaded (4); lane B head 228 held (#41); #41/#43 still open
 - 2026-11-14 11:58 — ⚠ accepted p776: Non turbetur 10156 (AM 892); 'Invenit Philippus' (Philip & James Lauds B, RM 313, runs to p777) loaded unresolved, no gregobase: placeholder needed. p534: Viderunt omnes 15587; In die magno 15572 (Verona); Venite ad me 15573 (8g, over 15574 m4); margin '130' link unmodeled. p919: All Saints I Vesp ant2/3 16182/16183 adopted
 - 2026-11-14 11:58 — batch 280 (driven, stage pages): 919 loaded (2), 776 loaded (2), 534 loaded (4); no blocked unit cleared; #41/#43 still open
+- 2026-11-14 13:25 — ⚠ accepted p777 Vesp ant1 'Philippe, qui me videt' → gregobase:9232 (CAO 4291, same melody; Nova Vulgata word order) via verified_despite text
+- 2026-11-14 13:25 — batch 281 (stage pages): 920 loaded (2 rows), 777 loaded (2 rows), 535 loaded (3 rows); lane B head 228 held #41

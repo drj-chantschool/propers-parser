@@ -12,16 +12,16 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 270,
+  "batch_id": 271,
   "batch_open": false,
-  "batch_started": "2026-11-13T20:52:46",
-  "batch_finished": "2026-11-13T20:55:12",
-  "next_due": "2026-11-13T21:35:12",
+  "batch_started": "2026-11-13T22:27:47",
+  "batch_finished": "2026-11-13T22:29:51",
+  "next_due": "2026-11-13T23:09:51",
   "limit_hits": 2,
   "batch_units": [
-   "909",
-   "766",
-   "524"
+   "910",
+   "767",
+   "525"
   ]
  },
  "lanes": {
@@ -4713,7 +4713,18 @@
   },
   "910": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 271,
+   "claimed_at": "2026-11-13T22:27:47",
+   "finished_at": "2026-11-13T22:29:50",
+   "summary": {
+    "page": "910",
+    "rows": 3,
+    "insert": 2,
+    "adopt": 1,
+    "unresolved": 1,
+    "verify": "PASS"
+   }
   },
   "911": {
    "lane": "A",
@@ -11620,7 +11631,11 @@
   },
   "767": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 271,
+   "claimed_at": "2026-11-13T22:27:47",
+   "finished_at": "2026-11-13T22:29:50",
+   "note": "spec oco/specs/p0767.json complete (3 rows) vs page; dry-run exit 4: Mentibus laetis hymn cue waits on p764. Recheck ant2 'Misit Dominus manum suam, et tetigit' (page text; producer wrote 'et replevit') identity 17389 (CAO 3786 matches, but its ending is 'et prophetam in gentibus'); staff runs to p768"
   },
   "768": {
    "lane": "C",
@@ -15340,7 +15355,18 @@
   },
   "525": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 271,
+   "claimed_at": "2026-11-13T22:27:47",
+   "finished_at": "2026-11-13T22:29:50",
+   "summary": {
+    "page": "525",
+    "rows": 4,
+    "insert": 2,
+    "adopt": 2,
+    "replace-legacy": 1,
+    "verify": "PASS"
+   }
   },
   "526": {
    "lane": "D",

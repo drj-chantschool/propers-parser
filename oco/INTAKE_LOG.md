@@ -599,3 +599,5 @@
 - 2026-11-14 14:59 — batch 282 (driven, stage pages): 921 loaded (1), 778 loaded (6), 536 loaded (2); no blocked unit cleared; #41/#43 still open
 - 2026-11-14 16:23 — ⚠ accepted p779: Matthias Vesp M cue 'Non vos me elegistis... et posui' → gregobase:14875 (from the p1012 spec) verified_despite text (the cue's ellipsis); Pancras option_txt TP/Per annum with 'Vel: S. Pancratii' only in rubric; margin '188' unmodeled. p537: Suavi iugo tuo → 15581 (Verona). p922: All Saints Inv/Off. lect. adopted
 - 2026-11-14 16:23 — batch 283 (driven, stage pages): 922 loaded (3), 779 loaded (13), 537 loaded (3); no blocked unit cleared; #41/#43 still open
+- 2026-11-14 17:52 — ⚠ accepted p538: Ecce Agnus Dei → 14367 verified_despite mode (gb 7, printed 8g; no alleluia); Suscepit nos → 15584 (Verona); Rbr. 'Ut in I Vesperis' → p532 3140; Christ the King hymn on VESPERS1+VESPERS. p780: cue text eum/eos (17947), De/Cum palma (8774) accepted
+- 2026-11-14 17:52 — batch 284 (driven, stage pages): 923 loaded (2), 538 loaded (6), 780 blocked_dep (13 rows; waits p1057/p1131/p1133); #41/#43 still open

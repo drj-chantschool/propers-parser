@@ -12,16 +12,16 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 283,
+  "batch_id": 284,
   "batch_open": false,
-  "batch_started": "2026-11-14T16:20:17",
-  "batch_finished": "2026-11-14T16:23:17",
-  "next_due": "2026-11-14T17:03:17",
+  "batch_started": "2026-11-14T17:47:33",
+  "batch_finished": "2026-11-14T17:52:34",
+  "next_due": "2026-11-14T18:32:34",
   "limit_hits": 2,
   "batch_units": [
-   "922",
-   "779",
-   "537"
+   "923",
+   "780",
+   "538"
   ]
  },
  "lanes": {
@@ -4923,7 +4923,25 @@
   },
   "923": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 284,
+   "claimed_at": "2026-11-14T17:47:33",
+   "finished_at": "2026-11-14T17:52:31",
+   "summary": {
+    "spec": "p0923.json",
+    "mode": "load",
+    "page": "923",
+    "page_kind": "assign",
+    "rows": 2,
+    "xref": 0,
+    "unresolved": 0,
+    "adopt": 2,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0
+   }
   },
   "924": {
    "lane": "A",
@@ -12005,7 +12023,11 @@
   },
   "780": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 284,
+   "claimed_at": "2026-11-14T17:47:33",
+   "finished_at": "2026-11-14T17:52:33",
+   "note": "spec oco/specs/p0780.json complete (13 rows) vs page; dry-run exit 4: cues wait on p1057 (John I M TP), p1131, p1133 (Bede B); Bede M 'O doctor optime' 11690 engraved; cues to p1320 redirected to p1031/p1054/p1023"
   },
   "781": {
    "lane": "C",
@@ -15915,7 +15937,26 @@
   },
   "538": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 284,
+   "claimed_at": "2026-11-14T17:47:33",
+   "finished_at": "2026-11-14T17:52:33",
+   "summary": {
+    "spec": "p0538.json",
+    "mode": "load",
+    "page": "538",
+    "page_kind": "assign",
+    "rows": 6,
+    "xref": 3,
+    "unresolved": 0,
+    "insert": 4,
+    "adopt": 2,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0
+   }
   },
   "539": {
    "lane": "D",

@@ -12,16 +12,16 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 274,
+  "batch_id": 275,
   "batch_open": false,
-  "batch_started": "2026-11-14T03:03:08",
-  "batch_finished": "2026-11-14T03:05:57",
-  "next_due": "2026-11-14T03:45:57",
+  "batch_started": "2026-11-14T04:37:17",
+  "batch_finished": "2026-11-14T04:39:23",
+  "next_due": "2026-11-14T05:19:23",
   "limit_hits": 2,
   "batch_units": [
-   "913",
-   "770",
-   "528"
+   "914",
+   "771",
+   "529"
   ]
  },
  "lanes": {
@@ -4795,7 +4795,11 @@
   },
   "914": {
    "lane": "A",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 275,
+   "claimed_at": "2026-11-14T04:37:17",
+   "finished_at": "2026-11-14T04:39:22",
+   "note": "spec oco/specs/p0914.json complete (6 rows) vs producer; dry-run exit 4: Margaret Mary 'Exsultavit cor' cue waits on p1146; Ignatius B 'Illum quaero' 7a unresolved (no gregobase; runs to p915)"
   },
   "915": {
    "lane": "A",
@@ -11748,7 +11752,16 @@
   },
   "771": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 275,
+   "claimed_at": "2026-11-14T04:37:17",
+   "finished_at": "2026-11-14T04:39:22",
+   "summary": {
+    "page": "771",
+    "rows": 4,
+    "adopt": 4,
+    "verify": "PASS"
+   }
   },
   "772": {
    "lane": "C",
@@ -15536,7 +15549,17 @@
   },
   "529": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 275,
+   "claimed_at": "2026-11-14T04:37:17",
+   "finished_at": "2026-11-14T04:39:22",
+   "summary": {
+    "page": "529",
+    "rows": 4,
+    "xref": 1,
+    "adopt": 4,
+    "verify": "PASS"
+   }
   },
   "530": {
    "lane": "D",

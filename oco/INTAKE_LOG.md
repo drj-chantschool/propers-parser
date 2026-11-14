@@ -579,3 +579,4 @@
 - 2026-11-13 22:29 — batch 271 (stage pages): 910 loaded (3 rows), 525 loaded (4 rows), 767 blocked_dep (p764)
 - 2026-11-14 00:01 — ⚠ accepted p911: Rosary B Sancta Maria succurre 1d2 (CAO 4703) unresolved (gregobase candidates all mode 4), Vesp. ant1 Angelus Domini 3327 (AM 191; runs to p912). p526: Corpus Christi Laudes ant2 Sacerdotes 8726, ant3 Vincenti 8727 adopt; Rbr. Educas panem 5470 chosen by melody (index #3281 had no identity)
 - 2026-11-14 00:01 — batch 272 (driven, stage pages): 911 loaded (2; 1 unresolved), 768 blocked_dep (p1320), 526 loaded (3); lane B head 228 held (#41)
+- 2026-11-14 01:34 — batch 273 (stage pages): 912 loaded (3), 769 loaded (8), 527 loaded (2); accepted ⚠ p527 Desiderio mode 2*a vs gregobase 4 (verified_despite); p769 Ancilla 9303 office-part 'ca' (verified_despite); 32 blocked_dep re-dry-run, none clear

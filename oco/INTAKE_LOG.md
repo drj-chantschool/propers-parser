@@ -623,3 +623,5 @@
 - 2026-11-15 07:18 — batch 294 (driven, stage pages): 933 loaded (2), 790 blocked_dep (8 rows; waits p916); no blocked unit cleared; #41/#43 still open
 - 2026-11-15 08:28 — ⚠ accepted p934: 'Laudes' hymn cue Iste confessor = Vespers (README quirk); O virum ineffabilem → 9044 (8g), Domine si adhuc → 9043 (7c, group 2585 others not neume-compared). p791: Exi cito → 10367 (1a, not neume-compared); Fidelis servus (Romuald) new; index reuse rows for Bruno/abbots dropped; margin '192' unmodeled
 - 2026-11-15 08:28 — batch 295 (driven, stage pages): 934 loaded (3), 791 loaded (4); no blocked unit cleared; #41/#43 still open
+- 2026-11-15 09:39 — ⚠ accepted p935: Martin Vesp ant3 'Martinus episcopus migravit' (8g, CAO 3713) loaded unresolved (no gregobase): placeholder needed; O beatum pontificem → 9047 (1d, AM 1118). p792: Fisher/More M 'Iusti autem in perpetuum' cue page from index p1027 (draft link p1320 blank dest, as p790); Elisabeth Zachariæ → 8944 (3a, not neume-compared); index reuse rows dropped
+- 2026-11-15 09:39 — batch 296 (driven, stage pages): 935 loaded (2), 792 loaded (9); no blocked unit rechecked; #41/#43 still open

@@ -601,3 +601,5 @@
 - 2026-11-14 16:23 — batch 283 (driven, stage pages): 922 loaded (3), 779 loaded (13), 537 loaded (3); no blocked unit cleared; #41/#43 still open
 - 2026-11-14 17:52 — ⚠ accepted p538: Ecce Agnus Dei → 14367 verified_despite mode (gb 7, printed 8g; no alleluia); Suscepit nos → 15584 (Verona); Rbr. 'Ut in I Vesperis' → p532 3140; Christ the King hymn on VESPERS1+VESPERS. p780: cue text eum/eos (17947), De/Cum palma (8774) accepted
 - 2026-11-14 17:52 — batch 284 (driven, stage pages): 923 loaded (2), 538 loaded (6), 780 blocked_dep (13 rows; waits p1057/p1131/p1133); #41/#43 still open
+- 2026-11-14 19:17 — ⚠ accepted p781: Vos estis cue ref_page 1068→1069 (staff begins p1069); Gregory VII / M. Magdalene de' Pazzi 'Vel:' cues on own saint epochs opt1 (as p780); margin '189' unmodeled. p539 margin '131' unmodeled; 'Tua est magnificentia' left to p540
+- 2026-11-14 19:17 — batch 285 (driven, stage pages): 924 loaded (4), 781 loaded (6), 539 loaded (2); no blocked unit cleared; #41/#43 still open

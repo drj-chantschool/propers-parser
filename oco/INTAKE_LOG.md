@@ -621,3 +621,5 @@
 - 2026-11-15 06:02 — batch 293 (driven, stage pages): 932 loaded (6), 789 loaded (6), 547 loaded (5); no blocked unit cleared; #41/#43 still open
 - 2026-11-15 07:18 — ⚠ accepted p933: Martinus Abrahæ → 9046 (8g, CAO 3711), O beatum virum → 9041 (2d, runs to p934); both adopt legacy. p790: Docete omnes gentes unresolved; cue targets from index not p1320 draft links
 - 2026-11-15 07:18 — batch 294 (driven, stage pages): 933 loaded (2), 790 blocked_dep (8 rows; waits p916); no blocked unit cleared; #41/#43 still open
+- 2026-11-15 08:28 — ⚠ accepted p934: 'Laudes' hymn cue Iste confessor = Vespers (README quirk); O virum ineffabilem → 9044 (8g), Domine si adhuc → 9043 (7c, group 2585 others not neume-compared). p791: Exi cito → 10367 (1a, not neume-compared); Fidelis servus (Romuald) new; index reuse rows for Bruno/abbots dropped; margin '192' unmodeled
+- 2026-11-15 08:28 — batch 295 (driven, stage pages): 934 loaded (3), 791 loaded (4); no blocked unit cleared; #41/#43 still open

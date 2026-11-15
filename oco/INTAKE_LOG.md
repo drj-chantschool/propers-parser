@@ -609,3 +609,5 @@
 - 2026-11-14 22:09 — batch 287 (driven, stage pages): 926 loaded (2), 783 loaded (2), 541 loaded (4); no blocked unit cleared; #41/#43 still open
 - 2026-11-14 23:36 — ⚠ accepted p784: Vox turturis → gregobase:13263 verified_despite text (gabc elides 'in terra nostra'; neumes match); Cum audisset → chant_group 4545. p927: Vidi turbam magnam → chant_group 2883 (new; index #3139 had no identity); Deus tentavit runs to p928. p542: Adorabunt eum continuation not duplicated; index #2009/#2010 belong to p543
 - 2026-11-14 23:36 — batch 288 (driven, stage pages): 927 loaded (3), 784 loaded (2), 542 loaded (3); no blocked unit cleared; #41/#43 still open
+- 2026-11-15 00:56 — ⚠ accepted p785: Visitation Sext 'Ostende mihi' (3a2, CAO 4201) and None 'Quam pulchra es' (1g, CAO 4434) loaded unresolved (no gregobase antiphon): placeholders needed; generic 'Vel … de Communi B.M.V., vel de feria' rubric flag only. p543: Magnificabitur → 17718 (7a, AM 1093). p928: Sancti et iusti verse runs to p929
+- 2026-11-15 00:56 — batch 289 (driven, stage pages): 928 loaded (2), 785 loaded (3), 543 loaded (3); no blocked unit cleared; #41/#43 still open

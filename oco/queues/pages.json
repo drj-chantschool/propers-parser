@@ -12,15 +12,15 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 300,
+  "batch_id": 301,
   "batch_open": false,
-  "batch_started": "2026-11-15T13:55:44",
-  "batch_finished": "2026-11-15T13:57:45",
-  "next_due": "2026-11-15T14:37:45",
+  "batch_started": "2026-11-15T14:52:56",
+  "batch_finished": "2026-11-15T14:54:58",
+  "next_due": "2026-11-15T15:34:58",
   "limit_hits": 2,
   "batch_units": [
-   "939",
-   "796"
+   "940",
+   "797"
   ]
  },
  "lanes": {
@@ -5223,7 +5223,11 @@
   },
   "940": {
    "lane": "A",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 301,
+   "claimed_at": "2026-11-15T14:52:56",
+   "finished_at": "2026-11-15T14:54:58",
+   "note": "spec oco/specs/p0940.json complete (7 rows) vs page; dry-run exit 4: Catherine 'Desponsata sum' B cue waits on p1109; Absterget cue re-pointed p1320->p1198"
   },
   "941": {
    "lane": "A",
@@ -12515,7 +12519,26 @@
   },
   "797": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 301,
+   "claimed_at": "2026-11-15T14:52:56",
+   "finished_at": "2026-11-15T14:54:58",
+   "summary": {
+    "spec": "p0797.json",
+    "mode": "load",
+    "page": "797",
+    "page_kind": "assign",
+    "rows": 2,
+    "xref": 0,
+    "unresolved": 1,
+    "insert": 1,
+    "adopt": 1,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0
+   }
   },
   "798": {
    "lane": "C",

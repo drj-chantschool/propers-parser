@@ -636,3 +636,4 @@
 - 2026-11-15 14:54 — batch 301 (driven, stage pages): 797 loaded (2), 940 blocked_dep (7 rows; waits p1109); no blocked unit rechecked; #41/#43 still open
 - 2026-11-15 15:49 — ⚠ accepted p941: Dixit Andreas → group 7656 (3a; gregobase m8, verified_despite); Salve crux pretiosa → 9068 (AM 755, neume-checked 'pe-pén'); replaces 2 legacy rows; index #557 links p941 but staff is p942. p798: Terce/Sext/None adopt legacy (8c/2*f/5a, not neume-compared); Nona staff runs to p799
 - 2026-11-15 15:49 — batch 302 (driven, stage pages): 941 loaded (2), 798 loaded (3); #41/#43 still open
+- 2026-11-15 16:40 — batch 303 (pages): 942 loaded (3 rows, Andrew Terce/Sext/None), 799 loaded (2 rows, John Baptist II Vesp ant1-2; draft missed ant2 Ioannes est nomen, staff runs to p800)

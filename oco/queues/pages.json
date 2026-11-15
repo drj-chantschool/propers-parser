@@ -12,16 +12,16 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 292,
+  "batch_id": 293,
   "batch_open": false,
-  "batch_started": "2026-11-15T04:44:17",
-  "batch_finished": "2026-11-15T04:46:27",
-  "next_due": "2026-11-15T05:26:27",
+  "batch_started": "2026-11-15T05:59:43",
+  "batch_finished": "2026-11-15T06:02:06",
+  "next_due": "2026-11-15T06:42:06",
   "limit_hits": 2,
   "batch_units": [
-   "931",
-   "788",
-   "546"
+   "932",
+   "789",
+   "547"
   ]
  },
  "lanes": {
@@ -5086,7 +5086,26 @@
   },
   "932": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 293,
+   "claimed_at": "2026-11-15T05:59:43",
+   "finished_at": "2026-11-15T06:02:03",
+   "summary": {
+    "spec": "p0932.json",
+    "mode": "verify",
+    "page": "932",
+    "page_kind": "assign",
+    "rows": 6,
+    "xref": 3,
+    "unresolved": 0,
+    "keep": 6,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "933": {
    "lane": "A",
@@ -12278,7 +12297,26 @@
   },
   "789": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 293,
+   "claimed_at": "2026-11-15T05:59:43",
+   "finished_at": "2026-11-15T06:02:04",
+   "summary": {
+    "spec": "p0789.json",
+    "mode": "verify",
+    "page": "789",
+    "page_kind": "assign",
+    "rows": 6,
+    "xref": 5,
+    "unresolved": 1,
+    "keep": 6,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   },
   "790": {
    "lane": "C",
@@ -16315,7 +16353,26 @@
   },
   "547": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 293,
+   "claimed_at": "2026-11-15T05:59:43",
+   "finished_at": "2026-11-15T06:02:05",
+   "summary": {
+    "spec": "p0547.json",
+    "mode": "verify",
+    "page": "547",
+    "page_kind": "assign",
+    "rows": 5,
+    "xref": 3,
+    "unresolved": 1,
+    "keep": 5,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0,
+    "verify": "PASS"
+   }
   }
  }
 }

@@ -12,16 +12,16 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 290,
+  "batch_id": 291,
   "batch_open": false,
-  "batch_started": "2026-11-15T02:12:55",
-  "batch_finished": "2026-11-15T02:15:11",
-  "next_due": "2026-11-15T02:55:11",
+  "batch_started": "2026-11-15T03:29:43",
+  "batch_finished": "2026-11-15T03:34:09",
+  "next_due": "2026-11-15T04:14:09",
   "limit_hits": 2,
   "batch_units": [
-   "929",
-   "786",
-   "544"
+   "930",
+   "787",
+   "545"
   ]
  },
  "lanes": {
@@ -5048,7 +5048,26 @@
   },
   "930": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 291,
+   "claimed_at": "2026-11-15T03:29:43",
+   "finished_at": "2026-11-15T03:33:57",
+   "summary": {
+    "spec": "p0930.json",
+    "mode": "load",
+    "page": "930",
+    "page_kind": "assign",
+    "rows": 2,
+    "xref": 0,
+    "unresolved": 1,
+    "insert": 1,
+    "adopt": 1,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0
+   }
   },
   "931": {
    "lane": "A",
@@ -12218,7 +12237,25 @@
   },
   "787": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 291,
+   "claimed_at": "2026-11-15T03:29:43",
+   "finished_at": "2026-11-15T03:33:59",
+   "summary": {
+    "spec": "p0787.json",
+    "mode": "load",
+    "page": "787",
+    "page_kind": "assign",
+    "rows": 2,
+    "xref": 0,
+    "unresolved": 1,
+    "insert": 2,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0
+   }
   },
   "788": {
    "lane": "C",
@@ -16226,7 +16263,27 @@
   },
   "545": {
    "lane": "D",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 291,
+   "claimed_at": "2026-11-15T03:29:43",
+   "finished_at": "2026-11-15T03:34:01",
+   "summary": {
+    "spec": "p0545.json",
+    "mode": "load",
+    "page": "545",
+    "page_kind": "assign",
+    "rows": 3,
+    "xref": 0,
+    "unresolved": 0,
+    "insert": 2,
+    "replace-legacy": 1,
+    "adopt": 1,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0
+   }
   },
   "546": {
    "lane": "D",

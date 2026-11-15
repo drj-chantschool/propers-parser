@@ -12,16 +12,15 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 293,
+  "batch_id": 294,
   "batch_open": false,
-  "batch_started": "2026-11-15T05:59:43",
-  "batch_finished": "2026-11-15T06:02:06",
-  "next_due": "2026-11-15T06:42:06",
+  "batch_started": "2026-11-15T07:15:52",
+  "batch_finished": "2026-11-15T07:18:17",
+  "next_due": "2026-11-15T07:58:17",
   "limit_hits": 2,
   "batch_units": [
-   "932",
-   "789",
-   "547"
+   "933",
+   "790"
   ]
  },
  "lanes": {
@@ -5109,7 +5108,16 @@
   },
   "933": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 294,
+   "claimed_at": "2026-11-15T07:15:52",
+   "finished_at": "2026-11-15T07:18:16",
+   "summary": {
+    "page": "933",
+    "rows": 2,
+    "adopt": 2,
+    "verify": "PASS"
+   }
   },
   "934": {
    "lane": "A",
@@ -12320,7 +12328,11 @@
   },
   "790": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 294,
+   "claimed_at": "2026-11-15T07:15:52",
+   "finished_at": "2026-11-15T07:18:16",
+   "note": "spec oco/specs/p0790.json complete (8 rows); dry-run exit 4: Barnabas extra-TP 'Narraverunt' cue waits on p916; 'Docete omnes gentes' 8g unresolved (placeholder needed); Annuntiate cue re-pointed p1320->p1021 (index #3225/6)"
   },
   "791": {
    "lane": "C",

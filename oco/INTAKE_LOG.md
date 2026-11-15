@@ -605,3 +605,5 @@
 - 2026-11-14 19:17 — batch 285 (driven, stage pages): 924 loaded (4), 781 loaded (6), 539 loaded (2); no blocked unit cleared; #41/#43 still open
 - 2026-11-14 20:42 — ⚠ accepted p782: 'TP: ut in Communi BMV' (Inv.) recorded as flag only, no TP row; Augustine of Canterbury cues only on own epoch (draft's reuse epochs dropped). p925: Lætamini 8432 (7:649 vs printed AM 1104, spelling ≠) accepted; Te gloriosus runs to p926. p540: Dabit illi → chant_group 2668; invitatory left to p541
 - 2026-11-14 20:42 — batch 286 (driven, stage pages): 925 loaded (2), 782 loaded (6), 540 loaded (2); no blocked unit cleared; #41/#43 still open
+- 2026-11-14 22:09 — ⚠ accepted p541: Adorabunt eum 16107 verified_despite mode (gb 5, printed 8g; runs to p542); invitatory mode 7 set. p926: Sapientiam sanctorum 14290 ('laudem'); index #2730/#2731 link here but page prints no cue (legacy 10968 untouched). p783: Visitation Lauds ant2/3 adopted
+- 2026-11-14 22:09 — batch 287 (driven, stage pages): 926 loaded (2), 783 loaded (2), 541 loaded (4); no blocked unit cleared; #41/#43 still open

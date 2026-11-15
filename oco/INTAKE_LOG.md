@@ -607,3 +607,5 @@
 - 2026-11-14 20:42 — batch 286 (driven, stage pages): 925 loaded (2), 782 loaded (6), 540 loaded (2); no blocked unit cleared; #41/#43 still open
 - 2026-11-14 22:09 — ⚠ accepted p541: Adorabunt eum 16107 verified_despite mode (gb 5, printed 8g; runs to p542); invitatory mode 7 set. p926: Sapientiam sanctorum 14290 ('laudem'); index #2730/#2731 link here but page prints no cue (legacy 10968 untouched). p783: Visitation Lauds ant2/3 adopted
 - 2026-11-14 22:09 — batch 287 (driven, stage pages): 926 loaded (2), 783 loaded (2), 541 loaded (4); no blocked unit cleared; #41/#43 still open
+- 2026-11-14 23:36 — ⚠ accepted p784: Vox turturis → gregobase:13263 verified_despite text (gabc elides 'in terra nostra'; neumes match); Cum audisset → chant_group 4545. p927: Vidi turbam magnam → chant_group 2883 (new; index #3139 had no identity); Deus tentavit runs to p928. p542: Adorabunt eum continuation not duplicated; index #2009/#2010 belong to p543
+- 2026-11-14 23:36 — batch 288 (driven, stage pages): 927 loaded (3), 784 loaded (2), 542 loaded (3); no blocked unit cleared; #41/#43 still open

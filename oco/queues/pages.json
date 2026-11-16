@@ -5475,9 +5475,16 @@
   },
   "955": {
    "lane": "A",
-   "status": "pending",
+   "status": "loaded",
    "batch": 315,
-   "claimed_at": "2026-11-16T02:08:59"
+   "claimed_at": "2026-11-16T02:08:59",
+   "finished_at": "2026-11-16T02:11:23",
+   "summary": {
+    "page": "955",
+    "mode": "verify",
+    "rows": 2,
+    "verify": "PASS"
+   }
   },
   "956": {
    "lane": "A",
@@ -12961,9 +12968,17 @@
   },
   "811": {
    "lane": "C",
-   "status": "pending",
+   "status": "loaded",
    "batch": 315,
-   "claimed_at": "2026-11-16T02:08:59"
+   "claimed_at": "2026-11-16T02:08:59",
+   "finished_at": "2026-11-16T02:11:23",
+   "summary": {
+    "page": "811",
+    "mode": "verify",
+    "rows": 4,
+    "unresolved": 1,
+    "verify": "PASS"
+   }
   },
   "812": {
    "lane": "C",

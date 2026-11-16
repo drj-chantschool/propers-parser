@@ -667,3 +667,5 @@
 - 2026-11-16 03:44 — batch 317 (driven, stage pages): 957 loaded (2), 813 loaded (3); #41/#43 still open
 - 2026-11-16 04:31 — ⚠ accepted p958: O doctor optime → 11690 (2d, AM 665, opening + be-á-te neumes checked; 1908 rejected); dropped draft rows for Aloysius/Peter Claver/Camillus (not printed); top staff = end of In tua patientia (p957)
 - 2026-11-16 04:31 — batch 318 (driven, stage pages): 958 loaded (6), 814 blocked_dep (p1131, p1320); #41/#43 still open
+- 2026-11-16 05:14 — ⚠ accepted p959: Christum natum Inv. → 16620 (4*, LHym 478; gabc omits 'hodie', melody matches, verified_despite), Festum celebre LHym 479 cue → 16642, Cum autem esset → 16643 (1g, CAO 1987); all adopt legacy; Lapidaverunt hidden text at foot, staff on p960. p815: Bonaventure M O doctor optime → 11690 (2d, AM 665); Carmel B Caput tuum → 9291 (6f, AS 1045, 'Dei Genetrix' adaptation, verified_despite; staff runs to p816); Spiritu sapientiae cue → p1092 placeholder; Peter Claver draft rows dropped (not printed)
+- 2026-11-16 05:14 — batch 319 (driven, stage pages): 959 loaded (3), 815 loaded (5); blocked units rechecked, unchanged; #41/#43 still open

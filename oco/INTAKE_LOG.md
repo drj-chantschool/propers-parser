@@ -650,3 +650,5 @@
 - 2026-11-15 21:32 — ⚠ accepted p805 Gratia Dei gregobase:10402 labelled mode 4 vs printed 2*a (transposition; text + CAO 2968 match)
 - 2026-11-15 21:32 — batch 309 (stage pages): 948 loaded (2 rows), 805 loaded (3 rows)
 - 2026-11-15 21:33 — p805: first load refused (unacknowledged ⚠); added verified_despite, reload VERIFY PASS
+- 2026-11-15 22:20 — ⚠ accepted p949: identities from index (16130, 8243 cue, 16131), not neume-compared; Adiuvit eam text at foot, staff p950. p806: Bonum certamen → 15675 (printed 1g; index 17194 is mode 2, replaces legacy 9984); Tradiderunt animas Ɽ br. 6 unresolved (placeholder needed)
+- 2026-11-15 22:20 — batch 310 (driven, stage pages): 949 loaded (3), 806 loaded (3); #41/#43 still open

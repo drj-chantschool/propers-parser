@@ -12,15 +12,15 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 317,
+  "batch_id": 318,
   "batch_open": false,
-  "batch_started": "2026-11-16T03:42:17",
-  "batch_finished": "2026-11-16T03:44:31",
-  "next_due": "2026-11-16T04:24:31",
+  "batch_started": "2026-11-16T04:28:30",
+  "batch_finished": "2026-11-16T04:31:01",
+  "next_due": "2026-11-16T05:11:01",
   "limit_hits": 2,
   "batch_units": [
-   "957",
-   "813"
+   "958",
+   "814"
   ]
  },
  "lanes": {
@@ -5524,7 +5524,26 @@
   },
   "958": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 318,
+   "claimed_at": "2026-11-16T04:28:30",
+   "finished_at": "2026-11-16T04:31:00",
+   "summary": {
+    "spec": "p0958.json",
+    "mode": "load",
+    "page": "958",
+    "page_kind": "assign",
+    "rows": 6,
+    "xref": 5,
+    "unresolved": 0,
+    "insert": 3,
+    "adopt": 3,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0
+   }
   },
   "959": {
    "lane": "A",
@@ -13046,7 +13065,11 @@
   },
   "814": {
    "lane": "C",
-   "status": "pending"
+   "status": "blocked_dep",
+   "batch": 318,
+   "claimed_at": "2026-11-16T04:28:30",
+   "finished_at": "2026-11-16T04:31:01",
+   "note": "spec oco/specs/p0814.json complete (14 rows); dry-run exit 4: Henry II cues wait on p1131 (Scimus quoniam) and p1320 (Iste sanctus digne, blank-page dest); Benedict B 'Fuit vir' -> group 11697; Benedict Vesp hymn Legifer replaces legacy 9547"
   },
   "815": {
    "lane": "C",

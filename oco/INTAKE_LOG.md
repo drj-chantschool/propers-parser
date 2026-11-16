@@ -665,3 +665,5 @@
 - 2026-11-16 02:58 — batch 316 (driven, stage pages): 956 loaded (6), 812 loaded (4); #41/#43 still open
 - 2026-11-16 03:44 — ⚠ accepted p957: Ego humilis ancilla 8g (CAO 2579) St Lucy LAUDS.antB loaded unresolved, no gregobase (placeholder needed); In tua patientia → 9080 (1f, AM 769, from index, adopts 10512; staff runs to p958); margin '231' unmodeled. p813: Quia vidisti → 10078 (AM 479 checked, adopts 10876); Misi digitum → 10080 (8g2; gabc 'fixuras' vs printed 'fixuram', melody same, verified_despite); 'Vesp. 1–3 Ut ad Laudes' cue left to p811/p812 rows (flag only); Elizabeth of Portugal B xref → p1134 Ista est speciosa 2474
 - 2026-11-16 03:44 — batch 317 (driven, stage pages): 957 loaded (2), 813 loaded (3); #41/#43 still open
+- 2026-11-16 04:31 — ⚠ accepted p958: O doctor optime → 11690 (2d, AM 665, opening + be-á-te neumes checked; 1908 rejected); dropped draft rows for Aloysius/Peter Claver/Camillus (not printed); top staff = end of In tua patientia (p957)
+- 2026-11-16 04:31 — batch 318 (driven, stage pages): 958 loaded (6), 814 blocked_dep (p1131, p1320); #41/#43 still open

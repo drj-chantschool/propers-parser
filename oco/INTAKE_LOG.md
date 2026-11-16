@@ -654,3 +654,5 @@
 - 2026-11-15 22:20 — batch 310 (driven, stage pages): 949 loaded (3), 806 loaded (3); #41/#43 still open
 - 2026-11-15 23:08 — ⚠ accepted p950: Adiuvit eam → group 11370 (5a; 16133 cites RM 261, opening checked, adopts legacy), Gloriosa dicta → 16132, Vidi speciosam → 16136 (staff runs to p951), hymn In plausu grati carminis LHym 477 cue. p807: Adhuc loquente Petro → 15676 (1f, CAO 1274, adopts legacy); Ascendit Simon Petrus (8g, Sext) loaded unresolved: placeholder needed, runs to p808
 - 2026-11-15 23:08 — batch 311 (driven, stage pages): 950 loaded (4), 807 loaded (2); blocked units rechecked, unchanged; #41/#43 still open
+- 2026-11-15 23:52 — ⚠ accepted p952: Deus omnipotens Rbr. → 9078 (6, AM 765, opening neumes checked; 3204 rejected), Ait Dominus Deus → 8511 adopts legacy; Ista est columba staff starts p953; margin '230' unmodeled. p808: Petrus et Ioannes → 8740, Ego pro te rogavi → 10410 (both adopt legacy, text+mode only); II Vesp. hymn O Roma felix LHym 392 = VESPERS.hymn opt2 (p801 Aurea luce holds opt1); Libenter gloriabor staff starts p809
+- 2026-11-15 23:52 — batch 312 (driven, stage pages): 952 loaded (2), 808 loaded (3); #41/#43 still open

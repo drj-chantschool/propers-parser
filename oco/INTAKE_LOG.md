@@ -645,3 +645,5 @@
 - 2026-11-15 19:08 — batch 306 (driven, stage pages): 945 loaded (7), 802 loaded (3); #41/#43 still open
 - 2026-11-15 19:57 — ⚠ accepted p946: O doctor optime → 11690 (2d, AM 665; group 1908 left unset, edition chosen), hymn Praeclara custos cue on VESPERS1 + VESPERS ('Vesp. I & II'; index lists V only); margin '229' unmodeled. p803: Isti sunt → group 2890 (index identity, not neume-compared); Loquebantur tail = continuation. ❓ intake #46: p802 Loquebantur may be I Vespers resp, not II (not blocking)
 - 2026-11-15 19:57 — batch 307 (driven, stage pages): 946 loaded (4), 803 loaded (2); blocked units rechecked, unchanged; #41/#43 still open
+- 2026-11-15 20:46 — ⚠ accepted p947: Ave Maria → 18893 (1g, AM 228, opening neumes checked; T.Q. 'mulieribus' variant inside engraving, no row); Benedicite → 16125 adopts legacy; Exaltabo staff starts p948. p804: Simon Ioannis (8g, CAO 4960) and Significavit Dominus Petro (1g, CAO 4947) loaded unresolved: placeholders needed; Mihi vivere → group 10408 adopts legacy, not neume-compared
+- 2026-11-15 20:46 — batch 308 (driven, stage pages): 947 loaded (2), 804 loaded (3); #41/#43 still open

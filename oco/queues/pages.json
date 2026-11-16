@@ -12,15 +12,14 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 332,
+  "batch_id": 333,
   "batch_open": false,
-  "batch_started": "2026-11-16T14:14:54",
-  "batch_finished": "2026-11-16T14:16:43",
-  "next_due": "2026-11-16T14:56:43",
+  "batch_started": "2026-11-16T14:50:37",
+  "batch_finished": "2026-11-16T14:51:52",
+  "next_due": "2026-11-16T15:31:52",
   "limit_hits": 2,
   "batch_units": [
-   "972",
-   "828"
+   "973"
   ]
  },
  "lanes": {
@@ -5777,7 +5776,17 @@
   },
   "973": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 333,
+   "claimed_at": "2026-11-16T14:50:37",
+   "finished_at": "2026-11-16T14:51:52",
+   "summary": {
+    "spec": "p0973.json",
+    "mode": "verify",
+    "rows": 1,
+    "xref": 1,
+    "verify": "PASS"
+   }
   },
   "3": {
    "lane": "B",

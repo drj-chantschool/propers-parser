@@ -658,3 +658,5 @@
 - 2026-11-15 23:52 — batch 312 (driven, stage pages): 952 loaded (2), 808 loaded (3); #41/#43 still open
 - 2026-11-16 00:38 — ⚠ accepted p953: Ista est columba → 16164 (3a, AS 839, neumes after * checked; 2966/11728 differ); Tu es sponsa → 16165, Ponam te → 16166 adopt legacy (text+mode only). p809: Tu es pastor ovium → 2717 (1f, CAO 5207, opening checked), Libenter → 8489 adopts legacy; Hodie Simon Petrus → group 1918 staff runs to p810; 'Ɽ br. Ut in 1 Vesperis' no row (p802 owns VESPERS.resp), evidence added to intake #46
 - 2026-11-16 00:38 — batch 313 (driven, stage pages): 953 loaded (3), 809 loaded (3); #41/#43 still open
+- 2026-11-16 01:25 — ⚠ accepted p954: Tota pulchra → 16160 (1g2, ARII 687), Tu gloria → 16161 adopts 11098, Vestimentum tuum → 2930 (8g, first line only; staff runs to p955). p810: Hi sunt qui venerunt (1a2, CAO 3045) loaded unresolved, no gregobase text match (needs placeholder if a 2nd unresolved lands in LAUDS.antB first-martyrs-of-rome); margin '196' unmodeled
+- 2026-11-16 01:25 — batch 314 (driven, stage pages): 954 loaded (3), 810 loaded (1); blocked units rechecked, unchanged; #41/#43 still open

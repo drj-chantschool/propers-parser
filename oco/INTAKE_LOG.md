@@ -643,3 +643,5 @@
 - 2026-11-15 18:20 — batch 305 (driven, stage pages): 944 loaded (2), 801 loaded (6); #41/#43 still open
 - 2026-11-15 19:08 — ⚠ accepted p945: Rogate Dominum (7d, Eudist proper label) → 8516 on Francis Xavier VESPERS.antM; O doctor optime text at foot, staff p946 (index #2252 → p946). p802: Tu es Petrus → 1950 (8585 same melody); Tu es vas electionis adopts legacy 17192, not neume-compared; Rbr. 'Loquebantur apostoli verbum Dei' (6, ARII 584) loaded unresolved: placeholder needed, runs to p803
 - 2026-11-15 19:08 — batch 306 (driven, stage pages): 945 loaded (7), 802 loaded (3); #41/#43 still open
+- 2026-11-15 19:57 — ⚠ accepted p946: O doctor optime → 11690 (2d, AM 665; group 1908 left unset, edition chosen), hymn Praeclara custos cue on VESPERS1 + VESPERS ('Vesp. I & II'; index lists V only); margin '229' unmodeled. p803: Isti sunt → group 2890 (index identity, not neume-compared); Loquebantur tail = continuation. ❓ intake #46: p802 Loquebantur may be I Vespers resp, not II (not blocking)
+- 2026-11-15 19:57 — batch 307 (driven, stage pages): 946 loaded (4), 803 loaded (2); blocked units rechecked, unchanged; #41/#43 still open

@@ -12,15 +12,15 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 324,
+  "batch_id": 325,
   "batch_open": false,
-  "batch_started": "2026-11-16T08:55:22",
-  "batch_finished": "2026-11-16T08:59:19",
-  "next_due": "2026-11-16T09:39:19",
+  "batch_started": "2026-11-16T09:37:18",
+  "batch_finished": "2026-11-16T09:39:08",
+  "next_due": "2026-11-16T10:19:08",
   "limit_hits": 2,
   "batch_units": [
-   "964",
-   "820"
+   "965",
+   "821"
   ]
  },
  "lanes": {
@@ -5646,7 +5646,17 @@
   },
   "965": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 325,
+   "claimed_at": "2026-11-16T09:37:18",
+   "finished_at": "2026-11-16T09:39:07",
+   "summary": {
+    "page": "965",
+    "rows": 3,
+    "adopt": 2,
+    "insert": 1,
+    "verify": "PASS"
+   }
   },
   "966": {
    "lane": "A",
@@ -13248,7 +13258,19 @@
   },
   "821": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 325,
+   "claimed_at": "2026-11-16T09:37:18",
+   "finished_at": "2026-11-16T09:39:08",
+   "summary": {
+    "page": "821",
+    "rows": 6,
+    "xref": 4,
+    "insert": 3,
+    "replace-legacy": 1,
+    "adopt": 3,
+    "verify": "PASS"
+   }
   },
   "822": {
    "lane": "C",

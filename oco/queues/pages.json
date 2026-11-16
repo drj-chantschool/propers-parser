@@ -12,15 +12,15 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 320,
+  "batch_id": 321,
   "batch_open": false,
-  "batch_started": "2026-11-16T06:00:04",
-  "batch_finished": "2026-11-16T06:01:49",
-  "next_due": "2026-11-16T06:41:49",
+  "batch_started": "2026-11-16T06:43:31",
+  "batch_finished": "2026-11-16T06:45:00",
+  "next_due": "2026-11-16T07:25:00",
   "limit_hits": 2,
   "batch_units": [
-   "960",
-   "816"
+   "961",
+   "817"
   ]
  },
  "lanes": {
@@ -5583,7 +5583,26 @@
   },
   "961": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 321,
+   "claimed_at": "2026-11-16T06:43:31",
+   "finished_at": "2026-11-16T06:45:00",
+   "summary": {
+    "spec": "p0961.json",
+    "mode": "load",
+    "page": "961",
+    "page_kind": "assign",
+    "rows": 3,
+    "xref": 0,
+    "unresolved": 0,
+    "insert": 1,
+    "adopt": 2,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0
+   }
   },
   "962": {
    "lane": "A",
@@ -13137,7 +13156,25 @@
   },
   "817": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 321,
+   "claimed_at": "2026-11-16T06:43:31",
+   "finished_at": "2026-11-16T06:45:00",
+   "summary": {
+    "spec": "p0817.json",
+    "mode": "load",
+    "page": "817",
+    "page_kind": "assign",
+    "rows": 2,
+    "xref": 0,
+    "unresolved": 0,
+    "adopt": 2,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0
+   }
   },
   "818": {
    "lane": "C",

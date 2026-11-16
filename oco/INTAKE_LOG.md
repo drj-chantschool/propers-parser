@@ -647,3 +647,5 @@
 - 2026-11-15 19:57 — batch 307 (driven, stage pages): 946 loaded (4), 803 loaded (2); blocked units rechecked, unchanged; #41/#43 still open
 - 2026-11-15 20:46 — ⚠ accepted p947: Ave Maria → 18893 (1g, AM 228, opening neumes checked; T.Q. 'mulieribus' variant inside engraving, no row); Benedicite → 16125 adopts legacy; Exaltabo staff starts p948. p804: Simon Ioannis (8g, CAO 4960) and Significavit Dominus Petro (1g, CAO 4947) loaded unresolved: placeholders needed; Mihi vivere → group 10408 adopts legacy, not neume-compared
 - 2026-11-15 20:46 — batch 308 (driven, stage pages): 947 loaded (2), 804 loaded (3); #41/#43 still open
+- 2026-11-15 21:32 — ⚠ accepted p805 Gratia Dei gregobase:10402 labelled mode 4 vs printed 2*a (transposition; text + CAO 2968 match)
+- 2026-11-15 21:32 — batch 309 (stage pages): 948 loaded (2 rows), 805 loaded (3 rows)

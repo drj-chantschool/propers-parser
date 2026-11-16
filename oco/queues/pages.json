@@ -12,15 +12,15 @@
   "strict_lanes": true
  },
  "state": {
-  "batch_id": 308,
+  "batch_id": 309,
   "batch_open": false,
-  "batch_started": "2026-11-15T20:44:06",
-  "batch_finished": "2026-11-15T20:46:00",
-  "next_due": "2026-11-15T21:26:00",
+  "batch_started": "2026-11-15T21:30:59",
+  "batch_finished": "2026-11-15T21:32:43",
+  "next_due": "2026-11-15T22:12:43",
   "limit_hits": 2,
   "batch_units": [
-   "947",
-   "804"
+   "948",
+   "805"
   ]
  },
  "lanes": {
@@ -5357,7 +5357,25 @@
   },
   "948": {
    "lane": "A",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 309,
+   "claimed_at": "2026-11-15T21:30:59",
+   "finished_at": "2026-11-15T21:32:40",
+   "summary": {
+    "spec": "p0948.json",
+    "mode": "load",
+    "page": "948",
+    "page_kind": "assign",
+    "rows": 2,
+    "xref": 0,
+    "unresolved": 0,
+    "insert": 2,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 0,
+    "errors": 0
+   }
   },
   "949": {
    "lane": "A",
@@ -12773,7 +12791,26 @@
   },
   "805": {
    "lane": "C",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 309,
+   "claimed_at": "2026-11-15T21:30:59",
+   "finished_at": "2026-11-15T21:32:42",
+   "summary": {
+    "spec": "p0805.json",
+    "mode": "load",
+    "page": "805",
+    "page_kind": "assign",
+    "rows": 3,
+    "xref": 1,
+    "unresolved": 0,
+    "adopt": 3,
+    "stale": 0,
+    "questions": 0,
+    "inherits": 0,
+    "check_warnings": 1,
+    "errors": 0,
+    "error": "unacknowledged ⚠ CHECK on ['row 2']: fix the chant or add 'verified_despite' after checking the engraving"
+   }
   },
   "806": {
    "lane": "C",

@@ -660,3 +660,4 @@
 - 2026-11-16 00:38 — batch 313 (driven, stage pages): 953 loaded (3), 809 loaded (3); #41/#43 still open
 - 2026-11-16 01:25 — ⚠ accepted p954: Tota pulchra → 16160 (1g2, ARII 687), Tu gloria → 16161 adopts 11098, Vestimentum tuum → 2930 (8g, first line only; staff runs to p955). p810: Hi sunt qui venerunt (1a2, CAO 3045) loaded unresolved, no gregobase text match (needs placeholder if a 2nd unresolved lands in LAUDS.antB first-martyrs-of-rome); margin '196' unmodeled
 - 2026-11-16 01:25 — batch 314 (driven, stage pages): 954 loaded (3), 810 loaded (1); blocked units rechecked, unchanged; #41/#43 still open
+- 2026-11-16 02:11 — batch 315 (stage pages): 955 loaded (2 rows), 811 loaded (4 rows; Visi sunt 7c First Martyrs of Rome M unresolved, no gregobase, accepted)

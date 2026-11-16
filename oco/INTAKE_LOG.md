@@ -649,3 +649,4 @@
 - 2026-11-15 20:46 — batch 308 (driven, stage pages): 947 loaded (2), 804 loaded (3); #41/#43 still open
 - 2026-11-15 21:32 — ⚠ accepted p805 Gratia Dei gregobase:10402 labelled mode 4 vs printed 2*a (transposition; text + CAO 2968 match)
 - 2026-11-15 21:32 — batch 309 (stage pages): 948 loaded (2 rows), 805 loaded (3 rows)
+- 2026-11-15 21:33 — p805: first load refused (unacknowledged ⚠); added verified_despite, reload VERIFY PASS

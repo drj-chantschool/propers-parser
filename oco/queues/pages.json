@@ -12794,22 +12794,14 @@
    "status": "loaded",
    "batch": 309,
    "claimed_at": "2026-11-15T21:30:59",
-   "finished_at": "2026-11-15T21:32:42",
+   "finished_at": "2026-11-15T21:33:03",
    "summary": {
     "spec": "p0805.json",
     "mode": "load",
-    "page": "805",
-    "page_kind": "assign",
     "rows": 3,
-    "xref": 1,
-    "unresolved": 0,
     "adopt": 3,
-    "stale": 0,
-    "questions": 0,
-    "inherits": 0,
-    "check_warnings": 1,
     "errors": 0,
-    "error": "unacknowledged ⚠ CHECK on ['row 2']: fix the chant or add 'verified_despite' after checking the engraving"
+    "verify": "PASS"
    }
   },
   "806": {

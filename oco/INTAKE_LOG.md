@@ -641,3 +641,5 @@
 - 2026-11-15 17:31 — batch 304 (driven, stage pages): 943 loaded (2), 800 loaded (2); #41/#43 still open
 - 2026-11-15 18:20 — ⚠ accepted p944: Cum pervenisset → 2576 (1d2; 9074/12605 near-variants, first line only compared), engraving runs to p945; Relictis retibus adopts legacy, not neume-compared. p801: 'Tu es Christus' (8c, CAO 5201) loaded unresolved: placeholder needed, runs to p802; Aurea luce Vesp. I & II replaces legacy 9650 (gb 10407, index #226); draft Qui me confessus extra rows dropped
 - 2026-11-15 18:20 — batch 305 (driven, stage pages): 944 loaded (2), 801 loaded (6); #41/#43 still open
+- 2026-11-15 19:08 — ⚠ accepted p945: Rogate Dominum (7d, Eudist proper label) → 8516 on Francis Xavier VESPERS.antM; O doctor optime text at foot, staff p946 (index #2252 → p946). p802: Tu es Petrus → 1950 (8585 same melody); Tu es vas electionis adopts legacy 17192, not neume-compared; Rbr. 'Loquebantur apostoli verbum Dei' (6, ARII 584) loaded unresolved: placeholder needed, runs to p803
+- 2026-11-15 19:08 — batch 306 (driven, stage pages): 945 loaded (7), 802 loaded (3); #41/#43 still open

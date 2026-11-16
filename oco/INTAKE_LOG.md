@@ -652,3 +652,5 @@
 - 2026-11-15 21:33 — p805: first load refused (unacknowledged ⚠); added verified_despite, reload VERIFY PASS
 - 2026-11-15 22:20 — ⚠ accepted p949: identities from index (16130, 8243 cue, 16131), not neume-compared; Adiuvit eam text at foot, staff p950. p806: Bonum certamen → 15675 (printed 1g; index 17194 is mode 2, replaces legacy 9984); Tradiderunt animas Ɽ br. 6 unresolved (placeholder needed)
 - 2026-11-15 22:20 — batch 310 (driven, stage pages): 949 loaded (3), 806 loaded (3); #41/#43 still open
+- 2026-11-15 23:08 — ⚠ accepted p950: Adiuvit eam → group 11370 (5a; 16133 cites RM 261, opening checked, adopts legacy), Gloriosa dicta → 16132, Vidi speciosam → 16136 (staff runs to p951), hymn In plausu grati carminis LHym 477 cue. p807: Adhuc loquente Petro → 15676 (1f, CAO 1274, adopts legacy); Ascendit Simon Petrus (8g, Sext) loaded unresolved: placeholder needed, runs to p808
+- 2026-11-15 23:08 — batch 311 (driven, stage pages): 950 loaded (4), 807 loaded (2); blocked units rechecked, unchanged; #41/#43 still open

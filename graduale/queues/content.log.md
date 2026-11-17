@@ -29,3 +29,7 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-17 11:11 — ❓ HELD kyr-toni-communes-initiales-orationes-lectiones: intake_queue #49 Toni communes service parts
 - 2026-11-17 11:11 — ❓ HELD kyr-toni-communes-prex-eucharistica-ritus-conclusionis: intake_queue #49 Toni communes service parts
 - 2026-11-17 11:11 — batch 8 (stage content, driven): kyr-ad-lib-gloria-sanctus-agnus loaded (9 rows: Gloria I-IV, Sanctus I-III, Agnus I-II ad lib on OT, option_num 100+n; Gloria III cites 721), 2 Toni communes units held on #49; director read pp.790-797, no producers spawned
+- 2026-11-17 11:17 — ❓ HELD kyr-toni-gloria-patri: intake_queue #50 Gloria Patri / Alleluia tone formulae
+- 2026-11-17 11:17 — ❓ HELD kyr-modus-cantandi-alleluia: intake_queue #50 Gloria Patri / Alleluia tone formulae
+- 2026-11-17 11:17 — ❓ HELD ad-ministrandum-viaticum: intake_queue #51 ch.4 missing slugs (Viaticum is a rubric pointing to 658/655)
+- 2026-11-17 11:18 — batch 9 (stage content, driven): kyr-toni-gloria-patri, kyr-modus-cantandi-alleluia held on #50 (pp.822-827 are per-mode formulae; only gregobase:4500 exists, no index rows), ad-ministrandum-viaticum held on #51; 0 rows, no producers spawned

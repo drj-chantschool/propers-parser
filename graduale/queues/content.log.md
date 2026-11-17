@@ -62,3 +62,6 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-17 13:50 — batch 18 (stage content, driven): transitus-benedicti-osb (4 rows incl. engraved IN), adalbert (4, p862), paschasius-radbertus-osb (4, p863) loaded; director-written specs, no producers spawned
 - 2026-11-17 13:55 — ⚠ cluny-abbots-osb: single printed AL (11 May, Paschaltide) modeled as 'al'; gr COMPLETENESS warning accepted (adalbert precedent). Mem. matches MEMORIAL; celestine-v-osb prints no rank (UNDETERMINED kept)
 - 2026-11-17 13:55 — batch 19 (stage content, driven): cluny-abbots-osb (4), pachomius-osb (5), celestine-v-osb (5) loaded, all p863 xrefs via index; director-written specs, no producers spawned
+- 2026-11-17 14:00 — ⚠ ivo-of-kermartin-osb: p864 citation lines share merged OCR blocks, so bboxes overlap (gregory-of-nyssa precedent); no rank printed (UNDETERMINED kept)
+- 2026-11-17 14:00 — ⚠ joan-of-arc-osb: index typo 'Nova bela' p865 (gregobase:357) could not be fixed (read-only DB user), raised to intake; Mem. matches MEMORIAL; ad libitum AL Domine in virtute (p292) = option 2
+- 2026-11-17 14:00 — batch 20 (stage content, driven): ivo-of-kermartin-osb loaded (5, p864 xrefs), joan-of-arc-osb loaded (6, 5 engraved pp.864-867 + 1 xref; producer), pothinus-blandina-and-companions-osb loaded (9, extra/tempore paschali options p868)

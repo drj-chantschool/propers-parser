@@ -12,16 +12,16 @@
   "strict_lanes": false
  },
  "state": {
-  "batch_id": 19,
+  "batch_id": 20,
   "batch_open": false,
-  "batch_started": "2026-11-17T13:53:24",
-  "batch_finished": "2026-11-17T13:55:06",
-  "next_due": "2026-11-17T14:15:06",
+  "batch_started": "2026-11-17T13:57:53",
+  "batch_finished": "2026-11-17T14:00:43",
+  "next_due": "2026-11-17T14:20:43",
   "limit_hits": 0,
   "batch_units": [
-   "cluny-abbots-osb",
-   "pachomius-osb",
-   "celestine-v-osb"
+   "ivo-of-kermartin-osb",
+   "joan-of-arc-osb",
+   "pothinus-blandina-and-companions-osb"
   ]
  },
  "lanes": {
@@ -645,15 +645,33 @@
   },
   "ivo-of-kermartin-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 20,
+   "claimed_at": "2026-11-17T13:57:53",
+   "finished_at": "2026-11-17T14:00:42",
+   "summary": {
+    "inserted": 5
+   }
   },
   "joan-of-arc-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 20,
+   "claimed_at": "2026-11-17T13:57:53",
+   "finished_at": "2026-11-17T14:00:42",
+   "summary": {
+    "inserted": 6
+   }
   },
   "pothinus-blandina-and-companions-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 20,
+   "claimed_at": "2026-11-17T13:57:53",
+   "finished_at": "2026-11-17T14:00:42",
+   "summary": {
+    "inserted": 9
+   }
   },
   "clotildis-osb": {
    "lane": "O",

@@ -48,3 +48,7 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-17 13:24 — ❓ HELD app-te-deum: intake_queue #53 Appendix non-Mass modeling
 - 2026-11-17 13:24 — ❓ HELD app-veni-creator: intake_queue #53 Appendix non-Mass modeling
 - 2026-11-17 13:24 — batch 13 (stage content, driven): app-supplicationes-litaniae, app-te-deum, app-veni-creator held on #53 (no epoch/service_part for litanies/Te Deum/Veni Creator); 0 rows, no producers spawned
+- 2026-11-17 13:31 — ⚠ app-praesentatio-processio: --verify ROW COUNT 14 != 1 accepted (verifier counts whole epoch; IDEMPOTENT PASS). Obtulerunt (gregobase:2505) loaded as candan alternate option 'Graduale simplex'
+- 2026-11-17 13:31 — ❓ HELD app-corpus-christi-processio: intake_queue #54 no procession service_part
+- 2026-11-17 13:31 — ❓ HELD app-ordo-exsequiarum: intake_queue #55 monastic exsequiae melodies
+- 2026-11-17 13:31 — batch 14 (stage content, driven): app-praesentatio-processio loaded (1 row), app-corpus-christi-processio held #54, app-ordo-exsequiarum held #55

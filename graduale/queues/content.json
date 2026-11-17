@@ -12,16 +12,16 @@
   "strict_lanes": false
  },
  "state": {
-  "batch_id": 14,
+  "batch_id": 15,
   "batch_open": false,
-  "batch_started": "2026-11-17T13:27:26",
-  "batch_finished": "2026-11-17T13:31:16",
-  "next_due": "2026-11-17T13:51:16",
+  "batch_started": "2026-11-17T13:34:14",
+  "batch_finished": "2026-11-17T13:36:23",
+  "next_due": "2026-11-17T13:56:23",
   "limit_hits": 0,
   "batch_units": [
-   "app-praesentatio-processio",
-   "app-corpus-christi-processio",
-   "app-ordo-exsequiarum"
+   "app-ordo-exsequiarum-osb",
+   "genevieve-osb",
+   "gregory-of-nyssa-osb"
   ]
  },
  "lanes": {
@@ -485,15 +485,34 @@
   },
   "app-ordo-exsequiarum-osb": {
    "lane": "P",
-   "status": "pending"
+   "status": "held",
+   "batch": 15,
+   "claimed_at": "2026-11-17T13:34:14",
+   "finished_at": "2026-11-17T13:36:22",
+   "note": "OSB exsequiae: same ruling as 877-878",
+   "question_id": 55
   },
   "genevieve-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 15,
+   "claimed_at": "2026-11-17T13:34:14",
+   "finished_at": "2026-11-17T13:36:22",
+   "summary": {
+    "inserted": 5,
+    "verify": "PASS"
+   }
   },
   "gregory-of-nyssa-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 15,
+   "claimed_at": "2026-11-17T13:34:14",
+   "finished_at": "2026-11-17T13:36:22",
+   "summary": {
+    "inserted": 5,
+    "verify": "PASS"
+   }
   },
   "remigius-osb": {
    "lane": "O",

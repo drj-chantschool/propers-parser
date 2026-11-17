@@ -52,3 +52,6 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-17 13:31 — ❓ HELD app-corpus-christi-processio: intake_queue #54 no procession service_part
 - 2026-11-17 13:31 — ❓ HELD app-ordo-exsequiarum: intake_queue #55 monastic exsequiae melodies
 - 2026-11-17 13:31 — batch 14 (stage content, driven): app-praesentatio-processio loaded (1 row), app-corpus-christi-processio held #54, app-ordo-exsequiarum held #55
+- 2026-11-17 13:36 — ❓ HELD app-ordo-exsequiarum-osb: intake_queue #55 monastic exsequiae (merged)
+- 2026-11-17 13:36 — ⚠ gregory-of-nyssa-osb: AL and OF lines on p858 share one text block, so both rows carry the same 2-line bbox (overlapping bands 425-438/437-449)
+- 2026-11-17 13:36 — batch 15 (stage content, driven): genevieve-osb loaded (5 rows), gregory-of-nyssa-osb loaded (5 rows), app-ordo-exsequiarum-osb held #55; director-written xref specs, no producers spawned

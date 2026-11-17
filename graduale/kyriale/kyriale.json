@@ -113,6 +113,27 @@
        {"epoch": "ADV", "rank": ["FERIAS_ADV"], "labels": ["A", null]},
        {"epoch": "TQ", "rank": ["FERIAS_TQ"], "labels": ["A", null]},
        {"epoch": "liturgia-defunctorum", "labels": ["B", null]}
-     ]}
-  ]
+     ]},
+    {"id": "kyr-asperges-1", "unit": "kyr-asperges", "name": "Asperges me I", "option_num": 1, "parts": [["asp", 497, "707", null, 0, "In dominicis ad aspersionem aquae benedictae, extra tempus paschale", "Ad libitum: Ps. 50 Miserere"]], "scopes": [{"epoch": "OT", "wkday": 1}]},
+    {"id": "kyr-asperges-2", "unit": "kyr-asperges", "name": "Asperges me II", "option_num": 2, "parts": [["asp", 905, "707", null, 0, "In dominicis ad aspersionem aquae benedictae, extra tempus paschale", "Ps. Miserere, ut supra"]], "scopes": [{"epoch": "OT", "wkday": 1}]},
+    {"id": "kyr-asperges-3", "unit": "kyr-asperges", "name": "Asperges me III", "option_num": 3, "parts": [["asp", 142, "708", null, 0, "In dominicis ad aspersionem aquae benedictae, extra tempus paschale", null]], "scopes": [{"epoch": "OT", "wkday": 1}]},
+    {"id": "kyr-vidi-aquam", "unit": "kyr-asperges", "name": "Vidi aquam", "option_num": 1, "parts": [["asp", 958, "708", null, 0, "Tempore paschali: scilicet a dominica Paschae usque ad Pentecosten inclusive", null]], "scopes": [{"epoch": "PASC", "wkday": 1}]},
+    {"id": "kyr-credo-1", "unit": "kyr-credo", "name": "Credo I", "option_num": 1, "parts": [["cre", 344, "769", null, 0, null, null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-credo-2", "unit": "kyr-credo", "name": "Credo II", "option_num": 2, "parts": [["cre", 2983, "771", null, 0, null, null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-credo-3", "unit": "kyr-credo", "name": "Credo III", "option_num": 3, "parts": [["cre", 749, "774", null, 0, null, null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-credo-4", "unit": "kyr-credo", "name": "Credo IV", "option_num": 4, "parts": [["cre", 678, "776", null, 0, null, null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-credo-5", "unit": "kyr-credo", "name": "Credo V", "option_num": 5, "parts": [["cre", 955, "779", null, 0, null, null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-credo-6", "unit": "kyr-credo", "name": "Credo VI", "option_num": 6, "parts": [["cre", 2934, "782", null, 0, null, null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-kyrie-1", "unit": "kyr-ad-lib-kyrie", "name": "Kyrie ad libitum I (Clemens rector)", "option_num": 101, "parts": [["ky", 2993, "785", null, 1, "Cantus ad libitum", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-kyrie-2", "unit": "kyr-ad-lib-kyrie", "name": "Kyrie ad libitum II (Summe Deus)", "option_num": 102, "parts": [["ky", 2021, "786", null, 1, "Cantus ad libitum", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-kyrie-3", "unit": "kyr-ad-lib-kyrie", "name": "Kyrie ad libitum III", "option_num": 103, "parts": [["ky", 2237, "721", null, 1, "Cantus ad libitum: Cf. supra, III A, 721 (cited p787)", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-kyrie-4", "unit": "kyr-ad-lib-kyrie", "name": "Kyrie ad libitum IV (Kyrie altissime)", "option_num": 104, "parts": [["ky", 2254, "787", null, 1, "Cantus ad libitum", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-kyrie-5", "unit": "kyr-ad-lib-kyrie", "name": "Kyrie ad libitum V", "option_num": 105, "parts": [["ky", 2261, "711", null, 1, "Cantus ad libitum: Cf. supra, I B, 711 (cited p788)", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-kyrie-6", "unit": "kyr-ad-lib-kyrie", "name": "Kyrie ad libitum VI", "option_num": 106, "parts": [["ky", 16098, "710", null, 1, "Cantus ad libitum: Cf. supra, I A, 710 (cited p788)", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-kyrie-7", "unit": "kyr-ad-lib-kyrie", "name": "Kyrie ad libitum VII (Splendor aeterne)", "option_num": 107, "parts": [["ky", 2363, "788", null, 1, "Cantus ad libitum", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-kyrie-8", "unit": "kyr-ad-lib-kyrie", "name": "Kyrie ad libitum VIII (Firmator sancte)", "option_num": 108, "parts": [["ky", 2468, "788", null, 1, "Cantus ad libitum", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-kyrie-9", "unit": "kyr-ad-lib-kyrie", "name": "Kyrie ad libitum IX (O Pater excelse)", "option_num": 109, "parts": [["ky", 2599, "789", null, 1, "Cantus ad libitum", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-kyrie-10", "unit": "kyr-ad-lib-kyrie", "name": "Kyrie ad libitum X", "option_num": 110, "parts": [["ky", 16120, "748", null, 1, "Cantus ad libitum: Cf. supra, XI A, 748 (cited p789)", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-kyrie-11", "unit": "kyr-ad-lib-kyrie", "name": "Kyrie ad libitum XI", "option_num": 111, "parts": [["ky", 7641, "764", null, 1, "Cantus ad libitum: Cf. supra, XVII A, 764 (cited p789)", null]], "scopes": [{"epoch": "OT"}]}
+]
 }

@@ -23,3 +23,6 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-05 21:05 — ✅ intake_queue #39 resolved: created lit_epoch/lit_epoch_tree/proper_of_saints rows pontons-rochefort-martyrs-osb (rank NULL/UNDETERMINED) and omnium-sanctorum-osb (MEMORIAL), jurisdiction OSB
 - 2026-11-05 22:09 — batch 6 (stage content, driven): pontons-rochefort-martyrs-osb loaded (5 rows), omnium-sanctorum-osb loaded (5 rows); director wrote page cross-reference specs from p921 (jurisdiction OSB), index-matched, no producers spawned
 - 2026-11-17 10:56 — Queued remaining GR sections (content-remaining.units): ch.6 Kyriale remainder (lane K, Asperges first), ch.4 gaps (C), failed specs (F), Appendix (P), OSB Masses (O).
+- 2026-11-17 11:05 — 🔧 chant_indices row 4866 'Asperges me I' (p707) repointed gregobase:905 -> 497 (905 is the simple tone II; 497 matches the engraved melismatic form I)
+- 2026-11-17 11:05 — 🔧 load_kyriale.py --only now also matches an entry's "unit" (several option entries per queue unit); ad-lib Kyries use option_num 100+n (README Kyriale)
+- 2026-11-17 11:05 — batch 7 (stage content, driven): kyr-asperges loaded (4 rows), kyr-credo loaded (6 rows), kyr-ad-lib-kyrie loaded (11 rows); director read pp.707-708, 769-789 and wrote kyriale.json entries, no producers spawned

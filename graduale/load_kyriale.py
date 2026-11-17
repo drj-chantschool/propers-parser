@@ -10,6 +10,8 @@ Model (user rulings 2026-11-17, see graduale/specs/README.md "Kyriale"):
     overwritten. The catalogue is replaced per Missa (it is derived from the JSON only).
 
 Usage:  python graduale/load_kyriale.py [--dry-run | --verify] [--only N,N]
+  --only takes Missa numbers, entry ids, or a queue unit (an entry's "unit" groups several
+  option entries, e.g. kyr-asperges = Asperges I-III + Vidi aquam).
 """
 import argparse, json, os, sys
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "tools"))
@@ -29,7 +31,7 @@ def build(data, ro, only):
     for m in data["masses"]:
         n = m.get("n")
         key = n if n is not None else m["id"]
-        if only and key not in only:
+        if only and key not in only and m.get("unit") not in only:
             continue
         if n is None:   # a chant set that is not a Missa (Asperges, Credo, ad-lib): rows only, no catalogue
             name, optnum = m["name"], m.get("option_num", 1)

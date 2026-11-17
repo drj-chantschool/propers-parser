@@ -12,16 +12,16 @@
   "strict_lanes": false
  },
  "state": {
-  "batch_id": 16,
+  "batch_id": 17,
   "batch_open": false,
-  "batch_started": "2026-11-17T13:39:20",
-  "batch_finished": "2026-11-17T13:40:43",
-  "next_due": "2026-11-17T14:00:43",
+  "batch_started": "2026-11-17T13:43:39",
+  "batch_finished": "2026-11-17T13:45:27",
+  "next_due": "2026-11-17T14:05:27",
   "limit_hits": 0,
   "batch_units": [
-   "remigius-osb",
-   "maurus-and-placidus-osb",
-   "robert-alberic-stephen-osb"
+   "bathildis-osb",
+   "benedict-of-aniane-osb",
+   "marie-bernarde-soubirous-osb"
   ]
  },
  "lanes": {
@@ -552,15 +552,36 @@
   },
   "bathildis-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 17,
+   "claimed_at": "2026-11-17T13:43:39",
+   "finished_at": "2026-11-17T13:45:27",
+   "summary": {
+    "inserted": 5,
+    "verify": "PASS"
+   }
   },
   "benedict-of-aniane-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 17,
+   "claimed_at": "2026-11-17T13:43:39",
+   "finished_at": "2026-11-17T13:45:27",
+   "summary": {
+    "inserted": 5,
+    "verify": "PASS"
+   }
   },
   "marie-bernarde-soubirous-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 17,
+   "claimed_at": "2026-11-17T13:43:39",
+   "finished_at": "2026-11-17T13:45:27",
+   "summary": {
+    "inserted": 5,
+    "verify": "PASS"
+   }
   },
   "transitus-benedicti-osb": {
    "lane": "O",

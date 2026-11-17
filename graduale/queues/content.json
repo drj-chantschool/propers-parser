@@ -12,16 +12,16 @@
   "strict_lanes": false
  },
  "state": {
-  "batch_id": 21,
+  "batch_id": 22,
   "batch_open": false,
-  "batch_started": "2026-11-17T14:04:06",
-  "batch_finished": "2026-11-17T14:06:59",
-  "next_due": "2026-11-17T14:26:59",
+  "batch_started": "2026-11-17T14:10:00",
+  "batch_finished": "2026-11-17T14:11:27",
+  "next_due": "2026-11-17T14:31:27",
   "limit_hits": 0,
   "batch_units": [
-   "clotildis-osb",
-   "bmv-mater-providentiae-osb",
-   "st-benedict-of-nursia"
+   "john-gualbert-osb",
+   "urban-ii-osb",
+   "sts-martha-mary-and-lazarus"
   ]
  },
  "lanes": {
@@ -706,15 +706,33 @@
   },
   "john-gualbert-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 22,
+   "claimed_at": "2026-11-17T14:10:00",
+   "finished_at": "2026-11-17T14:11:26",
+   "summary": {
+    "inserted": 5
+   }
   },
   "urban-ii-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 22,
+   "claimed_at": "2026-11-17T14:10:00",
+   "finished_at": "2026-11-17T14:11:26",
+   "summary": {
+    "inserted": 5
+   }
   },
   "sts-martha-mary-and-lazarus": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 22,
+   "claimed_at": "2026-11-17T14:10:00",
+   "finished_at": "2026-11-17T14:11:26",
+   "summary": {
+    "inserted": 6
+   }
   },
   "radegund-osb": {
    "lane": "O",

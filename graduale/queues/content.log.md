@@ -69,3 +69,6 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-17 14:06 — ⚠ st-benedict-of-nursia: OSB Sol. Mass pp869-872 written as separate spec st-benedict-of-nursia-osb.json (universal p579 spec untouched), loaded on universal slug with jurisdiction OSB (adalbert precedent); sequence Laeta dies modeled as seq with printed rubric as option_txt; Sol. recorded in notes only
 - 2026-11-17 14:06 — ⚠ bmv-mater-providentiae-osb: OF 'Ave Maria, 419 vel 630' modeled as two rows (gregobase:843 / 210, option_num 2 'vel')
 - 2026-11-17 14:06 — batch 21 (stage content, driven): clotildis-osb loaded (5, p868 xrefs), bmv-mater-providentiae-osb loaded (6, p868), st-benedict-of-nursia loaded (6, OSB pp869-872, 3 engraved; producer)
+- 2026-11-17 14:11 — ⚠ john-gualbert-osb: AL/OF lines on p872 share one OCR block, so both rows carry the same bbox (gregory-of-nyssa precedent)
+- 2026-11-17 14:11 — ⚠ sts-martha-mary-and-lazarus: OSB Mass p873 written as spec sts-martha-mary-and-lazarus-osb.json, loaded on the universal slug with jurisdiction OSB (adalbert precedent); 2nd CO Videns Dominus (p124) = option 2 'vel'
+- 2026-11-17 14:11 — batch 22 (stage content, driven): john-gualbert-osb (5, p872), urban-ii-osb (5, pp872-873), sts-martha-mary-and-lazarus (6, p873 OSB) loaded, all xrefs via index; director-written specs, no producers spawned

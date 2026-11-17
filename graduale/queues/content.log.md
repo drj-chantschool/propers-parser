@@ -66,3 +66,6 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-17 14:00 — ⚠ joan-of-arc-osb: index typo 'Nova bela' p865 (gregobase:357) could not be fixed (read-only DB user), raised to intake; Mem. matches MEMORIAL; ad libitum AL Domine in virtute (p292) = option 2
 - 2026-11-17 14:00 — batch 20 (stage content, driven): ivo-of-kermartin-osb loaded (5, p864 xrefs), joan-of-arc-osb loaded (6, 5 engraved pp.864-867 + 1 xref; producer), pothinus-blandina-and-companions-osb loaded (9, extra/tempore paschali options p868)
 - 2026-11-17 14:01 — batch 20: index typo 'Nova bela' raised as intake_queue #56
+- 2026-11-17 14:06 — ⚠ st-benedict-of-nursia: OSB Sol. Mass pp869-872 written as separate spec st-benedict-of-nursia-osb.json (universal p579 spec untouched), loaded on universal slug with jurisdiction OSB (adalbert precedent); sequence Laeta dies modeled as seq with printed rubric as option_txt; Sol. recorded in notes only
+- 2026-11-17 14:06 — ⚠ bmv-mater-providentiae-osb: OF 'Ave Maria, 419 vel 630' modeled as two rows (gregobase:843 / 210, option_num 2 'vel')
+- 2026-11-17 14:06 — batch 21 (stage content, driven): clotildis-osb loaded (5, p868 xrefs), bmv-mater-providentiae-osb loaded (6, p868), st-benedict-of-nursia loaded (6, OSB pp869-872, 3 engraved; producer)

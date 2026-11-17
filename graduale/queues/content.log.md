@@ -37,3 +37,8 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-17 11:23 — ❓ HELD de-mysterio-s-crucis: intake_queue #51 no lit_epoch slug (votive Mass)
 - 2026-11-17 11:23 — ❓ HELD de-uno-sancto-apostolo: intake_queue #51 no lit_epoch slug (votive Mass)
 - 2026-11-17 11:23 — batch 10 (stage content): de-ss-ma-trinitate held, de-mysterio-s-crucis held, de-uno-sancto-apostolo held (0 rows) — all merged into #51
+- 2026-11-17 11:32 — ❓ HELD de-sancto-ioseph: intake_queue #52 Ut supra inheritance
+- 2026-11-17 11:32 — ❓ HELD de-sancto-petro-apostolo: intake_queue #52 Ut supra inheritance
+- 2026-11-17 11:32 — ❓ HELD pasc-post-asc-07: intake_queue #52 Ut supra inheritance
+- 2026-11-17 11:32 — 🔧 pasc-post-asc-07: repointed lit_part_sources 2535/2536 (OF p245 feriae 3/6) gregobase:810 → 1218 (Meditabor cum alleluia, index row 4665); 6 Sunday transferred-Ascension rows left unloaded pending #52
+- 2026-11-17 11:32 — batch 11 (stage content, driven): de-sancto-ioseph, de-sancto-petro-apostolo, pasc-post-asc-07 held on #52 (0 rows loaded; 2 rows repointed); no producers spawned (specs existed)

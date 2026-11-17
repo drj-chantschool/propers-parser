@@ -12,16 +12,16 @@
   "strict_lanes": false
  },
  "state": {
-  "batch_id": 10,
+  "batch_id": 11,
   "batch_open": false,
-  "batch_started": "2026-11-17T11:22:40",
-  "batch_finished": "2026-11-17T11:23:37",
-  "next_due": "2026-11-17T11:43:37",
+  "batch_started": "2026-11-17T11:29:33",
+  "batch_finished": "2026-11-17T11:32:18",
+  "next_due": "2026-11-17T11:52:18",
   "limit_hits": 0,
   "batch_units": [
-   "de-ss-ma-trinitate",
-   "de-mysterio-s-crucis",
-   "de-uno-sancto-apostolo"
+   "de-sancto-ioseph",
+   "de-sancto-petro-apostolo",
+   "pasc-post-asc-07"
   ]
  },
  "lanes": {
@@ -364,15 +364,30 @@
   },
   "de-sancto-ioseph": {
    "lane": "C",
-   "status": "pending"
+   "status": "held",
+   "batch": 11,
+   "claimed_at": "2026-11-17T11:29:33",
+   "finished_at": "2026-11-17T11:32:17",
+   "note": "Ut supra/praeter inheritance unruled",
+   "question_id": 52
   },
   "de-sancto-petro-apostolo": {
    "lane": "C",
-   "status": "pending"
+   "status": "held",
+   "batch": 11,
+   "claimed_at": "2026-11-17T11:29:33",
+   "finished_at": "2026-11-17T11:32:17",
+   "note": "Ut supra/praeter inheritance unruled",
+   "question_id": 52
   },
   "pasc-post-asc-07": {
    "lane": "F",
-   "status": "pending"
+   "status": "held",
+   "batch": 11,
+   "claimed_at": "2026-11-17T11:29:33",
+   "finished_at": "2026-11-17T11:32:18",
+   "note": "Ut supra/praeter inheritance unruled",
+   "question_id": 52
   },
   "com-bmv": {
    "lane": "F",

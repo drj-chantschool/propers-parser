@@ -65,3 +65,4 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-17 14:00 — ⚠ ivo-of-kermartin-osb: p864 citation lines share merged OCR blocks, so bboxes overlap (gregory-of-nyssa precedent); no rank printed (UNDETERMINED kept)
 - 2026-11-17 14:00 — ⚠ joan-of-arc-osb: index typo 'Nova bela' p865 (gregobase:357) could not be fixed (read-only DB user), raised to intake; Mem. matches MEMORIAL; ad libitum AL Domine in virtute (p292) = option 2
 - 2026-11-17 14:00 — batch 20 (stage content, driven): ivo-of-kermartin-osb loaded (5, p864 xrefs), joan-of-arc-osb loaded (6, 5 engraved pp.864-867 + 1 xref; producer), pothinus-blandina-and-companions-osb loaded (9, extra/tempore paschali options p868)
+- 2026-11-17 14:01 — batch 20: index typo 'Nova bela' raised as intake_queue #56

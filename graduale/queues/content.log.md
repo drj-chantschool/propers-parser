@@ -60,3 +60,5 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-17 13:50 — ⚠ transitus-benedicti-osb: COMPLETENESS missing al/tr accepted — 21 Mar (Lent) prints only engraved IN (p861-862, gregobase:9169) + GR/OF/CO xrefs; no tract printed. Fest. matches FEAST
 - 2026-11-17 13:50 — ⚠ adalbert, paschasius-radbertus-osb: single printed AL modeled as 'al' (precedent athanasius/peter-chanel); adalbert gr COMPLETENESS warning accepted. adalbert loaded on the universal slug with jurisdiction OSB
 - 2026-11-17 13:50 — batch 18 (stage content, driven): transitus-benedicti-osb (4 rows incl. engraved IN), adalbert (4, p862), paschasius-radbertus-osb (4, p863) loaded; director-written specs, no producers spawned
+- 2026-11-17 13:55 — ⚠ cluny-abbots-osb: single printed AL (11 May, Paschaltide) modeled as 'al'; gr COMPLETENESS warning accepted (adalbert precedent). Mem. matches MEMORIAL; celestine-v-osb prints no rank (UNDETERMINED kept)
+- 2026-11-17 13:55 — batch 19 (stage content, driven): cluny-abbots-osb (4), pachomius-osb (5), celestine-v-osb (5) loaded, all p863 xrefs via index; director-written specs, no producers spawned

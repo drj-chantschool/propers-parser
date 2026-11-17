@@ -12,16 +12,16 @@
   "strict_lanes": false
  },
  "state": {
-  "batch_id": 18,
+  "batch_id": 19,
   "batch_open": false,
-  "batch_started": "2026-11-17T13:48:14",
-  "batch_finished": "2026-11-17T13:50:34",
-  "next_due": "2026-11-17T14:10:34",
+  "batch_started": "2026-11-17T13:53:24",
+  "batch_finished": "2026-11-17T13:55:06",
+  "next_due": "2026-11-17T14:15:06",
   "limit_hits": 0,
   "batch_units": [
-   "transitus-benedicti-osb",
-   "adalbert",
-   "paschasius-radbertus-osb"
+   "cluny-abbots-osb",
+   "pachomius-osb",
+   "celestine-v-osb"
   ]
  },
  "lanes": {
@@ -615,15 +615,33 @@
   },
   "cluny-abbots-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 19,
+   "claimed_at": "2026-11-17T13:53:24",
+   "finished_at": "2026-11-17T13:55:06",
+   "summary": {
+    "inserted": 4
+   }
   },
   "pachomius-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 19,
+   "claimed_at": "2026-11-17T13:53:24",
+   "finished_at": "2026-11-17T13:55:06",
+   "summary": {
+    "inserted": 5
+   }
   },
   "celestine-v-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 19,
+   "claimed_at": "2026-11-17T13:53:24",
+   "finished_at": "2026-11-17T13:55:06",
+   "summary": {
+    "inserted": 5
+   }
   },
   "ivo-of-kermartin-osb": {
    "lane": "O",

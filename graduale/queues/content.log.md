@@ -26,3 +26,6 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-17 11:05 — 🔧 chant_indices row 4866 'Asperges me I' (p707) repointed gregobase:905 -> 497 (905 is the simple tone II; 497 matches the engraved melismatic form I)
 - 2026-11-17 11:05 — 🔧 load_kyriale.py --only now also matches an entry's "unit" (several option entries per queue unit); ad-lib Kyries use option_num 100+n (README Kyriale)
 - 2026-11-17 11:05 — batch 7 (stage content, driven): kyr-asperges loaded (4 rows), kyr-credo loaded (6 rows), kyr-ad-lib-kyrie loaded (11 rows); director read pp.707-708, 769-789 and wrote kyriale.json entries, no producers spawned
+- 2026-11-17 11:11 — ❓ HELD kyr-toni-communes-initiales-orationes-lectiones: intake_queue #49 Toni communes service parts
+- 2026-11-17 11:11 — ❓ HELD kyr-toni-communes-prex-eucharistica-ritus-conclusionis: intake_queue #49 Toni communes service parts
+- 2026-11-17 11:11 — batch 8 (stage content, driven): kyr-ad-lib-gloria-sanctus-agnus loaded (9 rows: Gloria I-IV, Sanctus I-III, Agnus I-II ad lib on OT, option_num 100+n; Gloria III cites 721), 2 Toni communes units held on #49; director read pp.790-797, no producers spawned

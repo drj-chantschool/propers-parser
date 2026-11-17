@@ -12,16 +12,16 @@
   "strict_lanes": false
  },
  "state": {
-  "batch_id": 7,
+  "batch_id": 8,
   "batch_open": false,
-  "batch_started": "2026-11-17T11:02:45",
-  "batch_finished": "2026-11-17T11:05:22",
-  "next_due": "2026-11-17T11:25:22",
+  "batch_started": "2026-11-17T11:09:39",
+  "batch_finished": "2026-11-17T11:11:54",
+  "next_due": "2026-11-17T11:31:54",
   "limit_hits": 0,
   "batch_units": [
-   "kyr-asperges",
-   "kyr-credo",
-   "kyr-ad-lib-kyrie"
+   "kyr-ad-lib-gloria-sanctus-agnus",
+   "kyr-toni-communes-initiales-orationes-lectiones",
+   "kyr-toni-communes-prex-eucharistica-ritus-conclusionis"
   ]
  },
  "lanes": {
@@ -281,15 +281,32 @@
   },
   "kyr-ad-lib-gloria-sanctus-agnus": {
    "lane": "K",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 8,
+   "claimed_at": "2026-11-17T11:09:39",
+   "finished_at": "2026-11-17T11:11:54",
+   "summary": {
+    "rows": 9,
+    "verify": "PASS"
+   }
   },
   "kyr-toni-communes-initiales-orationes-lectiones": {
    "lane": "K",
-   "status": "pending"
+   "status": "held",
+   "batch": 8,
+   "claimed_at": "2026-11-17T11:09:39",
+   "finished_at": "2026-11-17T11:11:54",
+   "note": "no MASS service_part for most Toni communes items",
+   "question_id": 49
   },
   "kyr-toni-communes-prex-eucharistica-ritus-conclusionis": {
    "lane": "K",
-   "status": "pending"
+   "status": "held",
+   "batch": 8,
+   "claimed_at": "2026-11-17T11:09:39",
+   "finished_at": "2026-11-17T11:11:54",
+   "note": "no MASS service_part for most Toni communes items",
+   "question_id": 49
   },
   "kyr-toni-gloria-patri": {
    "lane": "K",

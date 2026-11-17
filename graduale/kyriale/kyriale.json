@@ -134,6 +134,15 @@
     {"id": "kyr-ad-lib-kyrie-8", "unit": "kyr-ad-lib-kyrie", "name": "Kyrie ad libitum VIII (Firmator sancte)", "option_num": 108, "parts": [["ky", 2468, "788", null, 1, "Cantus ad libitum", null]], "scopes": [{"epoch": "OT"}]},
     {"id": "kyr-ad-lib-kyrie-9", "unit": "kyr-ad-lib-kyrie", "name": "Kyrie ad libitum IX (O Pater excelse)", "option_num": 109, "parts": [["ky", 2599, "789", null, 1, "Cantus ad libitum", null]], "scopes": [{"epoch": "OT"}]},
     {"id": "kyr-ad-lib-kyrie-10", "unit": "kyr-ad-lib-kyrie", "name": "Kyrie ad libitum X", "option_num": 110, "parts": [["ky", 16120, "748", null, 1, "Cantus ad libitum: Cf. supra, XI A, 748 (cited p789)", null]], "scopes": [{"epoch": "OT"}]},
-    {"id": "kyr-ad-lib-kyrie-11", "unit": "kyr-ad-lib-kyrie", "name": "Kyrie ad libitum XI", "option_num": 111, "parts": [["ky", 7641, "764", null, 1, "Cantus ad libitum: Cf. supra, XVII A, 764 (cited p789)", null]], "scopes": [{"epoch": "OT"}]}
+    {"id": "kyr-ad-lib-kyrie-11", "unit": "kyr-ad-lib-kyrie", "name": "Kyrie ad libitum XI", "option_num": 111, "parts": [["ky", 7641, "764", null, 1, "Cantus ad libitum: Cf. supra, XVII A, 764 (cited p789)", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-gl-1", "unit": "kyr-ad-lib-gloria-sanctus-agnus", "name": "Gloria ad libitum I", "option_num": 101, "parts": [["gl", 2659, "790", null, 1, "Cantus ad libitum", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-gl-2", "unit": "kyr-ad-lib-gloria-sanctus-agnus", "name": "Gloria ad libitum II", "option_num": 102, "parts": [["gl", 2685, "791", null, 1, "Cantus ad libitum", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-gl-3", "unit": "kyr-ad-lib-gloria-sanctus-agnus", "name": "Gloria ad libitum III", "option_num": 103, "parts": [["gl", 2707, "721", null, 1, "Cantus ad libitum: Cf. supra, III B, 721 (cited p793)", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-gl-4", "unit": "kyr-ad-lib-gloria-sanctus-agnus", "name": "Gloria ad libitum IV (More ambrosiano)", "option_num": 104, "parts": [["gl", 2749, "793", null, 1, "Cantus ad libitum (More ambrosiano)", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-sanc-1", "unit": "kyr-ad-lib-gloria-sanctus-agnus", "name": "Sanctus ad libitum I", "option_num": 101, "parts": [["sanc", 2816, "795", null, 1, "Cantus ad libitum", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-sanc-2", "unit": "kyr-ad-lib-gloria-sanctus-agnus", "name": "Sanctus ad libitum II", "option_num": 102, "parts": [["sanc", 2820, "795", null, 1, "Cantus ad libitum", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-sanc-3", "unit": "kyr-ad-lib-gloria-sanctus-agnus", "name": "Sanctus ad libitum III", "option_num": 103, "parts": [["sanc", 2849, "796", null, 1, "Cantus ad libitum", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-agn-1", "unit": "kyr-ad-lib-gloria-sanctus-agnus", "name": "Agnus Dei ad libitum I", "option_num": 101, "parts": [["agn", 2850, "796", null, 1, "Cantus ad libitum", null]], "scopes": [{"epoch": "OT"}]},
+    {"id": "kyr-ad-lib-agn-2", "unit": "kyr-ad-lib-gloria-sanctus-agnus", "name": "Agnus Dei ad libitum II", "option_num": 102, "parts": [["agn", 2851, "797", null, 1, "Cantus ad libitum", null]], "scopes": [{"epoch": "OT"}]}
 ]
 }

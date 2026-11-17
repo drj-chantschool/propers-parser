@@ -25,7 +25,7 @@ Book-specific instructions for directors working on `GRADUALE`. Producers read `
 | 3 Index parsed | ✓ | 842 `chant_indices` rows (`gr_index_entry` retired 2026-10-19; archived locally as `gr_index_entry_bak_2026_10_19` with its index-page geometry) |
 | 4 Index resolved | ✓ | 792 resolved, 48 reviewed, 2 resolved_with_difficulty; new rows → `tools/resolve_index.py --book GRADUALE --source 4` |
 | 5 Epochs | ✓ for loaded chapters | Commons seeded by `seed_commons_epochs.py` |
-| 6 Content | ◐ | Temporale (OT 1–34, Lent 0–5, Easter 2–6 …) and all 189 Sanctorale Masses loaded; 397 specs. Open: chapter 4 (Missae rituales, ad diversa, votivae), chapter 6 (Cantus in Ordine Missae), `pasc-post-asc-07` (8 ferial rows never loaded: VERIFY FAIL 39/45), and 3 specs that no longer dry-run (`com-bmv`, `nat-bapt`: incipit/index mismatch; `de-spiritu-sancto`: a notes field > 500 chars) |
+| 6 Content | ◐ | Temporale (OT 1–34, Lent 0–5, Easter 2–6 …) and all 189 Sanctorale Masses loaded; 397 specs. **Kyriale Missae I–XVIII loaded 2026-11-17** (`load_kyriale.py`, 142 rows, see README "Kyriale"). Open: chapter 4 (Missae rituales, ad diversa, votivae), chapter 6 remainder (Asperges, Credo I–VI, cantus ad libitum, Toni communes), `pasc-post-asc-07` (8 ferial rows never loaded: VERIFY FAIL 39/45), and 3 specs that no longer dry-run (`com-bmv`, `nat-bapt`: incipit/index mismatch; `de-spiritu-sancto`: a notes field > 500 chars) |
 | 7 Questions | — | `tools/intake.py list --book GRADUALE` |
 | 8 Sweep | ✗ | |
 

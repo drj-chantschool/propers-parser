@@ -78,3 +78,6 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-17 14:19 — batch 24 (stage content, driven): ambrose-augustine-chevreux-and-companions-osb (5, p874), willibrord-osb (5, p875), theodore-studite-osb (5, p875) loaded, all xrefs via index; director-written specs, no producers spawned
 - 2026-11-17 14:19 — batch 24: units finished after batch-end (summary JSON error during finish); all 3 loaded + VERIFY PASS
 - 2026-11-17 14:20 — ❓ HELD dedicatio-ecclesiae-abbatialis-osb: intake_queue #57 p875 OSB Dedicatio Ecclesiae Abbatialis (12 Oct, Sol.) was missing from the queue and has no lit_epoch; Q add-ed to lane O
+- 2026-11-17 14:25 — ⚠ silvester-abbot-osb, sabbas-osb: AL/OF/CO lines on p876 share one OCR block, so the three rows carry the same bbox (gregory-of-nyssa precedent); no rank printed on mechtild/silvester/sabbas (UNDETERMINED kept)
+- 2026-11-17 14:25 — ❓ HELD dedicatio-ecclesiae-cathedralis-osb: intake_queue #58 p876 Solesmes Dedicatio Ecclesiae Cathedralis (28 Apr, Fest.) missing from queue, no lit_epoch; Q add-ed to lane O
+- 2026-11-17 14:25 — batch 25 (stage content, driven): mechtild-osb (5, p875), silvester-abbot-osb (5, p876), sabbas-osb (5, p876) loaded, all xrefs via index; director-written specs, no producers spawned

@@ -12,16 +12,16 @@
   "strict_lanes": false
  },
  "state": {
-  "batch_id": 24,
+  "batch_id": 25,
   "batch_open": false,
-  "batch_started": "2026-11-17T14:18:41",
-  "batch_finished": "2026-11-17T14:19:50",
-  "next_due": "2026-11-17T14:39:50",
+  "batch_started": "2026-11-17T14:23:50",
+  "batch_finished": "2026-11-17T14:25:50",
+  "next_due": "2026-11-17T14:45:50",
   "limit_hits": 0,
   "batch_units": [
-   "ambrose-augustine-chevreux-and-companions-osb",
-   "willibrord-osb",
-   "theodore-studite-osb"
+   "mechtild-osb",
+   "silvester-abbot-osb",
+   "sabbas-osb"
   ]
  },
  "lanes": {
@@ -105,7 +105,8 @@
    "silvester-abbot-osb",
    "sabbas-osb",
    "julian-of-le-mans-osb",
-   "dedicatio-ecclesiae-abbatialis-osb"
+   "dedicatio-ecclesiae-abbatialis-osb",
+   "dedicatio-ecclesiae-cathedralis-osb"
   ]
  },
  "units": {
@@ -806,15 +807,36 @@
   },
   "mechtild-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 25,
+   "claimed_at": "2026-11-17T14:23:50",
+   "finished_at": "2026-11-17T14:25:49",
+   "summary": {
+    "inserted": 5,
+    "verify": "PASS"
+   }
   },
   "silvester-abbot-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 25,
+   "claimed_at": "2026-11-17T14:23:50",
+   "finished_at": "2026-11-17T14:25:49",
+   "summary": {
+    "inserted": 5,
+    "verify": "PASS"
+   }
   },
   "sabbas-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 25,
+   "claimed_at": "2026-11-17T14:23:50",
+   "finished_at": "2026-11-17T14:25:49",
+   "summary": {
+    "inserted": 5,
+    "verify": "PASS"
+   }
   },
   "julian-of-le-mans-osb": {
    "lane": "O",
@@ -826,6 +848,13 @@
    "finished_at": "2026-11-17T14:20:57",
    "note": "no lit_epoch for OSB abbey dedication",
    "question_id": 57
+  },
+  "dedicatio-ecclesiae-cathedralis-osb": {
+   "lane": "O",
+   "status": "held",
+   "finished_at": "2026-11-17T14:25:43",
+   "note": "Solesmes cathedral dedication (p876) missing epoch",
+   "question_id": 58
   }
  }
 }

@@ -55,3 +55,4 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-17 13:36 — ❓ HELD app-ordo-exsequiarum-osb: intake_queue #55 monastic exsequiae (merged)
 - 2026-11-17 13:36 — ⚠ gregory-of-nyssa-osb: AL and OF lines on p858 share one text block, so both rows carry the same 2-line bbox (overlapping bands 425-438/437-449)
 - 2026-11-17 13:36 — batch 15 (stage content, driven): genevieve-osb loaded (5 rows), gregory-of-nyssa-osb loaded (5 rows), app-ordo-exsequiarum-osb held #55; director-written xref specs, no producers spawned
+- 2026-11-17 13:40 — batch 16 (stage content, driven): remigius-osb, maurus-and-placidus-osb, robert-alberic-stephen-osb loaded (5 rows each, all p860 xrefs via index; Mem. on Maurus/Placidus matches MEMORIAL); director-written specs, no producers spawned

@@ -72,3 +72,5 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-17 14:11 — ⚠ john-gualbert-osb: AL/OF lines on p872 share one OCR block, so both rows carry the same bbox (gregory-of-nyssa precedent)
 - 2026-11-17 14:11 — ⚠ sts-martha-mary-and-lazarus: OSB Mass p873 written as spec sts-martha-mary-and-lazarus-osb.json, loaded on the universal slug with jurisdiction OSB (adalbert precedent); 2nd CO Videns Dominus (p124) = option 2 'vel'
 - 2026-11-17 14:11 — batch 22 (stage content, driven): john-gualbert-osb (5, p872), urban-ii-osb (5, pp872-873), sts-martha-mary-and-lazarus (6, p873 OSB) loaded, all xrefs via index; director-written specs, no producers spawned
+- 2026-11-17 14:15 — ⚠ bernard-tolomei-osb: AL 'Qui sequitur me, 481' printed citation points at the verse page; Alleluia begins p480 (index row 422, gregobase:1201), so target_page 480 with printed page in notes. C.S.G./no rank on all three (UNDETERMINED kept)
+- 2026-11-17 14:15 — batch 23 (stage content, driven): radegund-osb (5, p873), bernard-tolomei-osb (5, p873), caesarius-of-arles-osb (5, p874) loaded, all xrefs via index; director-written specs, no producers spawned

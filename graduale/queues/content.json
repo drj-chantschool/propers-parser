@@ -12,16 +12,16 @@
   "strict_lanes": false
  },
  "state": {
-  "batch_id": 22,
+  "batch_id": 23,
   "batch_open": false,
-  "batch_started": "2026-11-17T14:10:00",
-  "batch_finished": "2026-11-17T14:11:27",
-  "next_due": "2026-11-17T14:31:27",
+  "batch_started": "2026-11-17T14:14:16",
+  "batch_finished": "2026-11-17T14:15:49",
+  "next_due": "2026-11-17T14:35:49",
   "limit_hits": 0,
   "batch_units": [
-   "john-gualbert-osb",
-   "urban-ii-osb",
-   "sts-martha-mary-and-lazarus"
+   "radegund-osb",
+   "bernard-tolomei-osb",
+   "caesarius-of-arles-osb"
   ]
  },
  "lanes": {
@@ -736,15 +736,36 @@
   },
   "radegund-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 23,
+   "claimed_at": "2026-11-17T14:14:16",
+   "finished_at": "2026-11-17T14:15:48",
+   "summary": {
+    "inserted": 5,
+    "verify": "PASS"
+   }
   },
   "bernard-tolomei-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 23,
+   "claimed_at": "2026-11-17T14:14:16",
+   "finished_at": "2026-11-17T14:15:48",
+   "summary": {
+    "inserted": 5,
+    "verify": "PASS"
+   }
   },
   "caesarius-of-arles-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 23,
+   "claimed_at": "2026-11-17T14:14:16",
+   "finished_at": "2026-11-17T14:15:48",
+   "summary": {
+    "inserted": 5,
+    "verify": "PASS"
+   }
   },
   "ambrose-augustine-chevreux-and-companions-osb": {
    "lane": "O",

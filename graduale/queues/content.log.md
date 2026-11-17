@@ -74,3 +74,7 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-17 14:11 — batch 22 (stage content, driven): john-gualbert-osb (5, p872), urban-ii-osb (5, pp872-873), sts-martha-mary-and-lazarus (6, p873 OSB) loaded, all xrefs via index; director-written specs, no producers spawned
 - 2026-11-17 14:15 — ⚠ bernard-tolomei-osb: AL 'Qui sequitur me, 481' printed citation points at the verse page; Alleluia begins p480 (index row 422, gregobase:1201), so target_page 480 with printed page in notes. C.S.G./no rank on all three (UNDETERMINED kept)
 - 2026-11-17 14:15 — batch 23 (stage content, driven): radegund-osb (5, p873), bernard-tolomei-osb (5, p873), caesarius-of-arles-osb (5, p874) loaded, all xrefs via index; director-written specs, no producers spawned
+- 2026-11-17 14:19 — ⚠ ambrose-augustine-chevreux-and-companions-osb: C.S., Mem. matches MEMORIAL; willibrord-osb / theodore-studite-osb print no rank (UNDETERMINED kept)
+- 2026-11-17 14:19 — batch 24 (stage content, driven): ambrose-augustine-chevreux-and-companions-osb (5, p874), willibrord-osb (5, p875), theodore-studite-osb (5, p875) loaded, all xrefs via index; director-written specs, no producers spawned
+- 2026-11-17 14:19 — batch 24: units finished after batch-end (summary JSON error during finish); all 3 loaded + VERIFY PASS
+- 2026-11-17 14:20 — ❓ HELD dedicatio-ecclesiae-abbatialis-osb: intake_queue #57 p875 OSB Dedicatio Ecclesiae Abbatialis (12 Oct, Sol.) was missing from the queue and has no lit_epoch; Q add-ed to lane O

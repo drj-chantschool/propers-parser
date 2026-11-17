@@ -12,16 +12,16 @@
   "strict_lanes": false
  },
  "state": {
-  "batch_id": 23,
+  "batch_id": 24,
   "batch_open": false,
-  "batch_started": "2026-11-17T14:14:16",
-  "batch_finished": "2026-11-17T14:15:49",
-  "next_due": "2026-11-17T14:35:49",
+  "batch_started": "2026-11-17T14:18:41",
+  "batch_finished": "2026-11-17T14:19:50",
+  "next_due": "2026-11-17T14:39:50",
   "limit_hits": 0,
   "batch_units": [
-   "radegund-osb",
-   "bernard-tolomei-osb",
-   "caesarius-of-arles-osb"
+   "ambrose-augustine-chevreux-and-companions-osb",
+   "willibrord-osb",
+   "theodore-studite-osb"
   ]
  },
  "lanes": {
@@ -104,7 +104,8 @@
    "mechtild-osb",
    "silvester-abbot-osb",
    "sabbas-osb",
-   "julian-of-le-mans-osb"
+   "julian-of-le-mans-osb",
+   "dedicatio-ecclesiae-abbatialis-osb"
   ]
  },
  "units": {
@@ -769,15 +770,39 @@
   },
   "ambrose-augustine-chevreux-and-companions-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 24,
+   "claimed_at": "2026-11-17T14:18:41",
+   "finished_at": "2026-11-17T14:19:56",
+   "summary": {
+    "inserted": 5,
+    "updated": 0,
+    "verify": "PASS"
+   }
   },
   "willibrord-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 24,
+   "claimed_at": "2026-11-17T14:18:41",
+   "finished_at": "2026-11-17T14:19:56",
+   "summary": {
+    "inserted": 5,
+    "updated": 0,
+    "verify": "PASS"
+   }
   },
   "theodore-studite-osb": {
    "lane": "O",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 24,
+   "claimed_at": "2026-11-17T14:18:41",
+   "finished_at": "2026-11-17T14:19:57",
+   "summary": {
+    "inserted": 5,
+    "updated": 0,
+    "verify": "PASS"
+   }
   },
   "mechtild-osb": {
    "lane": "O",
@@ -794,6 +819,13 @@
   "julian-of-le-mans-osb": {
    "lane": "O",
    "status": "pending"
+  },
+  "dedicatio-ecclesiae-abbatialis-osb": {
+   "lane": "O",
+   "status": "held",
+   "finished_at": "2026-11-17T14:20:57",
+   "note": "no lit_epoch for OSB abbey dedication",
+   "question_id": 57
   }
  }
 }

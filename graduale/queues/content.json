@@ -12,16 +12,16 @@
   "strict_lanes": false
  },
  "state": {
-  "batch_id": 11,
+  "batch_id": 12,
   "batch_open": false,
-  "batch_started": "2026-11-17T11:29:33",
-  "batch_finished": "2026-11-17T11:32:18",
-  "next_due": "2026-11-17T11:52:18",
+  "batch_started": "2026-11-17T11:35:52",
+  "batch_finished": "2026-11-17T11:37:45",
+  "next_due": "2026-11-17T11:57:45",
   "limit_hits": 0,
   "batch_units": [
-   "de-sancto-ioseph",
-   "de-sancto-petro-apostolo",
-   "pasc-post-asc-07"
+   "com-bmv",
+   "nat-bapt",
+   "de-spiritu-sancto"
   ]
  },
  "lanes": {
@@ -391,15 +391,40 @@
   },
   "com-bmv": {
    "lane": "F",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 12,
+   "claimed_at": "2026-11-17T11:35:52",
+   "finished_at": "2026-11-17T11:37:44",
+   "summary": {
+    "inserted": 0,
+    "updated": 29,
+    "idempotent": "PASS",
+    "note": "incipit Rorate caeli desuper (index row 144 -> gregobase:161)"
+   }
   },
   "nat-bapt": {
    "lane": "F",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 12,
+   "claimed_at": "2026-11-17T11:35:52",
+   "finished_at": "2026-11-17T11:37:45",
+   "summary": {
+    "inserted": 0,
+    "updated": 7,
+    "verify": "PASS"
+   }
   },
   "de-spiritu-sancto": {
    "lane": "F",
-   "status": "pending"
+   "status": "loaded",
+   "batch": 12,
+   "claimed_at": "2026-11-17T11:35:52",
+   "finished_at": "2026-11-17T11:37:45",
+   "summary": {
+    "inserted": 0,
+    "updated": 15,
+    "verify": "PASS"
+   }
   },
   "app-supplicationes-litaniae": {
    "lane": "P",

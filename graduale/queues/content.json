@@ -36,6 +36,74 @@
    "andrew-dung-lac",
    "pontons-rochefort-martyrs-osb",
    "omnium-sanctorum-osb"
+  ],
+  "K": [
+   "kyr-asperges",
+   "kyr-credo",
+   "kyr-ad-lib-kyrie",
+   "kyr-ad-lib-gloria-sanctus-agnus",
+   "kyr-toni-communes-initiales-orationes-lectiones",
+   "kyr-toni-communes-prex-eucharistica-ritus-conclusionis",
+   "kyr-toni-gloria-patri",
+   "kyr-modus-cantandi-alleluia"
+  ],
+  "C": [
+   "ad-ministrandum-viaticum",
+   "de-ss-ma-trinitate",
+   "de-mysterio-s-crucis",
+   "de-uno-sancto-apostolo",
+   "de-sancto-ioseph",
+   "de-sancto-petro-apostolo"
+  ],
+  "F": [
+   "pasc-post-asc-07",
+   "com-bmv",
+   "nat-bapt",
+   "de-spiritu-sancto"
+  ],
+  "P": [
+   "app-supplicationes-litaniae",
+   "app-te-deum",
+   "app-veni-creator",
+   "app-praesentatio-processio",
+   "app-corpus-christi-processio",
+   "app-ordo-exsequiarum",
+   "app-ordo-exsequiarum-osb"
+  ],
+  "O": [
+   "genevieve-osb",
+   "gregory-of-nyssa-osb",
+   "remigius-osb",
+   "maurus-and-placidus-osb",
+   "robert-alberic-stephen-osb",
+   "bathildis-osb",
+   "benedict-of-aniane-osb",
+   "marie-bernarde-soubirous-osb",
+   "transitus-benedicti-osb",
+   "adalbert",
+   "paschasius-radbertus-osb",
+   "cluny-abbots-osb",
+   "pachomius-osb",
+   "celestine-v-osb",
+   "ivo-of-kermartin-osb",
+   "joan-of-arc-osb",
+   "pothinus-blandina-and-companions-osb",
+   "clotildis-osb",
+   "bmv-mater-providentiae-osb",
+   "st-benedict-of-nursia",
+   "john-gualbert-osb",
+   "urban-ii-osb",
+   "sts-martha-mary-and-lazarus",
+   "radegund-osb",
+   "bernard-tolomei-osb",
+   "caesarius-of-arles-osb",
+   "ambrose-augustine-chevreux-and-companions-osb",
+   "willibrord-osb",
+   "theodore-studite-osb",
+   "mechtild-osb",
+   "silvester-abbot-osb",
+   "sabbas-osb",
+   "julian-of-le-mans-osb"
   ]
  },
  "units": {
@@ -176,6 +244,238 @@
     "rows": 5,
     "verify": "PASS"
    }
+  },
+  "kyr-asperges": {
+   "lane": "K",
+   "status": "pending"
+  },
+  "kyr-credo": {
+   "lane": "K",
+   "status": "pending"
+  },
+  "kyr-ad-lib-kyrie": {
+   "lane": "K",
+   "status": "pending"
+  },
+  "kyr-ad-lib-gloria-sanctus-agnus": {
+   "lane": "K",
+   "status": "pending"
+  },
+  "kyr-toni-communes-initiales-orationes-lectiones": {
+   "lane": "K",
+   "status": "pending"
+  },
+  "kyr-toni-communes-prex-eucharistica-ritus-conclusionis": {
+   "lane": "K",
+   "status": "pending"
+  },
+  "kyr-toni-gloria-patri": {
+   "lane": "K",
+   "status": "pending"
+  },
+  "kyr-modus-cantandi-alleluia": {
+   "lane": "K",
+   "status": "pending"
+  },
+  "ad-ministrandum-viaticum": {
+   "lane": "C",
+   "status": "pending"
+  },
+  "de-ss-ma-trinitate": {
+   "lane": "C",
+   "status": "pending"
+  },
+  "de-mysterio-s-crucis": {
+   "lane": "C",
+   "status": "pending"
+  },
+  "de-uno-sancto-apostolo": {
+   "lane": "C",
+   "status": "pending"
+  },
+  "de-sancto-ioseph": {
+   "lane": "C",
+   "status": "pending"
+  },
+  "de-sancto-petro-apostolo": {
+   "lane": "C",
+   "status": "pending"
+  },
+  "pasc-post-asc-07": {
+   "lane": "F",
+   "status": "pending"
+  },
+  "com-bmv": {
+   "lane": "F",
+   "status": "pending"
+  },
+  "nat-bapt": {
+   "lane": "F",
+   "status": "pending"
+  },
+  "de-spiritu-sancto": {
+   "lane": "F",
+   "status": "pending"
+  },
+  "app-supplicationes-litaniae": {
+   "lane": "P",
+   "status": "pending"
+  },
+  "app-te-deum": {
+   "lane": "P",
+   "status": "pending"
+  },
+  "app-veni-creator": {
+   "lane": "P",
+   "status": "pending"
+  },
+  "app-praesentatio-processio": {
+   "lane": "P",
+   "status": "pending"
+  },
+  "app-corpus-christi-processio": {
+   "lane": "P",
+   "status": "pending"
+  },
+  "app-ordo-exsequiarum": {
+   "lane": "P",
+   "status": "pending"
+  },
+  "app-ordo-exsequiarum-osb": {
+   "lane": "P",
+   "status": "pending"
+  },
+  "genevieve-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "gregory-of-nyssa-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "remigius-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "maurus-and-placidus-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "robert-alberic-stephen-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "bathildis-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "benedict-of-aniane-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "marie-bernarde-soubirous-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "transitus-benedicti-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "adalbert": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "paschasius-radbertus-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "cluny-abbots-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "pachomius-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "celestine-v-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "ivo-of-kermartin-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "joan-of-arc-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "pothinus-blandina-and-companions-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "clotildis-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "bmv-mater-providentiae-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "st-benedict-of-nursia": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "john-gualbert-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "urban-ii-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "sts-martha-mary-and-lazarus": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "radegund-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "bernard-tolomei-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "caesarius-of-arles-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "ambrose-augustine-chevreux-and-companions-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "willibrord-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "theodore-studite-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "mechtild-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "silvester-abbot-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "sabbas-osb": {
+   "lane": "O",
+   "status": "pending"
+  },
+  "julian-of-le-mans-osb": {
+   "lane": "O",
+   "status": "pending"
   }
  }
 }

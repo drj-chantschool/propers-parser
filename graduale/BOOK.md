@@ -25,7 +25,7 @@ Book-specific instructions for directors working on `GRADUALE`. Producers read `
 | 3 Index parsed | ✓ | 842 `chant_indices` rows (`gr_index_entry` retired 2026-10-19; archived locally as `gr_index_entry_bak_2026_10_19` with its index-page geometry) |
 | 4 Index resolved | ✓ | 792 resolved, 48 reviewed, 2 resolved_with_difficulty; new rows → `tools/resolve_index.py --book GRADUALE --source 4` |
 | 5 Epochs | ✓ for loaded chapters | Commons seeded by `seed_commons_epochs.py` |
-| 6 Content | ◐ | Temporale (OT 1–34, Lent 0–5, Easter 2–6 …) and all 189 Sanctorale Masses loaded; 397 specs. **Kyriale Missae I–XVIII loaded 2026-11-17** (`load_kyriale.py`, 142 rows, see README "Kyriale"). Open: chapter 4 (Missae rituales, ad diversa, votivae), chapter 6 remainder (Asperges, Credo I–VI, cantus ad libitum, Toni communes), `pasc-post-asc-07` (8 ferial rows never loaded: VERIFY FAIL 39/45), and 3 specs that no longer dry-run (`com-bmv`, `nat-bapt`: incipit/index mismatch; `de-spiritu-sancto`: a notes field > 500 chars) |
+| 6 Content | ◐ | Temporale (OT 1–34, Lent 0–5, Easter 2–6 …) and all 189 Sanctorale Masses loaded; 397 specs. **Kyriale Missae I–XVIII loaded 2026-11-17** (`load_kyriale.py`, 142 rows, see README "Kyriale"). Chapter 4 is loaded apart from 4 headings with no epoch (Viaticum, De Ss.ma Trinitate, De Mysterio S. Crucis, De uno sancto Apostolo). All remaining sections were queued 2026-11-17 (`queues/content-remaining.units`, 58 units): the chapter-6 remainder, the chapter-4 gaps, the Appendix (828–880, incl. the 34 unloaded OSB Masses), `pasc-post-asc-07` (8 ferial rows never loaded: VERIFY FAIL 39/45), and 3 specs that no longer dry-run (`com-bmv`, `nat-bapt`: incipit/index mismatch; `de-spiritu-sancto`: a notes field > 500 chars) |
 | 7 Questions | — | `tools/intake.py list --book GRADUALE` |
 | 8 Sweep | ✗ | |
 
@@ -55,6 +55,15 @@ front labels are now 0, 1, 3, 4, 5, 7… (p2/p6 are blank versos not in the scan
   `pontons-rochefort-martyrs-osb` (18 Aug, BB. Martyrum Benedictinorum Pontonum Rupifortium) and
   `omnium-sanctorum-osb` (8 Nov, Omnium Sanctorum O.S.P.N. Benedicti, Mem.) are now real epochs
   (rank NULL/UNDETERMINED and MEMORIAL); produce the specs as usual.
+
+## Remaining-sections lanes (queued 2026-11-17)
+
+Claim order: lane K, then C, F, P, O (non-strict queue; claims walk the lanes in file order).
+- **K: `kyr-*` units are not spec units.** Don't spawn `content-producer` with PRODUCER.md for them. Read the pages yourself (or brief a producer to write a JSON fragment), add an entry to `graduale/kyriale/kyriale.json` (`{"id": "<unit>", "name": "Asperges me", "option_num": 1, "parts": [...], "scopes": [...]}`; no `n` means no catalogue row), then `load_kyriale.py --dry-run --only <id>` → load → `--verify`. Follow the README "Kyriale" rulings: rubric → superepoch; no rubric → `OT`. Asperges: `asp` (part 10); Vidi aquam "tempore paschali" → `PASC`. Credo → `cre` (13). For a Toni-communes item with no matching service_part, raise a structural question instead of creating the part.
+- **C:** Viaticum, Trinity, Holy Cross and "De uno sancto Apostolo" have no `lit_epoch` slug. Raise the slug question (category structural) and hold. `de-sancto-ioseph` / `de-sancto-petro-apostolo` have 1 row each: re-read pp. 664–665.
+- **F:** the 4 old failing specs (see Status).
+- **P:** the Appendix's non-Mass sections (supplications/litanies 829–837, Te Deum 838–847, Veni Creator 848, processions 849–857) probably need modeling rulings: raise before loading. Ordo exsequiarum 877–878 → `liturgia-defunctorum`; 879–880 is the O.S.B. form (jurisdiction OSB).
+- **O:** OSB Masses 858–876, `jurisdiction: OSB`, pattern as the Addenda OSB units. The unit list came from the text layer: at recon, check the section for Masses it missed (e.g. Scholastica) and `Q add` them. `hildegardis-osb` is already loaded.
 
 ## Stages (read by /book-batch)
 

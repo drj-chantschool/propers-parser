@@ -1,0 +1,66 @@
+# GR remaining sections, queued 2026-11-17 (/book-intake GRADUALE). Lanes claim in order K, C, P, O, F.
+# Lane K = chapter 6 (Cantus in Ordine Missae). NOT spec units: extend graduale/kyriale/kyriale.json
+#   (an entry with "id"/"name" and no "n" = rows only) and load with graduale/load_kyriale.py --only <id>.
+#   Toni communes need service_parts that may not exist yet -> raise (structural) before inventing any.
+kyr-asperges	K
+kyr-credo	K
+kyr-ad-lib-kyrie	K
+kyr-ad-lib-gloria-sanctus-agnus	K
+kyr-toni-communes-initiales-orationes-lectiones	K
+kyr-toni-communes-prex-eucharistica-ritus-conclusionis	K
+kyr-toni-gloria-patri	K
+kyr-modus-cantandi-alleluia	K
+# Lane C = chapter 4 headings with no epoch yet (slug question first) + 1-row votives to re-read
+ad-ministrandum-viaticum	C
+de-ss-ma-trinitate	C
+de-mysterio-s-crucis	C
+de-uno-sancto-apostolo	C
+de-sancto-ioseph	C
+de-sancto-petro-apostolo	C
+# Lane F = old specs that fail (BOOK.md status line)
+pasc-post-asc-07	F
+com-bmv	F
+nat-bapt	F
+de-spiritu-sancto	F
+# Lane P = Appendix pp. 828-857 (non-Mass: supplications, Te Deum, hymn, processions) - modeling questions likely
+app-supplicationes-litaniae	P
+app-te-deum	P
+app-veni-creator	P
+app-praesentatio-processio	P
+app-corpus-christi-processio	P
+app-ordo-exsequiarum	P
+app-ordo-exsequiarum-osb	P
+# Lane O = Missae propriae O.S.B. pp. 858-876 (jurisdiction OSB; existing general slugs get OSB rows)
+genevieve-osb	O
+gregory-of-nyssa-osb	O
+remigius-osb	O
+maurus-and-placidus-osb	O
+robert-alberic-stephen-osb	O
+bathildis-osb	O
+benedict-of-aniane-osb	O
+marie-bernarde-soubirous-osb	O
+transitus-benedicti-osb	O
+adalbert	O
+paschasius-radbertus-osb	O
+cluny-abbots-osb	O
+pachomius-osb	O
+celestine-v-osb	O
+ivo-of-kermartin-osb	O
+joan-of-arc-osb	O
+pothinus-blandina-and-companions-osb	O
+clotildis-osb	O
+bmv-mater-providentiae-osb	O
+st-benedict-of-nursia	O
+john-gualbert-osb	O
+urban-ii-osb	O
+sts-martha-mary-and-lazarus	O
+radegund-osb	O
+bernard-tolomei-osb	O
+caesarius-of-arles-osb	O
+ambrose-augustine-chevreux-and-companions-osb	O
+willibrord-osb	O
+theodore-studite-osb	O
+mechtild-osb	O
+silvester-abbot-osb	O
+sabbas-osb	O
+julian-of-le-mans-osb	O

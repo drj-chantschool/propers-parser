@@ -27,19 +27,26 @@ def build(data, ro, only):
     parts = dict(ro.execute(text("SELECT part_code, part_id FROM service_part WHERE service_code='MASS'")).fetchall())
     errors, cat, rows = [], [], []
     for m in data["masses"]:
-        n = m["n"]
-        if only and n not in only:
+        n = m.get("n")
+        key = n if n is not None else m["id"]
+        if only and key not in only:
             continue
-        name = f"Kyriale {ROMAN[n]}" + (f" ({m['trope']})" if m.get("trope") else "")
+        if n is None:   # a chant set that is not a Missa (Asperges, Credo, ad-lib): rows only, no catalogue
+            name, optnum = m["name"], m.get("option_num", 1)
+        else:
+            name, optnum = f"Kyriale {ROMAN[n]}" + (f" ({m['trope']})" if m.get("trope") else ""), n
         mparts = []
         for seq, (pc, gid, page, label, alt, rubric, note) in enumerate(m["parts"], 1):
             if pc not in parts:
                 errors.append(f"{name}: unknown part {pc}")
                 continue
+            if pc not in PART_NAMES:
+                PART_NAMES[pc] = pc
             mparts.append(dict(part_code=pc, part_id=parts[pc], chant_uuid=f"gregobase:{gid}", label=label,
                                is_alternative=alt, rubric=rubric, printed_page_num=page, seq=seq, notes=note))
-        cat.append(dict(n=n, title=m.get("title"), trope=m.get("trope"), pages=m["pages"],
-                        notes=m.get("notes"), parts=mparts))
+        if n is not None:
+            cat.append(dict(n=n, title=m.get("title"), trope=m.get("trope"), pages=m["pages"],
+                            notes=m.get("notes"), parts=mparts))
         for sc in m["scopes"]:
             ranks = [None]
             if sc.get("rank"):
@@ -61,14 +68,14 @@ def build(data, ro, only):
                 for rk in ranks:
                     rows.append(dict(part_id=p["part_id"], lit_epoch_slug=sc["epoch"], wkday=sc.get("wkday"),
                                      rank_code=rk, chant_uuid=p["chant_uuid"], printed_page_num=p["printed_page_num"],
-                                     option_num=n, option_txt=txt[:512],
+                                     option_num=optnum, option_txt=txt[:512], _key=key,
                                      display_name=f"{name} — {PART_NAMES[p['part_code']]}"[:300],
-                                     _label=f"{ROMAN[n]:>5} {p['part_code']:<4} {p['label'] or '-'} {p['chant_uuid']:<16} -> {sc['epoch']} wkday={sc.get('wkday')} rank={rk}"))
+                                     _label=f"{(ROMAN[n] if n else m['id']):>5} {p['part_code']:<4} {p['label'] or '-'} {p['chant_uuid']:<16} -> {sc['epoch']} wkday={sc.get('wkday')} rank={rk}"))
     # reference checks
     for r in {r["lit_epoch_slug"] for r in rows}:
         if not ro.execute(text("SELECT 1 FROM lit_epoch WHERE slug=:s"), dict(s=r)).first():
             errors.append(f"missing lit_epoch {r}")
-    for c in cat:
+    for c in cat + [dict(n=0, parts=[dict(chant_uuid=r["chant_uuid"], printed_page_num=r["printed_page_num"]) for r in rows])]:
         for p in c["parts"]:
             if not ro.execute(text("SELECT 1 FROM v_chant_item WHERE chant_item_uid=:u"), dict(u=p["chant_uuid"])).first():
                 errors.append(f"Kyriale {ROMAN[c['n']]}: chant {p['chant_uuid']} not in v_chant_item")
@@ -98,7 +105,7 @@ def main():
     ap.add_argument("--verify", action="store_true")
     ap.add_argument("--only", default="")
     a = ap.parse_args()
-    only = {int(x) for x in a.only.split(",") if x}
+    only = {int(x) if x.isdigit() else x for x in a.only.split(",") if x}
     data = json.load(open(SRC, encoding="utf-8"))
     with engine().connect() as ro:
         cat, rows, errors = build(data, ro, only)
@@ -122,9 +129,7 @@ def main():
                     fails.append(f"CATALOGUE Kyriale {ROMAN[c['n']]}: expected {len(c['parts'])} parts, got {got}")
             if new:
                 fails.append(f"IDEMPOTENT: {len(new)} rows would still insert")
-            nums = sorted(c["n"] for c in cat)
-            got = ro.execute(text("SELECT COUNT(*) FROM lit_part_sources WHERE book=:b AND option_txt LIKE 'Kyriale %' AND option_num IN ("
-                                  + ",".join(str(int(x)) for x in nums) + ")"), dict(b=BOOK)).scalar() if nums else 0
+            got = sum(1 for r in rows if existing(ro, r))
             if got != len(rows):
                 fails.append(f"ROW COUNT: expected {len(rows)}, got {got}")
         print("\n".join(fails) if fails else "", "VERIFY FAIL" if fails else f"VERIFY PASS ({len(cat)} Missae, {len(rows)} rows)")

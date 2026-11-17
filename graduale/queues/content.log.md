@@ -44,3 +44,7 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-17 11:32 — batch 11 (stage content, driven): de-sancto-ioseph, de-sancto-petro-apostolo, pasc-post-asc-07 held on #52 (0 rows loaded; 2 rows repointed); no producers spawned (specs existed)
 - 2026-11-17 11:37 — ⚠ com-bmv: --verify ROW COUNT 73 != 29 accepted — the 44 extra rows are Kyriale Missa IX/X ordinary rows (ky/gl/sanc/agn, pp.741-747) that load_kyriale scoped to COM-BMV; IDEMPOTENT PASS, REF_PAGE_NUM PASS. The propers verifier counts every row on the epoch, not just proper parts.
 - 2026-11-17 11:37 — batch 12 (stage content, driven): com-bmv loaded (29 rows updated; incipit 'Rorate Ps 84: Benedixisti' -> 'Rorate caeli desuper' to hit index row 144), nat-bapt loaded (7; IN typo Dilexiti -> Dilexisti), de-spiritu-sancto loaded (15; chant[6] notes trimmed under 500); 0 inserts, director fixes, no producers spawned
+- 2026-11-17 13:24 — ❓ HELD app-supplicationes-litaniae: intake_queue #53 Appendix non-Mass modeling
+- 2026-11-17 13:24 — ❓ HELD app-te-deum: intake_queue #53 Appendix non-Mass modeling
+- 2026-11-17 13:24 — ❓ HELD app-veni-creator: intake_queue #53 Appendix non-Mass modeling
+- 2026-11-17 13:24 — batch 13 (stage content, driven): app-supplicationes-litaniae, app-te-deum, app-veni-creator held on #53 (no epoch/service_part for litanies/Te Deum/Veni Creator); 0 rows, no producers spawned

@@ -12,16 +12,16 @@
   "strict_lanes": false
  },
  "state": {
-  "batch_id": 12,
+  "batch_id": 13,
   "batch_open": false,
-  "batch_started": "2026-11-17T11:35:52",
-  "batch_finished": "2026-11-17T11:37:45",
-  "next_due": "2026-11-17T11:57:45",
+  "batch_started": "2026-11-17T13:23:41",
+  "batch_finished": "2026-11-17T13:24:23",
+  "next_due": "2026-11-17T13:44:23",
   "limit_hits": 0,
   "batch_units": [
-   "com-bmv",
-   "nat-bapt",
-   "de-spiritu-sancto"
+   "app-supplicationes-litaniae",
+   "app-te-deum",
+   "app-veni-creator"
   ]
  },
  "lanes": {
@@ -428,15 +428,30 @@
   },
   "app-supplicationes-litaniae": {
    "lane": "P",
-   "status": "pending"
+   "status": "held",
+   "batch": 13,
+   "claimed_at": "2026-11-17T13:23:41",
+   "finished_at": "2026-11-17T13:24:22",
+   "note": "non-Mass appendix modeling unruled",
+   "question_id": 53
   },
   "app-te-deum": {
    "lane": "P",
-   "status": "pending"
+   "status": "held",
+   "batch": 13,
+   "claimed_at": "2026-11-17T13:23:41",
+   "finished_at": "2026-11-17T13:24:23",
+   "note": "non-Mass appendix modeling unruled",
+   "question_id": 53
   },
   "app-veni-creator": {
    "lane": "P",
-   "status": "pending"
+   "status": "held",
+   "batch": 13,
+   "claimed_at": "2026-11-17T13:23:41",
+   "finished_at": "2026-11-17T13:24:23",
+   "note": "non-Mass appendix modeling unruled",
+   "question_id": 53
   },
   "app-praesentatio-processio": {
    "lane": "P",

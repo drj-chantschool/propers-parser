@@ -33,3 +33,7 @@ Append-only. Newest at the bottom. `❓ HELD` = waiting on an intake_queue answe
 - 2026-11-17 11:17 — ❓ HELD kyr-modus-cantandi-alleluia: intake_queue #50 Gloria Patri / Alleluia tone formulae
 - 2026-11-17 11:17 — ❓ HELD ad-ministrandum-viaticum: intake_queue #51 ch.4 missing slugs (Viaticum is a rubric pointing to 658/655)
 - 2026-11-17 11:18 — batch 9 (stage content, driven): kyr-toni-gloria-patri, kyr-modus-cantandi-alleluia held on #50 (pp.822-827 are per-mode formulae; only gregobase:4500 exists, no index rows), ad-ministrandum-viaticum held on #51; 0 rows, no producers spawned
+- 2026-11-17 11:23 — ❓ HELD de-ss-ma-trinitate: intake_queue #51 no lit_epoch slug (votive Mass)
+- 2026-11-17 11:23 — ❓ HELD de-mysterio-s-crucis: intake_queue #51 no lit_epoch slug (votive Mass)
+- 2026-11-17 11:23 — ❓ HELD de-uno-sancto-apostolo: intake_queue #51 no lit_epoch slug (votive Mass)
+- 2026-11-17 11:23 — batch 10 (stage content): de-ss-ma-trinitate held, de-mysterio-s-crucis held, de-uno-sancto-apostolo held (0 rows) — all merged into #51

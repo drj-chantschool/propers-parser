@@ -12,16 +12,16 @@
   "strict_lanes": false
  },
  "state": {
-  "batch_id": 9,
+  "batch_id": 10,
   "batch_open": false,
-  "batch_started": "2026-11-17T11:16:25",
-  "batch_finished": "2026-11-17T11:18:00",
-  "next_due": "2026-11-17T11:38:00",
+  "batch_started": "2026-11-17T11:22:40",
+  "batch_finished": "2026-11-17T11:23:37",
+  "next_due": "2026-11-17T11:43:37",
   "limit_hits": 0,
   "batch_units": [
-   "kyr-toni-gloria-patri",
-   "kyr-modus-cantandi-alleluia",
-   "ad-ministrandum-viaticum"
+   "de-ss-ma-trinitate",
+   "de-mysterio-s-crucis",
+   "de-uno-sancto-apostolo"
   ]
  },
  "lanes": {
@@ -337,15 +337,30 @@
   },
   "de-ss-ma-trinitate": {
    "lane": "C",
-   "status": "pending"
+   "status": "held",
+   "batch": 10,
+   "claimed_at": "2026-11-17T11:22:40",
+   "finished_at": "2026-11-17T11:23:36",
+   "note": "no lit_epoch slug",
+   "question_id": 51
   },
   "de-mysterio-s-crucis": {
    "lane": "C",
-   "status": "pending"
+   "status": "held",
+   "batch": 10,
+   "claimed_at": "2026-11-17T11:22:40",
+   "finished_at": "2026-11-17T11:23:37",
+   "note": "no lit_epoch slug",
+   "question_id": 51
   },
   "de-uno-sancto-apostolo": {
    "lane": "C",
-   "status": "pending"
+   "status": "held",
+   "batch": 10,
+   "claimed_at": "2026-11-17T11:22:40",
+   "finished_at": "2026-11-17T11:23:37",
+   "note": "no lit_epoch slug",
+   "question_id": 51
   },
   "de-sancto-ioseph": {
    "lane": "C",
